@@ -1,100 +1,25 @@
-<!DOCTYPE HTML>
-<!--
-	Helios by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+---
+layout: home-page
+---
+{% include calculate_relative_base.html %}
 
-<head>
-	<title>Rivego's Blog</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<link rel="stylesheet" href="assets/css/main.css" />
-	<noscript>
-		<link rel="stylesheet" href="assets/css/noscript.css" />
-	</noscript>
-</head>
-
-<body class="homepage is-preload">
-	<div id="page-wrapper">
-
-		<!-- Header -->
-		<div id="header">
-
-			<!-- Inner -->
-			<div class="inner">
-				<header>
-					<h1><a href="index.html" id="logo">Rivego</a></h1>
-					<hr />
-					<p>May WA be with you</p>
-				</header>
-				<footer>
-					<a href="#banner" class="button circled scrolly">Start</a>
-				</footer>
-			</div>
-
-			<!-- Nav -->
-			<nav id="nav">
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li>
-						<a href="#">Dropdown</a>
-						<ul>
-							<li><a href="#">Lorem ipsum dolor</a></li>
-							<li><a href="#">Magna phasellus</a></li>
-							<li><a href="#">Etiam dolore nisl</a></li>
-							<li>
-								<a href="#">And a submenu &hellip;</a>
-								<ul>
-									<li><a href="#">Lorem ipsum dolor</a></li>
-									<li><a href="#">Phasellus consequat</a></li>
-									<li><a href="#">Magna phasellus</a></li>
-									<li><a href="#">Etiam dolore nisl</a></li>
-								</ul>
-							</li>
-							<li><a href="#">Veroeros feugiat</a></li>
-						</ul>
-					</li>
-					<li><a href="left-sidebar.html">Left Sidebar</a></li>
-					<li><a href="right-sidebar.html">Right Sidebar</a></li>
-					<li><a href="no-sidebar.html">No Sidebar</a></li>
-				</ul>
-			</nav>
-
-		</div>
-		<!-- Banner -->
-
-
-		<!-- Carousel -->
-
-
-		<!-- Main -->
-
-		<!-- Features -->
-
-
-		<!-- Footer -->
-
-
-		<!-- Posts -->
-
-		<!-- Photos -->
-
-	</div>
-
-
-
-	<!-- Scripts -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/jquery.dropotron.min.js"></script>
-	<script src="assets/js/jquery.scrolly.min.js"></script>
-	<script src="assets/js/jquery.scrollex.min.js"></script>
-	<script src="assets/js/browser.min.js"></script>
-	<script src="assets/js/breakpoints.min.js"></script>
-	<script src="assets/js/util.js"></script>
-	<script src="assets/js/main.js"></script>
-
-</body>
-
-</html>
+<ol class="post-card-box clearfix">
+  {% for post in paginator.posts %}
+  {% include remove_double_slash.html %}
+  <li>
+    <div class="post-card">
+      <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
+      </a>
+      <div class="post-card-body">
+        <p class="post-card-title-and-meta">
+          
+          <a href="{{ post_url }}" class="post-card-link">
+          {{ post.title }}
+          </a>
+          {% include post_meta.html type="post-card-meta" date="none" %}
+        </p>
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ol>
