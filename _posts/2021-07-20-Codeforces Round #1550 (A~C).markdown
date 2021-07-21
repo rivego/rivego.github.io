@@ -206,6 +206,19 @@ $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 $$S_{n}=\frac{n \left( a_{1}+a_{n}\right)}{2}$$
 
-$$a^2$$
+$a^2$
 
-$$a/2$$
+$a/2$
+
+
+
+<p style="text-align:center">
+\(\theta_{t+1} = \theta_{t} - \dfrac{\eta}{\sqrt{\hat{v}_t} + \epsilon} \hat{m}_t\).
+</p>
+
+\(\frac{x+y}{y-z}\)
+
+$\frac{x+y}{y-z}$
+
+$$\frac{x+y}{y-z}$$
+
