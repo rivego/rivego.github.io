@@ -204,7 +204,8 @@ int main()
 
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
-$S_{n}=\frac{n \left( a_{1}+a_{n}\right)}{2} $
+$$S_{n}=\frac{n \left( a_{1}+a_{n}\right)}{2}$$
 
-$S_{n}=\\frac{n \\left( a_{1}+a_{n}\\right)}{2}$
+$$a^2$$
 
+$$a/2$$
