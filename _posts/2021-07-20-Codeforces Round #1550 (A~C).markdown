@@ -9,6 +9,7 @@ tags: [ACM, CodeForces]
 category: theory
 author: rivego
 description: "me nub."
+MathJax: yes
 ---
 
 [题目链接](https://codeforces.com/contest/1550)
