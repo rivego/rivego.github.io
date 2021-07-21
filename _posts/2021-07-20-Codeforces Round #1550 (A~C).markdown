@@ -200,3 +200,5 @@ int main()
 }
 ```
 为什么没有D、E、F？~~（因为不会 理直气壮.jpg）doge~~ 
+
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
