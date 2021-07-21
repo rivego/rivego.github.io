@@ -10,7 +10,6 @@ category: theory
 author: rivego
 description: "me nub."
 Mathjax: yes
-Mathjax: true
 ---
 
 [题目链接](https://codeforces.com/contest/1550)
