@@ -200,15 +200,3 @@ int main()
 }
 ```
 为什么没有D、E、F？~~（因为不会 理直气壮.jpg）doge~~ 
-
-<p style="text-align:center">
-\(\theta_{t+1} = \theta_{t} - \dfrac{\eta}{\sqrt{\hat{v}_t} + \epsilon} \hat{m}_t\).
-</p>
-
-<p style="text-align:center">
-\(\theta_{t+1} = \theta_{t} - \dfrac{\eta}{\sqrt{\hat{v}_t} + \epsilon} \hat{m}_t\).
-</p>
-
-$$
-a_{1}+a^{2}
-$$
