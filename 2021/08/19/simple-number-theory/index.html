@@ -4,7 +4,7 @@
 
 <head>
   
-  <title>标签：ACM - Rivego&#39;s Blog</title>
+  <title>简单数论总结(持续更新中...) - Rivego&#39;s Blog</title>
   <meta charset="UTF-8">
   <meta name="description" content="May WA be with you">
   <meta name="keywords" content="null">
@@ -13,19 +13,22 @@
   
 
   <link rel="shortcut icon" href="/1626951513645.png" type="image/png" />
-  <meta name="description" content="May WA be with you">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Rivego&#39;s Blog">
-<meta property="og:url" content="https://www.rivego.tk/tags/ACM/index.html">
+  <meta name="description" content="树形dp的坑emmmm，会填的QWQ 乘法逆元用处及定义​    乘法逆元一般用于求$\frac{a}{b} \pmod p$的值。  若$a∗x≡1(mod\,\;b)$​​​​​​​​​​，且 $a$ 与 $b$ 互质，那么我们就能定义:$x$ 为 $a$ 的逆元，记为$a^{-1}$，所以我们也可以称 $x$ 为 $a$ 在 $(mod\,\;b)$ 意义下的倒数， 所以对于 $\displ">
+<meta property="og:type" content="article">
+<meta property="og:title" content="简单数论总结(持续更新中...)">
+<meta property="og:url" content="https://www.rivego.tk/2021/08/19/simple-number-theory/index.html">
 <meta property="og:site_name" content="Rivego&#39;s Blog">
-<meta property="og:description" content="May WA be with you">
+<meta property="og:description" content="树形dp的坑emmmm，会填的QWQ 乘法逆元用处及定义​    乘法逆元一般用于求$\frac{a}{b} \pmod p$的值。  若$a∗x≡1(mod\,\;b)$​​​​​​​​​​，且 $a$ 与 $b$ 互质，那么我们就能定义:$x$ 为 $a$ 的逆元，记为$a^{-1}$，所以我们也可以称 $x$ 为 $a$ 在 $(mod\,\;b)$ 意义下的倒数， 所以对于 $\displ">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2021-08-19T12:06:27.000Z">
+<meta property="article:modified_time" content="2021-08-19T13:19:15.571Z">
 <meta property="article:author" content="Rivego">
+<meta property="article:tag" content="ACM">
 <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/npm/highlight.js@9.15.8/styles/atom-one-dark.css,npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css,gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css,npm/hexo-theme-nexmoe@latest/source/lib/mdui_043tiny/css/mdui.css,npm/hexo-theme-nexmoe@latest/source/lib/iconfont/iconfont.css?v=233" crossorigin>
-  <link rel="stylesheet" href="/css/style.css?v=1629379163397">
+  <link rel="stylesheet" href="/css/style.css?v=1629379163269">
   
-  <link rel="stylesheet" href="/lib/iconfont/iconfont.css?v=1629379163397">
+  <link rel="stylesheet" href="/lib/iconfont/iconfont.css?v=1629379163269">
 </head>
 
 <body class="mdui-drawer-body-left">
@@ -173,27 +176,25 @@
   </div>
   <div id="nexmoe-content">
     <div class="nexmoe-primary">
-        <section class="nexmoe-posts">
+        <div class="nexmoe-post">
+
+  <article>
     
-    <div class="nexmoe-post">
-        <a href="/2021/08/19/simple-number-theory/">
-            
-                <div class="nexmoe-post-cover mdui-ripple" style="padding-bottom: 66.66666666666666%;"> 
-                    <img data-src="https://cdn.jsdelivr.net/gh/rivego/image/img/20210801150731.jpg" data-sizes="auto" alt="简单数论总结(持续更新中...)" class="lazyload">
-                    <h1>简单数论总结(持续更新中...)</h1>
-                </div>
-            
-        </a>
-
-        <div class="nexmoe-post-meta nexmoe-rainbow">
-            <a><i class="nexmoefont icon-calendar-fill"></i>2021年08月19日</a>
-            <a><i class="nexmoefont icon-areachart"></i>564 字</a>
-            <a><i class="nexmoefont icon-time-circle-fill"></i>大概 2 分钟</a>
+        <div class="nexmoe-post-cover" style="padding-bottom: 66.66666666666666%;"> 
+            <img data-src="https://cdn.jsdelivr.net/gh/rivego/image/img/20210801150731.jpg" data-sizes="auto" alt="简单数论总结(持续更新中...)" class="lazyload">
+            <h1>简单数论总结(持续更新中...)</h1>
         </div>
+    
+    
+    <div class="nexmoe-post-meta nexmoe-rainbow" style="margin:10px 0!important;">
+    <a><i class="nexmoefont icon-calendar-fill"></i>2021年08月19日</a>
+    <a><i class="nexmoefont icon-areachart"></i>564 字</a>
+    <a><i class="nexmoefont icon-time-circle-fill"></i>大概 2 分钟</a>
+</div>
 
-        <article>
-            
-                <p>树形dp的坑emmmm，会填的QWQ</p>
+    
+
+    <p>树形dp的坑emmmm，会填的QWQ</p>
 <h2 id="乘法逆元"><a href="#乘法逆元" class="headerlink" title="乘法逆元"></a>乘法逆元</h2><h3 id="用处及定义"><a href="#用处及定义" class="headerlink" title="用处及定义"></a>用处及定义</h3><p>​    乘法逆元一般用于求$\frac{a}{b} \pmod p$的值。</p>
 <blockquote>
 <p>若$a∗x≡1(mod\,\;b)$​​​​​​​​​​，且 $a$ 与 $b$ 互质，那么我们就能定义:<br>$x$ 为 $a$ 的逆元，记为$a^{-1}$，所以我们也可以称 $x$ 为 $a$ 在 $(mod\,\;b)$ 意义下的倒数，</p>
@@ -227,157 +228,45 @@ i^{-1}=(p-\frac{p}{i}*(p\%i)^{-1})(mod\,\;p)</script><p>那么代码就很好写
 <p>Code:</p>
 <figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;bits/stdc++.h&gt;</span></span><br><span class="hljs-keyword">using</span> <span class="hljs-keyword">namespace</span> std;<br><span class="hljs-keyword">typedef</span> <span class="hljs-keyword">long</span> <span class="hljs-keyword">long</span> ll;<br><span class="hljs-meta">#<span class="hljs-meta-keyword">define</span> gcd __gcd</span><br><span class="hljs-meta">#<span class="hljs-meta-keyword">define</span> endl <span class="hljs-meta-string">&#x27;\n&#x27;</span></span><br><span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> inf = <span class="hljs-number">0x3f3f3f3f</span>;<br><span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> maxn = <span class="hljs-number">3e6</span> + <span class="hljs-number">5</span>;<br><span class="hljs-keyword">int</span> mod, n;<br>ll ans[maxn];<br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>	ios::<span class="hljs-built_in">sync_with_stdio</span>(<span class="hljs-number">0</span>);<br>	cin &gt;&gt; n &gt;&gt; mod;<br>	ans[<span class="hljs-number">1</span>] = <span class="hljs-number">1</span>;<br>	cout &lt;&lt; ans[<span class="hljs-number">1</span>] &lt;&lt; endl;<br>	<span class="hljs-keyword">for</span> (<span class="hljs-keyword">int</span> i = <span class="hljs-number">2</span>; i &lt;= n; i++)<br>	&#123;<br>		ans[i] = (mod - mod / i) * ans[mod % i] % mod;<br>		cout &lt;&lt; ans[i] &lt;&lt; endl;<br>	&#125;<br>	<span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>
 
-            
-        </article>
-    </div>
+  </article>
+
+  
     
-    <div class="nexmoe-post">
-        <a href="/2021/08/18/segment-tree-example/">
-            
-                <div class="nexmoe-post-cover mdui-ripple" style="padding-bottom: NaN%;"> 
-                    <img data-src="https://cdn.jsdelivr.net/gh/rivego/image/img/20210818211854.jpg" data-sizes="auto" alt="CF558E A Simple Task(线段树)" class="lazyload">
-                    <h1>CF558E A Simple Task(线段树)</h1>
-                </div>
-            
-        </a>
-
-        <div class="nexmoe-post-meta nexmoe-rainbow">
-            <a><i class="nexmoefont icon-calendar-fill"></i>2021年08月18日</a>
-            <a><i class="nexmoefont icon-areachart"></i>1.2k 字</a>
-            <a><i class="nexmoefont icon-time-circle-fill"></i>大概 6 分钟</a>
-        </div>
-
-        <article>
-            
-                <h2 id="Codeforces-Round-312-Div-2-Problem-E"><a href="#Codeforces-Round-312-Div-2-Problem-E" class="headerlink" title="Codeforces Round #312 (Div. 2) Problem E"></a><a target="_blank" rel="noopener" href="https://codeforces.com/contest/558/problem/E">Codeforces Round #312 (Div. 2) Problem E</a></h2><p>一道线段树的套路题（区间排序），没记错的今年蓝桥省赛就有这么一题，去年校赛也有一题，都是这一个套路。</p>
-            
-        </article>
-    </div>
+  <div class="nexmoe-post-copyright">
+    <strong>本文作者：</strong>Rivego<br>
+    <strong>本文链接：</strong><a href="https://www.rivego.tk/2021/08/19/simple-number-theory/" title="https:&#x2F;&#x2F;www.rivego.tk&#x2F;2021&#x2F;08&#x2F;19&#x2F;simple-number-theory&#x2F;" target="_blank" rel="noopener">https:&#x2F;&#x2F;www.rivego.tk&#x2F;2021&#x2F;08&#x2F;19&#x2F;simple-number-theory&#x2F;</a><br>
     
-    <div class="nexmoe-post">
-        <a href="/2021/07/30/%E6%A0%91%E5%BD%A2dp/">
-            
-                <div class="nexmoe-post-cover mdui-ripple" style="padding-bottom: NaN%;"> 
-                    <img data-src="/002.png" data-sizes="auto" alt="树形dp入门" class="lazyload">
-                    <h1>树形dp入门</h1>
-                </div>
-            
-        </a>
-
-        <div class="nexmoe-post-meta nexmoe-rainbow">
-            <a><i class="nexmoefont icon-calendar-fill"></i>2021年07月30日</a>
-            <a><i class="nexmoefont icon-areachart"></i>0 字</a>
-            <a><i class="nexmoefont icon-time-circle-fill"></i>大概 1 分钟</a>
-        </div>
-
-        <article>
-            
-                
-            
-        </article>
-    </div>
+      <strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可
     
-    <div class="nexmoe-post">
-        <a href="/2021/07/26/%E6%AC%A7%E6%8B%89%E7%AD%9B%E4%BE%8B%E9%A2%98/">
-            
-                <div class="nexmoe-post-cover mdui-ripple" style="padding-bottom: NaN%;"> 
-                    <img data-src="/1627208666120.jpg" data-sizes="auto" alt="欧拉筛例题" class="lazyload">
-                    <h1>欧拉筛例题</h1>
-                </div>
-            
-        </a>
+  </div>
 
-        <div class="nexmoe-post-meta nexmoe-rainbow">
-            <a><i class="nexmoefont icon-calendar-fill"></i>2021年07月26日</a>
-            <a><i class="nexmoefont icon-areachart"></i>351 字</a>
-            <a><i class="nexmoefont icon-time-circle-fill"></i>大概 2 分钟</a>
-        </div>
 
-        <article>
-            
-                <h2 id="B-Function"><a href="#B-Function" class="headerlink" title="B - Function"></a><a target="_blank" rel="noopener" href="https://vjudge.net/problem/Gym-103107F">B - Function</a></h2><p>$f(n)=\left\{\begin{array}{ll}<br>1, &amp; n \in\{1\} \bigcup \text { Prime } \\<br>p f\left(p^{k-2}\right), &amp; n=p^{k}(p \in \text { Prime; } k&gt;1) \\<br>f\left(p_{1}^{e 1}\right) \prod_{i=2}^{r} p_{i}^{e_{i}}, &amp; n=\prod_{i=1}^{r} p_{i}{ }^{e_{i}}\left(p_{1}&lt;p_{2}&lt;\cdots&lt;p_{r} ; p_{i} \in \text { Prime; } r \geq 2\right)<br>\end{array}\right.$​</p>
-<p>求$\sum_{i=1}^{n} f(i)$​</p>
-            
-        </article>
-    </div>
+  
+  
+  <div class="nexmoe-post-meta nexmoe-rainbow">
     
-    <div class="nexmoe-post">
-        <a href="/2021/07/23/trie/">
-            
-                <div class="nexmoe-post-cover mdui-ripple" style="padding-bottom: NaN%;"> 
-                    <img data-src="https://cdn.jsdelivr.net/gh/rivego/image/img/20210801150732.jpg" data-sizes="auto" alt="Trie(字典树)入门" class="lazyload">
-                    <h1>Trie(字典树)入门</h1>
-                </div>
-            
-        </a>
-
-        <div class="nexmoe-post-meta nexmoe-rainbow">
-            <a><i class="nexmoefont icon-calendar-fill"></i>2021年07月23日</a>
-            <a><i class="nexmoefont icon-areachart"></i>1.6k 字</a>
-            <a><i class="nexmoefont icon-time-circle-fill"></i>大概 8 分钟</a>
-        </div>
-
-        <article>
-            
-                <p>[TOC]</p>
-<h2 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h2><p>快速存储和查找字符串集合的一种数据结构</p>
-<p>​    在计算机科学中，trie，又称前缀树或字典树，是一种有序树，用于保存关联数组，其中的键通常是字符串。与二叉查找树不同，键不是直接保存在节点中，而是由节点在树中的位置决定。一个节点的所有子孙都有相同的前缀，也就是这个节点对应的字符串，而根节点对应空字符串。一般情况下，不是所有的节点都有对应的值，只有叶子节点和部分内部节点所对应的键才有相关的值。[wikipedia]<br>​      Trie的典型应用是用于统计，排序和保存大量的字符串（但不仅限于字符串），所以经常被搜索引擎系统用于文本词频统计。它的优点是：利用字符串的公共前缀来减少查询时间，最大限度地减少无谓的字符串比较，查询效率比哈希树高。[百度百科]</p>
-            
-        </article>
-    </div>
+        <a class="nexmoefont icon-appstore-fill -link" href="/categories/%E6%95%B0%E8%AE%BA/">数论</a>
     
-    <div class="nexmoe-post">
-        <a href="/2021/07/22/%E7%A6%BB%E6%95%A3%E5%8C%96/">
-            
-                <div class="nexmoe-post-cover mdui-ripple" style="padding-bottom: NaN%;"> 
-                    <img data-src="https://cdn.jsdelivr.net/gh/rivego/image/img/20210801150725.jpg" data-sizes="auto" alt="离散化基础" class="lazyload">
-                    <h1>离散化基础</h1>
-                </div>
-            
-        </a>
-
-        <div class="nexmoe-post-meta nexmoe-rainbow">
-            <a><i class="nexmoefont icon-calendar-fill"></i>2021年07月22日</a>
-            <a><i class="nexmoefont icon-areachart"></i>607 字</a>
-            <a><i class="nexmoefont icon-time-circle-fill"></i>大概 3 分钟</a>
-        </div>
-
-        <article>
-            
-                <h2 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h2><p>离散化，就是把一些很离散的点给重新分配。</p>
-<p>举个例子，如果一个坐标轴很长(&gt;1e10)，给你1e4个坐标，询问某一个点，坐标比它小的点有多少。</p>
-<p>很容易就知道，对于1e4个点，我们不必把他们在坐标轴上的位置都表示出来，因为我们比较有多少比它小的话，</p>
-<p>只需要知道他们之间的相对大小就可以，而不是绝对大小。</p>
-            
-        </article>
-    </div>
     
-    <div class="nexmoe-post">
-        <a href="/2021/07/22/a/">
-            
-                <div class="nexmoe-post-cover mdui-ripple" style="padding-bottom: NaN%;"> 
-                    <img data-src="https://cdn.jsdelivr.net/gh/rivego/image/img/youla2k.jpg" data-sizes="auto" alt="UVA 11426 - GCD - Extreme (II) (数论)" class="lazyload">
-                    <h1>UVA 11426 - GCD - Extreme (II) (数论)</h1>
-                </div>
-            
-        </a>
-
-        <div class="nexmoe-post-meta nexmoe-rainbow">
-            <a><i class="nexmoefont icon-calendar-fill"></i>2021年07月22日</a>
-            <a><i class="nexmoefont icon-areachart"></i>419 字</a>
-            <a><i class="nexmoefont icon-time-circle-fill"></i>大概 2 分钟</a>
-        </div>
-
-        <article>
-            
-                <p><a target="_blank" rel="noopener" href="https://onlinejudge.org/index.php?option=com_onlinejudge&amp;Itemid=8&amp;page=show_problem&amp;problem=2421">题目链接</a></p>
-<p>题意： 给出一个$n$,求$G=\sum_{i=1}^{i&lt;N} \sum_{j=i+1}^{j&lt;=N} GCD(i,j)$.</p>
-            
-        </article>
-    </div>
+        <a class="nexmoefont icon-tag-fill -none-link" href="/tags/ACM/" rel="tag">ACM</a>
     
+</div>
+
+  <div class="nexmoe-post-footer">
+    <section class="nexmoe-comment">
+    <div class="valine"></div>
+<script src='https://cdn.jsdelivr.net/npm/valine'></script>
+<script>
+    // 使用方法 https://valine.js.org/quickstart.html
+    new Valine({
+        el: '.valine',
+        appId: '9BA21NoPCtqs0jivFB8LnCsO-gzGzoHsz',
+        appKey: 'rlAaPfQU1H9lJdX29OsufJFH'
+    })
+</script>
 </section>
-
+  </div>
+</div>
         <div class="nexmoe-post-right">
           <div class="nexmoe-fixed">
             <div class="nexmoe-tool"> 
@@ -385,6 +274,13 @@ i^{-1}=(p-\frac{p}{i}*(p\%i)^{-1})(mod\,\;p)</script><p>那么代码就很好写
                 
                   
                   
+                  
+                    <button class="mdui-fab catalog" style="overflow:unset;">
+                      <i class="nexmoefont icon-i-catalog"></i>
+                      <div class="nexmoe-toc">
+                        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B9%98%E6%B3%95%E9%80%86%E5%85%83"><span class="toc-number">1.</span> <span class="toc-text">乘法逆元</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%94%A8%E5%A4%84%E5%8F%8A%E5%AE%9A%E4%B9%89"><span class="toc-number">1.1.</span> <span class="toc-text">用处及定义</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%B1%82%E8%A7%A3%E6%96%B9%E5%BC%8F"><span class="toc-number">1.2.</span> <span class="toc-text">求解方式</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E8%B4%B9%E9%A9%AC%E5%B0%8F%E5%AE%9A%E7%90%86"><span class="toc-number">1.2.1.</span> <span class="toc-text">费马小定理</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%86%85%E5%AE%B9%EF%BC%9A"><span class="toc-number">1.2.1.1.</span> <span class="toc-text">内容：</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E4%BD%BF%E7%94%A8%EF%BC%9A"><span class="toc-number">1.2.1.2.</span> <span class="toc-text">使用：</span></a></li></ol></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%AE%9E%E4%BE%8B"><span class="toc-number">1.3.</span> <span class="toc-text">实例</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%BA%BF%E6%80%A7%E7%AE%97%E6%B3%95"><span class="toc-number">1.4.</span> <span class="toc-text">线性算法</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%8E%A8%E5%AF%BC%E8%BF%87%E7%A8%8B"><span class="toc-number">1.4.1.</span> <span class="toc-text">推导过程</span></a></li></ol></li></ol></li></ol>
+                      </div>
+                    </button>
                   
                     
                 
@@ -401,7 +297,7 @@ i^{-1}=(p-\frac{p}{i}*(p\%i)^{-1})(mod\,\;p)</script><p>那么代码就很好写
 
  
 
-<script async src="/js/app.js?v=1629379163399"></script>
+<script async src="/js/app.js?v=1629379163274"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js"></script>
 <script>

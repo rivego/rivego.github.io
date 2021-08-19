@@ -23,9 +23,9 @@
 <meta property="article:author" content="Rivego">
 <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/npm/highlight.js@9.15.8/styles/atom-one-dark.css,npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css,gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css,npm/hexo-theme-nexmoe@latest/source/lib/mdui_043tiny/css/mdui.css,npm/hexo-theme-nexmoe@latest/source/lib/iconfont/iconfont.css?v=233" crossorigin>
-  <link rel="stylesheet" href="/css/style.css?v=1629374463102">
+  <link rel="stylesheet" href="/css/style.css?v=1629379163387">
   
-  <link rel="stylesheet" href="/lib/iconfont/iconfont.css?v=1629374463102">
+  <link rel="stylesheet" href="/lib/iconfont/iconfont.css?v=1629379163387">
 </head>
 
 <body class="mdui-drawer-body-left">
@@ -49,7 +49,7 @@
         </a>
     </div>
     <div class="nexmoe-count">
-        <div><span>文章</span>6</div>
+        <div><span>文章</span>7</div>
         <div><span>标签</span>5</div>
         <div><span>分类</span>3</div>
     </div>
@@ -135,7 +135,7 @@
 
         <li class="category-list-item">
           <a class="category-list-link" href="/categories/数论/">数论</a>
-          <span class="category-list-count">2</span>
+          <span class="category-list-count">3</span>
         </li>
 
         
@@ -174,6 +174,62 @@
   <div id="nexmoe-content">
     <div class="nexmoe-primary">
         <section class="nexmoe-posts">
+    
+    <div class="nexmoe-post">
+        <a href="/2021/08/19/simple-number-theory/">
+            
+                <div class="nexmoe-post-cover mdui-ripple" style="padding-bottom: 66.66666666666666%;"> 
+                    <img data-src="https://cdn.jsdelivr.net/gh/rivego/image/img/20210801150731.jpg" data-sizes="auto" alt="简单数论总结(持续更新中...)" class="lazyload">
+                    <h1>简单数论总结(持续更新中...)</h1>
+                </div>
+            
+        </a>
+
+        <div class="nexmoe-post-meta nexmoe-rainbow">
+            <a><i class="nexmoefont icon-calendar-fill"></i>2021年08月19日</a>
+            <a><i class="nexmoefont icon-areachart"></i>564 字</a>
+            <a><i class="nexmoefont icon-time-circle-fill"></i>大概 2 分钟</a>
+        </div>
+
+        <article>
+            
+                <p>树形dp的坑emmmm，会填的QWQ</p>
+<h2 id="乘法逆元"><a href="#乘法逆元" class="headerlink" title="乘法逆元"></a>乘法逆元</h2><h3 id="用处及定义"><a href="#用处及定义" class="headerlink" title="用处及定义"></a>用处及定义</h3><p>​    乘法逆元一般用于求$\frac{a}{b} \pmod p$的值。</p>
+<blockquote>
+<p>若$a∗x≡1(mod\,\;b)$​​​​​​​​​​，且 $a$ 与 $b$ 互质，那么我们就能定义:<br>$x$ 为 $a$ 的逆元，记为$a^{-1}$，所以我们也可以称 $x$ 为 $a$ 在 $(mod\,\;b)$ 意义下的倒数，</p>
+<p>所以对于 $\displaystyle\frac{a}{b}!!!!!\pmod {p}$​ ，我们就可以求出 $b$​ 在  $(mod\,\;p)$​​ 下的逆元，然后乘上 $a$ ，再 $(mod\,\;p)$​，就是这个分数的值了。                              </p>
+<p>​                                                                                                                                          ——-zjp_shadow</p>
+</blockquote>
+<h3 id="求解方式"><a href="#求解方式" class="headerlink" title="求解方式"></a>求解方式</h3><h4 id="费马小定理"><a href="#费马小定理" class="headerlink" title="费马小定理"></a>费马小定理</h4><h5 id="内容："><a href="#内容：" class="headerlink" title="内容："></a>内容：</h5><blockquote>
+<p>费马小定理(Fermat’s little theorem)是数论中的一个重要定理，在1636年提出。如果 $p$​ 是一个质数，而整数 $a$​ 与 $p$​ 互质，则有$a^{p-1}≡1(mod\,\;p)$​​​。</p>
+</blockquote>
+<h5 id="使用："><a href="#使用：" class="headerlink" title="使用："></a>使用：</h5><p>设逆元为 $x$ ，则原式：</p>
+<script type="math/tex; mode=display">
+a^{p-1}≡1(mod\,\;p)\\
+a^{p}*x≡1(mod\,\;p)\\
+∵原式中有a^{p-1}≡1(mod\,\;p)\\
+∴a^{p}*x≡a^{p-1}(mod\,\;p)\\
+x≡a^{p-2}(mod\,\;p)</script><p>所以可以求出逆元 $x$​​ 为 $a^{p-2}(mod\,\;p)$​</p>
+<h3 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h3><p>附上一个板子题  <a target="_blank" rel="noopener" href="https://www.luogu.com.cn/problem/P3811">P3811 【模板】乘法逆元 - 洛谷</a></p>
+<h3 id="线性算法"><a href="#线性算法" class="headerlink" title="线性算法"></a>线性算法</h3><p>然后你会发现像上面这么一个一个算愉快地TLE了ψ(｀∇´)ψ</p>
+<p>因此我们需要一个复杂度更低的方法来解决这一题</p>
+<p>然后在各大佬的博客学会了一个线性的方法来进行递推</p>
+<h4 id="推导过程"><a href="#推导过程" class="headerlink" title="推导过程"></a>推导过程</h4><p>设 $p=k*i+m$​ ,其中 $k$​ 是 $\frac{p}{i}$​ 的商，$m$​ 是余数</p>
+<p>这个式子可写为:</p>
+<script type="math/tex; mode=display">
+k*i+m≡0(mod\,\;p)\\
+k*m^{-1}+i^{-1}≡0(mod\,\;p)\\
+i^{-1}≡(-k*m^{-1})(mod\,\;p)\\
+i^{-1}≡(-\frac{p}{i}*(p\%i)^{-1})(mod\,\;p)\\</script><p>但是还没完，这样子的话逆元可能会为负数，所以我们要给右边加上一个 $p$ 来使它变为正数而不改变结果（$p\%p=0$）.</p>
+<p>所以最终式子是：</p>
+<script type="math/tex; mode=display">
+i^{-1}=(p-\frac{p}{i}*(p\%i)^{-1})(mod\,\;p)</script><p>那么代码就很好写了</p>
+<p>Code:</p>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;bits/stdc++.h&gt;</span></span><br><span class="hljs-keyword">using</span> <span class="hljs-keyword">namespace</span> std;<br><span class="hljs-keyword">typedef</span> <span class="hljs-keyword">long</span> <span class="hljs-keyword">long</span> ll;<br><span class="hljs-meta">#<span class="hljs-meta-keyword">define</span> gcd __gcd</span><br><span class="hljs-meta">#<span class="hljs-meta-keyword">define</span> endl <span class="hljs-meta-string">&#x27;\n&#x27;</span></span><br><span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> inf = <span class="hljs-number">0x3f3f3f3f</span>;<br><span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> maxn = <span class="hljs-number">3e6</span> + <span class="hljs-number">5</span>;<br><span class="hljs-keyword">int</span> mod, n;<br>ll ans[maxn];<br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>	ios::<span class="hljs-built_in">sync_with_stdio</span>(<span class="hljs-number">0</span>);<br>	cin &gt;&gt; n &gt;&gt; mod;<br>	ans[<span class="hljs-number">1</span>] = <span class="hljs-number">1</span>;<br>	cout &lt;&lt; ans[<span class="hljs-number">1</span>] &lt;&lt; endl;<br>	<span class="hljs-keyword">for</span> (<span class="hljs-keyword">int</span> i = <span class="hljs-number">2</span>; i &lt;= n; i++)<br>	&#123;<br>		ans[i] = (mod - mod / i) * ans[mod % i] % mod;<br>		cout &lt;&lt; ans[i] &lt;&lt; endl;<br>	&#125;<br>	<span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>
+
+            
+        </article>
+    </div>
     
     <div class="nexmoe-post">
         <a href="/2021/08/18/segment-tree-example/">
@@ -345,7 +401,7 @@
 
  
 
-<script async src="/js/app.js?v=1629374463104"></script>
+<script async src="/js/app.js?v=1629379163390"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js"></script>
 <script>
