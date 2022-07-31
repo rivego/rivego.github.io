@@ -11,10 +11,9 @@ users:
   jiangly:
     handle/codeforces: jiangly
     handle/atcoder: jiangly
-    handle/luogu: '149656'
   The-Fool:
     handle/codeforces: The-Fool
-   Reisen_:
+  Reisen_:
     handle/codeforces: Reisen_
 
 contests:
