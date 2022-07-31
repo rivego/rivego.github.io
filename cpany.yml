@@ -2,24 +2,28 @@ users:
   tourist:
     handle/codeforces: tourist
     handle/atcoder: tourist
-  Petr:
-    handle/codeforces: Petr
-  Benq:
-    handle/codeforces: Benq
-  ksun48:
-    handle/codeforces: ksun48
+  ybb_little_train:
+    handle/codeforces: ybb_little_train
+  Xiong_Qian:
+    handle/codeforces: Xiong_Qian
+  Kenshin2438:
+    handle/codeforces: Kenshin2438
   jiangly:
     handle/codeforces: jiangly
     handle/atcoder: jiangly
     handle/luogu: '149656'
+  The-Fool:
+    handle/codeforces: The-Fool
+   Reisen_:
+    handle/codeforces: Reisen_
 
 contests:
   - nowcoder
 
 app:
-  recentTime: 2592000 # 1 month
+  recentTime: 604800 # 1 month
   recentContestsCount: 15
-  recentUserCount: 5
+  recentUserCount: 10
 
 plugins:
   - '@cpany/plugin-codeforces'
