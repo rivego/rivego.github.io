@@ -1,0 +1,35 @@
+name: Fetch data
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - cpany.yml
+  # schedule:
+  #   - cron:  '0 21 * * *'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone "Asia/Shanghai"
+      - uses: actions/checkout@v3
+      - name: Setup CPany
+        uses: cpanyjs/setup-cpany@v0
+      - name: Fetch data
+        run: cpany fetch --plugin codeforces --plugin hdu
+      - name: Capture Screenshot
+        run: |
+          cpany export --out screenshot --type png --page codeforces?sort=Rating
+          cpany export --out members --type png --page members
+          cpany export --out home --type png --page
+      - name: Push
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "Fetch data on $FETCH_TIME"
+          git push

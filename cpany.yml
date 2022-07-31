@@ -1,0 +1,28 @@
+users:
+  tourist:
+    handle/codeforces: tourist
+    handle/atcoder: tourist
+  Petr:
+    handle/codeforces: Petr
+  Benq:
+    handle/codeforces: Benq
+  ksun48:
+    handle/codeforces: ksun48
+  jiangly:
+    handle/codeforces: jiangly
+    handle/atcoder: jiangly
+    handle/luogu: '149656'
+
+contests:
+  - nowcoder
+
+app:
+  recentTime: 2592000 # 1 month
+  recentContestsCount: 15
+  recentUserCount: 5
+
+plugins:
+  - '@cpany/plugin-codeforces'
+  - '@cpany/plugin-hdu'
+  - '@cpany/plugin-atcoder'
+  - '@cpany/plugin-luogu'
