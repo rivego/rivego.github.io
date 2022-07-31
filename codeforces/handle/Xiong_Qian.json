@@ -6,6 +6,90 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166301375,
+      "creationTime": 1659238106,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488245541
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694D",
+        "name": "Fake Plastic Trees",
+        "rating": 1700,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/166301375"
+    },
+    {
+      "type": "codeforces",
+      "id": 166301341,
+      "creationTime": 1659238069,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488245578
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694D",
+        "name": "Fake Plastic Trees",
+        "rating": 1700,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/166301341"
+    },
+    {
+      "type": "codeforces",
+      "id": 166300863,
+      "creationTime": 1659237503,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488246144
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694D",
+        "name": "Fake Plastic Trees",
+        "rating": 1700,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/166300863"
+    },
+    {
+      "type": "codeforces",
       "id": 166295845,
       "creationTime": 1659230530,
       "language": "GNU C++14",
