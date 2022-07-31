@@ -1,6 +1,8 @@
 name: Fetch data
 
 on:
+  schedule:
+    - cron:  '30 5,17 * * *'
   workflow_dispatch:
   push:
     branches:
