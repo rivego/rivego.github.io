@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1659246915,
+  "updateTime": 1659247676,
   "history": {
-    "user": [
-      {
-        "name": "Xiong_Qian",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 166301375,
-            "pid": "1694D",
-            "name": "Fake Plastic Trees",
-            "verdict": "OK",
-            "creationTime": 1659238106
-          },
-          {
-            "platform": "codeforces",
-            "id": 166301341,
-            "pid": "1694D",
-            "name": "Fake Plastic Trees",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659238069
-          },
-          {
-            "platform": "codeforces",
-            "id": 166300863,
-            "pid": "1694D",
-            "name": "Fake Plastic Trees",
-            "verdict": "OK",
-            "creationTime": 1659237503
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "39e5cdac3a6ec311412adf2aa6cfcc1a1b92c689"
+  "ref": "6576d13624e10b7103b5066bfafe63367210dd4a"
 }
