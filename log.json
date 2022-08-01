@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1659320079,
+  "updateTime": 1659333867,
   "history": {
     "user": [
       {
@@ -8,19 +8,33 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 166431071,
-            "pid": "1704A",
-            "name": "Two 0-1 Sequences",
+            "id": 166432560,
+            "pid": "1704B",
+            "name": "Luke is a Foodie",
             "verdict": "OK",
-            "creationTime": 1659319944
+            "creationTime": 1659321409
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Xiong_Qian",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 166433474,
+            "pid": "1704B",
+            "name": "Luke is a Foodie",
+            "verdict": "OK",
+            "creationTime": 1659322261
           },
           {
             "platform": "codeforces",
-            "id": 166431052,
+            "id": 166432086,
             "pid": "1704A",
             "name": "Two 0-1 Sequences",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1659319915
+            "verdict": "OK",
+            "creationTime": 1659320986
           }
         ],
         "newContests": []
@@ -30,41 +44,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 166430832,
-            "pid": "102823J",
-            "name": "Stone Game",
-            "verdict": "OK",
-            "creationTime": 1659319729
-          },
-          {
-            "platform": "codeforces",
-            "id": 166428026,
-            "pid": "1704E",
-            "name": "Count Seconds",
-            "verdict": "OK",
-            "creationTime": 1659317116
-          },
-          {
-            "platform": "codeforces",
-            "id": 166425630,
-            "pid": "1704E",
-            "name": "Count Seconds",
+            "id": 166433624,
+            "pid": "102822G",
+            "name": "Game of Cards",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1659314289
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "The-Fool",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 166430486,
-            "pid": "1704A",
-            "name": "Two 0-1 Sequences",
-            "verdict": "OK",
-            "creationTime": 1659319396
+            "creationTime": 1659322408
           }
         ],
         "newContests": []
@@ -72,5 +56,5 @@
     ],
     "contest": []
   },
-  "ref": "645d5bf64e5e0e3dae8c50ee9ab7f5182c06dcbd"
+  "ref": "7a6328b55b60a2d02e37932faf80998ed9f5cd69"
 }

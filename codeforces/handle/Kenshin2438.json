@@ -6,6 +6,28 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166433624,
+      "creationTime": 1659322408,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488161239
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102822G",
+        "name": "Game of Cards",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102822/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102822/submission/166433624"
+    },
+    {
+      "type": "codeforces",
       "id": 166430832,
       "creationTime": 1659319729,
       "language": "GNU C++17 (64)",
@@ -125,9 +147,9 @@
         "id": "1704D",
         "name": "Magical Array",
         "tags": [
-          "combinatorics",
           "constructive algorithms",
-          "hashing"
+          "hashing",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/D"
       },

@@ -6,6 +6,30 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166432560,
+      "creationTime": 1659321409,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488162238
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704B",
+        "name": "Luke is a Foodie",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166432560"
+    },
+    {
+      "type": "codeforces",
       "id": 166431071,
       "creationTime": 1659319944,
       "language": "GNU C++17",

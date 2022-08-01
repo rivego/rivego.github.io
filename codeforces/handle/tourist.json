@@ -127,9 +127,9 @@
         "id": "1704D",
         "name": "Magical Array",
         "tags": [
-          "combinatorics",
           "constructive algorithms",
-          "hashing"
+          "hashing",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/D"
       },

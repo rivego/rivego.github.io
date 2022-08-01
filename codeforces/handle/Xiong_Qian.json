@@ -6,6 +6,55 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166433474,
+      "creationTime": 1659322261,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488161386
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704B",
+        "name": "Luke is a Foodie",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166433474"
+    },
+    {
+      "type": "codeforces",
+      "id": 166432086,
+      "creationTime": 1659320986,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488162661
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704A",
+        "name": "Two 0-1 Sequences",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166432086"
+    },
+    {
+      "type": "codeforces",
       "id": 166301375,
       "creationTime": 1659238106,
       "language": "GNU C++14",
