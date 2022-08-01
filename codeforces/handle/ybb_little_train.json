@@ -6,6 +6,34 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166497740,
+      "creationTime": 1659359498,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488124149
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "600E",
+        "name": "Lomsat gelral",
+        "rating": 2300,
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/600/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/600/submission/166497740"
+    },
+    {
+      "type": "codeforces",
       "id": 166432560,
       "creationTime": 1659321409,
       "language": "GNU C++17",

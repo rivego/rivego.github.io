@@ -6,6 +6,291 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166590528,
+      "creationTime": 1659371639,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488112008
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649E",
+        "name": "Tyler and Strings",
+        "rating": 1900,
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/166590528"
+    },
+    {
+      "type": "codeforces",
+      "id": 166589828,
+      "creationTime": 1659371550,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488112097
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649E",
+        "name": "Tyler and Strings",
+        "rating": 1900,
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/166589828"
+    },
+    {
+      "type": "codeforces",
+      "id": 166589046,
+      "creationTime": 1659371457,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488112190
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649E",
+        "name": "Tyler and Strings",
+        "rating": 1900,
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/166589046"
+    },
+    {
+      "type": "codeforces",
+      "id": 166503515,
+      "creationTime": 1659362803,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488120844
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649E",
+        "name": "Tyler and Strings",
+        "rating": 1900,
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/166503515"
+    },
+    {
+      "type": "codeforces",
+      "id": 166503445,
+      "creationTime": 1659362760,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488120887
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649E",
+        "name": "Tyler and Strings",
+        "rating": 1900,
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/166503445"
+    },
+    {
+      "type": "codeforces",
+      "id": 166494299,
+      "creationTime": 1659357540,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438",
+          "Cherumi"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1659351900,
+        "teamName": "DDL"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/166494299"
+    },
+    {
+      "type": "codeforces",
+      "id": 166474096,
+      "creationTime": 1659354380,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438",
+          "Cherumi"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1659351900,
+        "teamName": "DDL"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649C",
+        "name": "Weird Sum",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/166474096"
+    },
+    {
+      "type": "codeforces",
+      "id": 166473834,
+      "creationTime": 1659354228,
+      "language": "GNU C++17 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Kenshin2438",
+          "Cherumi"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1659351900,
+        "teamName": "DDL"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649C",
+        "name": "Weird Sum",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/166473834"
+    },
+    {
+      "type": "codeforces",
+      "id": 166472445,
+      "creationTime": 1659353327,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438",
+          "Cherumi"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1659351900,
+        "teamName": "DDL"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649B",
+        "name": "Game of Ball Passing",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/166472445"
+    },
+    {
+      "type": "codeforces",
+      "id": 166470870,
+      "creationTime": 1659352390,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438",
+          "Cherumi"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1659351900,
+        "teamName": "DDL"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649A",
+        "name": "Game",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/166470870"
+    },
+    {
+      "type": "codeforces",
       "id": 166433624,
       "creationTime": 1659322408,
       "language": "GNU C++17 (64)",
@@ -147,6 +432,7 @@
         "id": "1704D",
         "name": "Magical Array",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
           "hashing",
           "math"
@@ -20706,7 +20992,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1792,
+    "rating": 1793,
     "maxRank": "expert",
     "maxRating": 1832
   }
