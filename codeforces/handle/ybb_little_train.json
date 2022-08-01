@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166431071,
+      "creationTime": 1659319944,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488163703
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704A",
+        "name": "Two 0-1 Sequences",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166431071"
+    },
+    {
+      "type": "codeforces",
+      "id": 166431052,
+      "creationTime": 1659319915,
+      "language": "GNU C++17",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488163732
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704A",
+        "name": "Two 0-1 Sequences",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166431052"
+    },
+    {
+      "type": "codeforces",
       "id": 166178982,
       "creationTime": 1659148887,
       "language": "GNU C++17",

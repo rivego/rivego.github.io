@@ -9,6 +9,7 @@
       "id": 166399832,
       "creationTime": 1659285255,
       "language": "GNU C++20 (64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -35,6 +36,7 @@
       "id": 166382413,
       "creationTime": 1659280613,
       "language": "GNU C++20 (64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -98,6 +100,7 @@
         "id": "1704E",
         "name": "Count Seconds",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "dp",
           "graphs"
@@ -124,6 +127,7 @@
         "id": "1704D",
         "name": "Magical Array",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
           "hashing"
         ],
@@ -105779,7 +105783,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3678,
+    "rating": 3771,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

@@ -6,6 +6,82 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166430832,
+      "creationTime": 1659319729,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488163918
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102823J",
+        "name": "Stone Game",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102823/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102823/submission/166430832"
+    },
+    {
+      "type": "codeforces",
+      "id": 166428026,
+      "creationTime": 1659317116,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488166531
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704E",
+        "name": "Count Seconds",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dp",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166428026"
+    },
+    {
+      "type": "codeforces",
+      "id": 166425630,
+      "creationTime": 1659314289,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488169358
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704E",
+        "name": "Count Seconds",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dp",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166425630"
+    },
+    {
+      "type": "codeforces",
       "id": 166394038,
       "creationTime": 1659283534,
       "language": "GNU C++17 (64)",
@@ -22,6 +98,7 @@
         "id": "1704E",
         "name": "Count Seconds",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "dp",
           "graphs"
@@ -35,6 +112,7 @@
       "id": 166387542,
       "creationTime": 1659281776,
       "language": "GNU C++17 (64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "Kenshin2438"
@@ -47,6 +125,7 @@
         "id": "1704D",
         "name": "Magical Array",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
           "hashing"
         ],
@@ -59,7 +138,7 @@
       "id": 166380266,
       "creationTime": 1659280186,
       "language": "GNU C++17 (64)",
-      "verdict": "TESTING",
+      "verdict": "OK",
       "author": {
         "members": [
           "Kenshin2438"
@@ -20605,7 +20684,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1750,
+    "rating": 1792,
     "maxRank": "expert",
     "maxRating": 1832
   }
