@@ -22,7 +22,9 @@
         "id": "1714F",
         "name": "Build a Tree and That Is It",
         "tags": [
+          "brute force",
           "constructive algorithms",
+          "greedy",
           "implementation",
           "trees"
         ],
@@ -51,6 +53,7 @@
           "binary search",
           "data structures",
           "dfs and similar",
+          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1714/problem/G"
@@ -75,7 +78,9 @@
         "id": "1714F",
         "name": "Build a Tree and That Is It",
         "tags": [
+          "brute force",
           "constructive algorithms",
+          "greedy",
           "implementation",
           "trees"
         ],
@@ -101,6 +106,7 @@
         "id": "1714E",
         "name": "Add Modulo 10",
         "tags": [
+          "brute force",
           "math",
           "number theory"
         ],
@@ -311,7 +317,9 @@
           "brute force",
           "constructive algorithms",
           "dp",
-          "graphs"
+          "graphs",
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/E"
       },
@@ -335,7 +343,6 @@
         "id": "1704D",
         "name": "Magical Array",
         "tags": [
-          "combinatorics",
           "constructive algorithms",
           "hashing",
           "math"
@@ -363,6 +370,7 @@
         "name": "Virus",
         "tags": [
           "greedy",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/C"
@@ -387,7 +395,8 @@
         "id": "1704B",
         "name": "Luke is a Foodie",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/B"
       },

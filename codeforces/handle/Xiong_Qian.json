@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166637336,
+      "creationTime": 1659404161,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488079486
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704D",
+        "name": "Magical Array",
+        "tags": [
+          "constructive algorithms",
+          "hashing",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166637336"
+    },
+    {
+      "type": "codeforces",
       "id": 166499344,
       "creationTime": 1659360440,
       "language": "GNU C++14",
@@ -23,6 +49,7 @@
         "name": "Virus",
         "tags": [
           "greedy",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/C"
@@ -47,7 +74,8 @@
         "id": "1704B",
         "name": "Luke is a Foodie",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/B"
       },

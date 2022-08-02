@@ -6,6 +6,136 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166637732,
+      "creationTime": 1659404540,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488079107
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1711C",
+        "name": "Color the Picture",
+        "rating": 1500,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1711/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1711/submission/166637732"
+    },
+    {
+      "type": "codeforces",
+      "id": 166637650,
+      "creationTime": 1659404473,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488079174
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1711C",
+        "name": "Color the Picture",
+        "rating": 1500,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1711/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1711/submission/166637650"
+    },
+    {
+      "type": "codeforces",
+      "id": 166637591,
+      "creationTime": 1659404407,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488079240
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1711C",
+        "name": "Color the Picture",
+        "rating": 1500,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1711/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1711/submission/166637591"
+    },
+    {
+      "type": "codeforces",
+      "id": 166637515,
+      "creationTime": 1659404329,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488079318
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1711C",
+        "name": "Color the Picture",
+        "rating": 1500,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1711/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1711/submission/166637515"
+    },
+    {
+      "type": "codeforces",
+      "id": 166637489,
+      "creationTime": 1659404307,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488079340
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1711C",
+        "name": "Color the Picture",
+        "rating": 1500,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1711/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1711/submission/166637489"
+    },
+    {
+      "type": "codeforces",
       "id": 165885950,
       "creationTime": 1658922877,
       "language": "GNU C++14",

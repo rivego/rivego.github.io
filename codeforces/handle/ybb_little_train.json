@@ -6,6 +6,212 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166646204,
+      "creationTime": 1659412429,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488071218
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714D",
+        "name": "Color with Occurrences",
+        "tags": [
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166646204"
+    },
+    {
+      "type": "codeforces",
+      "id": 166643901,
+      "creationTime": 1659410236,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488073411
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714D",
+        "name": "Color with Occurrences",
+        "tags": [
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166643901"
+    },
+    {
+      "type": "codeforces",
+      "id": 166643521,
+      "creationTime": 1659409886,
+      "language": "GNU C++17",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488073761
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714D",
+        "name": "Color with Occurrences",
+        "tags": [
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166643521"
+    },
+    {
+      "type": "codeforces",
+      "id": 166643339,
+      "creationTime": 1659409727,
+      "language": "GNU C++17",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488073920
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714D",
+        "name": "Color with Occurrences",
+        "tags": [
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166643339"
+    },
+    {
+      "type": "codeforces",
+      "id": 166639068,
+      "creationTime": 1659405758,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488077889
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714C",
+        "name": "Minimum  Varied Number",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166639068"
+    },
+    {
+      "type": "codeforces",
+      "id": 166638932,
+      "creationTime": 1659405625,
+      "language": "GNU C++17",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488078022
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714C",
+        "name": "Minimum  Varied Number",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166638932"
+    },
+    {
+      "type": "codeforces",
+      "id": 166638448,
+      "creationTime": 1659405165,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488078482
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714B",
+        "name": "Remove Prefix",
+        "tags": [
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166638448"
+    },
+    {
+      "type": "codeforces",
+      "id": 166638192,
+      "creationTime": 1659404932,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488078715
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714A",
+        "name": "Everyone Loves to Sleep",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166638192"
+    },
+    {
+      "type": "codeforces",
       "id": 166497740,
       "creationTime": 1659359498,
       "language": "GNU C++17",
@@ -50,7 +256,8 @@
         "id": "1704B",
         "name": "Luke is a Foodie",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/B"
       },

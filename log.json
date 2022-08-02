@@ -1,88 +1,74 @@
 {
   "version": "0.1.29",
-  "updateTime": 1659375863,
+  "updateTime": 1659419672,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 166530403,
-            "pid": "1714F",
-            "name": "Build a Tree and That Is It",
-            "verdict": "OK",
-            "creationTime": 1659366099
-          },
-          {
-            "platform": "codeforces",
-            "id": 166525077,
-            "pid": "1714G",
-            "name": "Path Prefixes",
-            "verdict": "OK",
-            "creationTime": 1659365811
-          },
-          {
-            "platform": "codeforces",
-            "id": 166518644,
-            "pid": "1714F",
-            "name": "Build a Tree and That Is It",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659365483
-          },
-          {
-            "platform": "codeforces",
-            "id": 166511191,
-            "pid": "1714E",
-            "name": "Add Modulo 10",
-            "verdict": "OK",
-            "creationTime": 1659365095
-          },
-          {
-            "platform": "codeforces",
-            "id": 166508060,
-            "pid": "1714D",
-            "name": "Color with Occurrences",
-            "verdict": "OK",
-            "creationTime": 1659364875
-          },
-          {
-            "platform": "codeforces",
-            "id": 166506685,
-            "pid": "1714C",
-            "name": "Minimum  Varied Number",
-            "verdict": "OK",
-            "creationTime": 1659364673
-          },
-          {
-            "platform": "codeforces",
-            "id": 166506547,
-            "pid": "1714B",
-            "name": "Remove Prefix",
-            "verdict": "OK",
-            "creationTime": 1659364605
-          },
-          {
-            "platform": "codeforces",
-            "id": 166506473,
-            "pid": "1714A",
-            "name": "Everyone Loves to Sleep",
-            "verdict": "OK",
-            "creationTime": 1659364558
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "ybb_little_train",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 166497740,
-            "pid": "600E",
-            "name": "Lomsat gelral",
+            "id": 166646204,
+            "pid": "1714D",
+            "name": "Color with Occurrences",
             "verdict": "OK",
-            "creationTime": 1659359498
+            "creationTime": 1659412429
+          },
+          {
+            "platform": "codeforces",
+            "id": 166643901,
+            "pid": "1714D",
+            "name": "Color with Occurrences",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659410236
+          },
+          {
+            "platform": "codeforces",
+            "id": 166643521,
+            "pid": "1714D",
+            "name": "Color with Occurrences",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1659409886
+          },
+          {
+            "platform": "codeforces",
+            "id": 166643339,
+            "pid": "1714D",
+            "name": "Color with Occurrences",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1659409727
+          },
+          {
+            "platform": "codeforces",
+            "id": 166639068,
+            "pid": "1714C",
+            "name": "Minimum  Varied Number",
+            "verdict": "OK",
+            "creationTime": 1659405758
+          },
+          {
+            "platform": "codeforces",
+            "id": 166638932,
+            "pid": "1714C",
+            "name": "Minimum  Varied Number",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1659405625
+          },
+          {
+            "platform": "codeforces",
+            "id": 166638448,
+            "pid": "1714B",
+            "name": "Remove Prefix",
+            "verdict": "OK",
+            "creationTime": 1659405165
+          },
+          {
+            "platform": "codeforces",
+            "id": 166638192,
+            "pid": "1714A",
+            "name": "Everyone Loves to Sleep",
+            "verdict": "OK",
+            "creationTime": 1659404932
           }
         ],
         "newContests": []
@@ -92,255 +78,57 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 166499344,
-            "pid": "1704C",
-            "name": "Virus",
+            "id": 166637336,
+            "pid": "1704D",
+            "name": "Magical Array",
             "verdict": "OK",
-            "creationTime": 1659360440
+            "creationTime": 1659404161
           }
         ],
         "newContests": []
       },
       {
-        "name": "Kenshin2438",
+        "name": "Reisen_",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 166590528,
-            "pid": "1649E",
-            "name": "Tyler and Strings",
+            "id": 166637732,
+            "pid": "1711C",
+            "name": "Color the Picture",
             "verdict": "OK",
-            "creationTime": 1659371639
+            "creationTime": 1659404540
           },
           {
             "platform": "codeforces",
-            "id": 166589828,
-            "pid": "1649E",
-            "name": "Tyler and Strings",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659371550
-          },
-          {
-            "platform": "codeforces",
-            "id": 166589046,
-            "pid": "1649E",
-            "name": "Tyler and Strings",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659371457
-          },
-          {
-            "platform": "codeforces",
-            "id": 166503515,
-            "pid": "1649E",
-            "name": "Tyler and Strings",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659362803
-          },
-          {
-            "platform": "codeforces",
-            "id": 166503445,
-            "pid": "1649E",
-            "name": "Tyler and Strings",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659362760
-          },
-          {
-            "platform": "codeforces",
-            "id": 166494299,
-            "pid": "1649D",
-            "name": "Integral Array",
-            "verdict": "OK",
-            "creationTime": 1659357540
-          },
-          {
-            "platform": "codeforces",
-            "id": 166474096,
-            "pid": "1649C",
-            "name": "Weird Sum",
-            "verdict": "OK",
-            "creationTime": 1659354380
-          },
-          {
-            "platform": "codeforces",
-            "id": 166473834,
-            "pid": "1649C",
-            "name": "Weird Sum",
+            "id": 166637650,
+            "pid": "1711C",
+            "name": "Color the Picture",
             "verdict": "RUNTIME_ERROR",
-            "creationTime": 1659354228
+            "creationTime": 1659404473
           },
           {
             "platform": "codeforces",
-            "id": 166472445,
-            "pid": "1649B",
-            "name": "Game of Ball Passing",
-            "verdict": "OK",
-            "creationTime": 1659353327
+            "id": 166637591,
+            "pid": "1711C",
+            "name": "Color the Picture",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1659404407
           },
           {
             "platform": "codeforces",
-            "id": 166470870,
-            "pid": "1649A",
-            "name": "Game",
-            "verdict": "OK",
-            "creationTime": 1659352390
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 166564932,
-            "pid": "1714G",
-            "name": "Path Prefixes",
-            "verdict": "OK",
-            "creationTime": 1659368769
-          },
-          {
-            "platform": "codeforces",
-            "id": 166561758,
-            "pid": "1714F",
-            "name": "Build a Tree and That Is It",
-            "verdict": "OK",
-            "creationTime": 1659368460
-          },
-          {
-            "platform": "codeforces",
-            "id": 166558198,
-            "pid": "1714E",
-            "name": "Add Modulo 10",
-            "verdict": "OK",
-            "creationTime": 1659368137
-          },
-          {
-            "platform": "codeforces",
-            "id": 166551079,
-            "pid": "1714D",
-            "name": "Color with Occurrences",
-            "verdict": "OK",
-            "creationTime": 1659367534
-          },
-          {
-            "platform": "codeforces",
-            "id": 166547549,
-            "pid": "1714C",
-            "name": "Minimum  Varied Number",
-            "verdict": "OK",
-            "creationTime": 1659367255
-          },
-          {
-            "platform": "codeforces",
-            "id": 166546481,
-            "pid": "1714B",
-            "name": "Remove Prefix",
-            "verdict": "OK",
-            "creationTime": 1659367174
-          },
-          {
-            "platform": "codeforces",
-            "id": 166545239,
-            "pid": "1714A",
-            "name": "Everyone Loves to Sleep",
-            "verdict": "OK",
-            "creationTime": 1659367077
-          },
-          {
-            "platform": "codeforces",
-            "id": 166497624,
-            "pid": "103860K",
-            "name": "Security Plan",
-            "verdict": "OK",
-            "creationTime": 1659359444
-          },
-          {
-            "platform": "codeforces",
-            "id": 166475844,
-            "pid": "103860E",
-            "name": "Elegant Tetris",
-            "verdict": "OK",
-            "creationTime": 1659355411
-          },
-          {
-            "platform": "codeforces",
-            "id": 166473615,
-            "pid": "103860E",
-            "name": "Elegant Tetris",
+            "id": 166637515,
+            "pid": "1711C",
+            "name": "Color the Picture",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1659354076
+            "creationTime": 1659404329
           },
           {
             "platform": "codeforces",
-            "id": 166473558,
-            "pid": "103860E",
-            "name": "Elegant Tetris",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659354043
-          },
-          {
-            "platform": "codeforces",
-            "id": 166469278,
-            "pid": "103860C",
-            "name": "Selection Sort Count",
-            "verdict": "OK",
-            "creationTime": 1659351296
-          },
-          {
-            "platform": "codeforces",
-            "id": 166468081,
-            "pid": "103860I",
-            "name": "Reverse LIS",
-            "verdict": "OK",
-            "creationTime": 1659350455
-          },
-          {
-            "platform": "codeforces",
-            "id": 166466410,
-            "pid": "103860I",
-            "name": "Reverse LIS",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659349325
-          },
-          {
-            "platform": "codeforces",
-            "id": 166464410,
-            "pid": "103860J",
-            "name": "jwfw.harie.edu",
-            "verdict": "OK",
-            "creationTime": 1659347901
-          },
-          {
-            "platform": "codeforces",
-            "id": 166463635,
-            "pid": "103860G",
-            "name": "Integer Game",
-            "verdict": "OK",
-            "creationTime": 1659347341
-          },
-          {
-            "platform": "codeforces",
-            "id": 166460535,
-            "pid": "103860L",
-            "name": "Paid Leave",
-            "verdict": "OK",
-            "creationTime": 1659345098
-          },
-          {
-            "platform": "codeforces",
-            "id": 166459833,
-            "pid": "103860F",
-            "name": "Modulo",
-            "verdict": "OK",
-            "creationTime": 1659344575
-          },
-          {
-            "platform": "codeforces",
-            "id": 166459532,
-            "pid": "103860A",
-            "name": "Mash",
-            "verdict": "OK",
-            "creationTime": 1659344362
+            "id": 166637489,
+            "pid": "1711C",
+            "name": "Color the Picture",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1659404307
           }
         ],
         "newContests": []
@@ -348,5 +136,5 @@
     ],
     "contest": []
   },
-  "ref": "e7696af8cf15303ffec46c2099e97f976be50a1e"
+  "ref": "87633be615604026aa1dc3191257fcd7996f040d"
 }
