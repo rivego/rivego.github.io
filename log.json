@@ -1,134 +1,114 @@
 {
   "version": "0.1.29",
-  "updateTime": 1659419672,
+  "updateTime": 1659462316,
   "history": {
     "user": [
       {
-        "name": "ybb_little_train",
+        "name": "Kenshin2438",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 166646204,
-            "pid": "1714D",
-            "name": "Color with Occurrences",
-            "verdict": "OK",
-            "creationTime": 1659412429
+            "id": 166723013,
+            "pid": "1706D2",
+            "name": "Chopping Carrots (Hard Version)",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1659460346
           },
           {
             "platform": "codeforces",
-            "id": 166643901,
-            "pid": "1714D",
-            "name": "Color with Occurrences",
+            "id": 166698085,
+            "pid": "1646E",
+            "name": "Power Board",
+            "verdict": "OK",
+            "creationTime": 1659446865
+          },
+          {
+            "platform": "codeforces",
+            "id": 166697815,
+            "pid": "1646E",
+            "name": "Power Board",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1659410236
+            "creationTime": 1659446716
           },
           {
             "platform": "codeforces",
-            "id": 166643521,
-            "pid": "1714D",
-            "name": "Color with Occurrences",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1659409886
-          },
-          {
-            "platform": "codeforces",
-            "id": 166643339,
-            "pid": "1714D",
-            "name": "Color with Occurrences",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1659409727
-          },
-          {
-            "platform": "codeforces",
-            "id": 166639068,
-            "pid": "1714C",
-            "name": "Minimum  Varied Number",
-            "verdict": "OK",
-            "creationTime": 1659405758
-          },
-          {
-            "platform": "codeforces",
-            "id": 166638932,
-            "pid": "1714C",
-            "name": "Minimum  Varied Number",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1659405625
-          },
-          {
-            "platform": "codeforces",
-            "id": 166638448,
-            "pid": "1714B",
-            "name": "Remove Prefix",
-            "verdict": "OK",
-            "creationTime": 1659405165
-          },
-          {
-            "platform": "codeforces",
-            "id": 166638192,
-            "pid": "1714A",
-            "name": "Everyone Loves to Sleep",
-            "verdict": "OK",
-            "creationTime": 1659404932
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Xiong_Qian",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 166637336,
-            "pid": "1704D",
-            "name": "Magical Array",
-            "verdict": "OK",
-            "creationTime": 1659404161
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 166637732,
-            "pid": "1711C",
-            "name": "Color the Picture",
-            "verdict": "OK",
-            "creationTime": 1659404540
-          },
-          {
-            "platform": "codeforces",
-            "id": 166637650,
-            "pid": "1711C",
-            "name": "Color the Picture",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1659404473
-          },
-          {
-            "platform": "codeforces",
-            "id": 166637591,
-            "pid": "1711C",
-            "name": "Color the Picture",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1659404407
-          },
-          {
-            "platform": "codeforces",
-            "id": 166637515,
-            "pid": "1711C",
-            "name": "Color the Picture",
+            "id": 166696105,
+            "pid": "1646D",
+            "name": "Weight the Tree",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1659404329
+            "creationTime": 1659445787
           },
           {
             "platform": "codeforces",
-            "id": 166637489,
-            "pid": "1711C",
-            "name": "Color the Picture",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1659404307
+            "id": 166695056,
+            "pid": "1646D",
+            "name": "Weight the Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659445225
+          },
+          {
+            "platform": "codeforces",
+            "id": 166694033,
+            "pid": "1646D",
+            "name": "Weight the Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659444651
+          },
+          {
+            "platform": "codeforces",
+            "id": 166687736,
+            "pid": "1646D",
+            "name": "Weight the Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659441051
+          },
+          {
+            "platform": "codeforces",
+            "id": 166686967,
+            "pid": "1646C",
+            "name": "Factorials and Powers of Two",
+            "verdict": "OK",
+            "creationTime": 1659440630
+          },
+          {
+            "platform": "codeforces",
+            "id": 166685873,
+            "pid": "1646C",
+            "name": "Factorials and Powers of Two",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659439999
+          },
+          {
+            "platform": "codeforces",
+            "id": 166685374,
+            "pid": "1646C",
+            "name": "Factorials and Powers of Two",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659439699
+          },
+          {
+            "platform": "codeforces",
+            "id": 166684600,
+            "pid": "1646B",
+            "name": "Quality vs Quantity",
+            "verdict": "OK",
+            "creationTime": 1659439253
+          },
+          {
+            "platform": "codeforces",
+            "id": 166684402,
+            "pid": "1646B",
+            "name": "Quality vs Quantity",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659439142
+          },
+          {
+            "platform": "codeforces",
+            "id": 166684031,
+            "pid": "1646A",
+            "name": "Square Counting",
+            "verdict": "OK",
+            "creationTime": 1659438932
           }
         ],
         "newContests": []
@@ -136,5 +116,5 @@
     ],
     "contest": []
   },
-  "ref": "87633be615604026aa1dc3191257fcd7996f040d"
+  "ref": "769493f2687a9c06b5b14fefc37356034f26198c"
 }

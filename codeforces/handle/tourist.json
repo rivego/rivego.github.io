@@ -21,8 +21,8 @@
         "type": "codeforces",
         "id": "1714F",
         "name": "Build a Tree and That Is It",
+        "rating": 1900,
         "tags": [
-          "brute force",
           "constructive algorithms",
           "greedy",
           "implementation",
@@ -49,11 +49,11 @@
         "type": "codeforces",
         "id": "1714G",
         "name": "Path Prefixes",
+        "rating": 1700,
         "tags": [
           "binary search",
           "data structures",
           "dfs and similar",
-          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1714/problem/G"
@@ -77,8 +77,8 @@
         "type": "codeforces",
         "id": "1714F",
         "name": "Build a Tree and That Is It",
+        "rating": 1900,
         "tags": [
-          "brute force",
           "constructive algorithms",
           "greedy",
           "implementation",
@@ -105,8 +105,8 @@
         "type": "codeforces",
         "id": "1714E",
         "name": "Add Modulo 10",
+        "rating": 1400,
         "tags": [
-          "brute force",
           "math",
           "number theory"
         ],
@@ -131,6 +131,7 @@
         "type": "codeforces",
         "id": "1714D",
         "name": "Color with Occurrences",
+        "rating": 1600,
         "tags": [
           "dp",
           "greedy",
@@ -157,9 +158,8 @@
         "type": "codeforces",
         "id": "1714C",
         "name": "Minimum  Varied Number",
+        "rating": 800,
         "tags": [
-          "bitmasks",
-          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1714/problem/C"
@@ -183,6 +183,7 @@
         "type": "codeforces",
         "id": "1714B",
         "name": "Remove Prefix",
+        "rating": 800,
         "tags": [
           "data structures",
           "implementation"
@@ -208,6 +209,7 @@
         "type": "codeforces",
         "id": "1714A",
         "name": "Everyone Loves to Sleep",
+        "rating": 900,
         "tags": [
           "implementation",
           "math"
