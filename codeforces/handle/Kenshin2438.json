@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166803222,
+      "creationTime": 1659528276,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487955371
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1042E",
+        "name": "Vasya and Magic Matrix",
+        "rating": 2300,
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1042/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1042/submission/166803222"
+    },
+    {
+      "type": "codeforces",
       "id": 166723013,
       "creationTime": 1659460346,
       "language": "GNU C++17 (64)",

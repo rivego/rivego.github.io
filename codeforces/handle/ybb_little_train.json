@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166785358,
+      "creationTime": 1659517364,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487966283
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714E",
+        "name": "Add Modulo 10",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166785358"
+    },
+    {
+      "type": "codeforces",
       "id": 166646204,
       "creationTime": 1659412429,
       "language": "GNU C++17",
@@ -23,6 +50,8 @@
         "name": "Color with Occurrences",
         "rating": 1600,
         "tags": [
+          "brute force",
+          "data structures",
           "dp",
           "greedy",
           "strings"
@@ -50,6 +79,8 @@
         "name": "Color with Occurrences",
         "rating": 1600,
         "tags": [
+          "brute force",
+          "data structures",
           "dp",
           "greedy",
           "strings"
@@ -77,6 +108,8 @@
         "name": "Color with Occurrences",
         "rating": 1600,
         "tags": [
+          "brute force",
+          "data structures",
           "dp",
           "greedy",
           "strings"
@@ -104,6 +137,8 @@
         "name": "Color with Occurrences",
         "rating": 1600,
         "tags": [
+          "brute force",
+          "data structures",
           "dp",
           "greedy",
           "strings"
