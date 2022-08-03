@@ -74,6 +74,7 @@
         "id": "1704B",
         "name": "Luke is a Foodie",
         "tags": [
+          "brute force",
           "greedy",
           "implementation"
         ],

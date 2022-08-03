@@ -182,6 +182,7 @@
         "rating": 800,
         "tags": [
           "data structures",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1714/problem/B"
@@ -260,6 +261,7 @@
         "id": "1704B",
         "name": "Luke is a Foodie",
         "tags": [
+          "brute force",
           "greedy",
           "implementation"
         ],
