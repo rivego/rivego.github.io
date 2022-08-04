@@ -1,38 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1659548359,
+  "updateTime": 1659591978,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 166785358,
-            "pid": "1714E",
-            "name": "Add Modulo 10",
-            "verdict": "OK",
-            "creationTime": 1659517364
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 166803222,
-            "pid": "1042E",
-            "name": "Vasya and Magic Matrix",
-            "verdict": "OK",
-            "creationTime": 1659528276
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "0bf93a46cd10957617e91e99b84669c16a1254b4"
+  "ref": "652e22f248c5a6d1d24c14cebeee3e5af2117545"
 }
