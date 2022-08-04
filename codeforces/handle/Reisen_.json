@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166956882,
+      "creationTime": 1659624868,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659623700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716B",
+        "name": "Permutation Chain",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/166956882"
+    },
+    {
+      "type": "codeforces",
+      "id": 166937836,
+      "creationTime": 1659624101,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659623700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716A",
+        "name": "2-3 Moves",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/166937836"
+    },
+    {
+      "type": "codeforces",
       "id": 166637732,
       "creationTime": 1659404540,
       "language": "GNU C++14",
