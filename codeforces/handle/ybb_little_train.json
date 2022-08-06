@@ -6,6 +6,72 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167171257,
+      "creationTime": 1659754045,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487729602
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102889J",
+        "name": "括号序列",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102889/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102889/submission/167171257"
+    },
+    {
+      "type": "codeforces",
+      "id": 167170799,
+      "creationTime": 1659753467,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487730180
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102889J",
+        "name": "括号序列",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102889/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102889/submission/167170799"
+    },
+    {
+      "type": "codeforces",
+      "id": 167170535,
+      "creationTime": 1659753140,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487730507
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102889J",
+        "name": "括号序列",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102889/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102889/submission/167170535"
+    },
+    {
+      "type": "codeforces",
       "id": 166956984,
       "creationTime": 1659624873,
       "language": "GNU C++17",
@@ -21,6 +87,7 @@
         "type": "codeforces",
         "id": "1716B",
         "name": "Permutation Chain",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -46,6 +113,7 @@
         "type": "codeforces",
         "id": "1716A",
         "name": "2-3 Moves",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"

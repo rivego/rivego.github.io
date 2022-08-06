@@ -21,9 +21,11 @@
         "type": "codeforces",
         "id": "1716C",
         "name": "Robot in a Hallway",
+        "rating": 2000,
         "tags": [
           "data structures",
           "dp",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1716/problem/C"
@@ -47,9 +49,11 @@
         "type": "codeforces",
         "id": "1716C",
         "name": "Robot in a Hallway",
+        "rating": 2000,
         "tags": [
           "data structures",
           "dp",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1716/problem/C"
@@ -73,6 +77,7 @@
         "type": "codeforces",
         "id": "1716B",
         "name": "Permutation Chain",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -98,6 +103,7 @@
         "type": "codeforces",
         "id": "1716B",
         "name": "Permutation Chain",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -123,6 +129,7 @@
         "type": "codeforces",
         "id": "1716A",
         "name": "2-3 Moves",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"

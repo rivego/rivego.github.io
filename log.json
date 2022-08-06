@@ -1,9 +1,54 @@
 {
   "version": "0.1.29",
-  "updateTime": 1659721532,
+  "updateTime": 1659764112,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 167171257,
+            "pid": "102889J",
+            "name": "括号序列",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659754045
+          },
+          {
+            "platform": "codeforces",
+            "id": 167170799,
+            "pid": "102889J",
+            "name": "括号序列",
+            "verdict": "OK",
+            "creationTime": 1659753467
+          },
+          {
+            "platform": "codeforces",
+            "id": 167170535,
+            "pid": "102889J",
+            "name": "括号序列",
+            "verdict": "OK",
+            "creationTime": 1659753140
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Reisen_",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 167167705,
+            "pid": "102889J",
+            "name": "括号序列",
+            "verdict": "OK",
+            "creationTime": 1659749448
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "5b08b5ec7768a2091f9080933706bad02c6b8379"
+  "ref": "24acf152084f812e2afcf09213751cdf7a890234"
 }

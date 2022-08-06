@@ -6,6 +6,28 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167167705,
+      "creationTime": 1659749448,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487734199
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102889J",
+        "name": "括号序列",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102889/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102889/submission/167167705"
+    },
+    {
+      "type": "codeforces",
       "id": 166956882,
       "creationTime": 1659624868,
       "language": "GNU C++14",
@@ -21,6 +43,7 @@
         "type": "codeforces",
         "id": "1716B",
         "name": "Permutation Chain",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -46,6 +69,7 @@
         "type": "codeforces",
         "id": "1716A",
         "name": "2-3 Moves",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
