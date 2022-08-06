@@ -6,6 +6,160 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167299748,
+      "creationTime": 1659803160,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713D",
+        "name": "Tournament Countdown",
+        "tags": [
+          "greedy",
+          "interactive",
+          "number theory",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167299748"
+    },
+    {
+      "type": "codeforces",
+      "id": 167291573,
+      "creationTime": 1659802027,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713D",
+        "name": "Tournament Countdown",
+        "tags": [
+          "greedy",
+          "interactive",
+          "number theory",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167291573"
+    },
+    {
+      "type": "codeforces",
+      "id": 167273283,
+      "creationTime": 1659799784,
+      "language": "GNU C++17 (64)",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713C",
+        "name": "Build Permutation",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167273283"
+    },
+    {
+      "type": "codeforces",
+      "id": 167246021,
+      "creationTime": 1659797538,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713B",
+        "name": "Optimal Reduction",
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167246021"
+    },
+    {
+      "type": "codeforces",
+      "id": 167239494,
+      "creationTime": 1659797174,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713A",
+        "name": "Traveling Salesman Problem",
+        "tags": [
+          "geometry",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167239494"
+    },
+    {
+      "type": "codeforces",
+      "id": 167234418,
+      "creationTime": 1659796912,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713A",
+        "name": "Traveling Salesman Problem",
+        "tags": [
+          "geometry",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167234418"
+    },
+    {
+      "type": "codeforces",
       "id": 166803222,
       "creationTime": 1659528276,
       "language": "GNU C++17 (64)",
@@ -776,7 +930,8 @@
           "constructive algorithms",
           "dp",
           "graphs",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/E"
       },
@@ -804,7 +959,8 @@
           "constructive algorithms",
           "dp",
           "graphs",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/E"
       },
@@ -832,7 +988,8 @@
           "constructive algorithms",
           "dp",
           "graphs",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/E"
       },
