@@ -26,7 +26,8 @@
           "data structures",
           "dp",
           "greedy",
-          "implementation"
+          "implementation",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/1716/problem/C"
       },
@@ -54,7 +55,8 @@
           "data structures",
           "dp",
           "greedy",
-          "implementation"
+          "implementation",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/1716/problem/C"
       },
@@ -365,6 +367,7 @@
         "type": "codeforces",
         "id": "1704D",
         "name": "Magical Array",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "hashing",
@@ -392,6 +395,7 @@
         "type": "codeforces",
         "id": "1704C",
         "name": "Virus",
+        "rating": 1200,
         "tags": [
           "greedy",
           "implementation",
@@ -418,6 +422,7 @@
         "type": "codeforces",
         "id": "1704B",
         "name": "Luke is a Foodie",
+        "rating": 1000,
         "tags": [
           "brute force",
           "greedy",
@@ -444,6 +449,7 @@
         "type": "codeforces",
         "id": "1704A",
         "name": "Two 0-1 Sequences",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy"

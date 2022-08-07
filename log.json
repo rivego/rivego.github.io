@@ -1,38 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1659850476,
+  "updateTime": 1659893820,
   "history": {
-    "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 167338062,
-            "pid": "1713D",
-            "name": "Tournament Countdown",
-            "verdict": "OK",
-            "creationTime": 1659835622
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 167348226,
-            "pid": "1713A",
-            "name": "Traveling Salesman Problem",
-            "verdict": "OK",
-            "creationTime": 1659846754
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3ba6d297ae25b0b89e640cefcd989ceefdae8353"
+  "ref": "f90f7698bcc3f0f414118c525b484b8566f6a33e"
 }

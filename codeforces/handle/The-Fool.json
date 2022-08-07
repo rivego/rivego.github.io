@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1704A",
         "name": "Two 0-1 Sequences",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy"
