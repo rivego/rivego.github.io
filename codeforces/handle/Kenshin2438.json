@@ -6,6 +6,37 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167338062,
+      "creationTime": 1659835622,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487648025
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713D",
+        "name": "Tournament Countdown",
+        "rating": 1800,
+        "tags": [
+          "constructive algorithms",
+          "divide and conquer",
+          "greedy",
+          "greedy",
+          "interactive",
+          "number theory",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167338062"
+    },
+    {
+      "type": "codeforces",
       "id": 167299748,
       "creationTime": 1659803160,
       "language": "GNU C++17 (64)",
@@ -21,7 +52,11 @@
         "type": "codeforces",
         "id": "1713D",
         "name": "Tournament Countdown",
+        "rating": 1800,
         "tags": [
+          "constructive algorithms",
+          "divide and conquer",
+          "greedy",
           "greedy",
           "interactive",
           "number theory",
@@ -48,7 +83,11 @@
         "type": "codeforces",
         "id": "1713D",
         "name": "Tournament Countdown",
+        "rating": 1800,
         "tags": [
+          "constructive algorithms",
+          "divide and conquer",
+          "greedy",
           "greedy",
           "interactive",
           "number theory",
@@ -63,6 +102,7 @@
       "id": 167273283,
       "creationTime": 1659799784,
       "language": "GNU C++17 (64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "Kenshin2438"
@@ -74,8 +114,11 @@
         "type": "codeforces",
         "id": "1713C",
         "name": "Build Permutation",
+        "rating": 1200,
         "tags": [
-          "dp"
+          "constructive algorithms",
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1713/problem/C"
       },
@@ -98,6 +141,7 @@
         "type": "codeforces",
         "id": "1713B",
         "name": "Optimal Reduction",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "sortings"
@@ -123,6 +167,7 @@
         "type": "codeforces",
         "id": "1713A",
         "name": "Traveling Salesman Problem",
+        "rating": 800,
         "tags": [
           "geometry",
           "greedy",
@@ -149,6 +194,7 @@
         "type": "codeforces",
         "id": "1713A",
         "name": "Traveling Salesman Problem",
+        "rating": 800,
         "tags": [
           "geometry",
           "greedy",
@@ -21576,7 +21622,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1793,
+    "rating": 1745,
     "maxRank": "expert",
     "maxRating": 1832
   }

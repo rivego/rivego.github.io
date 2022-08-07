@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167348226,
+      "creationTime": 1659846754,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487636893
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713A",
+        "name": "Traveling Salesman Problem",
+        "rating": 800,
+        "tags": [
+          "geometry",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167348226"
+    },
+    {
+      "type": "codeforces",
       "id": 167167705,
       "creationTime": 1659749448,
       "language": "GNU C++14",

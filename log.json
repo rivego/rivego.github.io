@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1659807412,
+  "updateTime": 1659850476,
   "history": {
     "user": [
       {
@@ -8,102 +8,25 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 167299748,
+            "id": 167338062,
             "pid": "1713D",
             "name": "Tournament Countdown",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659803160
-          },
-          {
-            "platform": "codeforces",
-            "id": 167291573,
-            "pid": "1713D",
-            "name": "Tournament Countdown",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659802027
-          },
-          {
-            "platform": "codeforces",
-            "id": 167273283,
-            "pid": "1713C",
-            "name": "Build Permutation",
-            "creationTime": 1659799784
-          },
-          {
-            "platform": "codeforces",
-            "id": 167246021,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
             "verdict": "OK",
-            "creationTime": 1659797538
-          },
-          {
-            "platform": "codeforces",
-            "id": 167239494,
-            "pid": "1713A",
-            "name": "Traveling Salesman Problem",
-            "verdict": "OK",
-            "creationTime": 1659797174
-          },
-          {
-            "platform": "codeforces",
-            "id": 167234418,
-            "pid": "1713A",
-            "name": "Traveling Salesman Problem",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659796912
+            "creationTime": 1659835622
           }
         ],
         "newContests": []
       },
       {
-        "name": "jiangly",
+        "name": "Reisen_",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 167297058,
-            "pid": "1713F",
-            "name": "Lost Array",
-            "creationTime": 1659802785
-          },
-          {
-            "platform": "codeforces",
-            "id": 167259625,
-            "pid": "1713E",
-            "name": "Cross Swapping",
-            "creationTime": 1659798503
-          },
-          {
-            "platform": "codeforces",
-            "id": 167250864,
-            "pid": "1713D",
-            "name": "Tournament Countdown",
-            "verdict": "TESTING",
-            "creationTime": 1659797845
-          },
-          {
-            "platform": "codeforces",
-            "id": 167243212,
-            "pid": "1713C",
-            "name": "Build Permutation",
-            "verdict": "OK",
-            "creationTime": 1659797374
-          },
-          {
-            "platform": "codeforces",
-            "id": 167243071,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
-            "verdict": "OK",
-            "creationTime": 1659797366
-          },
-          {
-            "platform": "codeforces",
-            "id": 167242928,
+            "id": 167348226,
             "pid": "1713A",
             "name": "Traveling Salesman Problem",
             "verdict": "OK",
-            "creationTime": 1659797360
+            "creationTime": 1659846754
           }
         ],
         "newContests": []
@@ -111,5 +34,5 @@
     ],
     "contest": []
   },
-  "ref": "f39a7b4d75995b27a1ebadcefc40abea3f7ea78f"
+  "ref": "3ba6d297ae25b0b89e640cefcd989ceefdae8353"
 }
