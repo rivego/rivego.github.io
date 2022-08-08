@@ -6,6 +6,138 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167464380,
+      "creationTime": 1659925430,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487558217
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713B",
+        "name": "Optimal Reduction",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167464380"
+    },
+    {
+      "type": "codeforces",
+      "id": 167464203,
+      "creationTime": 1659925246,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487558401
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713B",
+        "name": "Optimal Reduction",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167464203"
+    },
+    {
+      "type": "codeforces",
+      "id": 167464068,
+      "creationTime": 1659925118,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487558529
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713B",
+        "name": "Optimal Reduction",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167464068"
+    },
+    {
+      "type": "codeforces",
+      "id": 167463008,
+      "creationTime": 1659923933,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487559714
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713A",
+        "name": "Traveling Salesman Problem",
+        "rating": 800,
+        "tags": [
+          "geometry",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167463008"
+    },
+    {
+      "type": "codeforces",
+      "id": 167462888,
+      "creationTime": 1659923783,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487559864
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713A",
+        "name": "Traveling Salesman Problem",
+        "rating": 800,
+        "tags": [
+          "geometry",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167462888"
+    },
+    {
+      "type": "codeforces",
       "id": 167171257,
       "creationTime": 1659754045,
       "language": "GNU C++17",
