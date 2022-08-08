@@ -6,6 +6,162 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167520946,
+      "creationTime": 1659965804,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487517843
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692E",
+        "name": "Binary Deque",
+        "rating": 1200,
+        "tags": [
+          "binary search",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/167520946"
+    },
+    {
+      "type": "codeforces",
+      "id": 167517358,
+      "creationTime": 1659963953,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487519694
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692D",
+        "name": "The Clock",
+        "rating": 1100,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/167517358"
+    },
+    {
+      "type": "codeforces",
+      "id": 167514258,
+      "creationTime": 1659962298,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487521349
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692C",
+        "name": "Where's the Bishop?",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/167514258"
+    },
+    {
+      "type": "codeforces",
+      "id": 167513157,
+      "creationTime": 1659961747,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487521900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692B",
+        "name": "All Distinct",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/167513157"
+    },
+    {
+      "type": "codeforces",
+      "id": 167512046,
+      "creationTime": 1659961205,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487522442
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692A",
+        "name": "Marathon",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/167512046"
+    },
+    {
+      "type": "codeforces",
+      "id": 167511525,
+      "creationTime": 1659960918,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487522729
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713C",
+        "name": "Build Permutation",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167511525"
+    },
+    {
+      "type": "codeforces",
       "id": 167466108,
       "creationTime": 1659927320,
       "language": "GNU C++14",

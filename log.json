@@ -1,96 +1,104 @@
 {
   "version": "0.1.29",
-  "updateTime": 1659937195,
+  "updateTime": 1659980516,
   "history": {
     "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 167464380,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
-            "verdict": "OK",
-            "creationTime": 1659925430
-          },
-          {
-            "platform": "codeforces",
-            "id": 167464203,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
-            "verdict": "OK",
-            "creationTime": 1659925246
-          },
-          {
-            "platform": "codeforces",
-            "id": 167464068,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
-            "verdict": "OK",
-            "creationTime": 1659925118
-          },
-          {
-            "platform": "codeforces",
-            "id": 167463008,
-            "pid": "1713A",
-            "name": "Traveling Salesman Problem",
-            "verdict": "OK",
-            "creationTime": 1659923933
-          },
-          {
-            "platform": "codeforces",
-            "id": 167462888,
-            "pid": "1713A",
-            "name": "Traveling Salesman Problem",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659923783
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "Xiong_Qian",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 167466108,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
+            "id": 167520946,
+            "pid": "1692E",
+            "name": "Binary Deque",
             "verdict": "OK",
-            "creationTime": 1659927320
+            "creationTime": 1659965804
           },
           {
             "platform": "codeforces",
-            "id": 167466018,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659927225
-          },
-          {
-            "platform": "codeforces",
-            "id": 167465625,
-            "pid": "1713A",
-            "name": "Traveling Salesman Problem",
+            "id": 167517358,
+            "pid": "1692D",
+            "name": "The Clock",
             "verdict": "OK",
-            "creationTime": 1659926775
+            "creationTime": 1659963953
           },
           {
             "platform": "codeforces",
-            "id": 167465420,
-            "pid": "1713A",
-            "name": "Traveling Salesman Problem",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659926530
+            "id": 167514258,
+            "pid": "1692C",
+            "name": "Where's the Bishop?",
+            "verdict": "OK",
+            "creationTime": 1659962298
           },
           {
             "platform": "codeforces",
-            "id": 167465312,
-            "pid": "1713A",
-            "name": "Traveling Salesman Problem",
+            "id": 167513157,
+            "pid": "1692B",
+            "name": "All Distinct",
+            "verdict": "OK",
+            "creationTime": 1659961747
+          },
+          {
+            "platform": "codeforces",
+            "id": 167512046,
+            "pid": "1692A",
+            "name": "Marathon",
+            "verdict": "OK",
+            "creationTime": 1659961205
+          },
+          {
+            "platform": "codeforces",
+            "id": 167511525,
+            "pid": "1713C",
+            "name": "Build Permutation",
+            "verdict": "OK",
+            "creationTime": 1659960918
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 167520913,
+            "pid": "1608C",
+            "name": "Game Master",
+            "verdict": "OK",
+            "creationTime": 1659965789
+          },
+          {
+            "platform": "codeforces",
+            "id": 167516784,
+            "pid": "1608C",
+            "name": "Game Master",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1659926415
+            "creationTime": 1659963634
+          },
+          {
+            "platform": "codeforces",
+            "id": 167514422,
+            "pid": "1608C",
+            "name": "Game Master",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659962394
+          },
+          {
+            "platform": "codeforces",
+            "id": 167514012,
+            "pid": "1608C",
+            "name": "Game Master",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659962169
+          },
+          {
+            "platform": "codeforces",
+            "id": 167513905,
+            "pid": "1608C",
+            "name": "Game Master",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659962115
           }
         ],
         "newContests": []
@@ -98,5 +106,5 @@
     ],
     "contest": []
   },
-  "ref": "50fcb7a49cac519a32b25fa0b3b86d023d048d4d"
+  "ref": "6d22868c8f2b404fa226cc3252e2cc33fbbb88b4"
 }
