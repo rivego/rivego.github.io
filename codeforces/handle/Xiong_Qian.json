@@ -6,6 +6,90 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167634999,
+      "creationTime": 1660049034,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487434613
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692H",
+        "name": "Gambling",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/167634999"
+    },
+    {
+      "type": "codeforces",
+      "id": 167634660,
+      "creationTime": 1660048883,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487434764
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692H",
+        "name": "Gambling",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/167634660"
+    },
+    {
+      "type": "codeforces",
+      "id": 167634549,
+      "creationTime": 1660048826,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487434821
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692H",
+        "name": "Gambling",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/167634549"
+    },
+    {
+      "type": "codeforces",
       "id": 167577856,
       "creationTime": 1660013031,
       "language": "GNU C++14",

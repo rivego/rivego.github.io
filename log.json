@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660023702,
+  "updateTime": 1660066794,
   "history": {
     "user": [
       {
@@ -8,19 +8,57 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 167577856,
-            "pid": "1692G",
-            "name": "2^Sort",
+            "id": 167634999,
+            "pid": "1692H",
+            "name": "Gambling",
             "verdict": "OK",
-            "creationTime": 1660013031
+            "creationTime": 1660049034
           },
           {
             "platform": "codeforces",
-            "id": 167575648,
-            "pid": "1692F",
-            "name": "3SUM",
+            "id": 167634660,
+            "pid": "1692H",
+            "name": "Gambling",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1660048883
+          },
+          {
+            "platform": "codeforces",
+            "id": 167634549,
+            "pid": "1692H",
+            "name": "Gambling",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1660048826
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 167641231,
+            "pid": "191C",
+            "name": "Fools and Roads",
             "verdict": "OK",
-            "creationTime": 1660010281
+            "creationTime": 1660052440
+          },
+          {
+            "platform": "codeforces",
+            "id": 167635807,
+            "pid": "1608D",
+            "name": "Dominoes",
+            "verdict": "OK",
+            "creationTime": 1660049433
+          },
+          {
+            "platform": "codeforces",
+            "id": 167635475,
+            "pid": "1608D",
+            "name": "Dominoes",
+            "verdict": "OK",
+            "creationTime": 1660049268
           }
         ],
         "newContests": []
@@ -28,5 +66,5 @@
     ],
     "contest": []
   },
-  "ref": "6235ac0cdbac399b9a3d827fb6f63f1aa024153b"
+  "ref": "ebf4c784cc05dc6cb3c5b87d1604b595bcb94616"
 }
