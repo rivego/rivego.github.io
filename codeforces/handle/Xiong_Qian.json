@@ -6,6 +6,60 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167577856,
+      "creationTime": 1660013031,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487470616
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692G",
+        "name": "2^Sort",
+        "rating": 1400,
+        "tags": [
+          "data structures",
+          "dp",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/167577856"
+    },
+    {
+      "type": "codeforces",
+      "id": 167575648,
+      "creationTime": 1660010281,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487473366
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692F",
+        "name": "3SUM",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/167575648"
+    },
+    {
+      "type": "codeforces",
       "id": 167520946,
       "creationTime": 1659965804,
       "language": "GNU C++14",
