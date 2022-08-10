@@ -1,64 +1,26 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660066794,
+  "updateTime": 1660109772,
   "history": {
     "user": [
       {
-        "name": "Xiong_Qian",
+        "name": "ybb_little_train",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 167634999,
-            "pid": "1692H",
-            "name": "Gambling",
+            "id": 167699138,
+            "pid": "1469A",
+            "name": "Regular Bracket Sequence",
             "verdict": "OK",
-            "creationTime": 1660049034
+            "creationTime": 1660099833
           },
           {
             "platform": "codeforces",
-            "id": 167634660,
-            "pid": "1692H",
-            "name": "Gambling",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1660048883
-          },
-          {
-            "platform": "codeforces",
-            "id": 167634549,
-            "pid": "1692H",
-            "name": "Gambling",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1660048826
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 167641231,
-            "pid": "191C",
-            "name": "Fools and Roads",
-            "verdict": "OK",
-            "creationTime": 1660052440
-          },
-          {
-            "platform": "codeforces",
-            "id": 167635807,
-            "pid": "1608D",
-            "name": "Dominoes",
-            "verdict": "OK",
-            "creationTime": 1660049433
-          },
-          {
-            "platform": "codeforces",
-            "id": 167635475,
-            "pid": "1608D",
-            "name": "Dominoes",
-            "verdict": "OK",
-            "creationTime": 1660049268
+            "id": 167698505,
+            "pid": "1469A",
+            "name": "Regular Bracket Sequence",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660099179
           }
         ],
         "newContests": []
@@ -66,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "ebf4c784cc05dc6cb3c5b87d1604b595bcb94616"
+  "ref": "1107bb9417562e96c9437623477bc6491b12b900"
 }

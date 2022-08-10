@@ -6,6 +6,58 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167699138,
+      "creationTime": 1660099833,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487383814
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1469A",
+        "name": "Regular Bracket Sequence",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1469/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1469/submission/167699138"
+    },
+    {
+      "type": "codeforces",
+      "id": 167698505,
+      "creationTime": 1660099179,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487384468
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1469A",
+        "name": "Regular Bracket Sequence",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1469/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1469/submission/167698505"
+    },
+    {
+      "type": "codeforces",
       "id": 167464380,
       "creationTime": 1659925430,
       "language": "GNU C++17",
