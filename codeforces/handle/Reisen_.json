@@ -6,6 +6,681 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167766191,
+      "creationTime": 1660140380,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487343267
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704A",
+        "name": "Two 0-1 Sequences",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/167766191"
+    },
+    {
+      "type": "codeforces",
+      "id": 167763586,
+      "creationTime": 1660139040,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487344607
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713B",
+        "name": "Optimal Reduction",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167763586"
+    },
+    {
+      "type": "codeforces",
+      "id": 167763444,
+      "creationTime": 1660138958,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487344689
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713B",
+        "name": "Optimal Reduction",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167763444"
+    },
+    {
+      "type": "codeforces",
+      "id": 167762955,
+      "creationTime": 1660138685,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487344962
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713B",
+        "name": "Optimal Reduction",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167762955"
+    },
+    {
+      "type": "codeforces",
+      "id": 167762110,
+      "creationTime": 1660138217,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487345430
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713B",
+        "name": "Optimal Reduction",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167762110"
+    },
+    {
+      "type": "codeforces",
+      "id": 167761686,
+      "creationTime": 1660137962,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487345685
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713B",
+        "name": "Optimal Reduction",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167761686"
+    },
+    {
+      "type": "codeforces",
+      "id": 167753693,
+      "creationTime": 1660137025,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487346622
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167753693"
+    },
+    {
+      "type": "codeforces",
+      "id": 167752614,
+      "creationTime": 1660136456,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487347191
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167752614"
+    },
+    {
+      "type": "codeforces",
+      "id": 167752507,
+      "creationTime": 1660136396,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487347251
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167752507"
+    },
+    {
+      "type": "codeforces",
+      "id": 167752298,
+      "creationTime": 1660136285,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487347362
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167752298"
+    },
+    {
+      "type": "codeforces",
+      "id": 167752106,
+      "creationTime": 1660136197,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487347450
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167752106"
+    },
+    {
+      "type": "codeforces",
+      "id": 167751980,
+      "creationTime": 1660136128,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487347519
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167751980"
+    },
+    {
+      "type": "codeforces",
+      "id": 167751864,
+      "creationTime": 1660136075,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487347572
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167751864"
+    },
+    {
+      "type": "codeforces",
+      "id": 167751323,
+      "creationTime": 1660135820,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487347827
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167751323"
+    },
+    {
+      "type": "codeforces",
+      "id": 167751042,
+      "creationTime": 1660135661,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487347986
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167751042"
+    },
+    {
+      "type": "codeforces",
+      "id": 167750606,
+      "creationTime": 1660135417,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487348230
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167750606"
+    },
+    {
+      "type": "codeforces",
+      "id": 167749885,
+      "creationTime": 1660135020,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487348627
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167749885"
+    },
+    {
+      "type": "codeforces",
+      "id": 167749690,
+      "creationTime": 1660134897,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487348750
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167749690"
+    },
+    {
+      "type": "codeforces",
+      "id": 167749052,
+      "creationTime": 1660134591,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487349056
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167749052"
+    },
+    {
+      "type": "codeforces",
+      "id": 167747362,
+      "creationTime": 1660133672,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487349975
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167747362"
+    },
+    {
+      "type": "codeforces",
+      "id": 167747205,
+      "creationTime": 1660133582,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487350065
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716D",
+        "name": "Chip Move",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167747205"
+    },
+    {
+      "type": "codeforces",
+      "id": 167743888,
+      "creationTime": 1660131731,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487351916
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1716C",
+        "name": "Robot in a Hallway",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "implementation",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1716/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1716/submission/167743888"
+    },
+    {
+      "type": "codeforces",
+      "id": 167717724,
+      "creationTime": 1660116551,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487367096
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713D",
+        "name": "Tournament Countdown",
+        "rating": 1800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "interactive",
+          "number theory",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167717724"
+    },
+    {
+      "type": "codeforces",
+      "id": 167717548,
+      "creationTime": 1660116447,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487367200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713D",
+        "name": "Tournament Countdown",
+        "rating": 1800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "interactive",
+          "number theory",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167717548"
+    },
+    {
+      "type": "codeforces",
+      "id": 167711518,
+      "creationTime": 1660112141,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487371506
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713C",
+        "name": "Build Permutation",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/167711518"
+    },
+    {
+      "type": "codeforces",
       "id": 167348226,
       "creationTime": 1659846754,
       "language": "GNU C++14",

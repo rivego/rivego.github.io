@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167728436,
+      "creationTime": 1660122653,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487360994
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "189A",
+        "name": "Cut Ribbon",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/189/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/189/submission/167728436"
+    },
+    {
+      "type": "codeforces",
       "id": 167699138,
       "creationTime": 1660099833,
       "language": "GNU C++17",
