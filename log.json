@@ -1,92 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660196255,
+  "updateTime": 1660239499,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 167818188,
-            "pid": "933A",
-            "name": "A Twisty Movement",
-            "verdict": "OK",
-            "creationTime": 1660186704
-          },
-          {
-            "platform": "codeforces",
-            "id": 167815884,
-            "pid": "191A",
-            "name": "Dynasty Puzzles",
-            "verdict": "OK",
-            "creationTime": 1660184188
-          },
-          {
-            "platform": "codeforces",
-            "id": 167815831,
-            "pid": "191A",
-            "name": "Dynasty Puzzles",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660184126
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 167818457,
-            "pid": "453A",
-            "name": "Little Pony and Expected Maximum",
-            "verdict": "OK",
-            "creationTime": 1660187002
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 167817963,
-            "pid": "1704D",
-            "name": "Magical Array",
-            "verdict": "OK",
-            "creationTime": 1660186464
-          },
-          {
-            "platform": "codeforces",
-            "id": 167817929,
-            "pid": "1704D",
-            "name": "Magical Array",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660186420
-          },
-          {
-            "platform": "codeforces",
-            "id": 167815973,
-            "pid": "1704C",
-            "name": "Virus",
-            "verdict": "OK",
-            "creationTime": 1660184287
-          },
-          {
-            "platform": "codeforces",
-            "id": 167813605,
-            "pid": "1704B",
-            "name": "Luke is a Foodie",
-            "verdict": "OK",
-            "creationTime": 1660181461
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7831dcfd27e5c656de76be1a70f33c2439e99bfc"
+  "ref": "ea8f78780d2be793e805a52bb9931b64cd1999ad"
 }
