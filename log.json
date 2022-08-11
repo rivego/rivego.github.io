@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660153321,
+  "updateTime": 1660196255,
   "history": {
     "user": [
       {
@@ -8,11 +8,41 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 167728436,
-            "pid": "189A",
-            "name": "Cut Ribbon",
+            "id": 167818188,
+            "pid": "933A",
+            "name": "A Twisty Movement",
             "verdict": "OK",
-            "creationTime": 1660122653
+            "creationTime": 1660186704
+          },
+          {
+            "platform": "codeforces",
+            "id": 167815884,
+            "pid": "191A",
+            "name": "Dynasty Puzzles",
+            "verdict": "OK",
+            "creationTime": 1660184188
+          },
+          {
+            "platform": "codeforces",
+            "id": 167815831,
+            "pid": "191A",
+            "name": "Dynasty Puzzles",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660184126
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 167818457,
+            "pid": "453A",
+            "name": "Little Pony and Expected Maximum",
+            "verdict": "OK",
+            "creationTime": 1660187002
           }
         ],
         "newContests": []
@@ -22,203 +52,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 167766191,
-            "pid": "1704A",
-            "name": "Two 0-1 Sequences",
+            "id": 167817963,
+            "pid": "1704D",
+            "name": "Magical Array",
             "verdict": "OK",
-            "creationTime": 1660140380
+            "creationTime": 1660186464
           },
           {
             "platform": "codeforces",
-            "id": 167763586,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
-            "verdict": "OK",
-            "creationTime": 1660139040
-          },
-          {
-            "platform": "codeforces",
-            "id": 167763444,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
+            "id": 167817929,
+            "pid": "1704D",
+            "name": "Magical Array",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1660138958
+            "creationTime": 1660186420
           },
           {
             "platform": "codeforces",
-            "id": 167762955,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660138685
-          },
-          {
-            "platform": "codeforces",
-            "id": 167762110,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660138217
-          },
-          {
-            "platform": "codeforces",
-            "id": 167761686,
-            "pid": "1713B",
-            "name": "Optimal Reduction",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660137962
-          },
-          {
-            "platform": "codeforces",
-            "id": 167753693,
-            "pid": "1716D",
-            "name": "Chip Move",
+            "id": 167815973,
+            "pid": "1704C",
+            "name": "Virus",
             "verdict": "OK",
-            "creationTime": 1660137025
+            "creationTime": 1660184287
           },
           {
             "platform": "codeforces",
-            "id": 167752614,
-            "pid": "1716D",
-            "name": "Chip Move",
+            "id": 167813605,
+            "pid": "1704B",
+            "name": "Luke is a Foodie",
             "verdict": "OK",
-            "creationTime": 1660136456
-          },
-          {
-            "platform": "codeforces",
-            "id": 167752507,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "OK",
-            "creationTime": 1660136396
-          },
-          {
-            "platform": "codeforces",
-            "id": 167752298,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "OK",
-            "creationTime": 1660136285
-          },
-          {
-            "platform": "codeforces",
-            "id": 167752106,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "OK",
-            "creationTime": 1660136197
-          },
-          {
-            "platform": "codeforces",
-            "id": 167751980,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660136128
-          },
-          {
-            "platform": "codeforces",
-            "id": 167751864,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660136075
-          },
-          {
-            "platform": "codeforces",
-            "id": 167751323,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1660135820
-          },
-          {
-            "platform": "codeforces",
-            "id": 167751042,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1660135661
-          },
-          {
-            "platform": "codeforces",
-            "id": 167750606,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1660135417
-          },
-          {
-            "platform": "codeforces",
-            "id": 167749885,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "OK",
-            "creationTime": 1660135020
-          },
-          {
-            "platform": "codeforces",
-            "id": 167749690,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "OK",
-            "creationTime": 1660134897
-          },
-          {
-            "platform": "codeforces",
-            "id": 167749052,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "OK",
-            "creationTime": 1660134591
-          },
-          {
-            "platform": "codeforces",
-            "id": 167747362,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1660133672
-          },
-          {
-            "platform": "codeforces",
-            "id": 167747205,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660133582
-          },
-          {
-            "platform": "codeforces",
-            "id": 167743888,
-            "pid": "1716C",
-            "name": "Robot in a Hallway",
-            "verdict": "OK",
-            "creationTime": 1660131731
-          },
-          {
-            "platform": "codeforces",
-            "id": 167717724,
-            "pid": "1713D",
-            "name": "Tournament Countdown",
-            "verdict": "OK",
-            "creationTime": 1660116551
-          },
-          {
-            "platform": "codeforces",
-            "id": 167717548,
-            "pid": "1713D",
-            "name": "Tournament Countdown",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660116447
-          },
-          {
-            "platform": "codeforces",
-            "id": 167711518,
-            "pid": "1713C",
-            "name": "Build Permutation",
-            "verdict": "OK",
-            "creationTime": 1660112141
+            "creationTime": 1660181461
           }
         ],
         "newContests": []
@@ -226,5 +88,5 @@
     ],
     "contest": []
   },
-  "ref": "29e62205d15925b4f745a3425c7345b1b4b300b4"
+  "ref": "7831dcfd27e5c656de76be1a70f33c2439e99bfc"
 }

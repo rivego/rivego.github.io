@@ -6,6 +6,81 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167818188,
+      "creationTime": 1660186704,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487296943
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "933A",
+        "name": "A Twisty Movement",
+        "rating": 1800,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/933/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/933/submission/167818188"
+    },
+    {
+      "type": "codeforces",
+      "id": 167815884,
+      "creationTime": 1660184188,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487299459
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "191A",
+        "name": "Dynasty Puzzles",
+        "rating": 1500,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/191/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/191/submission/167815884"
+    },
+    {
+      "type": "codeforces",
+      "id": 167815831,
+      "creationTime": 1660184126,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487299521
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "191A",
+        "name": "Dynasty Puzzles",
+        "rating": 1500,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/191/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/191/submission/167815831"
+    },
+    {
+      "type": "codeforces",
       "id": 167728436,
       "creationTime": 1660122653,
       "language": "GNU C++17",

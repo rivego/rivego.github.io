@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167818457,
+      "creationTime": 1660187002,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487296645
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "453A",
+        "name": "Little Pony and Expected Maximum",
+        "rating": 1600,
+        "tags": [
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/453/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/453/submission/167818457"
+    },
+    {
+      "type": "codeforces",
       "id": 167641231,
       "creationTime": 1660052440,
       "language": "GNU C++17 (64)",

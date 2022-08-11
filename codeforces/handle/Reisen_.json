@@ -6,6 +6,116 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167817963,
+      "creationTime": 1660186464,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487297183
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704D",
+        "name": "Magical Array",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "hashing",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/167817963"
+    },
+    {
+      "type": "codeforces",
+      "id": 167817929,
+      "creationTime": 1660186420,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487297227
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704D",
+        "name": "Magical Array",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "hashing",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/167817929"
+    },
+    {
+      "type": "codeforces",
+      "id": 167815973,
+      "creationTime": 1660184287,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487299360
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704C",
+        "name": "Virus",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/167815973"
+    },
+    {
+      "type": "codeforces",
+      "id": 167813605,
+      "creationTime": 1660181461,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487302186
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704B",
+        "name": "Luke is a Foodie",
+        "rating": 1000,
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/167813605"
+    },
+    {
+      "type": "codeforces",
       "id": 167766191,
       "creationTime": 1660140380,
       "language": "GNU C++14",
