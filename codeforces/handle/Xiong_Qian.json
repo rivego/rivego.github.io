@@ -6,6 +6,141 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167953786,
+      "creationTime": 1660295416,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487188231
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1688C",
+        "name": "Manipulating History",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1688/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1688/submission/167953786"
+    },
+    {
+      "type": "codeforces",
+      "id": 167946784,
+      "creationTime": 1660290717,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487192930
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1688B",
+        "name": "Patchouli's Magical Talisman",
+        "rating": 800,
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1688/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1688/submission/167946784"
+    },
+    {
+      "type": "codeforces",
+      "id": 167946713,
+      "creationTime": 1660290664,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487192983
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1688B",
+        "name": "Patchouli's Magical Talisman",
+        "rating": 800,
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1688/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1688/submission/167946713"
+    },
+    {
+      "type": "codeforces",
+      "id": 167942464,
+      "creationTime": 1660287549,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487196098
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1688A",
+        "name": "Cirno's Perfect Bitmasks Classroom",
+        "rating": 800,
+        "tags": [
+          "bitmasks",
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1688/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1688/submission/167942464"
+    },
+    {
+      "type": "codeforces",
+      "id": 167941949,
+      "creationTime": 1660287157,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487196490
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1688A",
+        "name": "Cirno's Perfect Bitmasks Classroom",
+        "rating": 800,
+        "tags": [
+          "bitmasks",
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1688/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1688/submission/167941949"
+    },
+    {
+      "type": "codeforces",
       "id": 167634999,
       "creationTime": 1660049034,
       "language": "GNU C++20 (64)",

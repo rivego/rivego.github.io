@@ -6,6 +6,58 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 167941826,
+      "creationTime": 1660287067,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487196580
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1247D",
+        "name": "Power Products",
+        "rating": 1800,
+        "tags": [
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1247/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1247/submission/167941826"
+    },
+    {
+      "type": "codeforces",
+      "id": 167939051,
+      "creationTime": 1660284915,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487198732
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "16E",
+        "name": "Fish",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dp",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/16/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/16/submission/167939051"
+    },
+    {
+      "type": "codeforces",
       "id": 167818457,
       "creationTime": 1660187002,
       "language": "GNU C++17 (64)",
@@ -21883,7 +21935,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1745,
+    "rating": 1793,
     "maxRank": "expert",
     "maxRating": 1832
   }

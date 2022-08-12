@@ -1,9 +1,78 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660282641,
+  "updateTime": 1660326177,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Xiong_Qian",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 167953786,
+            "pid": "1688C",
+            "name": "Manipulating History",
+            "verdict": "OK",
+            "creationTime": 1660295416
+          },
+          {
+            "platform": "codeforces",
+            "id": 167946784,
+            "pid": "1688B",
+            "name": "Patchouli's Magical Talisman",
+            "verdict": "OK",
+            "creationTime": 1660290717
+          },
+          {
+            "platform": "codeforces",
+            "id": 167946713,
+            "pid": "1688B",
+            "name": "Patchouli's Magical Talisman",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1660290664
+          },
+          {
+            "platform": "codeforces",
+            "id": 167942464,
+            "pid": "1688A",
+            "name": "Cirno's Perfect Bitmasks Classroom",
+            "verdict": "OK",
+            "creationTime": 1660287549
+          },
+          {
+            "platform": "codeforces",
+            "id": 167941949,
+            "pid": "1688A",
+            "name": "Cirno's Perfect Bitmasks Classroom",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660287157
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 167941826,
+            "pid": "1247D",
+            "name": "Power Products",
+            "verdict": "OK",
+            "creationTime": 1660287067
+          },
+          {
+            "platform": "codeforces",
+            "id": 167939051,
+            "pid": "16E",
+            "name": "Fish",
+            "verdict": "OK",
+            "creationTime": 1660284915
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "16462a18009630e8e70aa4943ad3c08b078a1c84"
+  "ref": "e90e3ca32917c43ab1dc4f25082659ef47f3f3f5"
 }
