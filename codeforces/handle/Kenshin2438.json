@@ -6,6 +6,134 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168177211,
+      "creationTime": 1660409240,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712D",
+        "name": "Empty Graph",
+        "tags": [
+          "binary search",
+          "binary search",
+          "greedy",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168177211"
+    },
+    {
+      "type": "codeforces",
+      "id": 168114562,
+      "creationTime": 1660402364,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712C",
+        "name": "Sort Zero",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168114562"
+    },
+    {
+      "type": "codeforces",
+      "id": 168104191,
+      "creationTime": 1660401926,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712B",
+        "name": "Woeful Permutation",
+        "tags": [
+          "constructive algorithms",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168104191"
+    },
+    {
+      "type": "codeforces",
+      "id": 168091956,
+      "creationTime": 1660401500,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712A",
+        "name": "Wonderful Permutation",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168091956"
+    },
+    {
+      "type": "codeforces",
+      "id": 168047024,
+      "creationTime": 1660374398,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487109249
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1627D",
+        "name": "Not Adding",
+        "rating": 1900,
+        "tags": [
+          "brute force",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1627/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1627/submission/168047024"
+    },
+    {
+      "type": "codeforces",
       "id": 167941826,
       "creationTime": 1660287067,
       "language": "GNU C++17 (64)",
