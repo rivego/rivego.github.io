@@ -1,72 +1,18 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660326177,
+  "updateTime": 1660368914,
   "history": {
     "user": [
       {
-        "name": "Xiong_Qian",
+        "name": "ybb_little_train",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 167953786,
-            "pid": "1688C",
-            "name": "Manipulating History",
+            "id": 168029016,
+            "pid": "1713C",
+            "name": "Build Permutation",
             "verdict": "OK",
-            "creationTime": 1660295416
-          },
-          {
-            "platform": "codeforces",
-            "id": 167946784,
-            "pid": "1688B",
-            "name": "Patchouli's Magical Talisman",
-            "verdict": "OK",
-            "creationTime": 1660290717
-          },
-          {
-            "platform": "codeforces",
-            "id": 167946713,
-            "pid": "1688B",
-            "name": "Patchouli's Magical Talisman",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1660290664
-          },
-          {
-            "platform": "codeforces",
-            "id": 167942464,
-            "pid": "1688A",
-            "name": "Cirno's Perfect Bitmasks Classroom",
-            "verdict": "OK",
-            "creationTime": 1660287549
-          },
-          {
-            "platform": "codeforces",
-            "id": 167941949,
-            "pid": "1688A",
-            "name": "Cirno's Perfect Bitmasks Classroom",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660287157
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 167941826,
-            "pid": "1247D",
-            "name": "Power Products",
-            "verdict": "OK",
-            "creationTime": 1660287067
-          },
-          {
-            "platform": "codeforces",
-            "id": 167939051,
-            "pid": "16E",
-            "name": "Fish",
-            "verdict": "OK",
-            "creationTime": 1660284915
+            "creationTime": 1660354276
           }
         ],
         "newContests": []
@@ -74,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "e90e3ca32917c43ab1dc4f25082659ef47f3f3f5"
+  "ref": "339bc770ebd1a3d7862310f93baa3e246790a087"
 }

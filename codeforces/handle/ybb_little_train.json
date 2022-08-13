@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168029016,
+      "creationTime": 1660354276,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487129371
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1713C",
+        "name": "Build Permutation",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1713/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1713/submission/168029016"
+    },
+    {
+      "type": "codeforces",
       "id": 167818188,
       "creationTime": 1660186704,
       "language": "GNU C++17",
