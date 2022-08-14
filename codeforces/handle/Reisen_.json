@@ -23,8 +23,10 @@
         "name": "Empty Graph",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
-          "greedy"
+          "greedy",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/D"
       },
@@ -49,8 +51,7 @@
         "name": "Sort Zero",
         "tags": [
           "greedy",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/C"
       },
@@ -75,8 +76,7 @@
         "name": "Sort Zero",
         "tags": [
           "greedy",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/C"
       },
@@ -126,8 +126,7 @@
         "name": "Sort Zero",
         "tags": [
           "greedy",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/C"
       },
@@ -152,8 +151,7 @@
         "name": "Sort Zero",
         "tags": [
           "greedy",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/C"
       },
@@ -178,8 +176,7 @@
         "name": "Sort Zero",
         "tags": [
           "greedy",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/C"
       },
