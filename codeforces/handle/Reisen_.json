@@ -6,6 +6,109 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168218523,
+      "creationTime": 1660446594,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487037053
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712D",
+        "name": "Empty Graph",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168218523"
+    },
+    {
+      "type": "codeforces",
+      "id": 168214327,
+      "creationTime": 1660441244,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487042403
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712C",
+        "name": "Sort Zero",
+        "tags": [
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168214327"
+    },
+    {
+      "type": "codeforces",
+      "id": 168214268,
+      "creationTime": 1660441150,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487042497
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712C",
+        "name": "Sort Zero",
+        "tags": [
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168214268"
+    },
+    {
+      "type": "codeforces",
+      "id": 168213211,
+      "creationTime": 1660439652,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487043995
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712A",
+        "name": "Wonderful Permutation",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168213211"
+    },
+    {
+      "type": "codeforces",
       "id": 168156602,
       "creationTime": 1660405955,
       "language": "GNU C++14",
@@ -22,7 +125,9 @@
         "id": "1712C",
         "name": "Sort Zero",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/C"
       },
@@ -46,7 +151,9 @@
         "id": "1712C",
         "name": "Sort Zero",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/C"
       },
@@ -70,7 +177,9 @@
         "id": "1712C",
         "name": "Sort Zero",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/C"
       },
@@ -95,6 +204,7 @@
         "name": "Woeful Permutation",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/B"
@@ -120,6 +230,7 @@
         "name": "Woeful Permutation",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/B"
@@ -144,6 +255,7 @@
         "id": "1712A",
         "name": "Wonderful Permutation",
         "tags": [
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/A"
@@ -168,6 +280,7 @@
         "id": "1712A",
         "name": "Wonderful Permutation",
         "tags": [
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/A"
@@ -24824,8 +24937,8 @@
     }
   ],
   "codeforces": {
-    "rank": "specialist",
-    "rating": 1480,
+    "rank": "pupil",
+    "rating": 1348,
     "maxRank": "specialist",
     "maxRating": 1505
   }

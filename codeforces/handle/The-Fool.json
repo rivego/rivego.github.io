@@ -6,6 +6,109 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168214433,
+      "creationTime": 1660441405,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487042242
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712C",
+        "name": "Sort Zero",
+        "tags": [
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168214433"
+    },
+    {
+      "type": "codeforces",
+      "id": 168213855,
+      "creationTime": 1660440544,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487043103
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712B",
+        "name": "Woeful Permutation",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168213855"
+    },
+    {
+      "type": "codeforces",
+      "id": 168213771,
+      "creationTime": 1660440422,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487043225
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712B",
+        "name": "Woeful Permutation",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168213771"
+    },
+    {
+      "type": "codeforces",
+      "id": 168213329,
+      "creationTime": 1660439833,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487043814
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712A",
+        "name": "Wonderful Permutation",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168213329"
+    },
+    {
+      "type": "codeforces",
       "id": 166430486,
       "creationTime": 1659319396,
       "language": "GNU C++14",
