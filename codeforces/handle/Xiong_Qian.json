@@ -6,6 +6,90 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168330936,
+      "creationTime": 1660532381,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486951266
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712D",
+        "name": "Empty Graph",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168330936"
+    },
+    {
+      "type": "codeforces",
+      "id": 168330447,
+      "creationTime": 1660531810,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486951837
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712D",
+        "name": "Empty Graph",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168330447"
+    },
+    {
+      "type": "codeforces",
+      "id": 168330421,
+      "creationTime": 1660531774,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486951873
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712D",
+        "name": "Empty Graph",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168330421"
+    },
+    {
+      "type": "codeforces",
       "id": 168218461,
       "creationTime": 1660446505,
       "language": "GNU C++20 (64)",

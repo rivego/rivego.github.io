@@ -51,12 +51,10 @@
         "id": "1712E2",
         "name": "LCM Sum (hard version)",
         "tags": [
-          "brute force",
           "combinatorics",
           "data structures",
           "math",
-          "number theory",
-          "two pointers"
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/E2"
       },

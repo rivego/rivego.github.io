@@ -1,9 +1,54 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660498643,
+  "updateTime": 1660542574,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Xiong_Qian",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 168330936,
+            "pid": "1712D",
+            "name": "Empty Graph",
+            "verdict": "OK",
+            "creationTime": 1660532381
+          },
+          {
+            "platform": "codeforces",
+            "id": 168330447,
+            "pid": "1712D",
+            "name": "Empty Graph",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660531810
+          },
+          {
+            "platform": "codeforces",
+            "id": 168330421,
+            "pid": "1712D",
+            "name": "Empty Graph",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660531774
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Reisen_",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 168331830,
+            "pid": "1711A",
+            "name": "Perfect Permutation",
+            "verdict": "OK",
+            "creationTime": 1660533447
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e9c9dbe9d0c83bb76eadacafeda84e63195e9718"
+  "ref": "051b02b07326e3c7e3baa6b6a7a5583fb3394651"
 }
