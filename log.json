@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660542574,
+  "updateTime": 1660585417,
   "history": {
     "user": [
       {
@@ -8,41 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 168330936,
-            "pid": "1712D",
-            "name": "Empty Graph",
+            "id": 168388461,
+            "pid": "1712E1",
+            "name": "LCM Sum (easy version)",
             "verdict": "OK",
-            "creationTime": 1660532381
+            "creationTime": 1660570812
           },
           {
             "platform": "codeforces",
-            "id": 168330447,
-            "pid": "1712D",
-            "name": "Empty Graph",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660531810
-          },
-          {
-            "platform": "codeforces",
-            "id": 168330421,
-            "pid": "1712D",
-            "name": "Empty Graph",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660531774
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 168331830,
-            "pid": "1711A",
-            "name": "Perfect Permutation",
+            "id": 168388372,
+            "pid": "1712E2",
+            "name": "LCM Sum (hard version)",
             "verdict": "OK",
-            "creationTime": 1660533447
+            "creationTime": 1660570777
           }
         ],
         "newContests": []
@@ -50,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "051b02b07326e3c7e3baa6b6a7a5583fb3394651"
+  "ref": "4923d34ddf5fecc9f7230229ffef924e863e5f6e"
 }
