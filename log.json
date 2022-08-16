@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660585417,
+  "updateTime": 1660628094,
   "history": {
-    "user": [
-      {
-        "name": "Xiong_Qian",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 168388461,
-            "pid": "1712E1",
-            "name": "LCM Sum (easy version)",
-            "verdict": "OK",
-            "creationTime": 1660570812
-          },
-          {
-            "platform": "codeforces",
-            "id": 168388372,
-            "pid": "1712E2",
-            "name": "LCM Sum (hard version)",
-            "verdict": "OK",
-            "creationTime": 1660570777
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "4923d34ddf5fecc9f7230229ffef924e863e5f6e"
+  "ref": "35bd24a04dcdff0b03223078112cd0ceae8f50d9"
 }
