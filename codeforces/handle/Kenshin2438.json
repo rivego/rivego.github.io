@@ -6,6 +6,36 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168479317,
+      "creationTime": 1660639258,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486844389
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1625D",
+        "name": "Binary Spiders",
+        "rating": 2300,
+        "tags": [
+          "bitmasks",
+          "data structures",
+          "implementation",
+          "math",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1625/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1625/submission/168479317"
+    },
+    {
+      "type": "codeforces",
       "id": 168220336,
       "creationTime": 1660448678,
       "language": "GNU C++17 (64)",
@@ -21,6 +51,7 @@
         "type": "codeforces",
         "id": "1712E1",
         "name": "LCM Sum (easy version)",
+        "rating": 2300,
         "tags": [
           "binary search",
           "brute force",
@@ -50,6 +81,7 @@
         "type": "codeforces",
         "id": "1712E2",
         "name": "LCM Sum (hard version)",
+        "rating": 2500,
         "tags": [
           "brute force",
           "data structures",
@@ -78,6 +110,7 @@
         "type": "codeforces",
         "id": "1712D",
         "name": "Empty Graph",
+        "rating": 2000,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -106,6 +139,7 @@
         "type": "codeforces",
         "id": "1712D",
         "name": "Empty Graph",
+        "rating": 2000,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -134,6 +168,7 @@
         "type": "codeforces",
         "id": "1712D",
         "name": "Empty Graph",
+        "rating": 2000,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -162,6 +197,7 @@
         "type": "codeforces",
         "id": "1712D",
         "name": "Empty Graph",
+        "rating": 2000,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -190,6 +226,7 @@
         "type": "codeforces",
         "id": "1712C",
         "name": "Sort Zero",
+        "rating": 1100,
         "tags": [
           "greedy",
           "sortings"
@@ -215,6 +252,7 @@
         "type": "codeforces",
         "id": "1712B",
         "name": "Woeful Permutation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -241,6 +279,7 @@
         "type": "codeforces",
         "id": "1712A",
         "name": "Wonderful Permutation",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -22208,7 +22247,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1744,
+    "rating": 1769,
     "maxRank": "expert",
     "maxRating": 1832
   }

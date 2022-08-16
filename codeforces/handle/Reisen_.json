@@ -6,6 +6,124 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168510868,
+      "creationTime": 1660658032,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486825615
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712E2",
+        "name": "LCM Sum (hard version)",
+        "rating": 2500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168510868"
+    },
+    {
+      "type": "codeforces",
+      "id": 168510652,
+      "creationTime": 1660657916,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486825731
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712E1",
+        "name": "LCM Sum (easy version)",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "brute force",
+          "combinatorics",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168510652"
+    },
+    {
+      "type": "codeforces",
+      "id": 168510647,
+      "creationTime": 1660657914,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486825733
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712E1",
+        "name": "LCM Sum (easy version)",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "brute force",
+          "combinatorics",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168510647"
+    },
+    {
+      "type": "codeforces",
+      "id": 168510569,
+      "creationTime": 1660657870,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486825777
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712E2",
+        "name": "LCM Sum (hard version)",
+        "rating": 2500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168510569"
+    },
+    {
+      "type": "codeforces",
       "id": 168331830,
       "creationTime": 1660533447,
       "language": "GNU C++14",
@@ -46,6 +164,7 @@
         "type": "codeforces",
         "id": "1712D",
         "name": "Empty Graph",
+        "rating": 2000,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -74,6 +193,7 @@
         "type": "codeforces",
         "id": "1712C",
         "name": "Sort Zero",
+        "rating": 1100,
         "tags": [
           "greedy",
           "sortings"
@@ -99,6 +219,7 @@
         "type": "codeforces",
         "id": "1712C",
         "name": "Sort Zero",
+        "rating": 1100,
         "tags": [
           "greedy",
           "sortings"
@@ -124,6 +245,7 @@
         "type": "codeforces",
         "id": "1712A",
         "name": "Wonderful Permutation",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -149,6 +271,7 @@
         "type": "codeforces",
         "id": "1712C",
         "name": "Sort Zero",
+        "rating": 1100,
         "tags": [
           "greedy",
           "sortings"
@@ -174,6 +297,7 @@
         "type": "codeforces",
         "id": "1712C",
         "name": "Sort Zero",
+        "rating": 1100,
         "tags": [
           "greedy",
           "sortings"
@@ -199,6 +323,7 @@
         "type": "codeforces",
         "id": "1712C",
         "name": "Sort Zero",
+        "rating": 1100,
         "tags": [
           "greedy",
           "sortings"
@@ -224,6 +349,7 @@
         "type": "codeforces",
         "id": "1712B",
         "name": "Woeful Permutation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -250,6 +376,7 @@
         "type": "codeforces",
         "id": "1712B",
         "name": "Woeful Permutation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -276,6 +403,7 @@
         "type": "codeforces",
         "id": "1712A",
         "name": "Wonderful Permutation",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -301,6 +429,7 @@
         "type": "codeforces",
         "id": "1712A",
         "name": "Wonderful Permutation",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -24959,8 +25088,8 @@
     }
   ],
   "codeforces": {
-    "rank": "specialist",
-    "rating": 1480,
+    "rank": "pupil",
+    "rating": 1349,
     "maxRank": "specialist",
     "maxRating": 1505
   }

@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1712C",
         "name": "Sort Zero",
+        "rating": 1100,
         "tags": [
           "greedy",
           "sortings"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1712B",
         "name": "Woeful Permutation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -72,6 +74,7 @@
         "type": "codeforces",
         "id": "1712B",
         "name": "Woeful Permutation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -98,6 +101,7 @@
         "type": "codeforces",
         "id": "1712A",
         "name": "Wonderful Permutation",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
