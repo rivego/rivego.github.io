@@ -6,6 +6,86 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168707808,
+      "creationTime": 1660745246,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486738401
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719F",
+        "name": "Tonya and Burenka-179",
+        "tags": [
+          "brute force",
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168707808"
+    },
+    {
+      "type": "codeforces",
+      "id": 168707666,
+      "creationTime": 1660745183,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486738464
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719F",
+        "name": "Tonya and Burenka-179",
+        "tags": [
+          "brute force",
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168707666"
+    },
+    {
+      "type": "codeforces",
+      "id": 168692957,
+      "creationTime": 1660737566,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486746081
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719E",
+        "name": "Fibonacci Strings",
+        "tags": [
+          "greedy",
+          "implementation",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168692957"
+    },
+    {
+      "type": "codeforces",
       "id": 168642445,
       "creationTime": 1660704919,
       "language": "GNU C++17 (64)",

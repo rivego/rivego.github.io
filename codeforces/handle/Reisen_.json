@@ -6,6 +6,226 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168702268,
+      "creationTime": 1660742479,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486741168
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719C",
+        "name": "Fighting Tournament",
+        "tags": [
+          "binary search",
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168702268"
+    },
+    {
+      "type": "codeforces",
+      "id": 168700546,
+      "creationTime": 1660741640,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486742007
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719C",
+        "name": "Fighting Tournament",
+        "tags": [
+          "binary search",
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168700546"
+    },
+    {
+      "type": "codeforces",
+      "id": 168700259,
+      "creationTime": 1660741498,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486742149
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719C",
+        "name": "Fighting Tournament",
+        "tags": [
+          "binary search",
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168700259"
+    },
+    {
+      "type": "codeforces",
+      "id": 168699887,
+      "creationTime": 1660741292,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486742355
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719C",
+        "name": "Fighting Tournament",
+        "tags": [
+          "binary search",
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168699887"
+    },
+    {
+      "type": "codeforces",
+      "id": 168694500,
+      "creationTime": 1660738430,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486745217
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704D",
+        "name": "Magical Array",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "hashing",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/168694500"
+    },
+    {
+      "type": "codeforces",
+      "id": 168694177,
+      "creationTime": 1660738245,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486745402
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704D",
+        "name": "Magical Array",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "hashing",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/168694177"
+    },
+    {
+      "type": "codeforces",
+      "id": 168693735,
+      "creationTime": 1660738016,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486745631
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704D",
+        "name": "Magical Array",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "hashing",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/168693735"
+    },
+    {
+      "type": "codeforces",
+      "id": 168693642,
+      "creationTime": 1660737957,
+      "language": "Clang++20 Diagnostics",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486745690
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704D",
+        "name": "Magical Array",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "hashing",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/168693642"
+    },
+    {
+      "type": "codeforces",
       "id": 168639971,
       "creationTime": 1660702512,
       "language": "Clang++20 Diagnostics",

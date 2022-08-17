@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660715550,
+  "updateTime": 1660758246,
   "history": {
     "user": [
       {
@@ -8,19 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 168640779,
-            "pid": "1719B",
-            "name": "Mathematical Circus",
+            "id": 168703033,
+            "pid": "1719C",
+            "name": "Fighting Tournament",
             "verdict": "OK",
-            "creationTime": 1660703303
+            "creationTime": 1660742859
           },
           {
             "platform": "codeforces",
-            "id": 168638846,
-            "pid": "1719A",
-            "name": "Chip Game",
-            "verdict": "OK",
-            "creationTime": 1660701715
+            "id": 168702043,
+            "pid": "1719C",
+            "name": "Fighting Tournament",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660742368
           }
         ],
         "newContests": []
@@ -30,67 +30,27 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 168642445,
-            "pid": "1719D2",
-            "name": "Burenka and Traditions (hard version)",
+            "id": 168707808,
+            "pid": "1719F",
+            "name": "Tonya and Burenka-179",
             "verdict": "OK",
-            "creationTime": 1660704919
+            "creationTime": 1660745246
           },
           {
             "platform": "codeforces",
-            "id": 168642423,
-            "pid": "1719D1",
-            "name": "Burenka and Traditions (easy version)",
-            "verdict": "OK",
-            "creationTime": 1660704907
-          },
-          {
-            "platform": "codeforces",
-            "id": 168640512,
-            "pid": "1719D1",
-            "name": "Burenka and Traditions (easy version)",
+            "id": 168707666,
+            "pid": "1719F",
+            "name": "Tonya and Burenka-179",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1660703012
+            "creationTime": 1660745183
           },
           {
             "platform": "codeforces",
-            "id": 168639084,
-            "pid": "1719C",
-            "name": "Fighting Tournament",
+            "id": 168692957,
+            "pid": "1719E",
+            "name": "Fibonacci Strings",
             "verdict": "OK",
-            "creationTime": 1660701961
-          },
-          {
-            "platform": "codeforces",
-            "id": 168638805,
-            "pid": "1719C",
-            "name": "Fighting Tournament",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660701672
-          },
-          {
-            "platform": "codeforces",
-            "id": 168637699,
-            "pid": "1719B",
-            "name": "Mathematical Circus",
-            "verdict": "OK",
-            "creationTime": 1660700468
-          },
-          {
-            "platform": "codeforces",
-            "id": 168637650,
-            "pid": "1719B",
-            "name": "Mathematical Circus",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660700418
-          },
-          {
-            "platform": "codeforces",
-            "id": 168637061,
-            "pid": "1719A",
-            "name": "Chip Game",
-            "verdict": "OK",
-            "creationTime": 1660699759
+            "creationTime": 1660737566
           }
         ],
         "newContests": []
@@ -100,19 +60,67 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 168639971,
-            "pid": "1719B",
-            "name": "Mathematical Circus",
+            "id": 168702268,
+            "pid": "1719C",
+            "name": "Fighting Tournament",
             "verdict": "OK",
-            "creationTime": 1660702512
+            "creationTime": 1660742479
           },
           {
             "platform": "codeforces",
-            "id": 168637934,
-            "pid": "1719A",
-            "name": "Chip Game",
+            "id": 168700546,
+            "pid": "1719C",
+            "name": "Fighting Tournament",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660741640
+          },
+          {
+            "platform": "codeforces",
+            "id": 168700259,
+            "pid": "1719C",
+            "name": "Fighting Tournament",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1660741498
+          },
+          {
+            "platform": "codeforces",
+            "id": 168699887,
+            "pid": "1719C",
+            "name": "Fighting Tournament",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1660741292
+          },
+          {
+            "platform": "codeforces",
+            "id": 168694500,
+            "pid": "1704D",
+            "name": "Magical Array",
             "verdict": "OK",
-            "creationTime": 1660700722
+            "creationTime": 1660738430
+          },
+          {
+            "platform": "codeforces",
+            "id": 168694177,
+            "pid": "1704D",
+            "name": "Magical Array",
+            "verdict": "OK",
+            "creationTime": 1660738245
+          },
+          {
+            "platform": "codeforces",
+            "id": 168693735,
+            "pid": "1704D",
+            "name": "Magical Array",
+            "verdict": "OK",
+            "creationTime": 1660738016
+          },
+          {
+            "platform": "codeforces",
+            "id": 168693642,
+            "pid": "1704D",
+            "name": "Magical Array",
+            "verdict": "OK",
+            "creationTime": 1660737957
           }
         ],
         "newContests": []
@@ -120,5 +128,5 @@
     ],
     "contest": []
   },
-  "ref": "5f1d427d3889968f6c0116e4587ad8103583c751"
+  "ref": "373fe608b723bb3f5d920c3ac1c24af819595285"
 }

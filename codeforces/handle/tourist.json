@@ -74,6 +74,7 @@
         "id": "1718D",
         "name": "Permutation for Burenka",
         "tags": [
+          "graph matchings",
           "greedy",
           "math",
           "trees"
@@ -102,7 +103,6 @@
         "tags": [
           "brute force",
           "data structures",
-          "greedy",
           "math",
           "number theory"
         ],
@@ -130,7 +130,6 @@
         "tags": [
           "brute force",
           "data structures",
-          "greedy",
           "math",
           "number theory"
         ],
@@ -157,7 +156,6 @@
         "name": "Fibonacci Strings",
         "tags": [
           "brute force",
-          "data structures",
           "greedy",
           "implementation",
           "math",
@@ -186,7 +184,6 @@
         "name": "Fibonacci Strings",
         "tags": [
           "brute force",
-          "data structures",
           "greedy",
           "implementation",
           "math",
@@ -215,7 +212,6 @@
         "name": "Fibonacci Strings",
         "tags": [
           "brute force",
-          "data structures",
           "greedy",
           "implementation",
           "math",
@@ -246,7 +242,6 @@
           "data structures",
           "dp",
           "greedy",
-          "math",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1718/problem/A2"

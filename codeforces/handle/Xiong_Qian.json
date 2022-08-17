@@ -6,6 +6,60 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168703033,
+      "creationTime": 1660742859,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486740788
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719C",
+        "name": "Fighting Tournament",
+        "tags": [
+          "binary search",
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168703033"
+    },
+    {
+      "type": "codeforces",
+      "id": 168702043,
+      "creationTime": 1660742368,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486741279
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719C",
+        "name": "Fighting Tournament",
+        "tags": [
+          "binary search",
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168702043"
+    },
+    {
+      "type": "codeforces",
       "id": 168640779,
       "creationTime": 1660703303,
       "language": "GNU C++20 (64)",
