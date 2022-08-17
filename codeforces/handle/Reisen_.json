@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168639971,
+      "creationTime": 1660702512,
+      "language": "Clang++20 Diagnostics",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486781135
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719B",
+        "name": "Mathematical Circus",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168639971"
+    },
+    {
+      "type": "codeforces",
+      "id": 168637934,
+      "creationTime": 1660700722,
+      "language": "Clang++20 Diagnostics",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486782925
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719A",
+        "name": "Chip Game",
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168637934"
+    },
+    {
+      "type": "codeforces",
       "id": 168510868,
       "creationTime": 1660658032,
       "language": "GNU C++20 (64)",

@@ -6,6 +6,216 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168642445,
+      "creationTime": 1660704919,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660699320
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719D2",
+        "name": "Burenka and Traditions (hard version)",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168642445"
+    },
+    {
+      "type": "codeforces",
+      "id": 168642423,
+      "creationTime": 1660704907,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660699320
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719D1",
+        "name": "Burenka and Traditions (easy version)",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168642423"
+    },
+    {
+      "type": "codeforces",
+      "id": 168640512,
+      "creationTime": 1660703012,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660699320
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719D1",
+        "name": "Burenka and Traditions (easy version)",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168640512"
+    },
+    {
+      "type": "codeforces",
+      "id": 168639084,
+      "creationTime": 1660701961,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660699320
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719C",
+        "name": "Fighting Tournament",
+        "tags": [
+          "binary search",
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168639084"
+    },
+    {
+      "type": "codeforces",
+      "id": 168638805,
+      "creationTime": 1660701672,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660699320
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719C",
+        "name": "Fighting Tournament",
+        "tags": [
+          "binary search",
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168638805"
+    },
+    {
+      "type": "codeforces",
+      "id": 168637699,
+      "creationTime": 1660700468,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660699320
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719B",
+        "name": "Mathematical Circus",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168637699"
+    },
+    {
+      "type": "codeforces",
+      "id": 168637650,
+      "creationTime": 1660700418,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660699320
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719B",
+        "name": "Mathematical Circus",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168637650"
+    },
+    {
+      "type": "codeforces",
+      "id": 168637061,
+      "creationTime": 1660699759,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660699320
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1719A",
+        "name": "Chip Game",
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1719/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1719/submission/168637061"
+    },
+    {
+      "type": "codeforces",
       "id": 168479317,
       "creationTime": 1660639258,
       "language": "GNU C++17 (64)",
