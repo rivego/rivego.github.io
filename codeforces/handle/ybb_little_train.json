@@ -6,6 +6,138 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168801908,
+      "creationTime": 1660826677,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660822800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1698C",
+        "name": "3SUM Closure",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1698/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1698/submission/168801908"
+    },
+    {
+      "type": "codeforces",
+      "id": 168801200,
+      "creationTime": 1660826217,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660822800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1698C",
+        "name": "3SUM Closure",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1698/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1698/submission/168801200"
+    },
+    {
+      "type": "codeforces",
+      "id": 168797879,
+      "creationTime": 1660824120,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660822800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1698B",
+        "name": "Rising Sand",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1698/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1698/submission/168797879"
+    },
+    {
+      "type": "codeforces",
+      "id": 168797306,
+      "creationTime": 1660823741,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660822800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1698B",
+        "name": "Rising Sand",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1698/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1698/submission/168797306"
+    },
+    {
+      "type": "codeforces",
+      "id": 168796378,
+      "creationTime": 1660823072,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1660822800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1698A",
+        "name": "XOR Mixup",
+        "rating": 800,
+        "tags": [
+          "bitmasks",
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1698/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1698/submission/168796378"
+    },
+    {
+      "type": "codeforces",
       "id": 168215879,
       "creationTime": 1660443234,
       "language": "GNU C++17",
