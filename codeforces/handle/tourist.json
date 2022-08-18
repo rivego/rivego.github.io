@@ -266,9 +266,9 @@
         "id": "1718A1",
         "name": "Burenka and Traditions (easy version)",
         "tags": [
+          "bitmasks",
           "dp",
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1718/problem/A1"
       },
@@ -292,9 +292,9 @@
         "id": "1718A1",
         "name": "Burenka and Traditions (easy version)",
         "tags": [
+          "bitmasks",
           "dp",
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1718/problem/A1"
       },

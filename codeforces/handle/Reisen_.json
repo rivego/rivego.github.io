@@ -6,6 +6,117 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168752402,
+      "creationTime": 1660790716,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486692931
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706B",
+        "name": "Making Towers",
+        "rating": 1100,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/168752402"
+    },
+    {
+      "type": "codeforces",
+      "id": 168752383,
+      "creationTime": 1660790695,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486692952
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706C",
+        "name": "Qpwoeirut And The City",
+        "rating": 1400,
+        "tags": [
+          "dp",
+          "flows",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/168752383"
+    },
+    {
+      "type": "codeforces",
+      "id": 168752029,
+      "creationTime": 1660790297,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486693350
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706B",
+        "name": "Making Towers",
+        "rating": 1100,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/168752029"
+    },
+    {
+      "type": "codeforces",
+      "id": 168749651,
+      "creationTime": 1660787300,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486696347
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706A",
+        "name": "Another String Minimization Problem",
+        "rating": 800,
+        "tags": [
+          "2-sat",
+          "constructive algorithms",
+          "greedy",
+          "string suffix structures",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/168749651"
+    },
+    {
+      "type": "codeforces",
       "id": 168702268,
       "creationTime": 1660742479,
       "language": "GNU C++14",

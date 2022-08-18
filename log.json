@@ -1,126 +1,42 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660758246,
+  "updateTime": 1660801742,
   "history": {
     "user": [
-      {
-        "name": "Xiong_Qian",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 168703033,
-            "pid": "1719C",
-            "name": "Fighting Tournament",
-            "verdict": "OK",
-            "creationTime": 1660742859
-          },
-          {
-            "platform": "codeforces",
-            "id": 168702043,
-            "pid": "1719C",
-            "name": "Fighting Tournament",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660742368
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 168707808,
-            "pid": "1719F",
-            "name": "Tonya and Burenka-179",
-            "verdict": "OK",
-            "creationTime": 1660745246
-          },
-          {
-            "platform": "codeforces",
-            "id": 168707666,
-            "pid": "1719F",
-            "name": "Tonya and Burenka-179",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660745183
-          },
-          {
-            "platform": "codeforces",
-            "id": 168692957,
-            "pid": "1719E",
-            "name": "Fibonacci Strings",
-            "verdict": "OK",
-            "creationTime": 1660737566
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "Reisen_",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 168702268,
-            "pid": "1719C",
-            "name": "Fighting Tournament",
+            "id": 168752402,
+            "pid": "1706B",
+            "name": "Making Towers",
             "verdict": "OK",
-            "creationTime": 1660742479
+            "creationTime": 1660790716
           },
           {
             "platform": "codeforces",
-            "id": 168700546,
-            "pid": "1719C",
-            "name": "Fighting Tournament",
+            "id": 168752383,
+            "pid": "1706C",
+            "name": "Qpwoeirut And The City",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1660741640
+            "creationTime": 1660790695
           },
           {
             "platform": "codeforces",
-            "id": 168700259,
-            "pid": "1719C",
-            "name": "Fighting Tournament",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1660741498
-          },
-          {
-            "platform": "codeforces",
-            "id": 168699887,
-            "pid": "1719C",
-            "name": "Fighting Tournament",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1660741292
-          },
-          {
-            "platform": "codeforces",
-            "id": 168694500,
-            "pid": "1704D",
-            "name": "Magical Array",
+            "id": 168752029,
+            "pid": "1706B",
+            "name": "Making Towers",
             "verdict": "OK",
-            "creationTime": 1660738430
+            "creationTime": 1660790297
           },
           {
             "platform": "codeforces",
-            "id": 168694177,
-            "pid": "1704D",
-            "name": "Magical Array",
+            "id": 168749651,
+            "pid": "1706A",
+            "name": "Another String Minimization Problem",
             "verdict": "OK",
-            "creationTime": 1660738245
-          },
-          {
-            "platform": "codeforces",
-            "id": 168693735,
-            "pid": "1704D",
-            "name": "Magical Array",
-            "verdict": "OK",
-            "creationTime": 1660738016
-          },
-          {
-            "platform": "codeforces",
-            "id": 168693642,
-            "pid": "1704D",
-            "name": "Magical Array",
-            "verdict": "OK",
-            "creationTime": 1660737957
+            "creationTime": 1660787300
           }
         ],
         "newContests": []
@@ -128,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "373fe608b723bb3f5d920c3ac1c24af819595285"
+  "ref": "1e2512882dad232fda26424f533d256fc35c3698"
 }
