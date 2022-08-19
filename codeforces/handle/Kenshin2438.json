@@ -24,7 +24,6 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "data structures",
           "dp",
           "strings",
           "trees"
@@ -78,8 +77,7 @@
         "tags": [
           "data structures",
           "greedy",
-          "math",
-          "sortings"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1720/problem/B"
       },
@@ -105,8 +103,7 @@
         "tags": [
           "data structures",
           "greedy",
-          "math",
-          "sortings"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1720/problem/B"
       },
@@ -132,8 +129,7 @@
         "tags": [
           "data structures",
           "greedy",
-          "math",
-          "sortings"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1720/problem/B"
       },

@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168915154,
+      "creationTime": 1660880940,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486602707
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720A",
+        "name": "Burenka Plays with Fractions",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/168915154"
+    },
+    {
+      "type": "codeforces",
+      "id": 168914791,
+      "creationTime": 1660880534,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486603113
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720A",
+        "name": "Burenka Plays with Fractions",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/168914791"
+    },
+    {
+      "type": "codeforces",
       "id": 168804406,
       "creationTime": 1660828267,
       "language": "GNU C++14",
