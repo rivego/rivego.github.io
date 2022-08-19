@@ -1,26 +1,120 @@
 {
   "version": "0.1.29",
-  "updateTime": 1660887869,
+  "updateTime": 1660931050,
   "history": {
     "user": [
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 168943716,
+            "pid": "102920J",
+            "name": "Switches",
+            "verdict": "OK",
+            "creationTime": 1660899816
+          },
+          {
+            "platform": "codeforces",
+            "id": 168934111,
+            "pid": "1416C",
+            "name": "XOR Inverse",
+            "verdict": "OK",
+            "creationTime": 1660894291
+          },
+          {
+            "platform": "codeforces",
+            "id": 168933691,
+            "pid": "1416C",
+            "name": "XOR Inverse",
+            "verdict": "OK",
+            "creationTime": 1660894014
+          },
+          {
+            "platform": "codeforces",
+            "id": 168933254,
+            "pid": "1416C",
+            "name": "XOR Inverse",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660893745
+          },
+          {
+            "platform": "codeforces",
+            "id": 168929739,
+            "pid": "1720D2",
+            "name": "Xor-Subsequence (hard version)",
+            "verdict": "OK",
+            "creationTime": 1660891709
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "Reisen_",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 168915154,
-            "pid": "1720A",
-            "name": "Burenka Plays with Fractions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660880940
+            "id": 168976305,
+            "pid": "600E",
+            "name": "Lomsat gelral",
+            "verdict": "OK",
+            "creationTime": 1660917429
           },
           {
             "platform": "codeforces",
-            "id": 168914791,
+            "id": 168947480,
+            "pid": "1720D1",
+            "name": "Xor-Subsequence (easy version)",
+            "verdict": "OK",
+            "creationTime": 1660901983
+          },
+          {
+            "platform": "codeforces",
+            "id": 168947280,
+            "pid": "1720D1",
+            "name": "Xor-Subsequence (easy version)",
+            "verdict": "OK",
+            "creationTime": 1660901866
+          },
+          {
+            "platform": "codeforces",
+            "id": 168941802,
+            "pid": "1720C",
+            "name": "Corners",
+            "verdict": "OK",
+            "creationTime": 1660898781
+          },
+          {
+            "platform": "codeforces",
+            "id": 168933589,
+            "pid": "1720B",
+            "name": "Interesting Sum",
+            "verdict": "OK",
+            "creationTime": 1660893945
+          },
+          {
+            "platform": "codeforces",
+            "id": 168925415,
             "pid": "1720A",
             "name": "Burenka Plays with Fractions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1660880534
+            "verdict": "OK",
+            "creationTime": 1660889236
+          },
+          {
+            "platform": "codeforces",
+            "id": 168925261,
+            "pid": "1720A",
+            "name": "Burenka Plays with Fractions",
+            "verdict": "OK",
+            "creationTime": 1660889140
+          },
+          {
+            "platform": "codeforces",
+            "id": 168925202,
+            "pid": "1720A",
+            "name": "Burenka Plays with Fractions",
+            "verdict": "OK",
+            "creationTime": 1660889102
           }
         ],
         "newContests": []
@@ -28,5 +122,5 @@
     ],
     "contest": []
   },
-  "ref": "e64460200b21724f1f6070a30e599b1260087136"
+  "ref": "1e5f350744ad30ec44b13b2e88fb2837fc7c282c"
 }

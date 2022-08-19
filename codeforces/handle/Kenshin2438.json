@@ -6,6 +6,155 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168943716,
+      "creationTime": 1660899816,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486583831
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102920J",
+        "name": "Switches",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102920/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102920/submission/168943716"
+    },
+    {
+      "type": "codeforces",
+      "id": 168934111,
+      "creationTime": 1660894291,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486589356
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1416C",
+        "name": "XOR Inverse",
+        "rating": 2000,
+        "tags": [
+          "bitmasks",
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "greedy",
+          "math",
+          "sortings",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1416/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1416/submission/168934111"
+    },
+    {
+      "type": "codeforces",
+      "id": 168933691,
+      "creationTime": 1660894014,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486589633
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1416C",
+        "name": "XOR Inverse",
+        "rating": 2000,
+        "tags": [
+          "bitmasks",
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "greedy",
+          "math",
+          "sortings",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1416/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1416/submission/168933691"
+    },
+    {
+      "type": "codeforces",
+      "id": 168933254,
+      "creationTime": 1660893745,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486589902
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1416C",
+        "name": "XOR Inverse",
+        "rating": 2000,
+        "tags": [
+          "bitmasks",
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "greedy",
+          "math",
+          "sortings",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1416/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1416/submission/168933254"
+    },
+    {
+      "type": "codeforces",
+      "id": 168929739,
+      "creationTime": 1660891709,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486591938
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720D2",
+        "name": "Xor-Subsequence (hard version)",
+        "tags": [
+          "bitmasks",
+          "data structures",
+          "dp",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/168929739"
+    },
+    {
+      "type": "codeforces",
       "id": 168858672,
       "creationTime": 1660836031,
       "language": "GNU C++17 (64)",
@@ -75,9 +224,11 @@
         "id": "1720B",
         "name": "Interesting Sum",
         "tags": [
+          "brute force",
           "data structures",
           "greedy",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1720/problem/B"
       },
@@ -101,9 +252,11 @@
         "id": "1720B",
         "name": "Interesting Sum",
         "tags": [
+          "brute force",
           "data structures",
           "greedy",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1720/problem/B"
       },
@@ -127,9 +280,11 @@
         "id": "1720B",
         "name": "Interesting Sum",
         "tags": [
+          "brute force",
           "data structures",
           "greedy",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1720/problem/B"
       },

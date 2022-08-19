@@ -6,6 +6,218 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168976305,
+      "creationTime": 1660917429,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486566218
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "600E",
+        "name": "Lomsat gelral",
+        "rating": 2300,
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/600/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/600/submission/168976305"
+    },
+    {
+      "type": "codeforces",
+      "id": 168947480,
+      "creationTime": 1660901983,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486581664
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720D1",
+        "name": "Xor-Subsequence (easy version)",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/168947480"
+    },
+    {
+      "type": "codeforces",
+      "id": 168947280,
+      "creationTime": 1660901866,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486581781
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720D1",
+        "name": "Xor-Subsequence (easy version)",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/168947280"
+    },
+    {
+      "type": "codeforces",
+      "id": 168941802,
+      "creationTime": 1660898781,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486584866
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720C",
+        "name": "Corners",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/168941802"
+    },
+    {
+      "type": "codeforces",
+      "id": 168933589,
+      "creationTime": 1660893945,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486589702
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720B",
+        "name": "Interesting Sum",
+        "tags": [
+          "brute force",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/168933589"
+    },
+    {
+      "type": "codeforces",
+      "id": 168925415,
+      "creationTime": 1660889236,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486594411
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720A",
+        "name": "Burenka Plays with Fractions",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/168925415"
+    },
+    {
+      "type": "codeforces",
+      "id": 168925261,
+      "creationTime": 1660889140,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486594507
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720A",
+        "name": "Burenka Plays with Fractions",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/168925261"
+    },
+    {
+      "type": "codeforces",
+      "id": 168925202,
+      "creationTime": 1660889102,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486594545
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720A",
+        "name": "Burenka Plays with Fractions",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/168925202"
+    },
+    {
+      "type": "codeforces",
       "id": 168915154,
       "creationTime": 1660880940,
       "language": "GNU C++14",
