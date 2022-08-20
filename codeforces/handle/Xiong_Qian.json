@@ -6,6 +6,109 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 169029650,
+      "creationTime": 1660963967,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486519680
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720C",
+        "name": "Corners",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/169029650"
+    },
+    {
+      "type": "codeforces",
+      "id": 169029573,
+      "creationTime": 1660963874,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486519773
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720C",
+        "name": "Corners",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/169029573"
+    },
+    {
+      "type": "codeforces",
+      "id": 169027005,
+      "creationTime": 1660961015,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486522632
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720B",
+        "name": "Interesting Sum",
+        "tags": [
+          "brute force",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/169027005"
+    },
+    {
+      "type": "codeforces",
+      "id": 169025640,
+      "creationTime": 1660959048,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486524599
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1720A",
+        "name": "Burenka Plays with Fractions",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1720/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1720/submission/169025640"
+    },
+    {
+      "type": "codeforces",
       "id": 168703033,
       "creationTime": 1660742859,
       "language": "GNU C++20 (64)",
