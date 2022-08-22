@@ -124,6 +124,7 @@
         "type": "codeforces",
         "id": "1719C",
         "name": "Fighting Tournament",
+        "rating": 1400,
         "tags": [
           "binary search",
           "data structures",
@@ -151,6 +152,7 @@
         "type": "codeforces",
         "id": "1719C",
         "name": "Fighting Tournament",
+        "rating": 1400,
         "tags": [
           "binary search",
           "data structures",
@@ -178,6 +180,7 @@
         "type": "codeforces",
         "id": "1719B",
         "name": "Mathematical Circus",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -203,6 +206,7 @@
         "type": "codeforces",
         "id": "1719A",
         "name": "Chip Game",
+        "rating": 800,
         "tags": [
           "games",
           "math"

@@ -175,7 +175,8 @@
           "brute force",
           "dp",
           "strings",
-          "trees"
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1720/problem/D1"
       },
@@ -332,6 +333,7 @@
         "type": "codeforces",
         "id": "1719F",
         "name": "Tonya and Burenka-179",
+        "rating": 2400,
         "tags": [
           "brute force",
           "data structures",
@@ -359,6 +361,7 @@
         "type": "codeforces",
         "id": "1719F",
         "name": "Tonya and Burenka-179",
+        "rating": 2400,
         "tags": [
           "brute force",
           "data structures",
@@ -386,6 +389,7 @@
         "type": "codeforces",
         "id": "1719E",
         "name": "Fibonacci Strings",
+        "rating": 2000,
         "tags": [
           "greedy",
           "implementation",
@@ -412,6 +416,7 @@
         "type": "codeforces",
         "id": "1719D2",
         "name": "Burenka and Traditions (hard version)",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "dp",
@@ -439,6 +444,7 @@
         "type": "codeforces",
         "id": "1719D1",
         "name": "Burenka and Traditions (easy version)",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "brute force",
@@ -466,6 +472,7 @@
         "type": "codeforces",
         "id": "1719D1",
         "name": "Burenka and Traditions (easy version)",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "brute force",
@@ -493,6 +500,7 @@
         "type": "codeforces",
         "id": "1719C",
         "name": "Fighting Tournament",
+        "rating": 1400,
         "tags": [
           "binary search",
           "data structures",
@@ -520,6 +528,7 @@
         "type": "codeforces",
         "id": "1719C",
         "name": "Fighting Tournament",
+        "rating": 1400,
         "tags": [
           "binary search",
           "data structures",
@@ -547,6 +556,7 @@
         "type": "codeforces",
         "id": "1719B",
         "name": "Mathematical Circus",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -572,6 +582,7 @@
         "type": "codeforces",
         "id": "1719B",
         "name": "Mathematical Circus",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -597,6 +608,7 @@
         "type": "codeforces",
         "id": "1719A",
         "name": "Chip Game",
+        "rating": 800,
         "tags": [
           "games",
           "math"
