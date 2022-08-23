@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1661189952,
+  "updateTime": 1661234772,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 169119001,
-            "pid": "1715F",
-            "name": "Crop Squares",
-            "verdict": "OK",
-            "creationTime": 1661008407
-          },
-          {
-            "platform": "codeforces",
-            "id": 169113353,
-            "pid": "1715E",
-            "name": "Long Way Home",
-            "verdict": "OK",
-            "creationTime": 1661007808
-          },
-          {
-            "platform": "codeforces",
-            "id": 169108032,
-            "pid": "1715D",
-            "name": "2+ doors",
-            "verdict": "OK",
-            "creationTime": 1661007331
-          },
-          {
-            "platform": "codeforces",
-            "id": 169105483,
-            "pid": "1715C",
-            "name": "Monoblock",
-            "verdict": "OK",
-            "creationTime": 1661007131
-          },
-          {
-            "platform": "codeforces",
-            "id": 169102901,
-            "pid": "1715B",
-            "name": "Beautiful Array",
-            "verdict": "OK",
-            "creationTime": 1661006951
-          },
-          {
-            "platform": "codeforces",
-            "id": 169099030,
-            "pid": "1715A",
-            "name": "Crossmarket",
-            "verdict": "OK",
-            "creationTime": 1661006725
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "159a72d7d82b22f63adb46cecb444085538aa14b"
+  "ref": "ca54fbe785f78d51898d467b419c6cde6e06bede"
 }
