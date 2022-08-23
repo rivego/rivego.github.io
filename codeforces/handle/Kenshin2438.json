@@ -142,6 +142,7 @@
         "type": "codeforces",
         "id": "1720D2",
         "name": "Xor-Subsequence (hard version)",
+        "rating": 2400,
         "tags": [
           "bitmasks",
           "data structures",
@@ -170,6 +171,7 @@
         "type": "codeforces",
         "id": "1720D1",
         "name": "Xor-Subsequence (easy version)",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "brute force",
@@ -199,6 +201,7 @@
         "type": "codeforces",
         "id": "1720C",
         "name": "Corners",
+        "rating": 1200,
         "tags": [
           "greedy",
           "implementation"
@@ -224,6 +227,7 @@
         "type": "codeforces",
         "id": "1720B",
         "name": "Interesting Sum",
+        "rating": 800,
         "tags": [
           "brute force",
           "data structures",
@@ -252,6 +256,7 @@
         "type": "codeforces",
         "id": "1720B",
         "name": "Interesting Sum",
+        "rating": 800,
         "tags": [
           "brute force",
           "data structures",
@@ -280,6 +285,7 @@
         "type": "codeforces",
         "id": "1720B",
         "name": "Interesting Sum",
+        "rating": 800,
         "tags": [
           "brute force",
           "data structures",
@@ -308,6 +314,7 @@
         "type": "codeforces",
         "id": "1720A",
         "name": "Burenka Plays with Fractions",
+        "rating": 900,
         "tags": [
           "math",
           "number theory"

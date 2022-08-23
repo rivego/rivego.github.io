@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1720C",
         "name": "Corners",
+        "rating": 1200,
         "tags": [
           "greedy",
           "implementation"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1720C",
         "name": "Corners",
+        "rating": 1200,
         "tags": [
           "greedy",
           "implementation"
@@ -71,6 +73,7 @@
         "type": "codeforces",
         "id": "1720B",
         "name": "Interesting Sum",
+        "rating": 800,
         "tags": [
           "brute force",
           "data structures",
@@ -99,6 +102,7 @@
         "type": "codeforces",
         "id": "1720A",
         "name": "Burenka Plays with Fractions",
+        "rating": 900,
         "tags": [
           "math",
           "number theory"
