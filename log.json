@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1661276422,
+  "updateTime": 1661320530,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 169410967,
-            "pid": "1716F",
-            "name": "Bags with Balls",
-            "verdict": "OK",
-            "creationTime": 1661254211
-          },
-          {
-            "platform": "codeforces",
-            "id": 169410155,
-            "pid": "1716E",
-            "name": "Swap and Maximum Block",
-            "verdict": "OK",
-            "creationTime": 1661253648
-          },
-          {
-            "platform": "codeforces",
-            "id": 169409513,
-            "pid": "1716D",
-            "name": "Chip Move",
-            "verdict": "OK",
-            "creationTime": 1661253215
-          },
-          {
-            "platform": "codeforces",
-            "id": 169409029,
-            "pid": "1716C",
-            "name": "Robot in a Hallway",
-            "verdict": "OK",
-            "creationTime": 1661252895
-          },
-          {
-            "platform": "codeforces",
-            "id": 169408164,
-            "pid": "1716B",
-            "name": "Permutation Chain",
-            "verdict": "OK",
-            "creationTime": 1661252297
-          },
-          {
-            "platform": "codeforces",
-            "id": 169407945,
-            "pid": "1716A",
-            "name": "2-3 Moves",
-            "verdict": "OK",
-            "creationTime": 1661252121
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6439c87c1b6cf99beafa1870c2987291bd339528"
+  "ref": "6f607f46e8a9de1722a31b3689015b902d0b7736"
 }
