@@ -6,6 +6,36 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 169552386,
+      "creationTime": 1661370498,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486113149
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1715E",
+        "name": "Long Way Home",
+        "tags": [
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "geometry",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1715/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1715/submission/169552386"
+    },
+    {
+      "type": "codeforces",
       "id": 168943716,
       "creationTime": 1660899816,
       "language": "GNU C++17 (64)",

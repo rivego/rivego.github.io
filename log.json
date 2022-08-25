@@ -1,9 +1,70 @@
 {
   "version": "0.1.29",
-  "updateTime": 1661362737,
+  "updateTime": 1661407599,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 169552386,
+            "pid": "1715E",
+            "name": "Long Way Home",
+            "verdict": "OK",
+            "creationTime": 1661370498
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Reisen_",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 169576541,
+            "pid": "1715C",
+            "name": "Monoblock",
+            "verdict": "OK",
+            "creationTime": 1661407387
+          },
+          {
+            "platform": "codeforces",
+            "id": 169574159,
+            "pid": "1715B",
+            "name": "Beautiful Array",
+            "verdict": "OK",
+            "creationTime": 1661404836
+          },
+          {
+            "platform": "codeforces",
+            "id": 169574094,
+            "pid": "1715B",
+            "name": "Beautiful Array",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1661404761
+          },
+          {
+            "platform": "codeforces",
+            "id": 169573939,
+            "pid": "1715B",
+            "name": "Beautiful Array",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1661404600
+          },
+          {
+            "platform": "codeforces",
+            "id": 169572933,
+            "pid": "1715A",
+            "name": "Crossmarket",
+            "verdict": "OK",
+            "creationTime": 1661403433
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b1b6c7e589ee114e2bc8a4e171aae870395248f0"
+  "ref": "ec9ae35092f0607ae6a011095890dd0ea18fb35c"
 }

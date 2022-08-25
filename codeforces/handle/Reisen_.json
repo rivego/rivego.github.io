@@ -6,6 +6,137 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 169576541,
+      "creationTime": 1661407387,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486076260
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1715C",
+        "name": "Monoblock",
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1715/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1715/submission/169576541"
+    },
+    {
+      "type": "codeforces",
+      "id": 169574159,
+      "creationTime": 1661404836,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486078811
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1715B",
+        "name": "Beautiful Array",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1715/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1715/submission/169574159"
+    },
+    {
+      "type": "codeforces",
+      "id": 169574094,
+      "creationTime": 1661404761,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486078886
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1715B",
+        "name": "Beautiful Array",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1715/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1715/submission/169574094"
+    },
+    {
+      "type": "codeforces",
+      "id": 169573939,
+      "creationTime": 1661404600,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486079047
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1715B",
+        "name": "Beautiful Array",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1715/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1715/submission/169573939"
+    },
+    {
+      "type": "codeforces",
+      "id": 169572933,
+      "creationTime": 1661403433,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486080214
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1715A",
+        "name": "Crossmarket",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1715/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1715/submission/169572933"
+    },
+    {
+      "type": "codeforces",
       "id": 168976305,
       "creationTime": 1660917429,
       "language": "GNU C++14",
