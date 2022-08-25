@@ -1,64 +1,26 @@
 {
   "version": "0.1.29",
-  "updateTime": 1661407599,
+  "updateTime": 1661449197,
   "history": {
     "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 169552386,
-            "pid": "1715E",
-            "name": "Long Way Home",
-            "verdict": "OK",
-            "creationTime": 1661370498
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "Reisen_",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 169576541,
-            "pid": "1715C",
-            "name": "Monoblock",
+            "id": 169587004,
+            "pid": "1715D",
+            "name": "2+ doors",
             "verdict": "OK",
-            "creationTime": 1661407387
+            "creationTime": 1661416035
           },
           {
             "platform": "codeforces",
-            "id": 169574159,
-            "pid": "1715B",
-            "name": "Beautiful Array",
-            "verdict": "OK",
-            "creationTime": 1661404836
-          },
-          {
-            "platform": "codeforces",
-            "id": 169574094,
-            "pid": "1715B",
-            "name": "Beautiful Array",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661404761
-          },
-          {
-            "platform": "codeforces",
-            "id": 169573939,
-            "pid": "1715B",
-            "name": "Beautiful Array",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661404600
-          },
-          {
-            "platform": "codeforces",
-            "id": 169572933,
-            "pid": "1715A",
-            "name": "Crossmarket",
-            "verdict": "OK",
-            "creationTime": 1661403433
+            "id": 169586989,
+            "pid": "1715D",
+            "name": "2+ doors",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1661416021
           }
         ],
         "newContests": []
@@ -66,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "ec9ae35092f0607ae6a011095890dd0ea18fb35c"
+  "ref": "d4f3967b79b5a8a65ff2761eb17c8d34d2442fbc"
 }

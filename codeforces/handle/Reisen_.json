@@ -6,6 +6,60 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 169587004,
+      "creationTime": 1661416035,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486067612
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1715D",
+        "name": "2+ doors",
+        "tags": [
+          "2-sat",
+          "bitmasks",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1715/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1715/submission/169587004"
+    },
+    {
+      "type": "codeforces",
+      "id": 169586989,
+      "creationTime": 1661416021,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486067626
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1715D",
+        "name": "2+ doors",
+        "tags": [
+          "2-sat",
+          "bitmasks",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1715/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1715/submission/169586989"
+    },
+    {
+      "type": "codeforces",
       "id": 169576541,
       "creationTime": 1661407387,
       "language": "GNU C++14",
