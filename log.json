@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1661449197,
+  "updateTime": 1661494321,
   "history": {
-    "user": [
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 169587004,
-            "pid": "1715D",
-            "name": "2+ doors",
-            "verdict": "OK",
-            "creationTime": 1661416035
-          },
-          {
-            "platform": "codeforces",
-            "id": 169586989,
-            "pid": "1715D",
-            "name": "2+ doors",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1661416021
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "d4f3967b79b5a8a65ff2761eb17c8d34d2442fbc"
+  "ref": "1653865de7394830e435de722165d4a26803d00a"
 }
