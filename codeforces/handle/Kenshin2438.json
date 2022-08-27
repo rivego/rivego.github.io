@@ -6,6 +6,214 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 169884275,
+      "creationTime": 1661617436,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1661610900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721E",
+        "name": "Prefix Function Queries",
+        "tags": [
+          "data structures",
+          "hashing",
+          "string suffix structures",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/169884275"
+    },
+    {
+      "type": "codeforces",
+      "id": 169877386,
+      "creationTime": 1661616617,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1661610900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721D",
+        "name": "Maximum AND",
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/169877386"
+    },
+    {
+      "type": "codeforces",
+      "id": 169860989,
+      "creationTime": 1661614848,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1661610900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721D",
+        "name": "Maximum AND",
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/169860989"
+    },
+    {
+      "type": "codeforces",
+      "id": 169860087,
+      "creationTime": 1661614760,
+      "language": "GNU C++17 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1661610900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721D",
+        "name": "Maximum AND",
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/169860087"
+    },
+    {
+      "type": "codeforces",
+      "id": 169849511,
+      "creationTime": 1661613810,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1661610900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721C",
+        "name": "Min-Max Array Transformation",
+        "tags": [
+          "binary search",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/169849511"
+    },
+    {
+      "type": "codeforces",
+      "id": 169836521,
+      "creationTime": 1661612822,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1661610900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721C",
+        "name": "Min-Max Array Transformation",
+        "tags": [
+          "binary search",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/169836521"
+    },
+    {
+      "type": "codeforces",
+      "id": 169816979,
+      "creationTime": 1661611651,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1661610900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721B",
+        "name": "Deadly Laser",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/169816979"
+    },
+    {
+      "type": "codeforces",
+      "id": 169806194,
+      "creationTime": 1661611146,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1661610900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721A",
+        "name": "Image",
+        "tags": [
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/169806194"
+    },
+    {
+      "type": "codeforces",
       "id": 169552386,
       "creationTime": 1661370498,
       "language": "GNU C++17 (64)",
@@ -21,6 +229,7 @@
         "type": "codeforces",
         "id": "1715E",
         "name": "Long Way Home",
+        "rating": 2400,
         "tags": [
           "data structures",
           "divide and conquer",

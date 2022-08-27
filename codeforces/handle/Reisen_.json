@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1715D",
         "name": "2+ doors",
+        "rating": 1900,
         "tags": [
           "2-sat",
           "bitmasks",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1715D",
         "name": "2+ doors",
+        "rating": 1900,
         "tags": [
           "2-sat",
           "bitmasks",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "1715C",
         "name": "Monoblock",
+        "rating": 1700,
         "tags": [
           "combinatorics",
           "data structures",
@@ -102,6 +105,7 @@
         "type": "codeforces",
         "id": "1715B",
         "name": "Beautiful Array",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -128,6 +132,7 @@
         "type": "codeforces",
         "id": "1715B",
         "name": "Beautiful Array",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -154,6 +159,7 @@
         "type": "codeforces",
         "id": "1715B",
         "name": "Beautiful Array",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -180,6 +186,7 @@
         "type": "codeforces",
         "id": "1715A",
         "name": "Crossmarket",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
