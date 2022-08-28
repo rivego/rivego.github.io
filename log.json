@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1661621886,
+  "updateTime": 1661665502,
   "history": {
     "user": [
       {
@@ -8,137 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 169884275,
-            "pid": "1721E",
-            "name": "Prefix Function Queries",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1661617436
-          },
-          {
-            "platform": "codeforces",
-            "id": 169877386,
-            "pid": "1721D",
-            "name": "Maximum AND",
-            "verdict": "OK",
-            "creationTime": 1661616617
-          },
-          {
-            "platform": "codeforces",
-            "id": 169860989,
-            "pid": "1721D",
-            "name": "Maximum AND",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661614848
-          },
-          {
-            "platform": "codeforces",
-            "id": 169860087,
-            "pid": "1721D",
-            "name": "Maximum AND",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1661614760
-          },
-          {
-            "platform": "codeforces",
-            "id": 169849511,
-            "pid": "1721C",
-            "name": "Min-Max Array Transformation",
-            "verdict": "OK",
-            "creationTime": 1661613810
-          },
-          {
-            "platform": "codeforces",
-            "id": 169836521,
-            "pid": "1721C",
-            "name": "Min-Max Array Transformation",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661612822
-          },
-          {
-            "platform": "codeforces",
-            "id": 169816979,
-            "pid": "1721B",
-            "name": "Deadly Laser",
-            "verdict": "OK",
-            "creationTime": 1661611651
-          },
-          {
-            "platform": "codeforces",
-            "id": 169806194,
-            "pid": "1721A",
-            "name": "Image",
-            "verdict": "OK",
-            "creationTime": 1661611146
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 169847425,
-            "pid": "1721F",
-            "name": "Matching Reduction",
-            "verdict": "OK",
-            "creationTime": 1661613638
-          },
-          {
-            "platform": "codeforces",
-            "id": 169825445,
+            "id": 169908113,
             "pid": "1721E",
             "name": "Prefix Function Queries",
             "verdict": "OK",
-            "creationTime": 1661612116
+            "creationTime": 1661626524
           },
           {
             "platform": "codeforces",
-            "id": 169824549,
+            "id": 169907774,
             "pid": "1721E",
             "name": "Prefix Function Queries",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1661612064
-          },
-          {
-            "platform": "codeforces",
-            "id": 169823007,
-            "pid": "1721E",
-            "name": "Prefix Function Queries",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1661611975
-          },
-          {
-            "platform": "codeforces",
-            "id": 169816642,
-            "pid": "1721D",
-            "name": "Maximum AND",
             "verdict": "OK",
-            "creationTime": 1661611635
-          },
-          {
-            "platform": "codeforces",
-            "id": 169812006,
-            "pid": "1721C",
-            "name": "Min-Max Array Transformation",
-            "verdict": "OK",
-            "creationTime": 1661611391
-          },
-          {
-            "platform": "codeforces",
-            "id": 169804991,
-            "pid": "1721B",
-            "name": "Deadly Laser",
-            "verdict": "OK",
-            "creationTime": 1661611092
-          },
-          {
-            "platform": "codeforces",
-            "id": 169804030,
-            "pid": "1721A",
-            "name": "Image",
-            "verdict": "OK",
-            "creationTime": 1661610981
+            "creationTime": 1661626263
           }
         ],
         "newContests": []
@@ -146,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "73a8d80562eb99968ea2113e94501f1fe832bb27"
+  "ref": "0dd390631a5709481f7bb631564a1e959dbec3ae"
 }

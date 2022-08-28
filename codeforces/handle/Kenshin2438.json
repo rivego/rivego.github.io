@@ -6,6 +6,64 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 169908113,
+      "creationTime": 1661626524,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485857123
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721E",
+        "name": "Prefix Function Queries",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "hashing",
+          "string suffix structures",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/169908113"
+    },
+    {
+      "type": "codeforces",
+      "id": 169907774,
+      "creationTime": 1661626263,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485857384
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721E",
+        "name": "Prefix Function Queries",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "hashing",
+          "string suffix structures",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/169907774"
+    },
+    {
+      "type": "codeforces",
       "id": 169884275,
       "creationTime": 1661617436,
       "language": "GNU C++17 (64)",
@@ -22,10 +80,12 @@
         "id": "1721E",
         "name": "Prefix Function Queries",
         "tags": [
-          "data structures",
+          "bitmasks",
+          "brute force",
           "hashing",
           "string suffix structures",
-          "strings"
+          "strings",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/E"
       },
@@ -50,7 +110,7 @@
         "name": "Maximum AND",
         "tags": [
           "bitmasks",
-          "greedy",
+          "divide and conquer",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/D"
@@ -76,7 +136,7 @@
         "name": "Maximum AND",
         "tags": [
           "bitmasks",
-          "greedy",
+          "divide and conquer",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/D"
@@ -102,7 +162,7 @@
         "name": "Maximum AND",
         "tags": [
           "bitmasks",
-          "greedy",
+          "divide and conquer",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/D"
@@ -180,7 +240,6 @@
         "name": "Deadly Laser",
         "tags": [
           "brute force",
-          "constructive algorithms",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/B"
