@@ -22,8 +22,10 @@
         "id": "1721E",
         "name": "Prefix Function Queries",
         "tags": [
-          "bitmasks",
+          "binary search",
           "brute force",
+          "data structures",
+          "dp",
           "hashing",
           "string suffix structures",
           "strings",
@@ -51,8 +53,10 @@
         "id": "1721E",
         "name": "Prefix Function Queries",
         "tags": [
-          "bitmasks",
+          "binary search",
           "brute force",
+          "data structures",
+          "dp",
           "hashing",
           "string suffix structures",
           "strings",
@@ -80,8 +84,10 @@
         "id": "1721E",
         "name": "Prefix Function Queries",
         "tags": [
-          "bitmasks",
+          "binary search",
           "brute force",
+          "data structures",
+          "dp",
           "hashing",
           "string suffix structures",
           "strings",
@@ -264,7 +270,6 @@
         "id": "1721A",
         "name": "Image",
         "tags": [
-          "data structures",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/A"
@@ -23165,7 +23170,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1762,
+    "rating": 1791,
     "maxRank": "expert",
     "maxRating": 1832
   }

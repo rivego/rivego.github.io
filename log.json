@@ -1,26 +1,26 @@
 {
   "version": "0.1.29",
-  "updateTime": 1661665502,
+  "updateTime": 1661708324,
   "history": {
     "user": [
       {
-        "name": "Kenshin2438",
+        "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 169908113,
-            "pid": "1721E",
-            "name": "Prefix Function Queries",
+            "id": 169975982,
+            "pid": "103260E",
+            "name": "Smol Vertex Cover",
             "verdict": "OK",
-            "creationTime": 1661626524
+            "creationTime": 1661691482
           },
           {
             "platform": "codeforces",
-            "id": 169907774,
-            "pid": "1721E",
-            "name": "Prefix Function Queries",
-            "verdict": "OK",
-            "creationTime": 1661626263
+            "id": 169975048,
+            "pid": "103260E",
+            "name": "Smol Vertex Cover",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1661690935
           }
         ],
         "newContests": []
@@ -28,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "0dd390631a5709481f7bb631564a1e959dbec3ae"
+  "ref": "2601ddcb4458f1f51bcf97ead8f400643d671563"
 }
