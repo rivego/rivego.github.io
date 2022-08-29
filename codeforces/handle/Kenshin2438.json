@@ -23,8 +23,6 @@
         "name": "Prefix Function Queries",
         "tags": [
           "binary search",
-          "brute force",
-          "data structures",
           "dp",
           "hashing",
           "string suffix structures",
@@ -54,8 +52,6 @@
         "name": "Prefix Function Queries",
         "tags": [
           "binary search",
-          "brute force",
-          "data structures",
           "dp",
           "hashing",
           "string suffix structures",
@@ -85,8 +81,6 @@
         "name": "Prefix Function Queries",
         "tags": [
           "binary search",
-          "brute force",
-          "data structures",
           "dp",
           "hashing",
           "string suffix structures",
@@ -117,7 +111,8 @@
         "tags": [
           "bitmasks",
           "divide and conquer",
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/D"
       },
@@ -143,7 +138,8 @@
         "tags": [
           "bitmasks",
           "divide and conquer",
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/D"
       },
@@ -169,7 +165,8 @@
         "tags": [
           "bitmasks",
           "divide and conquer",
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/D"
       },
@@ -245,7 +242,6 @@
         "id": "1721B",
         "name": "Deadly Laser",
         "tags": [
-          "brute force",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/B"
@@ -270,6 +266,7 @@
         "id": "1721A",
         "name": "Image",
         "tags": [
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1721/problem/A"

@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1661708324,
+  "updateTime": 1661754660,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 169975982,
-            "pid": "103260E",
-            "name": "Smol Vertex Cover",
-            "verdict": "OK",
-            "creationTime": 1661691482
-          },
-          {
-            "platform": "codeforces",
-            "id": 169975048,
-            "pid": "103260E",
-            "name": "Smol Vertex Cover",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661690935
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "2601ddcb4458f1f51bcf97ead8f400643d671563"
+  "ref": "91f237b99df450b96a52bf95d7a6f68693492ca0"
 }
