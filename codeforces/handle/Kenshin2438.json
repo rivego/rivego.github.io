@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1721E",
         "name": "Prefix Function Queries",
+        "rating": 2200,
         "tags": [
           "binary search",
           "dp",
@@ -50,6 +51,7 @@
         "type": "codeforces",
         "id": "1721E",
         "name": "Prefix Function Queries",
+        "rating": 2200,
         "tags": [
           "binary search",
           "dp",
@@ -79,6 +81,7 @@
         "type": "codeforces",
         "id": "1721E",
         "name": "Prefix Function Queries",
+        "rating": 2200,
         "tags": [
           "binary search",
           "dp",
@@ -108,6 +111,7 @@
         "type": "codeforces",
         "id": "1721D",
         "name": "Maximum AND",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "divide and conquer",
@@ -135,6 +139,7 @@
         "type": "codeforces",
         "id": "1721D",
         "name": "Maximum AND",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "divide and conquer",
@@ -162,6 +167,7 @@
         "type": "codeforces",
         "id": "1721D",
         "name": "Maximum AND",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "divide and conquer",
@@ -189,6 +195,7 @@
         "type": "codeforces",
         "id": "1721C",
         "name": "Min-Max Array Transformation",
+        "rating": 1400,
         "tags": [
           "binary search",
           "greedy",
@@ -215,6 +222,7 @@
         "type": "codeforces",
         "id": "1721C",
         "name": "Min-Max Array Transformation",
+        "rating": 1400,
         "tags": [
           "binary search",
           "greedy",
@@ -241,6 +249,7 @@
         "type": "codeforces",
         "id": "1721B",
         "name": "Deadly Laser",
+        "rating": 1000,
         "tags": [
           "implementation"
         ],
@@ -265,6 +274,7 @@
         "type": "codeforces",
         "id": "1721A",
         "name": "Image",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -23167,7 +23177,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1791,
+    "rating": 1792,
     "maxRank": "expert",
     "maxRating": 1832
   }
