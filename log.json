@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1661881392,
+  "updateTime": 1661928068,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 170281385,
-            "pid": "1722G",
-            "name": "Even-Odd XOR",
-            "verdict": "OK",
-            "creationTime": 1661877170
-          },
-          {
-            "platform": "codeforces",
-            "id": 170280952,
-            "pid": "1722G",
-            "name": "Even-Odd XOR",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661877124
-          },
-          {
-            "platform": "codeforces",
-            "id": 170278885,
-            "pid": "1722F",
-            "name": "L-shapes",
-            "verdict": "OK",
-            "creationTime": 1661876917
-          },
-          {
-            "platform": "codeforces",
-            "id": 170275518,
-            "pid": "1722E",
-            "name": "Counting Rectangles",
-            "verdict": "OK",
-            "creationTime": 1661876587
-          },
-          {
-            "platform": "codeforces",
-            "id": 170274202,
-            "pid": "1722E",
-            "name": "Counting Rectangles",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661876470
-          },
-          {
-            "platform": "codeforces",
-            "id": 170269502,
-            "pid": "1722D",
-            "name": "Line",
-            "verdict": "OK",
-            "creationTime": 1661876048
-          },
-          {
-            "platform": "codeforces",
-            "id": 170268089,
-            "pid": "1722C",
-            "name": "Word Game",
-            "verdict": "OK",
-            "creationTime": 1661875924
-          },
-          {
-            "platform": "codeforces",
-            "id": 170266403,
-            "pid": "1722B",
-            "name": "Colourblindness",
-            "verdict": "OK",
-            "creationTime": 1661875771
-          },
-          {
-            "platform": "codeforces",
-            "id": 170265740,
-            "pid": "1722A",
-            "name": "Spell Check",
-            "verdict": "OK",
-            "creationTime": 1661875710
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "1ab861fd1d6bc758f49d48dd906236abed029382"
+  "ref": "f33c5090b46fce42b229d7ff07e0429742f11427"
 }
