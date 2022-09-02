@@ -6,6 +6,180 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 170654235,
+      "creationTime": 1662139732,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485343915
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717D",
+        "name": "Madoka and The Corruption Scheme",
+        "tags": [
+          "combinatorics",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170654235"
+    },
+    {
+      "type": "codeforces",
+      "id": 170653684,
+      "creationTime": 1662139441,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485344206
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717D",
+        "name": "Madoka and The Corruption Scheme",
+        "tags": [
+          "combinatorics",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170653684"
+    },
+    {
+      "type": "codeforces",
+      "id": 170643195,
+      "creationTime": 1662135966,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662129300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717C",
+        "name": "Madoka and Formal Statement",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170643195"
+    },
+    {
+      "type": "codeforces",
+      "id": 170640567,
+      "creationTime": 1662135556,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662129300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717E",
+        "name": "Madoka and The Best University",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170640567"
+    },
+    {
+      "type": "codeforces",
+      "id": 170604511,
+      "creationTime": 1662130685,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662129300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717B",
+        "name": "Madoka and Underground Competitions",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170604511"
+    },
+    {
+      "type": "codeforces",
+      "id": 170599229,
+      "creationTime": 1662130080,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662129300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717A",
+        "name": "Madoka and Strange Thoughts",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170599229"
+    },
+    {
+      "type": "codeforces",
+      "id": 170597681,
+      "creationTime": 1662129900,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662129300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717A",
+        "name": "Madoka and Strange Thoughts",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170597681"
+    },
+    {
+      "type": "codeforces",
       "id": 169908113,
       "creationTime": 1661626524,
       "language": "GNU C++17 (64)",
