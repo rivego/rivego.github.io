@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1662184062,
+  "updateTime": 1662226740,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 170688062,
-            "pid": "1717F",
-            "name": "Madoka and The First Session",
-            "verdict": "OK",
-            "creationTime": 1662176478
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "c2a8372e4c3653a4a59852042c099fcf37f2cfb5"
+  "ref": "4008febb951173cdad96142a9a082d148dccdecc"
 }
