@@ -1,128 +1,18 @@
 {
   "version": "0.1.29",
-  "updateTime": 1662140477,
+  "updateTime": 1662184062,
   "history": {
     "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 170654235,
-            "pid": "1717D",
-            "name": "Madoka and The Corruption Scheme",
-            "verdict": "OK",
-            "creationTime": 1662139732
-          },
-          {
-            "platform": "codeforces",
-            "id": 170653684,
-            "pid": "1717D",
-            "name": "Madoka and The Corruption Scheme",
-            "verdict": "OK",
-            "creationTime": 1662139441
-          },
-          {
-            "platform": "codeforces",
-            "id": 170643195,
-            "pid": "1717C",
-            "name": "Madoka and Formal Statement",
-            "verdict": "OK",
-            "creationTime": 1662135966
-          },
-          {
-            "platform": "codeforces",
-            "id": 170640567,
-            "pid": "1717E",
-            "name": "Madoka and The Best University",
-            "verdict": "OK",
-            "creationTime": 1662135556
-          },
-          {
-            "platform": "codeforces",
-            "id": 170604511,
-            "pid": "1717B",
-            "name": "Madoka and Underground Competitions",
-            "verdict": "OK",
-            "creationTime": 1662130685
-          },
-          {
-            "platform": "codeforces",
-            "id": 170599229,
-            "pid": "1717A",
-            "name": "Madoka and Strange Thoughts",
-            "verdict": "OK",
-            "creationTime": 1662130080
-          },
-          {
-            "platform": "codeforces",
-            "id": 170597681,
-            "pid": "1717A",
-            "name": "Madoka and Strange Thoughts",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1662129900
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 170614207,
+            "id": 170688062,
             "pid": "1717F",
             "name": "Madoka and The First Session",
             "verdict": "OK",
-            "creationTime": 1662131802
-          },
-          {
-            "platform": "codeforces",
-            "id": 170607862,
-            "pid": "1717E",
-            "name": "Madoka and The Best University",
-            "verdict": "OK",
-            "creationTime": 1662131074
-          },
-          {
-            "platform": "codeforces",
-            "id": 170603374,
-            "pid": "1717D",
-            "name": "Madoka and The Corruption Scheme",
-            "verdict": "OK",
-            "creationTime": 1662130556
-          },
-          {
-            "platform": "codeforces",
-            "id": 170598319,
-            "pid": "1717C",
-            "name": "Madoka and Formal Statement",
-            "verdict": "OK",
-            "creationTime": 1662129976
-          },
-          {
-            "platform": "codeforces",
-            "id": 170597252,
-            "pid": "1717C",
-            "name": "Madoka and Formal Statement",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1662129843
-          },
-          {
-            "platform": "codeforces",
-            "id": 170595366,
-            "pid": "1717B",
-            "name": "Madoka and Underground Competitions",
-            "verdict": "OK",
-            "creationTime": 1662129592
-          },
-          {
-            "platform": "codeforces",
-            "id": 170594606,
-            "pid": "1717A",
-            "name": "Madoka and Strange Thoughts",
-            "verdict": "OK",
-            "creationTime": 1662129478
+            "creationTime": 1662176478
           }
         ],
         "newContests": []
@@ -130,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "c20393dbb6b834a513b7b5f356bad091add08cc3"
+  "ref": "c2a8372e4c3653a4a59852042c099fcf37f2cfb5"
 }

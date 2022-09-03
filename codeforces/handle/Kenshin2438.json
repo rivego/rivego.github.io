@@ -21,9 +21,9 @@
         "type": "codeforces",
         "id": "1717D",
         "name": "Madoka and The Corruption Scheme",
+        "rating": 1900,
         "tags": [
           "combinatorics",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1717/problem/D"
@@ -47,9 +47,9 @@
         "type": "codeforces",
         "id": "1717D",
         "name": "Madoka and The Corruption Scheme",
+        "rating": 1900,
         "tags": [
           "combinatorics",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1717/problem/D"
@@ -73,8 +73,10 @@
         "type": "codeforces",
         "id": "1717C",
         "name": "Madoka and Formal Statement",
+        "rating": 1300,
         "tags": [
-          "graphs"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1717/problem/C"
       },
@@ -97,7 +99,9 @@
         "type": "codeforces",
         "id": "1717E",
         "name": "Madoka and The Best University",
+        "rating": 2200,
         "tags": [
+          "brute force",
           "math",
           "number theory"
         ],
@@ -122,6 +126,7 @@
         "type": "codeforces",
         "id": "1717B",
         "name": "Madoka and Underground Competitions",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -147,8 +152,10 @@
         "type": "codeforces",
         "id": "1717A",
         "name": "Madoka and Strange Thoughts",
+        "rating": 800,
         "tags": [
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1717/problem/A"
       },
@@ -171,8 +178,10 @@
         "type": "codeforces",
         "id": "1717A",
         "name": "Madoka and Strange Thoughts",
+        "rating": 800,
         "tags": [
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1717/problem/A"
       },
@@ -23354,7 +23363,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1792,
+    "rating": 1798,
     "maxRank": "expert",
     "maxRating": 1832
   }
