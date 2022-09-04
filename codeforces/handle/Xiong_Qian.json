@@ -6,6 +6,110 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 170811042,
+      "creationTime": 1662276338,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485207309
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717C",
+        "name": "Madoka and Formal Statement",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170811042"
+    },
+    {
+      "type": "codeforces",
+      "id": 170810340,
+      "creationTime": 1662275872,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485207775
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717C",
+        "name": "Madoka and Formal Statement",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170810340"
+    },
+    {
+      "type": "codeforces",
+      "id": 170809439,
+      "creationTime": 1662275200,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485208447
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717B",
+        "name": "Madoka and Underground Competitions",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170809439"
+    },
+    {
+      "type": "codeforces",
+      "id": 170807119,
+      "creationTime": 1662273434,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485210213
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1717A",
+        "name": "Madoka and Strange Thoughts",
+        "rating": 800,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1717/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1717/submission/170807119"
+    },
+    {
+      "type": "codeforces",
       "id": 169029650,
       "creationTime": 1660963967,
       "language": "GNU C++20 (64)",
