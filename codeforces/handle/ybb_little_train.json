@@ -6,6 +6,63 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 170943088,
+      "creationTime": 1662380093,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485103554
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1295C",
+        "name": "Obtain The String",
+        "rating": 1600,
+        "tags": [
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1295/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1295/submission/170943088"
+    },
+    {
+      "type": "codeforces",
+      "id": 170941103,
+      "creationTime": 1662378892,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485104755
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1312C",
+        "name": "Adding Powers",
+        "rating": 1400,
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "implementation",
+          "math",
+          "number theory",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1312/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1312/submission/170941103"
+    },
+    {
+      "type": "codeforces",
       "id": 168801908,
       "creationTime": 1660826677,
       "language": "GNU C++17",

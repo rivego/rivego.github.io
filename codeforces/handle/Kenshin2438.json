@@ -25,6 +25,7 @@
         "tags": [
           "combinatorics",
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1717/problem/D"
@@ -52,6 +53,7 @@
         "tags": [
           "combinatorics",
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1717/problem/D"
@@ -77,8 +79,7 @@
         "name": "Madoka and Formal Statement",
         "rating": 1300,
         "tags": [
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1717/problem/C"
       },
@@ -130,7 +131,7 @@
         "rating": 1100,
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1717/problem/B"
       },

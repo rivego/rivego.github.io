@@ -1,9 +1,46 @@
 {
   "version": "0.1.29",
-  "updateTime": 1662359203,
+  "updateTime": 1662399809,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 170943088,
+            "pid": "1295C",
+            "name": "Obtain The String",
+            "verdict": "OK",
+            "creationTime": 1662380093
+          },
+          {
+            "platform": "codeforces",
+            "id": 170941103,
+            "pid": "1312C",
+            "name": "Adding Powers",
+            "verdict": "OK",
+            "creationTime": 1662378892
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Reisen_",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 170938840,
+            "pid": "1721A",
+            "name": "Image",
+            "verdict": "OK",
+            "creationTime": 1662377529
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "a775ca4bcbf33af3878852b53bd14a90fc5bc7d2"
+  "ref": "a6bc54d6979c0d3f0f9e6fcd9f8240f533495c91"
 }
