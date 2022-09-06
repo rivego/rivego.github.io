@@ -6,6 +6,57 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171011883,
+      "creationTime": 1662437249,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485046398
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721B",
+        "name": "Deadly Laser",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/171011883"
+    },
+    {
+      "type": "codeforces",
+      "id": 171009263,
+      "creationTime": 1662433414,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485050233
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721A",
+        "name": "Image",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/171009263"
+    },
+    {
+      "type": "codeforces",
       "id": 170811042,
       "creationTime": 1662276338,
       "language": "GNU C++20 (64)",

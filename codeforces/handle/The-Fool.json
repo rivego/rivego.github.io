@@ -6,6 +6,186 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171020379,
+      "creationTime": 1662446383,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485037264
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1725H",
+        "name": "Hot Black Hot White",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1725/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1725/submission/171020379"
+    },
+    {
+      "type": "codeforces",
+      "id": 171020157,
+      "creationTime": 1662446187,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485037460
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1725H",
+        "name": "Hot Black Hot White",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1725/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1725/submission/171020157"
+    },
+    {
+      "type": "codeforces",
+      "id": 171017934,
+      "creationTime": 1662444280,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485039367
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1725B",
+        "name": "Basketball Together",
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1725/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1725/submission/171017934"
+    },
+    {
+      "type": "codeforces",
+      "id": 171017898,
+      "creationTime": 1662444240,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485039407
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1725B",
+        "name": "Basketball Together",
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1725/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1725/submission/171017898"
+    },
+    {
+      "type": "codeforces",
+      "id": 171017413,
+      "creationTime": 1662443759,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485039888
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1725G",
+        "name": "Garage",
+        "tags": [
+          "binary search",
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1725/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1725/submission/171017413"
+    },
+    {
+      "type": "codeforces",
+      "id": 171017298,
+      "creationTime": 1662443647,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485040000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1725G",
+        "name": "Garage",
+        "tags": [
+          "binary search",
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1725/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1725/submission/171017298"
+    },
+    {
+      "type": "codeforces",
+      "id": 171016560,
+      "creationTime": 1662442897,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485040750
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1725G",
+        "name": "Garage",
+        "tags": [
+          "binary search",
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1725/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1725/submission/171016560"
+    },
+    {
+      "type": "codeforces",
       "id": 168214433,
       "creationTime": 1660441405,
       "language": "GNU C++14",
