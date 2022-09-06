@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171020757,
+      "creationTime": 1662446695,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485036952
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1725H",
+        "name": "Hot Black Hot White",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1725/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1725/submission/171020757"
+    },
+    {
+      "type": "codeforces",
+      "id": 171020653,
+      "creationTime": 1662446606,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485037041
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1725H",
+        "name": "Hot Black Hot White",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1725/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1725/submission/171020653"
+    },
+    {
+      "type": "codeforces",
       "id": 171011883,
       "creationTime": 1662437249,
       "language": "GNU C++20 (64)",
