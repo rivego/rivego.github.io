@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171226219,
+      "creationTime": 1662550936,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484932711
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1567B",
+        "name": "MEXor Mixup",
+        "rating": 1000,
+        "tags": [
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1567/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1567/submission/171226219"
+    },
+    {
+      "type": "codeforces",
       "id": 171056069,
       "creationTime": 1662470258,
       "language": "GNU C++17",

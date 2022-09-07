@@ -105,6 +105,7 @@
           "brute force",
           "constructive algorithms",
           "dfs and similar",
+          "dsu",
           "graphs",
           "probabilities",
           "trees"
@@ -134,6 +135,7 @@
           "brute force",
           "constructive algorithms",
           "dfs and similar",
+          "dsu",
           "graphs",
           "probabilities",
           "trees"
@@ -188,7 +190,8 @@
         "tags": [
           "data structures",
           "dsu",
-          "graphs"
+          "graphs",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1726/problem/C"
       },

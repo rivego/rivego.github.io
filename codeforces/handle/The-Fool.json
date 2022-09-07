@@ -6,6 +6,140 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171239538,
+      "creationTime": 1662557769,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484925878
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1567E",
+        "name": "Non-Decreasing Dilemma",
+        "rating": 2200,
+        "tags": [
+          "data structures",
+          "divide and conquer",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1567/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1567/submission/171239538"
+    },
+    {
+      "type": "codeforces",
+      "id": 171239121,
+      "creationTime": 1662557574,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484926073
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1567E",
+        "name": "Non-Decreasing Dilemma",
+        "rating": 2200,
+        "tags": [
+          "data structures",
+          "divide and conquer",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1567/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1567/submission/171239121"
+    },
+    {
+      "type": "codeforces",
+      "id": 171227996,
+      "creationTime": 1662551845,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484931802
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1567C",
+        "name": "Carrying Conundrum",
+        "rating": 1600,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1567/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1567/submission/171227996"
+    },
+    {
+      "type": "codeforces",
+      "id": 171226589,
+      "creationTime": 1662551132,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484932515
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1567B",
+        "name": "MEXor Mixup",
+        "rating": 1000,
+        "tags": [
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1567/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1567/submission/171226589"
+    },
+    {
+      "type": "codeforces",
+      "id": 171226226,
+      "creationTime": 1662550940,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484932707
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1567B",
+        "name": "MEXor Mixup",
+        "rating": 1000,
+        "tags": [
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1567/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1567/submission/171226226"
+    },
+    {
+      "type": "codeforces",
       "id": 171021106,
       "creationTime": 1662446961,
       "language": "GNU C++14",

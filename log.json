@@ -1,18 +1,94 @@
 {
   "version": "0.1.29",
-  "updateTime": 1662532838,
+  "updateTime": 1662573059,
   "history": {
     "user": [
       {
-        "name": "jiangly",
+        "name": "ybb_little_train",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 171187552,
-            "pid": "1726G",
-            "name": "A Certain Magical Party",
+            "id": 171226219,
+            "pid": "1567B",
+            "name": "MEXor Mixup",
             "verdict": "OK",
-            "creationTime": 1662519891
+            "creationTime": 1662550936
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "The-Fool",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 171239538,
+            "pid": "1567E",
+            "name": "Non-Decreasing Dilemma",
+            "verdict": "OK",
+            "creationTime": 1662557769
+          },
+          {
+            "platform": "codeforces",
+            "id": 171239121,
+            "pid": "1567E",
+            "name": "Non-Decreasing Dilemma",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1662557574
+          },
+          {
+            "platform": "codeforces",
+            "id": 171227996,
+            "pid": "1567C",
+            "name": "Carrying Conundrum",
+            "verdict": "OK",
+            "creationTime": 1662551845
+          },
+          {
+            "platform": "codeforces",
+            "id": 171226589,
+            "pid": "1567B",
+            "name": "MEXor Mixup",
+            "verdict": "OK",
+            "creationTime": 1662551132
+          },
+          {
+            "platform": "codeforces",
+            "id": 171226226,
+            "pid": "1567B",
+            "name": "MEXor Mixup",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1662550940
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Reisen_",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 171234657,
+            "pid": "1567D",
+            "name": "Expression Evaluation Error",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1662555305
+          },
+          {
+            "platform": "codeforces",
+            "id": 171234494,
+            "pid": "1567D",
+            "name": "Expression Evaluation Error",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1662555221
+          },
+          {
+            "platform": "codeforces",
+            "id": 171233736,
+            "pid": "1567D",
+            "name": "Expression Evaluation Error",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1662554865
           }
         ],
         "newContests": []
@@ -20,5 +96,5 @@
     ],
     "contest": []
   },
-  "ref": "37862071c560bfbf4d038675d63e28a1053c61db"
+  "ref": "7c0b15b5000537f62d871555f8ef017ae8b7dab0"
 }
