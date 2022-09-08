@@ -6,6 +6,59 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171338798,
+      "creationTime": 1662643648,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484839999
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1000F",
+        "name": "One Occurrence",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "divide and conquer"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1000/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1000/submission/171338798"
+    },
+    {
+      "type": "codeforces",
+      "id": 171333769,
+      "creationTime": 1662640751,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484842896
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1000E",
+        "name": "We Need More Bosses",
+        "rating": 2100,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1000/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1000/submission/171333769"
+    },
+    {
+      "type": "codeforces",
       "id": 170654235,
       "creationTime": 1662139732,
       "language": "GNU C++17 (64)",

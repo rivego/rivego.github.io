@@ -6,6 +6,200 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171332041,
+      "creationTime": 1662639737,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484843910
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1430E",
+        "name": "String Reversal",
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1430/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1430/submission/171332041"
+    },
+    {
+      "type": "codeforces",
+      "id": 171330819,
+      "creationTime": 1662639060,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484844587
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1430D",
+        "name": "String Deletion",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1430/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1430/submission/171330819"
+    },
+    {
+      "type": "codeforces",
+      "id": 171330704,
+      "creationTime": 1662638991,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484844656
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1430D",
+        "name": "String Deletion",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1430/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1430/submission/171330704"
+    },
+    {
+      "type": "codeforces",
+      "id": 171329981,
+      "creationTime": 1662638589,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484845058
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1430D",
+        "name": "String Deletion",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1430/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1430/submission/171329981"
+    },
+    {
+      "type": "codeforces",
+      "id": 171329838,
+      "creationTime": 1662638499,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484845148
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1430D",
+        "name": "String Deletion",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1430/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1430/submission/171329838"
+    },
+    {
+      "type": "codeforces",
+      "id": 171328946,
+      "creationTime": 1662637942,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484845705
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1437B",
+        "name": "Reverse Binary Strings",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1437/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1437/submission/171328946"
+    },
+    {
+      "type": "codeforces",
+      "id": 171328395,
+      "creationTime": 1662637614,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484846033
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1430C",
+        "name": "Numbers on Whiteboard",
+        "rating": 1000,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1430/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1430/submission/171328395"
+    },
+    {
+      "type": "codeforces",
       "id": 171239538,
       "creationTime": 1662557769,
       "language": "GNU C++14",
