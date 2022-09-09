@@ -349,6 +349,7 @@
         "type": "codeforces",
         "id": "1725H",
         "name": "Hot Black Hot White",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -374,6 +375,7 @@
         "type": "codeforces",
         "id": "1725H",
         "name": "Hot Black Hot White",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -399,6 +401,7 @@
         "type": "codeforces",
         "id": "1725H",
         "name": "Hot Black Hot White",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -424,6 +427,7 @@
         "type": "codeforces",
         "id": "1725H",
         "name": "Hot Black Hot White",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -449,6 +453,7 @@
         "type": "codeforces",
         "id": "1725H",
         "name": "Hot Black Hot White",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -474,6 +479,7 @@
         "type": "codeforces",
         "id": "1725H",
         "name": "Hot Black Hot White",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -499,6 +505,7 @@
         "type": "codeforces",
         "id": "1725B",
         "name": "Basketball Together",
+        "rating": 1000,
         "tags": [
           "binary search",
           "greedy",
@@ -525,6 +532,7 @@
         "type": "codeforces",
         "id": "1725B",
         "name": "Basketball Together",
+        "rating": 1000,
         "tags": [
           "binary search",
           "greedy",
@@ -551,6 +559,7 @@
         "type": "codeforces",
         "id": "1725G",
         "name": "Garage",
+        "rating": 1500,
         "tags": [
           "binary search",
           "geometry",
@@ -577,6 +586,7 @@
         "type": "codeforces",
         "id": "1725G",
         "name": "Garage",
+        "rating": 1500,
         "tags": [
           "binary search",
           "geometry",
@@ -603,6 +613,7 @@
         "type": "codeforces",
         "id": "1725G",
         "name": "Garage",
+        "rating": 1500,
         "tags": [
           "binary search",
           "geometry",

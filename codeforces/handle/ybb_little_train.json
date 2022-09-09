@@ -127,6 +127,7 @@
         "type": "codeforces",
         "id": "1725H",
         "name": "Hot Black Hot White",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -152,6 +153,7 @@
         "type": "codeforces",
         "id": "1725H",
         "name": "Hot Black Hot White",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -177,6 +179,7 @@
         "type": "codeforces",
         "id": "1725G",
         "name": "Garage",
+        "rating": 1500,
         "tags": [
           "binary search",
           "geometry",
@@ -203,6 +206,7 @@
         "type": "codeforces",
         "id": "1725A",
         "name": "Accumulation of Dominoes",
+        "rating": 800,
         "tags": [
           "math"
         ],
@@ -227,6 +231,7 @@
         "type": "codeforces",
         "id": "1725A",
         "name": "Accumulation of Dominoes",
+        "rating": 800,
         "tags": [
           "math"
         ],
