@@ -6,6 +6,218 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171808435,
+      "creationTime": 1662986447,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484497200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1217D",
+        "name": "Coloring Edges",
+        "rating": 2100,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1217/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1217/submission/171808435"
+    },
+    {
+      "type": "codeforces",
+      "id": 171806741,
+      "creationTime": 1662985441,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484498206
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1217C",
+        "name": "The Number Of Good Substrings",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1217/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1217/submission/171806741"
+    },
+    {
+      "type": "codeforces",
+      "id": 171805489,
+      "creationTime": 1662984599,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484499048
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1217B",
+        "name": "Zmei Gorynich",
+        "rating": 1600,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1217/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1217/submission/171805489"
+    },
+    {
+      "type": "codeforces",
+      "id": 171805404,
+      "creationTime": 1662984539,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484499108
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1217B",
+        "name": "Zmei Gorynich",
+        "rating": 1600,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1217/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1217/submission/171805404"
+    },
+    {
+      "type": "codeforces",
+      "id": 171804263,
+      "creationTime": 1662983773,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484499874
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1238C",
+        "name": "Standard Free2play",
+        "rating": 1600,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1238/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1238/submission/171804263"
+    },
+    {
+      "type": "codeforces",
+      "id": 171804038,
+      "creationTime": 1662983641,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484500006
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1238C",
+        "name": "Standard Free2play",
+        "rating": 1600,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1238/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1238/submission/171804038"
+    },
+    {
+      "type": "codeforces",
+      "id": 171803097,
+      "creationTime": 1662983072,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484500575
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1217A",
+        "name": "Creating a Character",
+        "rating": 1300,
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1217/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1217/submission/171803097"
+    },
+    {
+      "type": "codeforces",
+      "id": 171802601,
+      "creationTime": 1662982754,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484500893
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1217A",
+        "name": "Creating a Character",
+        "rating": 1300,
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1217/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1217/submission/171802601"
+    },
+    {
+      "type": "codeforces",
       "id": 171332041,
       "creationTime": 1662639737,
       "language": "GNU C++14",
