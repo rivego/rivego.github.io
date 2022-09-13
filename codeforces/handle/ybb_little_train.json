@@ -6,6 +6,28 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171998552,
+      "creationTime": 1663051018,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484432629
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103443B",
+        "name": "Maximum Sub-Reverse Matching",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103443/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103443/submission/171998552"
+    },
+    {
+      "type": "codeforces",
       "id": 171810280,
       "creationTime": 1662987464,
       "language": "GNU C++17",
