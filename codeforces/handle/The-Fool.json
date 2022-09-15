@@ -6,6 +6,84 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 172238244,
+      "creationTime": 1663243662,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484239985
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "837C",
+        "name": "Two Seals",
+        "rating": 1500,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/837/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/837/submission/172238244"
+    },
+    {
+      "type": "codeforces",
+      "id": 172236498,
+      "creationTime": 1663242443,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484241204
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "837B",
+        "name": "Flag of Berland",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/837/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/837/submission/172236498"
+    },
+    {
+      "type": "codeforces",
+      "id": 172236320,
+      "creationTime": 1663242320,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484241327
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "837B",
+        "name": "Flag of Berland",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/837/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/837/submission/172236320"
+    },
+    {
+      "type": "codeforces",
       "id": 172000526,
       "creationTime": 1663052347,
       "language": "GNU C++17",
