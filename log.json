@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1663350779,
+  "updateTime": 1663393942,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 172335050,
-            "pid": "1723GP2",
-            "name": "Optimal Graph Partition for Fast Routing (GP2)",
-            "verdict": "PARTIAL",
-            "creationTime": 1663323259
-          },
-          {
-            "platform": "codeforces",
-            "id": 172335041,
-            "pid": "1723GP1",
-            "name": "Optimal Graph Partition for Fast Routing (GP1)",
-            "verdict": "PARTIAL",
-            "creationTime": 1663323249
-          },
-          {
-            "platform": "codeforces",
-            "id": 172334696,
-            "pid": "1723GP2",
-            "name": "Optimal Graph Partition for Fast Routing (GP2)",
-            "verdict": "PARTIAL",
-            "creationTime": 1663322948
-          },
-          {
-            "platform": "codeforces",
-            "id": 172334690,
-            "pid": "1723GP1",
-            "name": "Optimal Graph Partition for Fast Routing (GP1)",
-            "verdict": "PARTIAL",
-            "creationTime": 1663322945
-          },
-          {
-            "platform": "codeforces",
-            "id": 172334554,
-            "pid": "1723GP2",
-            "name": "Optimal Graph Partition for Fast Routing (GP2)",
-            "verdict": "PARTIAL",
-            "creationTime": 1663322851
-          },
-          {
-            "platform": "codeforces",
-            "id": 172334473,
-            "pid": "1723GP1",
-            "name": "Optimal Graph Partition for Fast Routing (GP1)",
-            "verdict": "PARTIAL",
-            "creationTime": 1663322787
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "1b611fd439903bdc2c0b37ba1084e599b9607c66"
+  "ref": "777a421ce883af5eea83c4126693f02317004a32"
 }
