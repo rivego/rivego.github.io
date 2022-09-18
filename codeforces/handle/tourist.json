@@ -6,6 +6,28 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 172553784,
+      "creationTime": 1663501273,
+      "language": "GNU C++20 (64)",
+      "verdict": "PARTIAL",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1663200000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1723GP1",
+        "name": "Optimal Graph Partition for Fast Routing (GP1)",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1723/problem/GP1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1723/submission/172553784"
+    },
+    {
+      "type": "codeforces",
       "id": 172335050,
       "creationTime": 1663323259,
       "language": "GNU C++20 (64)",
