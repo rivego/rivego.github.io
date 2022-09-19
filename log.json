@@ -1,62 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1663523013,
+  "updateTime": 1663569629,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 172553784,
-            "pid": "1723GP1",
-            "name": "Optimal Graph Partition for Fast Routing (GP1)",
-            "verdict": "PARTIAL",
-            "creationTime": 1663501273
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 172565422,
-            "pid": "1622D",
-            "name": "Shuffle",
-            "verdict": "OK",
-            "creationTime": 1663508100
-          },
-          {
-            "platform": "codeforces",
-            "id": 172564532,
-            "pid": "1622D",
-            "name": "Shuffle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1663507584
-          },
-          {
-            "platform": "codeforces",
-            "id": 172561063,
-            "pid": "1622C",
-            "name": "Set or Decrease",
-            "verdict": "OK",
-            "creationTime": 1663505633
-          },
-          {
-            "platform": "codeforces",
-            "id": 172560908,
-            "pid": "1622C",
-            "name": "Set or Decrease",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1663505551
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "86f9028751c606f2be69c1caa4ed7c628f72cc36"
+  "ref": "1b0694bd4a8255220025b8835670be76ce680f60"
 }
