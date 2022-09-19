@@ -6,6 +6,131 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 172681582,
+      "creationTime": 1663599413,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1663598100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1733C",
+        "name": "Parity Shuffle Sorting",
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1733/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1733/submission/172681582"
+    },
+    {
+      "type": "codeforces",
+      "id": 172673479,
+      "creationTime": 1663598738,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1663598100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1733D2",
+        "name": "Zero-One (Hard Version)",
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1733/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1733/submission/172673479"
+    },
+    {
+      "type": "codeforces",
+      "id": 172673290,
+      "creationTime": 1663598725,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1663598100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1733A",
+        "name": "Consecutive Sum",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1733/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1733/submission/172673290"
+    },
+    {
+      "type": "codeforces",
+      "id": 172673167,
+      "creationTime": 1663598718,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1663598100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1733B",
+        "name": "Rule of League",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1733/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1733/submission/172673167"
+    },
+    {
+      "type": "codeforces",
+      "id": 172673071,
+      "creationTime": 1663598710,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1663598100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1733D1",
+        "name": "Zero-One (Easy Version)",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1733/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1733/submission/172673071"
+    },
+    {
+      "type": "codeforces",
       "id": 172553784,
       "creationTime": 1663501273,
       "language": "GNU C++20 (64)",
