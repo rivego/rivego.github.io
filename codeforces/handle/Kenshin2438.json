@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 172798234,
+      "creationTime": 1663659881,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483823766
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1733D2",
+        "name": "Zero-One (Hard Version)",
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1733/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1733/submission/172798234"
+    },
+    {
+      "type": "codeforces",
       "id": 172717154,
       "creationTime": 1663602853,
       "language": "GNU C++17 (64)",

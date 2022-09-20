@@ -47,7 +47,8 @@
         "id": "1733D2",
         "name": "Zero-One (Hard Version)",
         "tags": [
-          "dp"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1733/problem/D2"
       },
