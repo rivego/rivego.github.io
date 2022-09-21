@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1663696075,
+  "updateTime": 1663742176,
   "history": {
-    "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 172798234,
-            "pid": "1733D2",
-            "name": "Zero-One (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1663659881
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "523bdb219494c91109702789e59ddfde9fab2361"
+  "ref": "56343a13509dc7ddb1c4e8977f311ca296755819"
 }
