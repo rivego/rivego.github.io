@@ -6,6 +6,134 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 173229325,
+      "creationTime": 1663945369,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483538278
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1734E",
+        "name": "Rectangular Congruence",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1734/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1734/submission/173229325"
+    },
+    {
+      "type": "codeforces",
+      "id": 173229299,
+      "creationTime": 1663945356,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483538291
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1734D",
+        "name": "Slime Escape",
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1734/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1734/submission/173229299"
+    },
+    {
+      "type": "codeforces",
+      "id": 173229272,
+      "creationTime": 1663945342,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483538305
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1734C",
+        "name": "Removing Smallest Multiples",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1734/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1734/submission/173229272"
+    },
+    {
+      "type": "codeforces",
+      "id": 173229233,
+      "creationTime": 1663945326,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483538321
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1734B",
+        "name": "Bright, Nice, Brilliant",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1734/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1734/submission/173229233"
+    },
+    {
+      "type": "codeforces",
+      "id": 173229170,
+      "creationTime": 1663945301,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483538346
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1734A",
+        "name": "Select Three Sticks",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1734/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1734/submission/173229170"
+    },
+    {
+      "type": "codeforces",
       "id": 172798234,
       "creationTime": 1663659881,
       "language": "GNU C++17 (64)",
