@@ -48,9 +48,9 @@
         "id": "1734D",
         "name": "Slime Escape",
         "tags": [
-          "data structures",
           "dp",
           "greedy",
+          "implementation",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1734/problem/D"
@@ -75,6 +75,7 @@
         "id": "1734C",
         "name": "Removing Smallest Multiples",
         "tags": [
+          "brute force",
           "greedy",
           "math"
         ],
@@ -124,6 +125,7 @@
         "id": "1734A",
         "name": "Select Three Sticks",
         "tags": [
+          "brute force",
           "greedy",
           "math",
           "sortings"
