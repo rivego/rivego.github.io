@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1664127787,
+  "updateTime": 1664174039,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 173487475,
-            "pid": "1730E",
-            "name": "Maximums and Minimums",
-            "verdict": "OK",
-            "creationTime": 1664122891
-          },
-          {
-            "platform": "codeforces",
-            "id": 173479451,
-            "pid": "1730F",
-            "name": "Almost Sorted",
-            "verdict": "OK",
-            "creationTime": 1664121576
-          },
-          {
-            "platform": "codeforces",
-            "id": 173465568,
-            "pid": "1730D",
-            "name": "Prefixes and Suffixes",
-            "verdict": "OK",
-            "creationTime": 1664119492
-          },
-          {
-            "platform": "codeforces",
-            "id": 173458960,
-            "pid": "1730C",
-            "name": "Minimum Notation",
-            "verdict": "OK",
-            "creationTime": 1664118535
-          },
-          {
-            "platform": "codeforces",
-            "id": 173457392,
-            "pid": "1730B",
-            "name": "Meeting on the Line",
-            "verdict": "OK",
-            "creationTime": 1664118320
-          },
-          {
-            "platform": "codeforces",
-            "id": 173452984,
-            "pid": "1730A",
-            "name": "Planets",
-            "verdict": "OK",
-            "creationTime": 1664117711
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "4c45f215678b08a9baaf32057aa7ba2963afd098"
+  "ref": "4dd979e4c8357b67e5154d7ea1aad59bbc30af00"
 }
