@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1734E",
         "name": "Rectangular Congruence",
+        "rating": 2100,
         "tags": [
           "constructive algorithms",
           "math",
@@ -47,10 +48,10 @@
         "type": "codeforces",
         "id": "1734D",
         "name": "Slime Escape",
+        "rating": 1800,
         "tags": [
           "dp",
           "greedy",
-          "implementation",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1734/problem/D"
@@ -74,8 +75,8 @@
         "type": "codeforces",
         "id": "1734C",
         "name": "Removing Smallest Multiples",
+        "rating": 1200,
         "tags": [
-          "brute force",
           "greedy",
           "math"
         ],
@@ -100,6 +101,7 @@
         "type": "codeforces",
         "id": "1734B",
         "name": "Bright, Nice, Brilliant",
+        "rating": 800,
         "tags": [
           "constructive algorithms"
         ],
@@ -124,10 +126,10 @@
         "type": "codeforces",
         "id": "1734A",
         "name": "Select Three Sticks",
+        "rating": 800,
         "tags": [
           "brute force",
           "greedy",
-          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1734/problem/A"
@@ -151,6 +153,7 @@
         "type": "codeforces",
         "id": "1733D2",
         "name": "Zero-One (Hard Version)",
+        "rating": 2000,
         "tags": [
           "dp",
           "greedy"
@@ -176,6 +179,7 @@
         "type": "codeforces",
         "id": "1733D1",
         "name": "Zero-One (Easy Version)",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -202,6 +206,7 @@
         "type": "codeforces",
         "id": "1733D1",
         "name": "Zero-One (Easy Version)",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -228,6 +233,7 @@
         "type": "codeforces",
         "id": "1733D1",
         "name": "Zero-One (Easy Version)",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -254,6 +260,7 @@
         "type": "codeforces",
         "id": "1733D1",
         "name": "Zero-One (Easy Version)",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -280,6 +287,7 @@
         "type": "codeforces",
         "id": "1733D1",
         "name": "Zero-One (Easy Version)",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -306,6 +314,7 @@
         "type": "codeforces",
         "id": "1733C",
         "name": "Parity Shuffle Sorting",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "sortings"
@@ -331,6 +340,7 @@
         "type": "codeforces",
         "id": "1733C",
         "name": "Parity Shuffle Sorting",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "sortings"
@@ -356,6 +366,7 @@
         "type": "codeforces",
         "id": "1733B",
         "name": "Rule of League",
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "math"
@@ -381,6 +392,7 @@
         "type": "codeforces",
         "id": "1733A",
         "name": "Consecutive Sum",
+        "rating": 800,
         "tags": [
           "greedy",
           "sortings"
