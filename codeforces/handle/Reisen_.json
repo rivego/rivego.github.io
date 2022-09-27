@@ -2,8 +2,162 @@
   "type": "codeforces",
   "handle": "Reisen_",
   "handleUrl": "https://codeforces.com/profile/Reisen_",
-  "avatar": "//userpic.codeforces.org/1993873/title/2b1908042705580b.jpg",
+  "avatar": "https://userpic.codeforces.org/1993873/title/2b1908042705580b.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 173712442,
+      "creationTime": 1664286772,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483196875
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103306K",
+        "name": "K-Binary Repetitive Numbers",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103306/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103306/submission/173712442"
+    },
+    {
+      "type": "codeforces",
+      "id": 173710594,
+      "creationTime": 1664285933,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483197714
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103306K",
+        "name": "K-Binary Repetitive Numbers",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103306/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103306/submission/173710594"
+    },
+    {
+      "type": "codeforces",
+      "id": 173708345,
+      "creationTime": 1664284900,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483198747
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103306K",
+        "name": "K-Binary Repetitive Numbers",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103306/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103306/submission/173708345"
+    },
+    {
+      "type": "codeforces",
+      "id": 173708183,
+      "creationTime": 1664284824,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483198823
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103306K",
+        "name": "K-Binary Repetitive Numbers",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103306/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103306/submission/173708183"
+    },
+    {
+      "type": "codeforces",
+      "id": 173707046,
+      "creationTime": 1664284252,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483199395
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103306K",
+        "name": "K-Binary Repetitive Numbers",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103306/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103306/submission/173707046"
+    },
+    {
+      "type": "codeforces",
+      "id": 173706811,
+      "creationTime": 1664284139,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483199508
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103306K",
+        "name": "K-Binary Repetitive Numbers",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103306/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103306/submission/173706811"
+    },
+    {
+      "type": "codeforces",
+      "id": 173705863,
+      "creationTime": 1664283649,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -483199998
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103306K",
+        "name": "K-Binary Repetitive Numbers",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103306/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103306/submission/173705863"
+    },
     {
       "type": "codeforces",
       "id": 172660272,
