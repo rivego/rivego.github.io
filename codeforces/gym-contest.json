@@ -14682,5 +14682,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103920",
     "standingsUrl": "https://codeforces.com/gym/103920/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 Shanghai Collegiate Programming Contest",
+    "startTime": 1663992000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103931,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103931",
+    "standingsUrl": "https://codeforces.com/gym/103931/standings"
   }
 ]
