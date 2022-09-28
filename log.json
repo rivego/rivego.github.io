@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1664301367,
+  "updateTime": 1664346916,
   "history": {
-    "user": [
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 173712442,
-            "pid": "103306K",
-            "name": "K-Binary Repetitive Numbers",
-            "verdict": "OK",
-            "creationTime": 1664286772
-          },
-          {
-            "platform": "codeforces",
-            "id": 173710594,
-            "pid": "103306K",
-            "name": "K-Binary Repetitive Numbers",
-            "verdict": "OK",
-            "creationTime": 1664285933
-          },
-          {
-            "platform": "codeforces",
-            "id": 173708345,
-            "pid": "103306K",
-            "name": "K-Binary Repetitive Numbers",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1664284900
-          },
-          {
-            "platform": "codeforces",
-            "id": 173708183,
-            "pid": "103306K",
-            "name": "K-Binary Repetitive Numbers",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1664284824
-          },
-          {
-            "platform": "codeforces",
-            "id": 173707046,
-            "pid": "103306K",
-            "name": "K-Binary Repetitive Numbers",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1664284252
-          },
-          {
-            "platform": "codeforces",
-            "id": 173706811,
-            "pid": "103306K",
-            "name": "K-Binary Repetitive Numbers",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1664284139
-          },
-          {
-            "platform": "codeforces",
-            "id": 173705863,
-            "pid": "103306K",
-            "name": "K-Binary Repetitive Numbers",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1664283649
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "bf899f9bef3ccc9699cdf124a387e729df7fa362"
+  "ref": "387175a342a4f0a43c8e5744c215f50e177e5667"
 }
