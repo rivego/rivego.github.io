@@ -2,7 +2,7 @@
   "type": "codeforces",
   "handle": "tourist",
   "handleUrl": "https://codeforces.com/profile/tourist",
-  "avatar": "//userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
+  "avatar": "https://userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
   "submissions": [
     {
       "type": "codeforces",
@@ -152,7 +152,11 @@
         "type": "codeforces",
         "id": "1723GP1",
         "name": "Optimal Graph Partition for Fast Routing (GP1)",
-        "tags": [],
+        "tags": [
+          "*special",
+          "graphs",
+          "shortest paths"
+        ],
         "problemUrl": "https://codeforces.com/contest/1723/problem/GP1"
       },
       "submissionUrl": "https://codeforces.com/contest/1723/submission/172553784"
@@ -174,7 +178,11 @@
         "type": "codeforces",
         "id": "1723GP2",
         "name": "Optimal Graph Partition for Fast Routing (GP2)",
-        "tags": [],
+        "tags": [
+          "*special",
+          "graphs",
+          "shortest paths"
+        ],
         "problemUrl": "https://codeforces.com/contest/1723/problem/GP2"
       },
       "submissionUrl": "https://codeforces.com/contest/1723/submission/172335050"
@@ -196,7 +204,11 @@
         "type": "codeforces",
         "id": "1723GP1",
         "name": "Optimal Graph Partition for Fast Routing (GP1)",
-        "tags": [],
+        "tags": [
+          "*special",
+          "graphs",
+          "shortest paths"
+        ],
         "problemUrl": "https://codeforces.com/contest/1723/problem/GP1"
       },
       "submissionUrl": "https://codeforces.com/contest/1723/submission/172335041"
@@ -218,7 +230,11 @@
         "type": "codeforces",
         "id": "1723GP2",
         "name": "Optimal Graph Partition for Fast Routing (GP2)",
-        "tags": [],
+        "tags": [
+          "*special",
+          "graphs",
+          "shortest paths"
+        ],
         "problemUrl": "https://codeforces.com/contest/1723/problem/GP2"
       },
       "submissionUrl": "https://codeforces.com/contest/1723/submission/172334696"
@@ -240,7 +256,11 @@
         "type": "codeforces",
         "id": "1723GP1",
         "name": "Optimal Graph Partition for Fast Routing (GP1)",
-        "tags": [],
+        "tags": [
+          "*special",
+          "graphs",
+          "shortest paths"
+        ],
         "problemUrl": "https://codeforces.com/contest/1723/problem/GP1"
       },
       "submissionUrl": "https://codeforces.com/contest/1723/submission/172334690"
@@ -262,7 +282,11 @@
         "type": "codeforces",
         "id": "1723GP2",
         "name": "Optimal Graph Partition for Fast Routing (GP2)",
-        "tags": [],
+        "tags": [
+          "*special",
+          "graphs",
+          "shortest paths"
+        ],
         "problemUrl": "https://codeforces.com/contest/1723/problem/GP2"
       },
       "submissionUrl": "https://codeforces.com/contest/1723/submission/172334554"
@@ -284,7 +308,11 @@
         "type": "codeforces",
         "id": "1723GP1",
         "name": "Optimal Graph Partition for Fast Routing (GP1)",
-        "tags": [],
+        "tags": [
+          "*special",
+          "graphs",
+          "shortest paths"
+        ],
         "problemUrl": "https://codeforces.com/contest/1723/problem/GP1"
       },
       "submissionUrl": "https://codeforces.com/contest/1723/submission/172334473"

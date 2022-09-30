@@ -44,6 +44,28 @@
     "standingsUrl": "https://codeforces.com/contest/1733/standings"
   },
   {
+    "type": "codeforces/ioi",
+    "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 1",
+    "startTime": 1663200000,
+    "duration": 1296000,
+    "participantNumber": 0,
+    "id": 1723,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1723",
+    "standingsUrl": "https://codeforces.com/contest/1723/standings"
+  },
+  {
+    "type": "codeforces/ioi",
+    "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 2",
+    "startTime": 1663200000,
+    "duration": 1296000,
+    "participantNumber": 0,
+    "id": 1724,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1724",
+    "standingsUrl": "https://codeforces.com/contest/1724/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "Codeforces Round #820 (Div. 3)",
     "startTime": 1662993300,

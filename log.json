@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1664474132,
+  "updateTime": 1664519812,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 173978555,
-            "pid": "1739F",
-            "name": "Keyboard Design",
-            "verdict": "OK",
-            "creationTime": 1664465982
-          },
-          {
-            "platform": "codeforces",
-            "id": 173970277,
-            "pid": "1739E",
-            "name": "Cleaning Robot",
-            "verdict": "OK",
-            "creationTime": 1664464825
-          },
-          {
-            "platform": "codeforces",
-            "id": 173966040,
-            "pid": "1739D",
-            "name": "Reset K Edges",
-            "verdict": "OK",
-            "creationTime": 1664464323
-          },
-          {
-            "platform": "codeforces",
-            "id": 173961377,
-            "pid": "1739C",
-            "name": "Card Game",
-            "verdict": "OK",
-            "creationTime": 1664463860
-          },
-          {
-            "platform": "codeforces",
-            "id": 173954918,
-            "pid": "1739B",
-            "name": "Array Recovery",
-            "verdict": "OK",
-            "creationTime": 1664463329
-          },
-          {
-            "platform": "codeforces",
-            "id": 173952986,
-            "pid": "1739A",
-            "name": "Immobile Knight",
-            "verdict": "OK",
-            "creationTime": 1664463202
-          },
-          {
-            "platform": "codeforces",
-            "id": 173915085,
-            "pid": "1719C",
-            "name": "Fighting Tournament",
-            "verdict": "OK",
-            "creationTime": 1664451890
-          },
-          {
-            "platform": "codeforces",
-            "id": 173914578,
-            "pid": "1719B",
-            "name": "Mathematical Circus",
-            "verdict": "OK",
-            "creationTime": 1664451570
-          },
-          {
-            "platform": "codeforces",
-            "id": 173914018,
-            "pid": "1719A",
-            "name": "Chip Game",
-            "verdict": "OK",
-            "creationTime": 1664451235
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6350817cb42434e8d668e22b4a2acfde4f79f5fa"
+  "ref": "7f74302052ac9f61ff954df46d35f132a18dec48"
 }
