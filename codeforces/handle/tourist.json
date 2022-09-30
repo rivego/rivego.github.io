@@ -2,8 +2,241 @@
   "type": "codeforces",
   "handle": "tourist",
   "handleUrl": "https://codeforces.com/profile/tourist",
-  "avatar": "https://userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
+  "avatar": "//userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 174155834,
+      "creationTime": 1664557478,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1664548500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1738H",
+        "name": "Palindrome Addicts",
+        "tags": [
+          "data structures",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1738/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1738/submission/174155834"
+    },
+    {
+      "type": "codeforces",
+      "id": 174154383,
+      "creationTime": 1664557327,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1664548500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1738H",
+        "name": "Palindrome Addicts",
+        "tags": [
+          "data structures",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1738/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1738/submission/174154383"
+    },
+    {
+      "type": "codeforces",
+      "id": 174128714,
+      "creationTime": 1664553280,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1664548500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1738G",
+        "name": "Anti-Increasing Addicts",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1738/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1738/submission/174128714"
+    },
+    {
+      "type": "codeforces",
+      "id": 174109194,
+      "creationTime": 1664550892,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1664548500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1738F",
+        "name": "Connectivity Addicts",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "interactive",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1738/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1738/submission/174109194"
+    },
+    {
+      "type": "codeforces",
+      "id": 174100179,
+      "creationTime": 1664549982,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1664548500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1738E",
+        "name": "Balance Addicts",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1738/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1738/submission/174100179"
+    },
+    {
+      "type": "codeforces",
+      "id": 174095924,
+      "creationTime": 1664549543,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1664548500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1738D",
+        "name": "Permutation Addicts",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1738/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1738/submission/174095924"
+    },
+    {
+      "type": "codeforces",
+      "id": 174091004,
+      "creationTime": 1664548949,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1664548500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1738C",
+        "name": "Even Number Addicts",
+        "tags": [
+          "dp",
+          "games",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1738/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1738/submission/174091004"
+    },
+    {
+      "type": "codeforces",
+      "id": 174090280,
+      "creationTime": 1664548769,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1664548500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1738B",
+        "name": "Prefix Sum Addicts",
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1738/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1738/submission/174090280"
+    },
+    {
+      "type": "codeforces",
+      "id": 174090039,
+      "creationTime": 1664548634,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1664548500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1738A",
+        "name": "Glory Addicts",
+        "tags": [
+          "expression parsing",
+          "fft",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1738/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1738/submission/174090039"
+    },
     {
       "type": "codeforces",
       "id": 172681582,
@@ -192,7 +425,7 @@
       "id": 172335041,
       "creationTime": 1663323249,
       "language": "GNU C++20 (64)",
-      "verdict": "PARTIAL",
+      "verdict": "SKIPPED",
       "author": {
         "members": [
           "tourist"
@@ -218,7 +451,7 @@
       "id": 172334696,
       "creationTime": 1663322948,
       "language": "GNU C++20 (64)",
-      "verdict": "PARTIAL",
+      "verdict": "SKIPPED",
       "author": {
         "members": [
           "tourist"
@@ -244,7 +477,7 @@
       "id": 172334690,
       "creationTime": 1663322945,
       "language": "GNU C++20 (64)",
-      "verdict": "PARTIAL",
+      "verdict": "SKIPPED",
       "author": {
         "members": [
           "tourist"
@@ -270,7 +503,7 @@
       "id": 172334554,
       "creationTime": 1663322851,
       "language": "GNU C++20 (64)",
-      "verdict": "PARTIAL",
+      "verdict": "SKIPPED",
       "author": {
         "members": [
           "tourist"
@@ -296,7 +529,7 @@
       "id": 172334473,
       "creationTime": 1663322787,
       "language": "GNU C++20 (64)",
-      "verdict": "PARTIAL",
+      "verdict": "SKIPPED",
       "author": {
         "members": [
           "tourist"

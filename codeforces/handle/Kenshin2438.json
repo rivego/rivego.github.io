@@ -2,7 +2,7 @@
   "type": "codeforces",
   "handle": "Kenshin2438",
   "handleUrl": "https://codeforces.com/profile/Kenshin2438",
-  "avatar": "https://userpic.codeforces.org/1961698/title/b24e230c92f54cd.jpg",
+  "avatar": "//userpic.codeforces.org/1961698/title/b24e230c92f54cd.jpg",
   "submissions": [
     {
       "type": "codeforces",
@@ -24,7 +24,6 @@
         "rating": 2100,
         "tags": [
           "constructive algorithms",
-          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1734/problem/E"
@@ -50,6 +49,7 @@
         "name": "Slime Escape",
         "rating": 1800,
         "tags": [
+          "data structures",
           "dp",
           "greedy",
           "two pointers"
