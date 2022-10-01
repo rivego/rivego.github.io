@@ -1,62 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1664604747,
+  "updateTime": 1664646435,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 174161462,
-            "pid": "1738H",
-            "name": "Palindrome Addicts",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1664561615
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 174164793,
-            "pid": "1738H",
-            "name": "Palindrome Addicts",
-            "verdict": "OK",
-            "creationTime": 1664562792
-          },
-          {
-            "platform": "codeforces",
-            "id": 174163010,
-            "pid": "1738H",
-            "name": "Palindrome Addicts",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1664562108
-          },
-          {
-            "platform": "codeforces",
-            "id": 174162824,
-            "pid": "1738H",
-            "name": "Palindrome Addicts",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1664562050
-          },
-          {
-            "platform": "codeforces",
-            "id": 174160691,
-            "pid": "1738H",
-            "name": "Palindrome Addicts",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1664561384
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6e846027e520d73fe01fc1acc00d726b247749d9"
+  "ref": "5d29dae5d1c31bda3a189d068f4fe8522ea37122"
 }

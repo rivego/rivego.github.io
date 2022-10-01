@@ -98,9 +98,9 @@
         "name": "Anti-Increasing Addicts",
         "tags": [
           "constructive algorithms",
-          "dfs and similar",
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/G"
       },
@@ -212,8 +212,7 @@
         "tags": [
           "dp",
           "games",
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/C"
       },
@@ -238,6 +237,7 @@
         "name": "Prefix Sum Addicts",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "math",
           "sortings"
         ],
@@ -264,7 +264,8 @@
         "name": "Glory Addicts",
         "tags": [
           "greedy",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/A"
       },
@@ -107403,7 +107404,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3756,
+    "rating": 3757,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
