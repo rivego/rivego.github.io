@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 174161462,
+      "creationTime": 1664561615,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482922032
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1738H",
+        "name": "Palindrome Addicts",
+        "tags": [
+          "data structures",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1738/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1738/submission/174161462"
+    },
+    {
+      "type": "codeforces",
       "id": 174155834,
       "creationTime": 1664557478,
       "language": "GNU C++20 (64)",
@@ -73,6 +98,7 @@
         "name": "Anti-Increasing Addicts",
         "tags": [
           "constructive algorithms",
+          "dfs and similar",
           "dp",
           "greedy"
         ],
@@ -99,9 +125,13 @@
         "name": "Connectivity Addicts",
         "tags": [
           "constructive algorithms",
+          "dsu",
           "graphs",
+          "greedy",
           "interactive",
-          "shortest paths"
+          "shortest paths",
+          "sortings",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/F"
       },
@@ -126,7 +156,9 @@
         "name": "Balance Addicts",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/E"
       },
@@ -153,6 +185,7 @@
           "constructive algorithms",
           "dfs and similar",
           "dsu",
+          "graphs",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/D"
@@ -205,6 +238,7 @@
         "name": "Prefix Sum Addicts",
         "tags": [
           "constructive algorithms",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/B"
@@ -229,9 +263,8 @@
         "id": "1738A",
         "name": "Glory Addicts",
         "tags": [
-          "expression parsing",
-          "fft",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/A"
       },
@@ -107370,7 +107403,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3851,
+    "rating": 3756,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
