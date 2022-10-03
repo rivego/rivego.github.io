@@ -2,8 +2,88 @@
   "type": "codeforces",
   "handle": "Kenshin2438",
   "handleUrl": "https://codeforces.com/profile/Kenshin2438",
-  "avatar": "https://userpic.codeforces.org/1961698/title/b24e230c92f54cd.jpg",
+  "avatar": "//userpic.codeforces.org/1961698/title/b24e230c92f54cd.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 174519400,
+      "creationTime": 1664805184,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1664800800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1735C",
+        "name": "Phase Shift",
+        "tags": [
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1735/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1735/submission/174519400"
+    },
+    {
+      "type": "codeforces",
+      "id": 174514730,
+      "creationTime": 1664802811,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1664800800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1735B",
+        "name": "Tea with Tangerines",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1735/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1735/submission/174514730"
+    },
+    {
+      "type": "codeforces",
+      "id": 174511996,
+      "creationTime": 1664801338,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1664800800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1735A",
+        "name": "Working Week",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1735/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1735/submission/174511996"
+    },
     {
       "type": "codeforces",
       "id": 173229325,

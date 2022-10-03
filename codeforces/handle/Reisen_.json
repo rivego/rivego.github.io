@@ -2,8 +2,183 @@
   "type": "codeforces",
   "handle": "Reisen_",
   "handleUrl": "https://codeforces.com/profile/Reisen_",
-  "avatar": "https://userpic.codeforces.org/1993873/title/2b1908042705580b.jpg",
+  "avatar": "//userpic.codeforces.org/1993873/title/2b1908042705580b.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 174513756,
+      "creationTime": 1664802327,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482681320
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721B",
+        "name": "Deadly Laser",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/174513756"
+    },
+    {
+      "type": "codeforces",
+      "id": 174512890,
+      "creationTime": 1664801835,
+      "language": "GNU C++17",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482681812
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721B",
+        "name": "Deadly Laser",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/174512890"
+    },
+    {
+      "type": "codeforces",
+      "id": 174512679,
+      "creationTime": 1664801718,
+      "language": "GNU C++17",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482681929
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721B",
+        "name": "Deadly Laser",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/174512679"
+    },
+    {
+      "type": "codeforces",
+      "id": 174511127,
+      "creationTime": 1664800854,
+      "language": "GNU C++17",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482682793
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721B",
+        "name": "Deadly Laser",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/174511127"
+    },
+    {
+      "type": "codeforces",
+      "id": 174510971,
+      "creationTime": 1664800770,
+      "language": "GNU C++17",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482682877
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721B",
+        "name": "Deadly Laser",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/174510971"
+    },
+    {
+      "type": "codeforces",
+      "id": 174510950,
+      "creationTime": 1664800757,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482682890
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721B",
+        "name": "Deadly Laser",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/174510950"
+    },
+    {
+      "type": "codeforces",
+      "id": 174510856,
+      "creationTime": 1664800704,
+      "language": "GNU C++17 (64)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482682943
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1721B",
+        "name": "Deadly Laser",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1721/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1721/submission/174510856"
+    },
     {
       "type": "codeforces",
       "id": 173712442,
