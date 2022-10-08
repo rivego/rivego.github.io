@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1665208274,
+  "updateTime": 1665251283,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 175043607,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665169414
-          },
-          {
-            "platform": "codeforces",
-            "id": 175043108,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665169077
-          },
-          {
-            "platform": "codeforces",
-            "id": 175043033,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665169027
-          },
-          {
-            "platform": "codeforces",
-            "id": 175042779,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665168871
-          },
-          {
-            "platform": "codeforces",
-            "id": 175042716,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1665168829
-          },
-          {
-            "platform": "codeforces",
-            "id": 175042371,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665168614
-          },
-          {
-            "platform": "codeforces",
-            "id": 175042300,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665168579
-          },
-          {
-            "platform": "codeforces",
-            "id": 175041448,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665168115
-          },
-          {
-            "platform": "codeforces",
-            "id": 175041196,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665167985
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "8dc36f8f4771ef7a2784c83c61fa673d2bcae219"
+  "ref": "ae9be346f51cd8f8abecd99c5595f67456a4263f"
 }
