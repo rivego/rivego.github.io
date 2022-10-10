@@ -6,6 +6,50 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 175367964,
+      "creationTime": 1665411511,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482072136
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103446E",
+        "name": "Strange Integers",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103446/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103446/submission/175367964"
+    },
+    {
+      "type": "codeforces",
+      "id": 175366315,
+      "creationTime": 1665410610,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482073037
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103446D",
+        "name": "Strange Fractions",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103446/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103446/submission/175366315"
+    },
+    {
+      "type": "codeforces",
       "id": 174749053,
       "creationTime": 1664977368,
       "language": "GNU C++17",
