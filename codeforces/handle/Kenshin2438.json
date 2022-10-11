@@ -2,8 +2,221 @@
   "type": "codeforces",
   "handle": "Kenshin2438",
   "handleUrl": "https://codeforces.com/profile/Kenshin2438",
-  "avatar": "//userpic.codeforces.org/1961698/title/b24e230c92f54cd.jpg",
+  "avatar": "https://userpic.codeforces.org/1961698/title/b24e230c92f54cd.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 175549488,
+      "creationTime": 1665492200,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1665488520
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1736C2",
+        "name": "Good Subarrays (Hard Version)",
+        "tags": [
+          "binary search",
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1736/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1736/submission/175549488"
+    },
+    {
+      "type": "codeforces",
+      "id": 175548545,
+      "creationTime": 1665491727,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1665488520
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1736C1",
+        "name": "Good Subarrays (Easy Version)",
+        "tags": [
+          "binary search",
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1736/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1736/submission/175548545"
+    },
+    {
+      "type": "codeforces",
+      "id": 175544432,
+      "creationTime": 1665489591,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1665488520
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1736B",
+        "name": "Playing with GCD",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1736/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1736/submission/175544432"
+    },
+    {
+      "type": "codeforces",
+      "id": 175542999,
+      "creationTime": 1665488825,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1665488520
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1736A",
+        "name": "Make A Equal to B",
+        "tags": [
+          "brute force",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1736/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1736/submission/175542999"
+    },
+    {
+      "type": "codeforces",
+      "id": 175530579,
+      "creationTime": 1665483499,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482000148
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103708C",
+        "name": "Candies median",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103708/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103708/submission/175530579"
+    },
+    {
+      "type": "codeforces",
+      "id": 175530494,
+      "creationTime": 1665483442,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482000205
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103708C",
+        "name": "Candies median",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103708/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103708/submission/175530494"
+    },
+    {
+      "type": "codeforces",
+      "id": 175529987,
+      "creationTime": 1665483096,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482000551
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103708C",
+        "name": "Candies median",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103708/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103708/submission/175529987"
+    },
+    {
+      "type": "codeforces",
+      "id": 175529556,
+      "creationTime": 1665482784,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482000863
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103708C",
+        "name": "Candies median",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103708/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103708/submission/175529556"
+    },
+    {
+      "type": "codeforces",
+      "id": 175527219,
+      "creationTime": 1665481078,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482002569
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103708C",
+        "name": "Candies median",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103708/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103708/submission/175527219"
+    },
     {
       "type": "codeforces",
       "id": 175222833,

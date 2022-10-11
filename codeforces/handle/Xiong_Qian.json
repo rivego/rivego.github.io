@@ -2,8 +2,60 @@
   "type": "codeforces",
   "handle": "Xiong_Qian",
   "handleUrl": "https://codeforces.com/profile/Xiong_Qian",
-  "avatar": "//userpic.codeforces.org/no-title.jpg",
+  "avatar": "https://userpic.codeforces.org/no-title.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 175558773,
+      "creationTime": 1665496746,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481986901
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "357B",
+        "name": "Flag Day",
+        "rating": 1400,
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/357/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/357/submission/175558773"
+    },
+    {
+      "type": "codeforces",
+      "id": 175557549,
+      "creationTime": 1665496178,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481987469
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "357B",
+        "name": "Flag Day",
+        "rating": 1400,
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/357/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/357/submission/175557549"
+    },
     {
       "type": "codeforces",
       "id": 175206986,
