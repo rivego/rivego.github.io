@@ -310,8 +310,11 @@
         "name": "Ela and the Wiring Wizard",
         "rating": 2200,
         "tags": [
+          "brute force",
+          "dp",
           "graphs",
           "greedy",
+          "implementation",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1737/problem/D"
@@ -337,8 +340,11 @@
         "name": "Ela and the Wiring Wizard",
         "rating": 2200,
         "tags": [
+          "brute force",
+          "dp",
           "graphs",
           "greedy",
+          "implementation",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1737/problem/D"
