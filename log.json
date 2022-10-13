@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1665642235,
+  "updateTime": 1665684110,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 175962021,
+            "pid": "1742G",
+            "name": "Orray",
+            "verdict": "OK",
+            "creationTime": 1665674245
+          },
+          {
+            "platform": "codeforces",
+            "id": 175957220,
+            "pid": "1742C",
+            "name": "Stripes",
+            "verdict": "OK",
+            "creationTime": 1665673977
+          },
+          {
+            "platform": "codeforces",
+            "id": 175956186,
+            "pid": "1742F",
+            "name": "Smaller",
+            "verdict": "OK",
+            "creationTime": 1665673916
+          },
+          {
+            "platform": "codeforces",
+            "id": 175944367,
+            "pid": "1742E",
+            "name": "Scuza",
+            "verdict": "OK",
+            "creationTime": 1665673289
+          },
+          {
+            "platform": "codeforces",
+            "id": 175941429,
+            "pid": "1742D",
+            "name": "Coprime",
+            "verdict": "OK",
+            "creationTime": 1665673146
+          },
+          {
+            "platform": "codeforces",
+            "id": 175937393,
+            "pid": "1742C",
+            "name": "Stripes",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665672949
+          },
+          {
+            "platform": "codeforces",
+            "id": 175933405,
+            "pid": "1742B",
+            "name": "Increasing",
+            "verdict": "OK",
+            "creationTime": 1665672773
+          },
+          {
+            "platform": "codeforces",
+            "id": 175931554,
+            "pid": "1742A",
+            "name": "Sum",
+            "verdict": "OK",
+            "creationTime": 1665672694
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "2109b1b90ed979ad6f58fe6ffbdfc64d4a8151ac"
+  "ref": "bd66d16202ed869c4e14d8745d29e4d515b933a8"
 }

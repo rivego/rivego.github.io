@@ -2,7 +2,7 @@
   "type": "codeforces",
   "handle": "Kenshin2438",
   "handleUrl": "https://codeforces.com/profile/Kenshin2438",
-  "avatar": "https://userpic.codeforces.org/1961698/title/b24e230c92f54cd.jpg",
+  "avatar": "//userpic.codeforces.org/1961698/title/b24e230c92f54cd.jpg",
   "submissions": [
     {
       "type": "codeforces",
@@ -24,6 +24,7 @@
         "tags": [
           "binary search",
           "data structures",
+          "dp",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1736/problem/C2"
