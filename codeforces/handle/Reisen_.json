@@ -6,6 +6,270 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 176477175,
+      "creationTime": 1665918367,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481565280
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176477175"
+    },
+    {
+      "type": "codeforces",
+      "id": 176476973,
+      "creationTime": 1665918281,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481565366
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176476973"
+    },
+    {
+      "type": "codeforces",
+      "id": 176476833,
+      "creationTime": 1665918228,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481565419
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176476833"
+    },
+    {
+      "type": "codeforces",
+      "id": 176475366,
+      "creationTime": 1665917566,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481566081
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176475366"
+    },
+    {
+      "type": "codeforces",
+      "id": 176475106,
+      "creationTime": 1665917454,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481566193
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176475106"
+    },
+    {
+      "type": "codeforces",
+      "id": 176474946,
+      "creationTime": 1665917385,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481566262
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176474946"
+    },
+    {
+      "type": "codeforces",
+      "id": 176474684,
+      "creationTime": 1665917262,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481566385
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176474684"
+    },
+    {
+      "type": "codeforces",
+      "id": 176473848,
+      "creationTime": 1665916877,
+      "language": "Python 3",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481566770
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176473848"
+    },
+    {
+      "type": "codeforces",
+      "id": 176473809,
+      "creationTime": 1665916859,
+      "language": "GNU C++17 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481566788
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176473809"
+    },
+    {
+      "type": "codeforces",
+      "id": 176471933,
+      "creationTime": 1665916021,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481567626
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176471933"
+    },
+    {
+      "type": "codeforces",
+      "id": 176468849,
+      "creationTime": 1665914550,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481569097
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176468849"
+    },
+    {
+      "type": "codeforces",
+      "id": 176468756,
+      "creationTime": 1665914509,
+      "language": "GNU C++17 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481569138
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102028E",
+        "name": "Resistors in Parallel",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102028/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102028/submission/176468756"
+    },
+    {
+      "type": "codeforces",
       "id": 175561266,
       "creationTime": 1665497923,
       "language": "GNU C++17 (64)",

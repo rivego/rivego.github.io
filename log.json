@@ -1,9 +1,112 @@
 {
   "version": "0.1.29",
-  "updateTime": 1665899971,
+  "updateTime": 1665942558,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Reisen_",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 176477175,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665918367
+          },
+          {
+            "platform": "codeforces",
+            "id": 176476973,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665918281
+          },
+          {
+            "platform": "codeforces",
+            "id": 176476833,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "OK",
+            "creationTime": 1665918228
+          },
+          {
+            "platform": "codeforces",
+            "id": 176475366,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665917566
+          },
+          {
+            "platform": "codeforces",
+            "id": 176475106,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665917454
+          },
+          {
+            "platform": "codeforces",
+            "id": 176474946,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665917385
+          },
+          {
+            "platform": "codeforces",
+            "id": 176474684,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665917262
+          },
+          {
+            "platform": "codeforces",
+            "id": 176473848,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "OK",
+            "creationTime": 1665916877
+          },
+          {
+            "platform": "codeforces",
+            "id": 176473809,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1665916859
+          },
+          {
+            "platform": "codeforces",
+            "id": 176471933,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665916021
+          },
+          {
+            "platform": "codeforces",
+            "id": 176468849,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665914550
+          },
+          {
+            "platform": "codeforces",
+            "id": 176468756,
+            "pid": "102028E",
+            "name": "Resistors in Parallel",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1665914509
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "21140f1de4e224ecefe0a4523ab580adb44c0b8f"
+  "ref": "1daea0f11f1f53a2765fc13dbea80d74b5635204"
 }
