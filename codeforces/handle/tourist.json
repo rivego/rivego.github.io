@@ -48,6 +48,7 @@
         "name": "Kazaee",
         "tags": [
           "data structures",
+          "hashing",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1746/problem/F"
@@ -73,7 +74,10 @@
         "name": "Joking (Easy Version)",
         "tags": [
           "binary search",
-          "interactive"
+          "bitmasks",
+          "constructive algorithms",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/1746/problem/E1"
       },
@@ -97,8 +101,10 @@
         "id": "1746D",
         "name": "Paths on the Tree",
         "tags": [
+          "dfs and similar",
           "dp",
           "greedy",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1746/problem/D"
@@ -148,6 +154,8 @@
         "id": "1746C",
         "name": "Permutation Operations",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation",
           "math"
         ],
@@ -173,6 +181,8 @@
         "id": "1746C",
         "name": "Permutation Operations",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation",
           "math"
         ],
@@ -108073,7 +108083,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3834,
+    "rating": 3912,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
