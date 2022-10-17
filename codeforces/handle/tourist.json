@@ -136,7 +136,8 @@
         "tags": [
           "brute force",
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1746/problem/B"
       },
