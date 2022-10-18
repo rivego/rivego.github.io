@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1666029905,
+  "updateTime": 1666075220,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 176744926,
-            "pid": "1743G",
-            "name": "Antifibonacci Cut",
-            "verdict": "OK",
-            "creationTime": 1666020608
-          },
-          {
-            "platform": "codeforces",
-            "id": 176737097,
-            "pid": "1743F",
-            "name": "Intersection and Union",
-            "verdict": "OK",
-            "creationTime": 1666019781
-          },
-          {
-            "platform": "codeforces",
-            "id": 176732507,
-            "pid": "1743E",
-            "name": "FTL",
-            "verdict": "OK",
-            "creationTime": 1666019349
-          },
-          {
-            "platform": "codeforces",
-            "id": 176731506,
-            "pid": "1743E",
-            "name": "FTL",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1666019262
-          },
-          {
-            "platform": "codeforces",
-            "id": 176723746,
-            "pid": "1743D",
-            "name": "Problem with Random Tests",
-            "verdict": "OK",
-            "creationTime": 1666018651
-          },
-          {
-            "platform": "codeforces",
-            "id": 176716029,
-            "pid": "1743C",
-            "name": "Save the Magazines",
-            "verdict": "OK",
-            "creationTime": 1666018180
-          },
-          {
-            "platform": "codeforces",
-            "id": 176712751,
-            "pid": "1743B",
-            "name": "Permutation Value",
-            "verdict": "OK",
-            "creationTime": 1666018022
-          },
-          {
-            "platform": "codeforces",
-            "id": 176712234,
-            "pid": "1743A",
-            "name": "Password",
-            "verdict": "OK",
-            "creationTime": 1666017999
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "df10fffe8457f33fb1e16a04a416293b7ce6c68e"
+  "ref": "c0307f3344b8550609de2fa6fb1aed17bc88e593"
 }
