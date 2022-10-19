@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1736C2",
         "name": "Good Subarrays (Hard Version)",
+        "rating": 2400,
         "tags": [
           "binary search",
           "data structures",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1736C1",
         "name": "Good Subarrays (Easy Version)",
+        "rating": 1300,
         "tags": [
           "binary search",
           "data structures",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "1736B",
         "name": "Playing with GCD",
+        "rating": 1200,
         "tags": [
           "math",
           "number theory"
@@ -100,6 +103,7 @@
         "type": "codeforces",
         "id": "1736A",
         "name": "Make A Equal to B",
+        "rating": 800,
         "tags": [
           "brute force",
           "greedy",

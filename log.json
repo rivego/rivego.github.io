@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1666115996,
+  "updateTime": 1666161831,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 176870328,
-            "pid": "1744F",
-            "name": "MEX vs MED",
-            "verdict": "OK",
-            "creationTime": 1666092630
-          },
-          {
-            "platform": "codeforces",
-            "id": 176868994,
-            "pid": "1744E2",
-            "name": "Divisible Numbers (hard version)",
-            "verdict": "OK",
-            "creationTime": 1666091970
-          },
-          {
-            "platform": "codeforces",
-            "id": 176868966,
-            "pid": "1744E1",
-            "name": "Divisible Numbers (easy version)",
-            "verdict": "OK",
-            "creationTime": 1666091954
-          },
-          {
-            "platform": "codeforces",
-            "id": 176868232,
-            "pid": "1744D",
-            "name": "Divisibility by 2^n",
-            "verdict": "OK",
-            "creationTime": 1666091555
-          },
-          {
-            "platform": "codeforces",
-            "id": 176867989,
-            "pid": "1744C",
-            "name": "Traffic Light",
-            "verdict": "OK",
-            "creationTime": 1666091435
-          },
-          {
-            "platform": "codeforces",
-            "id": 176867731,
-            "pid": "1744B",
-            "name": "Even-Odd Increments ",
-            "verdict": "OK",
-            "creationTime": 1666091282
-          },
-          {
-            "platform": "codeforces",
-            "id": 176867408,
-            "pid": "1744A",
-            "name": "Number Replacement",
-            "verdict": "OK",
-            "creationTime": 1666091109
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "954022dc95b97af16c73df68da5a6a92b330f79e"
+  "ref": "f38c02759e5c8dda493df72d028b6f8234bb79de"
 }
