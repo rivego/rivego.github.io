@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1666245460,
+  "updateTime": 1666289035,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 177171328,
+            "pid": "1749B",
+            "name": "Death's Blessing",
+            "verdict": "OK",
+            "creationTime": 1666278563
+          },
+          {
+            "platform": "codeforces",
+            "id": 177153674,
+            "pid": "1749A",
+            "name": "Cowardly Rooks",
+            "verdict": "OK",
+            "creationTime": 1666277208
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c5edf7d17e849fdf05bb8c692c6b1c07656e394d"
+  "ref": "6e5723e7fdb30542fc566c3742cd548de82b60a0"
 }
