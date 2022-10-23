@@ -6,6 +6,204 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 177671778,
+      "creationTime": 1666541916,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480941731
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1754E",
+        "name": "Wish I Knew How to Sort",
+        "tags": [
+          "dp",
+          "dp",
+          "probabilities",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1754/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1754/submission/177671778"
+    },
+    {
+      "type": "codeforces",
+      "id": 177594142,
+      "creationTime": 1666517072,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1666511400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1754D",
+        "name": "Factorial Divisibility",
+        "tags": [
+          "math",
+          "math",
+          "math",
+          "math",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1754/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1754/submission/177594142"
+    },
+    {
+      "type": "codeforces",
+      "id": 177589097,
+      "creationTime": 1666516337,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1666511400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1754C2",
+        "name": "Make Nonzero Sum (hard version)",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1754/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1754/submission/177589097"
+    },
+    {
+      "type": "codeforces",
+      "id": 177587915,
+      "creationTime": 1666516166,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1666511400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1754C2",
+        "name": "Make Nonzero Sum (hard version)",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1754/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1754/submission/177587915"
+    },
+    {
+      "type": "codeforces",
+      "id": 177583834,
+      "creationTime": 1666515619,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1666511400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1754C1",
+        "name": "Make Nonzero Sum (easy version)",
+        "tags": [
+          "constructive algorithms",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1754/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1754/submission/177583834"
+    },
+    {
+      "type": "codeforces",
+      "id": 177553920,
+      "creationTime": 1666512708,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1666511400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1754B",
+        "name": "Kevin and Permutation",
+        "tags": [
+          "constructive algorithms",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1754/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1754/submission/177553920"
+    },
+    {
+      "type": "codeforces",
+      "id": 177537928,
+      "creationTime": 1666511819,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1666511400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1754A",
+        "name": "Technical Support",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1754/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1754/submission/177537928"
+    },
+    {
+      "type": "codeforces",
+      "id": 177523130,
+      "creationTime": 1666505179,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480978468
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "101955G",
+        "name": "Best ACMer Solves the Hardest Problem",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/101955/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/gym/101955/submission/177523130"
+    },
+    {
+      "type": "codeforces",
       "id": 177522145,
       "creationTime": 1666504473,
       "language": "GNU C++17 (64)",
