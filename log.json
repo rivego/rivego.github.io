@@ -1,9 +1,56 @@
 {
   "version": "0.1.29",
-  "updateTime": 1666461003,
+  "updateTime": 1666504814,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 177522145,
+            "pid": "101955G",
+            "name": "Best ACMer Solves the Hardest Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666504473
+          },
+          {
+            "platform": "codeforces",
+            "id": 177520801,
+            "pid": "101955G",
+            "name": "Best ACMer Solves the Hardest Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666503418
+          },
+          {
+            "platform": "codeforces",
+            "id": 177520717,
+            "pid": "101955G",
+            "name": "Best ACMer Solves the Hardest Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666503351
+          },
+          {
+            "platform": "codeforces",
+            "id": 177520258,
+            "pid": "101955G",
+            "name": "Best ACMer Solves the Hardest Problem",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1666502928
+          },
+          {
+            "platform": "codeforces",
+            "id": 177520225,
+            "pid": "101955G",
+            "name": "Best ACMer Solves the Hardest Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666502894
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "f7108af716a2dffaa785ecdcc47c7ce0b407f3f9"
+  "ref": "4cdd69f0b79e40ab68e01cb38da1eec238eef6a4"
 }
