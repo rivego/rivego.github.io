@@ -125,7 +125,6 @@
         "name": "Make Nonzero Sum (easy version)",
         "rating": 1300,
         "tags": [
-          "constructive algorithms",
           "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/1754/problem/C1"
@@ -152,7 +151,7 @@
         "rating": 800,
         "tags": [
           "constructive algorithms",
-          "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1754/problem/B"
@@ -177,7 +176,9 @@
         "id": "1754A",
         "name": "Technical Support",
         "rating": 800,
-        "tags": [],
+        "tags": [
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1754/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1754/submission/177537928"
