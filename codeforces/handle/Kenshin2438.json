@@ -21,8 +21,8 @@
         "type": "codeforces",
         "id": "1754E",
         "name": "Wish I Knew How to Sort",
+        "rating": 2000,
         "tags": [
-          "dp",
           "dp",
           "probabilities",
           "probabilities"
@@ -48,11 +48,8 @@
         "type": "codeforces",
         "id": "1754D",
         "name": "Factorial Divisibility",
+        "rating": 1600,
         "tags": [
-          "math",
-          "math",
-          "math",
-          "math",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1754/problem/D"
@@ -76,6 +73,7 @@
         "type": "codeforces",
         "id": "1754C2",
         "name": "Make Nonzero Sum (hard version)",
+        "rating": 1500,
         "tags": [
           "constructive algorithms"
         ],
@@ -100,6 +98,7 @@
         "type": "codeforces",
         "id": "1754C2",
         "name": "Make Nonzero Sum (hard version)",
+        "rating": 1500,
         "tags": [
           "constructive algorithms"
         ],
@@ -124,6 +123,7 @@
         "type": "codeforces",
         "id": "1754C1",
         "name": "Make Nonzero Sum (easy version)",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "constructive algorithms"
@@ -149,6 +149,7 @@
         "type": "codeforces",
         "id": "1754B",
         "name": "Kevin and Permutation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "constructive algorithms",
@@ -175,6 +176,7 @@
         "type": "codeforces",
         "id": "1754A",
         "name": "Technical Support",
+        "rating": 800,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1754/problem/A"
       },
@@ -24623,7 +24625,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1770,
+    "rating": 1750,
     "maxRank": "expert",
     "maxRating": 1832
   }
