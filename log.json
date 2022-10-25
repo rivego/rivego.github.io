@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1666634360,
+  "updateTime": 1666679875,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Reisen_",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 177833069,
+            "pid": "102012A",
+            "name": "Rikka with Minimum Spanning Trees",
+            "verdict": "OK",
+            "creationTime": 1666678416
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "25bc66f81c4e93c521363f235591ff35999bf6be"
+  "ref": "64a29e3590c4a5b9644e51824fac1f3619819cc1"
 }

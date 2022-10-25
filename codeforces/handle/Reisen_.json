@@ -6,6 +6,28 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 177833069,
+      "creationTime": 1666678416,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480805231
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102012A",
+        "name": "Rikka with Minimum Spanning Trees",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102012/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102012/submission/177833069"
+    },
+    {
+      "type": "codeforces",
       "id": 176477175,
       "creationTime": 1665918367,
       "language": "GNU C++20 (64)",
