@@ -6,6 +6,62 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 177879868,
+      "creationTime": 1666703750,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480779897
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1732C1",
+        "name": "Sheikh (Easy version)",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1732/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1732/submission/177879868"
+    },
+    {
+      "type": "codeforces",
+      "id": 177879619,
+      "creationTime": 1666703642,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480780005
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1732C1",
+        "name": "Sheikh (Easy version)",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1732/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1732/submission/177879619"
+    },
+    {
+      "type": "codeforces",
       "id": 177833069,
       "creationTime": 1666678416,
       "language": "GNU C++20 (64)",
