@@ -50,7 +50,6 @@
         "name": "Factorial Divisibility",
         "rating": 1600,
         "tags": [
-          "hashing",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1754/problem/D"
