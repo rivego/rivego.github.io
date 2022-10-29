@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1667022097,
+  "updateTime": 1667065204,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 178379430,
+            "pid": "1740H",
+            "name": "MEX Tree Manipulation",
+            "verdict": "OK",
+            "creationTime": 1667041503
+          },
+          {
+            "platform": "codeforces",
+            "id": 178363447,
+            "pid": "1740G",
+            "name": "Dangerous Laser Power",
+            "verdict": "OK",
+            "creationTime": 1667038810
+          },
+          {
+            "platform": "codeforces",
+            "id": 178342509,
+            "pid": "1740F",
+            "name": "Conditional Mix",
+            "verdict": "OK",
+            "creationTime": 1667036234
+          },
+          {
+            "platform": "codeforces",
+            "id": 178337370,
+            "pid": "1740E",
+            "name": "Hanging Hearts",
+            "verdict": "OK",
+            "creationTime": 1667035703
+          },
+          {
+            "platform": "codeforces",
+            "id": 178334153,
+            "pid": "1740D",
+            "name": "Knowledge Cards",
+            "verdict": "OK",
+            "creationTime": 1667035384
+          },
+          {
+            "platform": "codeforces",
+            "id": 178329483,
+            "pid": "1740C",
+            "name": "Bricks and Bags",
+            "verdict": "OK",
+            "creationTime": 1667034958
+          },
+          {
+            "platform": "codeforces",
+            "id": 178326239,
+            "pid": "1740B",
+            "name": "Jumbo Extra Cheese 2",
+            "verdict": "OK",
+            "creationTime": 1667034769
+          },
+          {
+            "platform": "codeforces",
+            "id": 178322883,
+            "pid": "1740A",
+            "name": "Factorise N+M",
+            "verdict": "OK",
+            "creationTime": 1667034651
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "94fc88bef4c07aff6032bf9b5e80faf659d3dfc3"
+  "ref": "dcbc0c4c9931b831052094a7d78114e8fbd7cf53"
 }

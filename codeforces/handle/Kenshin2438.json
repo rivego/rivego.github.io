@@ -75,7 +75,8 @@
         "name": "Make Nonzero Sum (hard version)",
         "rating": 1500,
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1754/problem/C2"
       },
@@ -100,7 +101,8 @@
         "name": "Make Nonzero Sum (hard version)",
         "rating": 1500,
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1754/problem/C2"
       },
