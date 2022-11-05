@@ -1,56 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1667583619,
+  "updateTime": 1667626573,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 179261127,
-            "pid": "1747E",
-            "name": "List Generation",
-            "verdict": "OK",
-            "creationTime": 1667576753
-          },
-          {
-            "platform": "codeforces",
-            "id": 179249391,
-            "pid": "1747D",
-            "name": "Yet Another Problem",
-            "verdict": "OK",
-            "creationTime": 1667575611
-          },
-          {
-            "platform": "codeforces",
-            "id": 179235879,
-            "pid": "1747C",
-            "name": "Swap Game",
-            "verdict": "OK",
-            "creationTime": 1667574554
-          },
-          {
-            "platform": "codeforces",
-            "id": 179227464,
-            "pid": "1747B",
-            "name": "BAN BAN",
-            "verdict": "OK",
-            "creationTime": 1667574040
-          },
-          {
-            "platform": "codeforces",
-            "id": 179227355,
-            "pid": "1747A",
-            "name": "Two Groups",
-            "verdict": "OK",
-            "creationTime": 1667574034
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "173996d9a89221b26ea03bf58cdeabf291a4cc8a"
+  "ref": "ab7bb41c890203398ffeea7b31ae555804b34659"
 }
