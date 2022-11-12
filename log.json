@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1668188425,
+  "updateTime": 1668231440,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 180429656,
-            "pid": "104013F",
-            "name": "Futures Market Trends",
-            "verdict": "OK",
-            "creationTime": 1668150937
-          },
-          {
-            "platform": "codeforces",
-            "id": 180428940,
-            "pid": "104013E",
-            "name": "Easy Compare-and-Set",
-            "verdict": "OK",
-            "creationTime": 1668150380
-          },
-          {
-            "platform": "codeforces",
-            "id": 180427988,
-            "pid": "104013D",
-            "name": "Display",
-            "verdict": "OK",
-            "creationTime": 1668149692
-          },
-          {
-            "platform": "codeforces",
-            "id": 180427946,
-            "pid": "104013D",
-            "name": "Display",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1668149660
-          },
-          {
-            "platform": "codeforces",
-            "id": 180427152,
-            "pid": "104013C",
-            "name": "Corrupted Sort",
-            "verdict": "OK",
-            "creationTime": 1668149091
-          },
-          {
-            "platform": "codeforces",
-            "id": 180425635,
-            "pid": "104013B",
-            "name": "Bicycle",
-            "verdict": "OK",
-            "creationTime": 1668147937
-          },
-          {
-            "platform": "codeforces",
-            "id": 180425149,
-            "pid": "104013A",
-            "name": "Archivist",
-            "verdict": "OK",
-            "creationTime": 1668147595
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "343c03698c395b633ebaa80abe5c88cc2c06dbfc"
+  "ref": "3b9a969339a920cc34ce5bdea945bc49588b18c8"
 }
