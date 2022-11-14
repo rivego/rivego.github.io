@@ -15153,6 +15153,17 @@
     "standingsUrl": "https://codeforces.com/gym/104034/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "CSP-Junior 2022",
+    "startTime": 1667003400,
+    "duration": 12600,
+    "participantNumber": 0,
+    "id": 104037,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104037",
+    "standingsUrl": "https://codeforces.com/gym/104037/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Школьный этап ВСОШ по информатике 9-11 класс 2022 (4 группа регионов)",
     "duration": 7200,
@@ -15186,7 +15197,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "The 2022 CCPC Guangzhou Onsite",
+    "name": "2022 China Collegiate Programming Contest (CCPC) Guangzhou Site",
     "startTime": 1668301200,
     "duration": 18000,
     "participantNumber": 0,
@@ -15205,5 +15216,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104052",
     "standingsUrl": "https://codeforces.com/gym/104052/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022-2023 ACM-ICPC German Collegiate Programming Contest (GCPC 2022)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104059,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104059",
+    "standingsUrl": "https://codeforces.com/gym/104059/standings"
   }
 ]
