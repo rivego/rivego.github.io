@@ -1,9 +1,120 @@
 {
   "version": "0.1.29",
-  "updateTime": 1668490531,
+  "updateTime": 1668533863,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 181121182,
+            "pid": "1748F",
+            "name": "Circular Xor Reversal",
+            "verdict": "OK",
+            "creationTime": 1668532677
+          },
+          {
+            "platform": "codeforces",
+            "id": 181121120,
+            "pid": "1748F",
+            "name": "Circular Xor Reversal",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668532650
+          },
+          {
+            "platform": "codeforces",
+            "id": 181116336,
+            "pid": "1748E",
+            "name": "Yet Another Array Counting Problem",
+            "verdict": "OK",
+            "creationTime": 1668529808
+          },
+          {
+            "platform": "codeforces",
+            "id": 181114803,
+            "pid": "1748D",
+            "name": "ConstructOR ",
+            "verdict": "OK",
+            "creationTime": 1668528942
+          },
+          {
+            "platform": "codeforces",
+            "id": 181114298,
+            "pid": "1748C",
+            "name": "Zero-Sum Prefixes",
+            "verdict": "OK",
+            "creationTime": 1668528655
+          },
+          {
+            "platform": "codeforces",
+            "id": 181114187,
+            "pid": "1748C",
+            "name": "Zero-Sum Prefixes",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668528587
+          },
+          {
+            "platform": "codeforces",
+            "id": 181113354,
+            "pid": "1748B",
+            "name": "Diverse Substrings",
+            "verdict": "OK",
+            "creationTime": 1668528151
+          },
+          {
+            "platform": "codeforces",
+            "id": 181113022,
+            "pid": "1748A",
+            "name": "The Ultimate Square",
+            "verdict": "OK",
+            "creationTime": 1668527966
+          },
+          {
+            "platform": "codeforces",
+            "id": 181101628,
+            "pid": "104013J",
+            "name": "Joint Password Storage",
+            "verdict": "OK",
+            "creationTime": 1668522003
+          },
+          {
+            "platform": "codeforces",
+            "id": 181100368,
+            "pid": "104013J",
+            "name": "Joint Password Storage",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668521445
+          },
+          {
+            "platform": "codeforces",
+            "id": 181100024,
+            "pid": "104013J",
+            "name": "Joint Password Storage",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668521305
+          },
+          {
+            "platform": "codeforces",
+            "id": 181079029,
+            "pid": "104013K",
+            "name": "Keys and Locks Boolean Logic",
+            "verdict": "OK",
+            "creationTime": 1668512130
+          },
+          {
+            "platform": "codeforces",
+            "id": 181078711,
+            "pid": "104013K",
+            "name": "Keys and Locks Boolean Logic",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668511946
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "afa10b808907765c8593802825577cc69c7823e2"
+  "ref": "883eea44ec07b25a97d217236b515f703bc1a1d5"
 }
