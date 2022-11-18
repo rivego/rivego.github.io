@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1668706684,
+  "updateTime": 1668749765,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 181369970,
+            "pid": "104053E",
+            "name": "Elevator",
+            "verdict": "OK",
+            "creationTime": 1668740535
+          },
+          {
+            "platform": "codeforces",
+            "id": 181369917,
+            "pid": "104053E",
+            "name": "Elevator",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668740470
+          },
+          {
+            "platform": "codeforces",
+            "id": 181369883,
+            "pid": "104053E",
+            "name": "Elevator",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668740426
+          },
+          {
+            "platform": "codeforces",
+            "id": 181369029,
+            "pid": "104053H",
+            "name": "GameX",
+            "verdict": "OK",
+            "creationTime": 1668739212
+          },
+          {
+            "platform": "codeforces",
+            "id": 181368779,
+            "pid": "104053H",
+            "name": "GameX",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668738857
+          },
+          {
+            "platform": "codeforces",
+            "id": 181366084,
+            "pid": "104053L",
+            "name": "Station of Fate",
+            "verdict": "OK",
+            "creationTime": 1668734496
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "8c027abf4d882de1eea99606264d1d104da2456e"
+  "ref": "17ad2a2c9729dd452885eb7b986c381122734c9a"
 }
