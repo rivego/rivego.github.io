@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1668749765,
+  "updateTime": 1668793056,
   "history": {
     "user": [
       {
@@ -8,51 +8,81 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 181369970,
-            "pid": "104053E",
-            "name": "Elevator",
+            "id": 181379193,
+            "pid": "104053J",
+            "name": "Math Exam",
             "verdict": "OK",
-            "creationTime": 1668740535
-          },
+            "creationTime": 1668751151
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 181369917,
-            "pid": "104053E",
-            "name": "Elevator",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1668740470
-          },
-          {
-            "platform": "codeforces",
-            "id": 181369883,
-            "pid": "104053E",
-            "name": "Elevator",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1668740426
-          },
-          {
-            "platform": "codeforces",
-            "id": 181369029,
-            "pid": "104053H",
-            "name": "GameX",
+            "id": 181522417,
+            "pid": "1759B",
+            "name": "Lost Permutation",
             "verdict": "OK",
-            "creationTime": 1668739212
+            "creationTime": 1668792813
           },
           {
             "platform": "codeforces",
-            "id": 181368779,
-            "pid": "104053H",
-            "name": "GameX",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1668738857
-          },
-          {
-            "platform": "codeforces",
-            "id": 181366084,
-            "pid": "104053L",
-            "name": "Station of Fate",
+            "id": 181469821,
+            "pid": "1759G",
+            "name": "Restore the Permutation",
             "verdict": "OK",
-            "creationTime": 1668734496
+            "creationTime": 1668785181
+          },
+          {
+            "platform": "codeforces",
+            "id": 181460122,
+            "pid": "1759F",
+            "name": "All Possible Digits",
+            "verdict": "OK",
+            "creationTime": 1668784382
+          },
+          {
+            "platform": "codeforces",
+            "id": 181451301,
+            "pid": "1759E",
+            "name": "The Humanoid",
+            "verdict": "OK",
+            "creationTime": 1668783759
+          },
+          {
+            "platform": "codeforces",
+            "id": 181445127,
+            "pid": "1759D",
+            "name": "Make It Round",
+            "verdict": "OK",
+            "creationTime": 1668783361
+          },
+          {
+            "platform": "codeforces",
+            "id": 181434012,
+            "pid": "1759C",
+            "name": "Thermostat",
+            "verdict": "OK",
+            "creationTime": 1668782716
+          },
+          {
+            "platform": "codeforces",
+            "id": 181429302,
+            "pid": "1759B",
+            "name": "Lost Permutation",
+            "verdict": "CHALLENGED",
+            "creationTime": 1668782443
+          },
+          {
+            "platform": "codeforces",
+            "id": 181427297,
+            "pid": "1759A",
+            "name": "Yes-Yes?",
+            "verdict": "OK",
+            "creationTime": 1668782274
           }
         ],
         "newContests": []
@@ -60,5 +90,5 @@
     ],
     "contest": []
   },
-  "ref": "17ad2a2c9729dd452885eb7b986c381122734c9a"
+  "ref": "30d6e90b65bcb9ac0fac0da10949bcc7152bafe7"
 }
