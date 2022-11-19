@@ -1,94 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1668793056,
+  "updateTime": 1668836114,
   "history": {
-    "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 181379193,
-            "pid": "104053J",
-            "name": "Math Exam",
-            "verdict": "OK",
-            "creationTime": 1668751151
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 181522417,
-            "pid": "1759B",
-            "name": "Lost Permutation",
-            "verdict": "OK",
-            "creationTime": 1668792813
-          },
-          {
-            "platform": "codeforces",
-            "id": 181469821,
-            "pid": "1759G",
-            "name": "Restore the Permutation",
-            "verdict": "OK",
-            "creationTime": 1668785181
-          },
-          {
-            "platform": "codeforces",
-            "id": 181460122,
-            "pid": "1759F",
-            "name": "All Possible Digits",
-            "verdict": "OK",
-            "creationTime": 1668784382
-          },
-          {
-            "platform": "codeforces",
-            "id": 181451301,
-            "pid": "1759E",
-            "name": "The Humanoid",
-            "verdict": "OK",
-            "creationTime": 1668783759
-          },
-          {
-            "platform": "codeforces",
-            "id": 181445127,
-            "pid": "1759D",
-            "name": "Make It Round",
-            "verdict": "OK",
-            "creationTime": 1668783361
-          },
-          {
-            "platform": "codeforces",
-            "id": 181434012,
-            "pid": "1759C",
-            "name": "Thermostat",
-            "verdict": "OK",
-            "creationTime": 1668782716
-          },
-          {
-            "platform": "codeforces",
-            "id": 181429302,
-            "pid": "1759B",
-            "name": "Lost Permutation",
-            "verdict": "CHALLENGED",
-            "creationTime": 1668782443
-          },
-          {
-            "platform": "codeforces",
-            "id": 181427297,
-            "pid": "1759A",
-            "name": "Yes-Yes?",
-            "verdict": "OK",
-            "creationTime": 1668782274
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "30d6e90b65bcb9ac0fac0da10949bcc7152bafe7"
+  "ref": "9b45f2825a9d9488cb85b0a56cdb7bcfd2716696"
 }
