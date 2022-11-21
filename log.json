@@ -1,26 +1,200 @@
 {
   "version": "0.1.29",
-  "updateTime": 1669008973,
+  "updateTime": 1669052329,
   "history": {
     "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 181923371,
+            "pid": "1760G",
+            "name": "SlavicG's Favorite Problem",
+            "verdict": "OK",
+            "creationTime": 1669042057
+          },
+          {
+            "platform": "codeforces",
+            "id": 181914764,
+            "pid": "1760F",
+            "name": "Quests",
+            "verdict": "OK",
+            "creationTime": 1669041802
+          },
+          {
+            "platform": "codeforces",
+            "id": 181909729,
+            "pid": "1760E",
+            "name": "Binary Inversions",
+            "verdict": "OK",
+            "creationTime": 1669041678
+          },
+          {
+            "platform": "codeforces",
+            "id": 181904464,
+            "pid": "1760D",
+            "name": "Challenging Valleys",
+            "verdict": "OK",
+            "creationTime": 1669041565
+          },
+          {
+            "platform": "codeforces",
+            "id": 181903982,
+            "pid": "1760C",
+            "name": "Advantage",
+            "verdict": "OK",
+            "creationTime": 1669041557
+          },
+          {
+            "platform": "codeforces",
+            "id": 181898135,
+            "pid": "1760C",
+            "name": "Advantage",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669041446
+          },
+          {
+            "platform": "codeforces",
+            "id": 181895565,
+            "pid": "1760B",
+            "name": "Atilla's Favorite Problem",
+            "verdict": "OK",
+            "creationTime": 1669041399
+          },
+          {
+            "platform": "codeforces",
+            "id": 181893774,
+            "pid": "1760A",
+            "name": "Medium Number",
+            "verdict": "OK",
+            "creationTime": 1669041342
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 181811738,
-            "pid": "1761F2",
-            "name": "Anti-median (Hard Version)",
+            "id": 182031896,
+            "pid": "1760G",
+            "name": "SlavicG's Favorite Problem",
             "verdict": "OK",
-            "creationTime": 1668969886
+            "creationTime": 1669049818
           },
           {
             "platform": "codeforces",
-            "id": 181811523,
-            "pid": "1761F2",
-            "name": "Anti-median (Hard Version)",
+            "id": 182031296,
+            "pid": "1760G",
+            "name": "SlavicG's Favorite Problem",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1668969741
+            "creationTime": 1669049763
+          },
+          {
+            "platform": "codeforces",
+            "id": 182028251,
+            "pid": "1760F",
+            "name": "Quests",
+            "verdict": "OK",
+            "creationTime": 1669049453
+          },
+          {
+            "platform": "codeforces",
+            "id": 182027232,
+            "pid": "1760F",
+            "name": "Quests",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669049347
+          },
+          {
+            "platform": "codeforces",
+            "id": 182026527,
+            "pid": "1760F",
+            "name": "Quests",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669049275
+          },
+          {
+            "platform": "codeforces",
+            "id": 182026268,
+            "pid": "1760F",
+            "name": "Quests",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1669049248
+          },
+          {
+            "platform": "codeforces",
+            "id": 182026127,
+            "pid": "1760F",
+            "name": "Quests",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1669049235
+          },
+          {
+            "platform": "codeforces",
+            "id": 182024170,
+            "pid": "1760E",
+            "name": "Binary Inversions",
+            "verdict": "OK",
+            "creationTime": 1669049021
+          },
+          {
+            "platform": "codeforces",
+            "id": 182023132,
+            "pid": "1760E",
+            "name": "Binary Inversions",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669048916
+          },
+          {
+            "platform": "codeforces",
+            "id": 182021846,
+            "pid": "1760D",
+            "name": "Challenging Valleys",
+            "verdict": "OK",
+            "creationTime": 1669048781
+          },
+          {
+            "platform": "codeforces",
+            "id": 182021186,
+            "pid": "1760D",
+            "name": "Challenging Valleys",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669048709
+          },
+          {
+            "platform": "codeforces",
+            "id": 182020208,
+            "pid": "1760C",
+            "name": "Advantage",
+            "verdict": "OK",
+            "creationTime": 1669048606
+          },
+          {
+            "platform": "codeforces",
+            "id": 182019065,
+            "pid": "1760B",
+            "name": "Atilla's Favorite Problem",
+            "verdict": "OK",
+            "creationTime": 1669048490
+          },
+          {
+            "platform": "codeforces",
+            "id": 182018204,
+            "pid": "1760A",
+            "name": "Medium Number",
+            "verdict": "OK",
+            "creationTime": 1669048406
+          },
+          {
+            "platform": "codeforces",
+            "id": 181876580,
+            "pid": "104059A",
+            "name": "Alternative Architecture",
+            "verdict": "OK",
+            "creationTime": 1669032143
           }
         ],
         "newContests": []
@@ -28,5 +202,5 @@
     ],
     "contest": []
   },
-  "ref": "26b3689da2ac00fe134d2ade111b8974245d4b99"
+  "ref": "b053e7b01e1668bd73f478154ffffead703aa98f"
 }
