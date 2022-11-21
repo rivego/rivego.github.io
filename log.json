@@ -1,112 +1,26 @@
 {
   "version": "0.1.29",
-  "updateTime": 1668965736,
+  "updateTime": 1669008973,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 181783681,
-            "pid": "1761F1",
-            "name": "Anti-median (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1668959356
-          },
-          {
-            "platform": "codeforces",
-            "id": 181767412,
-            "pid": "1761E",
-            "name": "Make It Connected",
-            "verdict": "OK",
-            "creationTime": 1668956779
-          },
-          {
-            "platform": "codeforces",
-            "id": 181758217,
-            "pid": "1761B",
-            "name": "Elimination of a Ring",
-            "verdict": "OK",
-            "creationTime": 1668955817
-          },
-          {
-            "platform": "codeforces",
-            "id": 181757137,
-            "pid": "1761C",
-            "name": "Set Construction",
-            "verdict": "OK",
-            "creationTime": 1668955721
-          },
-          {
-            "platform": "codeforces",
-            "id": 181754215,
-            "pid": "1761D",
-            "name": "Carry Bit",
-            "verdict": "OK",
-            "creationTime": 1668955483
-          },
-          {
-            "platform": "codeforces",
-            "id": 181747969,
-            "pid": "1761A",
-            "name": "Two Permutations",
-            "verdict": "OK",
-            "creationTime": 1668954947
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 181798874,
-            "pid": "1761F1",
-            "name": "Anti-median (Easy Version)",
+            "id": 181811738,
+            "pid": "1761F2",
+            "name": "Anti-median (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1668963144
+            "creationTime": 1668969886
           },
           {
             "platform": "codeforces",
-            "id": 181768641,
-            "pid": "1761E",
-            "name": "Make It Connected",
-            "verdict": "OK",
-            "creationTime": 1668956936
-          },
-          {
-            "platform": "codeforces",
-            "id": 181762248,
-            "pid": "1761D",
-            "name": "Carry Bit",
-            "verdict": "OK",
-            "creationTime": 1668956202
-          },
-          {
-            "platform": "codeforces",
-            "id": 181755220,
-            "pid": "1761C",
-            "name": "Set Construction",
-            "verdict": "OK",
-            "creationTime": 1668955561
-          },
-          {
-            "platform": "codeforces",
-            "id": 181752710,
-            "pid": "1761B",
-            "name": "Elimination of a Ring",
-            "verdict": "OK",
-            "creationTime": 1668955341
-          },
-          {
-            "platform": "codeforces",
-            "id": 181748074,
-            "pid": "1761A",
-            "name": "Two Permutations",
-            "verdict": "OK",
-            "creationTime": 1668954985
+            "id": 181811523,
+            "pid": "1761F2",
+            "name": "Anti-median (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668969741
           }
         ],
         "newContests": []
@@ -114,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "a4a531282ea7efb0e6ae28977c72c3549311c4f5"
+  "ref": "26b3689da2ac00fe134d2ade111b8974245d4b99"
 }

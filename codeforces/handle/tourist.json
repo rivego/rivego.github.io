@@ -100,7 +100,9 @@
         "name": "Set Construction",
         "tags": [
           "constructive algorithms",
-          "graphs"
+          "dfs and similar",
+          "graphs",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/C"
       },
@@ -124,7 +126,10 @@
         "id": "1761D",
         "name": "Carry Bit",
         "tags": [
+          "bitmasks",
+          "brute force",
           "combinatorics",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/D"
@@ -149,7 +154,8 @@
         "id": "1761A",
         "name": "Two Permutations",
         "tags": [
-          "brute force"
+          "brute force",
+          "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/A"
       },
@@ -108409,7 +108415,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3735,
+    "rating": 3817,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
