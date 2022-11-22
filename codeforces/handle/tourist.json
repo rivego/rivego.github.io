@@ -104,7 +104,8 @@
         "id": "1760D",
         "name": "Challenging Valleys",
         "tags": [
-          "implementation"
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1760/problem/D"
       },
@@ -129,9 +130,8 @@
         "name": "Advantage",
         "tags": [
           "data structures",
-          "data structures",
           "implementation",
-          "implementation"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1760/problem/C"
       },
@@ -156,9 +156,8 @@
         "name": "Advantage",
         "tags": [
           "data structures",
-          "data structures",
           "implementation",
-          "implementation"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1760/problem/C"
       },
