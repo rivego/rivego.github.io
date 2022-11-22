@@ -22,10 +22,13 @@
         "id": "1760G",
         "name": "SlavicG's Favorite Problem",
         "tags": [
+          "bitmasks",
           "brute force",
+          "constructive algorithms",
+          "data structures",
           "dfs and similar",
           "graphs",
-          "graphs"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1760/problem/G"
       },
@@ -179,6 +182,7 @@
         "id": "1760B",
         "name": "Atilla's Favorite Problem",
         "tags": [
+          "greedy",
           "implementation",
           "strings"
         ],
@@ -343,7 +347,6 @@
         "tags": [
           "brute force",
           "combinatorics",
-          "fft",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/D"
