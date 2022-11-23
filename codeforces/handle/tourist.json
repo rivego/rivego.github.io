@@ -21,14 +21,11 @@
         "type": "codeforces",
         "id": "1760G",
         "name": "SlavicG's Favorite Problem",
+        "rating": 1700,
         "tags": [
           "bitmasks",
-          "brute force",
-          "constructive algorithms",
-          "data structures",
           "dfs and similar",
-          "graphs",
-          "greedy"
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1760/problem/G"
       },
@@ -51,6 +48,7 @@
         "type": "codeforces",
         "id": "1760F",
         "name": "Quests",
+        "rating": 1500,
         "tags": [
           "binary search",
           "greedy",
@@ -77,6 +75,7 @@
         "type": "codeforces",
         "id": "1760E",
         "name": "Binary Inversions",
+        "rating": 1100,
         "tags": [
           "data structures",
           "greedy",
@@ -103,6 +102,7 @@
         "type": "codeforces",
         "id": "1760D",
         "name": "Challenging Valleys",
+        "rating": 1000,
         "tags": [
           "implementation",
           "two pointers"
@@ -128,6 +128,7 @@
         "type": "codeforces",
         "id": "1760C",
         "name": "Advantage",
+        "rating": 800,
         "tags": [
           "data structures",
           "implementation",
@@ -154,6 +155,7 @@
         "type": "codeforces",
         "id": "1760C",
         "name": "Advantage",
+        "rating": 800,
         "tags": [
           "data structures",
           "implementation",
@@ -180,6 +182,7 @@
         "type": "codeforces",
         "id": "1760B",
         "name": "Atilla's Favorite Problem",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation",
@@ -206,6 +209,7 @@
         "type": "codeforces",
         "id": "1760A",
         "name": "Medium Number",
+        "rating": 800,
         "tags": [
           "implementation",
           "sortings"
@@ -259,12 +263,13 @@
         "name": "Make It Connected",
         "rating": 2400,
         "tags": [
+          "binary search",
           "brute force",
           "constructive algorithms",
           "dsu",
           "graphs",
           "greedy",
-          "sortings"
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/E"
       },
@@ -344,7 +349,6 @@
         "name": "Carry Bit",
         "rating": 2100,
         "tags": [
-          "brute force",
           "combinatorics",
           "math"
         ],
