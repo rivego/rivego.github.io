@@ -269,7 +269,9 @@
           "dsu",
           "graphs",
           "greedy",
-          "trees"
+          "matrices",
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/E"
       },
@@ -108636,7 +108638,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3817,
+    "rating": 3735,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
