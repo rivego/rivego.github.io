@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1669397689,
+  "updateTime": 1669440800,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 182518749,
-            "pid": "1758F",
-            "name": "Decent Division",
-            "verdict": "OK",
-            "creationTime": 1669394441
-          },
-          {
-            "platform": "codeforces",
-            "id": 182503523,
-            "pid": "1758E",
-            "name": "Tick, Tock",
-            "verdict": "OK",
-            "creationTime": 1669392591
-          },
-          {
-            "platform": "codeforces",
-            "id": 182497442,
-            "pid": "1758D",
-            "name": "Range = √Sum",
-            "verdict": "OK",
-            "creationTime": 1669391898
-          },
-          {
-            "platform": "codeforces",
-            "id": 182493612,
-            "pid": "1758C",
-            "name": "Almost All Multiples",
-            "verdict": "OK",
-            "creationTime": 1669391476
-          },
-          {
-            "platform": "codeforces",
-            "id": 182490575,
-            "pid": "1758B",
-            "name": "XOR = Average",
-            "verdict": "OK",
-            "creationTime": 1669391182
-          },
-          {
-            "platform": "codeforces",
-            "id": 182480372,
-            "pid": "1758A",
-            "name": "SSeeeeiinngg DDoouubbllee",
-            "verdict": "OK",
-            "creationTime": 1669390595
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "4c761cf5ba96dfb9a6cb48017cff523ac4ab9b5f"
+  "ref": "60ab7ec1aa0f013a0e8c6a77a1ef68d5eb107eb8"
 }
