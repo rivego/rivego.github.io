@@ -6,6 +6,28 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 182972157,
+      "creationTime": 1669615611,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -477868036
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "104076K",
+        "name": "Stack Sort",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/104076/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/gym/104076/submission/182972157"
+    },
+    {
+      "type": "codeforces",
       "id": 172659759,
       "creationTime": 1663594053,
       "language": "GNU C++20 (64)",

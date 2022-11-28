@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1669613647,
+  "updateTime": 1669656945,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 182972157,
+            "pid": "104076K",
+            "name": "Stack Sort",
+            "verdict": "OK",
+            "creationTime": 1669615611
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "358cc920e1aa2d776bab1566a4af280b9493e1d4"
+  "ref": "9c030178bd97638dd6afa732434ee2aa3bd991a8"
 }
