@@ -1,18 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1669656945,
+  "updateTime": 1669700052,
   "history": {
     "user": [
       {
-        "name": "ybb_little_train",
+        "name": "Kenshin2438",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 182972157,
-            "pid": "104076K",
-            "name": "Stack Sort",
+            "id": 183142167,
+            "pid": "104076C",
+            "name": "DFS Order 2",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669698378
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 183053707,
+            "pid": "104059E",
+            "name": "Enjoyable Entree",
             "verdict": "OK",
-            "creationTime": 1669615611
+            "creationTime": 1669658562
+          },
+          {
+            "platform": "codeforces",
+            "id": 183053186,
+            "pid": "104059D",
+            "name": "Diabolic Doofenshmirtz",
+            "verdict": "OK",
+            "creationTime": 1669658250
+          },
+          {
+            "platform": "codeforces",
+            "id": 183052797,
+            "pid": "104059D",
+            "name": "Diabolic Doofenshmirtz",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669658025
+          },
+          {
+            "platform": "codeforces",
+            "id": 183052242,
+            "pid": "104059C",
+            "name": "Chaotic Construction",
+            "verdict": "OK",
+            "creationTime": 1669657672
+          },
+          {
+            "platform": "codeforces",
+            "id": 183051642,
+            "pid": "104059B",
+            "name": "Breeding Bugs",
+            "verdict": "OK",
+            "creationTime": 1669657294
           }
         ],
         "newContests": []
@@ -20,5 +66,5 @@
     ],
     "contest": []
   },
-  "ref": "9c030178bd97638dd6afa732434ee2aa3bd991a8"
+  "ref": "20e6402f7e9c9208d15bb8d2750ec38553e8bd27"
 }
