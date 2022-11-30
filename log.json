@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1669786483,
+  "updateTime": 1669829783,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "The-Fool",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 183330916,
+            "pid": "115A",
+            "name": "Party",
+            "verdict": "OK",
+            "creationTime": 1669798166
+          },
+          {
+            "platform": "codeforces",
+            "id": 183330861,
+            "pid": "115A",
+            "name": "Party",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1669798132
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b3f9fc8d8e7fed5852f47cca355ce1f07c33b19a"
+  "ref": "34703314af6705c13e33d581316b709d8a61ebc7"
 }

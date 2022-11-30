@@ -6,6 +6,60 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 183330916,
+      "creationTime": 1669798166,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -477685481
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "115A",
+        "name": "Party",
+        "rating": 900,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/115/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/115/submission/183330916"
+    },
+    {
+      "type": "codeforces",
+      "id": 183330861,
+      "creationTime": 1669798132,
+      "language": "GNU C++17",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "The-Fool"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -477685515
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "115A",
+        "name": "Party",
+        "rating": 900,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/115/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/115/submission/183330861"
+    },
+    {
+      "type": "codeforces",
       "id": 172238244,
       "creationTime": 1663243662,
       "language": "GNU C++17",
