@@ -1,9 +1,136 @@
 {
   "version": "0.1.29",
-  "updateTime": 1670391198,
+  "updateTime": 1670434429,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 184248719,
+            "pid": "1773D",
+            "name": "Dominoes",
+            "verdict": "OK",
+            "creationTime": 1670431927
+          },
+          {
+            "platform": "codeforces",
+            "id": 184248672,
+            "pid": "1773B",
+            "name": "BinCoin",
+            "verdict": "OK",
+            "creationTime": 1670431895
+          },
+          {
+            "platform": "codeforces",
+            "id": 184247904,
+            "pid": "1773B",
+            "name": "BinCoin",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1670431386
+          },
+          {
+            "platform": "codeforces",
+            "id": 184247778,
+            "pid": "1773B",
+            "name": "BinCoin",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1670431308
+          },
+          {
+            "platform": "codeforces",
+            "id": 184203970,
+            "pid": "1773I",
+            "name": "Interactive Factorial Guessing",
+            "verdict": "OK",
+            "creationTime": 1670411019
+          },
+          {
+            "platform": "codeforces",
+            "id": 184203677,
+            "pid": "1773I",
+            "name": "Interactive Factorial Guessing",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1670410844
+          },
+          {
+            "platform": "codeforces",
+            "id": 184185956,
+            "pid": "1773K",
+            "name": "King's Puzzle",
+            "verdict": "OK",
+            "creationTime": 1670406204
+          },
+          {
+            "platform": "codeforces",
+            "id": 184185543,
+            "pid": "1773K",
+            "name": "King's Puzzle",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1670405951
+          },
+          {
+            "platform": "codeforces",
+            "id": 184185363,
+            "pid": "1773K",
+            "name": "King's Puzzle",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1670405852
+          },
+          {
+            "platform": "codeforces",
+            "id": 184185320,
+            "pid": "1773K",
+            "name": "King's Puzzle",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1670405826
+          },
+          {
+            "platform": "codeforces",
+            "id": 184185296,
+            "pid": "1773K",
+            "name": "King's Puzzle",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1670405809
+          },
+          {
+            "platform": "codeforces",
+            "id": 184182634,
+            "pid": "1773F",
+            "name": "Football",
+            "verdict": "OK",
+            "creationTime": 1670404231
+          },
+          {
+            "platform": "codeforces",
+            "id": 184182244,
+            "pid": "1773E",
+            "name": "Easy Assembly",
+            "verdict": "OK",
+            "creationTime": 1670404002
+          },
+          {
+            "platform": "codeforces",
+            "id": 184181818,
+            "pid": "1773A",
+            "name": "Amazing Trick",
+            "verdict": "OK",
+            "creationTime": 1670403758
+          },
+          {
+            "platform": "codeforces",
+            "id": 184181762,
+            "pid": "1773A",
+            "name": "Amazing Trick",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1670403727
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "5b93cba1bcba1cac3637e6d82e8528c28b6358f5"
+  "ref": "82b0ed401c2c2291e83592ba76dd5cce7d96364c"
 }
