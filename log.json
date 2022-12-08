@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1670477596,
+  "updateTime": 1670520793,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 184304442,
+            "pid": "1773G",
+            "name": "Game of Questions",
+            "verdict": "OK",
+            "creationTime": 1670489242
+          },
+          {
+            "platform": "codeforces",
+            "id": 184298875,
+            "pid": "1773H",
+            "name": "Hot and Cold",
+            "verdict": "OK",
+            "creationTime": 1670484998
+          },
+          {
+            "platform": "codeforces",
+            "id": 184298853,
+            "pid": "1773H",
+            "name": "Hot and Cold",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1670484981
+          },
+          {
+            "platform": "codeforces",
+            "id": 184298673,
+            "pid": "1773H",
+            "name": "Hot and Cold",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1670484843
+          },
+          {
+            "platform": "codeforces",
+            "id": 184298643,
+            "pid": "1773H",
+            "name": "Hot and Cold",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1670484819
+          },
+          {
+            "platform": "codeforces",
+            "id": 184298008,
+            "pid": "1773H",
+            "name": "Hot and Cold",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1670484359
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "d23151715f711de54932c32e226c5bfb7a1b2606"
+  "ref": "29257e00b79d0d9cc52e27e417b36dc244487fdb"
 }
