@@ -1,9 +1,86 @@
 {
   "version": "0.1.29",
-  "updateTime": 1670564006,
+  "updateTime": 1670607214,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 184481127,
+            "pid": "1758D",
+            "name": "Range = √Sum",
+            "verdict": "OK",
+            "creationTime": 1670601737
+          },
+          {
+            "platform": "codeforces",
+            "id": 184475824,
+            "pid": "1758C",
+            "name": "Almost All Multiples",
+            "verdict": "OK",
+            "creationTime": 1670598729
+          },
+          {
+            "platform": "codeforces",
+            "id": 184475641,
+            "pid": "1758C",
+            "name": "Almost All Multiples",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1670598619
+          },
+          {
+            "platform": "codeforces",
+            "id": 184474606,
+            "pid": "1758C",
+            "name": "Almost All Multiples",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1670598079
+          },
+          {
+            "platform": "codeforces",
+            "id": 184471702,
+            "pid": "1758B",
+            "name": "XOR = Average",
+            "verdict": "OK",
+            "creationTime": 1670596649
+          },
+          {
+            "platform": "codeforces",
+            "id": 184467911,
+            "pid": "1758A",
+            "name": "SSeeeeiinngg DDoouubbllee",
+            "verdict": "OK",
+            "creationTime": 1670594848
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 184470622,
+            "pid": "104064G",
+            "name": "Glossary Arrangement",
+            "verdict": "OK",
+            "creationTime": 1670596148
+          },
+          {
+            "platform": "codeforces",
+            "id": 184467690,
+            "pid": "104064H",
+            "name": "Heating Up",
+            "verdict": "OK",
+            "creationTime": 1670594747
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "9b7ca133e11d3cb6e4cd95d19dafd5faf534c4da"
+  "ref": "58db586de73bfb97b0e845f7ee67cabbdf482380"
 }

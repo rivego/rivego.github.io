@@ -6,6 +6,164 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 184481127,
+      "creationTime": 1670601737,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476881910
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1758D",
+        "name": "Range = √Sum",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1758/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1758/submission/184481127"
+    },
+    {
+      "type": "codeforces",
+      "id": 184475824,
+      "creationTime": 1670598729,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476884918
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1758C",
+        "name": "Almost All Multiples",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1758/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1758/submission/184475824"
+    },
+    {
+      "type": "codeforces",
+      "id": 184475641,
+      "creationTime": 1670598619,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476885028
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1758C",
+        "name": "Almost All Multiples",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1758/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1758/submission/184475641"
+    },
+    {
+      "type": "codeforces",
+      "id": 184474606,
+      "creationTime": 1670598079,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476885568
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1758C",
+        "name": "Almost All Multiples",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1758/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1758/submission/184474606"
+    },
+    {
+      "type": "codeforces",
+      "id": 184471702,
+      "creationTime": 1670596649,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476886998
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1758B",
+        "name": "XOR = Average",
+        "rating": 900,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1758/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1758/submission/184471702"
+    },
+    {
+      "type": "codeforces",
+      "id": 184467911,
+      "creationTime": 1670594848,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476888799
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1758A",
+        "name": "SSeeeeiinngg DDoouubbllee",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1758/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1758/submission/184467911"
+    },
+    {
+      "type": "codeforces",
       "id": 182972157,
       "creationTime": 1669615611,
       "language": "GNU C++20 (64)",
