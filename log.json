@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1670693567,
+  "updateTime": 1670736781,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 184549819,
-            "pid": "104064B",
-            "name": "Boredom Buster",
-            "verdict": "OK",
-            "creationTime": 1670663521
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "4fb334d2efa48d76ee9ba2db1f61aa364542e3d6"
+  "ref": "aa52bcffd111accf30eba717cc01bb0e141d58d9"
 }
