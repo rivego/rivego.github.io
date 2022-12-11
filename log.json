@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1670736781,
+  "updateTime": 1670779982,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 184765749,
+            "pid": "1771F",
+            "name": "Hossam and Range Minimum Query",
+            "verdict": "OK",
+            "creationTime": 1670776140
+          },
+          {
+            "platform": "codeforces",
+            "id": 184760012,
+            "pid": "1771E",
+            "name": "Hossam and a Letter",
+            "verdict": "OK",
+            "creationTime": 1670775616
+          },
+          {
+            "platform": "codeforces",
+            "id": 184758885,
+            "pid": "1771E",
+            "name": "Hossam and a Letter",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1670775522
+          },
+          {
+            "platform": "codeforces",
+            "id": 184757860,
+            "pid": "1771E",
+            "name": "Hossam and a Letter",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1670775437
+          },
+          {
+            "platform": "codeforces",
+            "id": 184748360,
+            "pid": "1771D",
+            "name": "Hossam and (sub-)palindromic tree",
+            "verdict": "OK",
+            "creationTime": 1670774696
+          },
+          {
+            "platform": "codeforces",
+            "id": 184736408,
+            "pid": "1771C",
+            "name": "Hossam and Trainees",
+            "verdict": "OK",
+            "creationTime": 1670773938
+          },
+          {
+            "platform": "codeforces",
+            "id": 184729414,
+            "pid": "1771B",
+            "name": "Hossam and Friends",
+            "verdict": "OK",
+            "creationTime": 1670773578
+          },
+          {
+            "platform": "codeforces",
+            "id": 184718769,
+            "pid": "1771A",
+            "name": "Hossam and Combinatorics",
+            "verdict": "OK",
+            "creationTime": 1670773113
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "aa52bcffd111accf30eba717cc01bb0e141d58d9"
+  "ref": "071375afcce95a7112534ed30056084c1e5c256a"
 }
