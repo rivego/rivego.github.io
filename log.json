@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1671211992,
+  "updateTime": 1671255188,
   "history": {
     "user": [
       {
@@ -8,99 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 185538816,
+            "id": 185548652,
             "pid": "1767F",
             "name": "Two Subtrees",
             "verdict": "OK",
-            "creationTime": 1671210090
+            "creationTime": 1671214462
           },
           {
             "platform": "codeforces",
-            "id": 185538731,
+            "id": 185548569,
             "pid": "1767F",
             "name": "Two Subtrees",
             "verdict": "OK",
-            "creationTime": 1671210057
+            "creationTime": 1671214418
           },
           {
             "platform": "codeforces",
-            "id": 185536681,
+            "id": 185548494,
             "pid": "1767F",
             "name": "Two Subtrees",
             "verdict": "OK",
-            "creationTime": 1671209316
+            "creationTime": 1671214385
           },
           {
             "platform": "codeforces",
-            "id": 185536510,
+            "id": 185548166,
             "pid": "1767F",
             "name": "Two Subtrees",
             "verdict": "OK",
-            "creationTime": 1671209258
+            "creationTime": 1671214210
           },
           {
             "platform": "codeforces",
-            "id": 185533881,
+            "id": 185548104,
             "pid": "1767F",
             "name": "Two Subtrees",
             "verdict": "OK",
-            "creationTime": 1671208463
+            "creationTime": 1671214181
           },
           {
             "platform": "codeforces",
-            "id": 185533642,
+            "id": 185548070,
             "pid": "1767F",
             "name": "Two Subtrees",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1671208443
-          },
-          {
-            "platform": "codeforces",
-            "id": 185503484,
-            "pid": "1767E",
-            "name": "Algebra Flash",
             "verdict": "OK",
-            "creationTime": 1671203967
+            "creationTime": 1671214154
           },
           {
             "platform": "codeforces",
-            "id": 185496818,
-            "pid": "1767E",
-            "name": "Algebra Flash",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1671203288
-          },
-          {
-            "platform": "codeforces",
-            "id": 185480567,
-            "pid": "1767D",
-            "name": "Playoff",
+            "id": 185547990,
+            "pid": "1767F",
+            "name": "Two Subtrees",
             "verdict": "OK",
-            "creationTime": 1671202128
+            "creationTime": 1671214114
           },
           {
             "platform": "codeforces",
-            "id": 185474583,
-            "pid": "1767C",
-            "name": "Count Binary Strings",
+            "id": 185547931,
+            "pid": "1767F",
+            "name": "Two Subtrees",
             "verdict": "OK",
-            "creationTime": 1671201824
+            "creationTime": 1671214085
           },
           {
             "platform": "codeforces",
-            "id": 185469866,
-            "pid": "1767B",
-            "name": "Block Towers",
-            "verdict": "OK",
-            "creationTime": 1671201563
+            "id": 185547323,
+            "pid": "1767F",
+            "name": "Two Subtrees",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1671213793
           },
           {
             "platform": "codeforces",
-            "id": 185468911,
-            "pid": "1767A",
-            "name": "Cut the Triangle",
-            "verdict": "OK",
-            "creationTime": 1671201464
+            "id": 185547137,
+            "pid": "1767F",
+            "name": "Two Subtrees",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1671213707
           }
         ],
         "newContests": []
@@ -108,5 +92,5 @@
     ],
     "contest": []
   },
-  "ref": "f5cf633d386ea794578df7bbd2203641d0ef388b"
+  "ref": "bbdd2dd16efcb2bd68e5fc3e87b36f69dfcad3ee"
 }
