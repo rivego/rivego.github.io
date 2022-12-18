@@ -6,6 +6,28 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 185749846,
+      "creationTime": 1671341430,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476142217
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "104076D",
+        "name": "Frozen Scoreboard",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/104076/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/gym/104076/submission/185749846"
+    },
+    {
+      "type": "codeforces",
       "id": 184481127,
       "creationTime": 1670601737,
       "language": "GNU C++20 (64)",
