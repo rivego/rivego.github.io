@@ -49,8 +49,6 @@
         "name": "Another Array Problem",
         "tags": [
           "brute force",
-          "brute force",
-          "brute force",
           "constructive algorithms",
           "greedy"
         ],
@@ -78,6 +76,7 @@
         "tags": [
           "binary search",
           "brute force",
+          "data structures",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/B"
@@ -103,17 +102,9 @@
         "name": "Absolute Maximization",
         "tags": [
           "bitmasks",
-          "bitmasks",
-          "bitmasks",
-          "bitmasks",
-          "bitmasks",
-          "bitmasks",
-          "bitmasks",
-          "bitmasks",
-          "bitmasks",
-          "bitmasks",
-          "bitmasks",
-          "greedy"
+          "constructive algorithms",
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/A"
       },
@@ -138,7 +129,8 @@
         "name": "Node Pairs",
         "tags": [
           "dp",
-          "graphs"
+          "graphs",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/E"
       },
@@ -163,7 +155,9 @@
         "name": "Valid Bitonic Permutations",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/D"
       },
