@@ -27,6 +27,7 @@
           "dp",
           "dsu",
           "graphs",
+          "shortest paths",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/F"
@@ -51,7 +52,6 @@
         "id": "1763C",
         "name": "Another Array Problem",
         "tags": [
-          "brute force",
           "brute force",
           "constructive algorithms",
           "greedy"
