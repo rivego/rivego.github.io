@@ -27,7 +27,6 @@
           "dp",
           "dsu",
           "graphs",
-          "shortest paths",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/F"
@@ -447,6 +446,7 @@
         "tags": [
           "brute force",
           "constructive algorithms",
+          "greedy",
           "implementation",
           "two pointers"
         ],
