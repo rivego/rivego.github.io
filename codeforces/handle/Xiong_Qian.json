@@ -6,6 +6,120 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 186578427,
+      "creationTime": 1671889453,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -475594194
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1763B",
+        "name": "Incinerate",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "implementation",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1763/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1763/submission/186578427"
+    },
+    {
+      "type": "codeforces",
+      "id": 186577506,
+      "creationTime": 1671888872,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -475594775
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1763B",
+        "name": "Incinerate",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "implementation",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1763/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1763/submission/186577506"
+    },
+    {
+      "type": "codeforces",
+      "id": 186577336,
+      "creationTime": 1671888762,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -475594885
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1763B",
+        "name": "Incinerate",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "implementation",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1763/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1763/submission/186577336"
+    },
+    {
+      "type": "codeforces",
+      "id": 186573285,
+      "creationTime": 1671886022,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -475597625
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1763A",
+        "name": "Absolute Maximization",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1763/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1763/submission/186573285"
+    },
+    {
+      "type": "codeforces",
       "id": 177560677,
       "creationTime": 1666513222,
       "language": "GNU C++20 (64)",
