@@ -1,48 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1671903194,
+  "updateTime": 1671946372,
   "history": {
-    "user": [
-      {
-        "name": "Xiong_Qian",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 186578427,
-            "pid": "1763B",
-            "name": "Incinerate",
-            "verdict": "OK",
-            "creationTime": 1671889453
-          },
-          {
-            "platform": "codeforces",
-            "id": 186577506,
-            "pid": "1763B",
-            "name": "Incinerate",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1671888872
-          },
-          {
-            "platform": "codeforces",
-            "id": 186577336,
-            "pid": "1763B",
-            "name": "Incinerate",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1671888762
-          },
-          {
-            "platform": "codeforces",
-            "id": 186573285,
-            "pid": "1763A",
-            "name": "Absolute Maximization",
-            "verdict": "OK",
-            "creationTime": 1671886022
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3be82b10e55d946fd36ae0af2514272074fa919d"
+  "ref": "8d1a54d6de160dfdf8dce372727e511689ec37c5"
 }
