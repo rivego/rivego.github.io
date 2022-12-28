@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1672205577,
+  "updateTime": 1672248770,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 187006022,
+            "pid": "1731F",
+            "name": "Function Sum",
+            "verdict": "OK",
+            "creationTime": 1672212318
+          },
+          {
+            "platform": "codeforces",
+            "id": 187005183,
+            "pid": "1731E",
+            "name": "Graph Cost",
+            "verdict": "OK",
+            "creationTime": 1672211783
+          },
+          {
+            "platform": "codeforces",
+            "id": 187004855,
+            "pid": "1731D",
+            "name": "Valiant's New Map",
+            "verdict": "OK",
+            "creationTime": 1672211563
+          },
+          {
+            "platform": "codeforces",
+            "id": 187004495,
+            "pid": "1731C",
+            "name": "Even Subarrays",
+            "verdict": "OK",
+            "creationTime": 1672211314
+          },
+          {
+            "platform": "codeforces",
+            "id": 187003916,
+            "pid": "1731B",
+            "name": "Kill Demodogs",
+            "verdict": "OK",
+            "creationTime": 1672210933
+          },
+          {
+            "platform": "codeforces",
+            "id": 187003588,
+            "pid": "1731A",
+            "name": "Joey Takes Money",
+            "verdict": "OK",
+            "creationTime": 1672210712
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "0a33d67ea6e1a1b8cb326cbb0f79dea7ecf4aff6"
+  "ref": "d79eaefb5d2a3c30f70e33cb75573a7f7fc5e796"
 }
