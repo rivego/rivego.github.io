@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1763B",
         "name": "Incinerate",
+        "rating": 1200,
         "tags": [
           "binary search",
           "brute force",
@@ -50,6 +51,7 @@
         "type": "codeforces",
         "id": "1763B",
         "name": "Incinerate",
+        "rating": 1200,
         "tags": [
           "binary search",
           "brute force",
@@ -79,6 +81,7 @@
         "type": "codeforces",
         "id": "1763B",
         "name": "Incinerate",
+        "rating": 1200,
         "tags": [
           "binary search",
           "brute force",
@@ -108,6 +111,7 @@
         "type": "codeforces",
         "id": "1763A",
         "name": "Absolute Maximization",
+        "rating": 800,
         "tags": [
           "bitmasks",
           "constructive algorithms",
