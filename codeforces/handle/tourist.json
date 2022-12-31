@@ -49,7 +49,6 @@
         "name": "Koxia and Sequence",
         "tags": [
           "bitmasks",
-          "brute force",
           "combinatorics",
           "math"
         ],
@@ -76,7 +75,6 @@
         "name": "Koxia and Sequence",
         "tags": [
           "bitmasks",
-          "brute force",
           "combinatorics",
           "math"
         ],
@@ -103,7 +101,6 @@
         "name": "Koxia and Sequence",
         "tags": [
           "bitmasks",
-          "brute force",
           "combinatorics",
           "math"
         ],
@@ -130,6 +127,7 @@
         "name": "Koxia and Tree",
         "tags": [
           "combinatorics",
+          "dp",
           "math",
           "probabilities",
           "trees"
@@ -157,6 +155,7 @@
         "name": "Koxia and Tree",
         "tags": [
           "combinatorics",
+          "dp",
           "math",
           "probabilities",
           "trees"
@@ -187,6 +186,7 @@
           "dfs and similar",
           "dsu",
           "games",
+          "graph matchings",
           "graphs",
           "implementation"
         ],
@@ -238,8 +238,7 @@
         "id": "1770B",
         "name": "Koxia and Permutation",
         "tags": [
-          "constructive algorithms",
-          "greedy"
+          "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/1770/problem/B"
       },
