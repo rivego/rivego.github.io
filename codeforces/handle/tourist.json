@@ -133,6 +133,7 @@
         "name": "Koxia and Tree",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "dp",
           "math",
           "probabilities",
@@ -161,6 +162,7 @@
         "name": "Koxia and Tree",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "dp",
           "math",
           "probabilities",
@@ -188,6 +190,7 @@
         "id": "1770D",
         "name": "Koxia and Game",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "dsu",
