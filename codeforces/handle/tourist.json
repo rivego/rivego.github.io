@@ -73,6 +73,7 @@
         "id": "1779F",
         "name": "Xorcerer's Stones",
         "tags": [
+          "bitmasks",
           "constructive algorithms",
           "dp",
           "trees"
@@ -100,7 +101,6 @@
         "name": "Anya's Simultaneous Exhibition",
         "tags": [
           "constructive algorithms",
-          "data structures",
           "graphs",
           "greedy",
           "interactive",
@@ -183,7 +183,6 @@
         "tags": [
           "constructive algorithms",
           "greedy",
-          "math",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1779/problem/A"
@@ -428,10 +427,11 @@
         "id": "1770D",
         "name": "Koxia and Game",
         "tags": [
-          "binary search",
+          "constructive algorithms",
           "data structures",
           "dfs and similar",
           "dsu",
+          "flows",
           "games",
           "graph matchings",
           "graphs",
