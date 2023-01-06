@@ -23,6 +23,7 @@
         "name": "Partial Sorting",
         "tags": [
           "combinatorics",
+          "fft",
           "math",
           "number theory"
         ],
@@ -102,6 +103,7 @@
         "id": "1768D",
         "name": "Lucky Permutation",
         "tags": [
+          "constructive algorithms",
           "dfs and similar",
           "dsu",
           "graphs",
