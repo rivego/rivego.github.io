@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1673155975,
+  "updateTime": 1673199177,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 188483896,
+            "pid": "1783G",
+            "name": "Weighed Tree Radius",
+            "verdict": "OK",
+            "creationTime": 1673193664
+          },
+          {
+            "platform": "codeforces",
+            "id": 188470188,
+            "pid": "1783G",
+            "name": "Weighed Tree Radius",
+            "verdict": "OK",
+            "creationTime": 1673191937
+          },
+          {
+            "platform": "codeforces",
+            "id": 188457991,
+            "pid": "1783F",
+            "name": "Double Sort II",
+            "verdict": "OK",
+            "creationTime": 1673190524
+          },
+          {
+            "platform": "codeforces",
+            "id": 188452364,
+            "pid": "1783E",
+            "name": "Game of the Year",
+            "verdict": "OK",
+            "creationTime": 1673189958
+          },
+          {
+            "platform": "codeforces",
+            "id": 188448529,
+            "pid": "1783D",
+            "name": "Different Arrays",
+            "verdict": "OK",
+            "creationTime": 1673189625
+          },
+          {
+            "platform": "codeforces",
+            "id": 188443311,
+            "pid": "1783C",
+            "name": "Yet Another Tournament",
+            "verdict": "OK",
+            "creationTime": 1673189266
+          },
+          {
+            "platform": "codeforces",
+            "id": 188434637,
+            "pid": "1783B",
+            "name": "Matrix of Differences",
+            "verdict": "OK",
+            "creationTime": 1673188801
+          },
+          {
+            "platform": "codeforces",
+            "id": 188432373,
+            "pid": "1783A",
+            "name": "Make it Beautiful",
+            "verdict": "OK",
+            "creationTime": 1673188622
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "26920a977a26c3414745e5aec4eda0c024ab8c73"
+  "ref": "1adea750097211ad5473165c981d0765f2c0c065"
 }
