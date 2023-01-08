@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1673112785,
+  "updateTime": 1673155975,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 188330147,
-            "pid": "104120E",
-            "name": "Exam Period",
-            "verdict": "OK",
-            "creationTime": 1673101044
-          },
-          {
-            "platform": "codeforces",
-            "id": 188329178,
-            "pid": "104120E",
-            "name": "Exam Period",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1673100465
-          },
-          {
-            "platform": "codeforces",
-            "id": 188307859,
-            "pid": "104120D",
-            "name": "Denji",
-            "verdict": "OK",
-            "creationTime": 1673087710
-          },
-          {
-            "platform": "codeforces",
-            "id": 188307005,
-            "pid": "104120C",
-            "name": "Company Layoffs",
-            "verdict": "OK",
-            "creationTime": 1673087158
-          },
-          {
-            "platform": "codeforces",
-            "id": 188306646,
-            "pid": "104120B",
-            "name": "Business Stamps",
-            "verdict": "OK",
-            "creationTime": 1673086926
-          },
-          {
-            "platform": "codeforces",
-            "id": 188305642,
-            "pid": "104120A",
-            "name": "Average Walk",
-            "verdict": "OK",
-            "creationTime": 1673086314
-          },
-          {
-            "platform": "codeforces",
-            "id": 188304888,
-            "pid": "1779H",
-            "name": "Olympic Team Building",
-            "verdict": "OK",
-            "creationTime": 1673085859
-          },
-          {
-            "platform": "codeforces",
-            "id": 188303908,
-            "pid": "1779H",
-            "name": "Olympic Team Building",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1673085273
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "34134883e616a8e9cff2eeb4ad184b2db9d03515"
+  "ref": "26920a977a26c3414745e5aec4eda0c024ab8c73"
 }
