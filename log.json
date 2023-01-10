@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1673328776,
+  "updateTime": 1673372157,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 188711052,
+            "pid": "1775F",
+            "name": "Laboratory on Pluto",
+            "verdict": "OK",
+            "creationTime": 1673351675
+          },
+          {
+            "platform": "codeforces",
+            "id": 188702282,
+            "pid": "1775E",
+            "name": "The Human Equation",
+            "verdict": "OK",
+            "creationTime": 1673350871
+          },
+          {
+            "platform": "codeforces",
+            "id": 188697519,
+            "pid": "1775D",
+            "name": "Friendly Spiders",
+            "verdict": "OK",
+            "creationTime": 1673350452
+          },
+          {
+            "platform": "codeforces",
+            "id": 188696850,
+            "pid": "1775D",
+            "name": "Friendly Spiders",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1673350393
+          },
+          {
+            "platform": "codeforces",
+            "id": 188692252,
+            "pid": "1775C",
+            "name": "Interesting Sequence",
+            "verdict": "OK",
+            "creationTime": 1673349987
+          },
+          {
+            "platform": "codeforces",
+            "id": 188690205,
+            "pid": "1775B",
+            "name": "Gardener and the Array",
+            "verdict": "OK",
+            "creationTime": 1673349792
+          },
+          {
+            "platform": "codeforces",
+            "id": 188688351,
+            "pid": "1775A2",
+            "name": "Gardener and the Capybaras (hard version)",
+            "verdict": "OK",
+            "creationTime": 1673349479
+          },
+          {
+            "platform": "codeforces",
+            "id": 188688346,
+            "pid": "1775A1",
+            "name": "Gardener and the Capybaras (easy version)",
+            "verdict": "OK",
+            "creationTime": 1673349476
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "449ba958a15e4172648f011ecd2a98f7699c262f"
+  "ref": "892f5683b26a55cf3e3d0086c0619565148523f5"
 }
