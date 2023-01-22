@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1674365592,
+  "updateTime": 1674408781,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 190112945,
+            "pid": "1777B",
+            "name": "Emordnilap",
+            "verdict": "OK",
+            "creationTime": 1674401288
+          },
+          {
+            "platform": "codeforces",
+            "id": 190110652,
+            "pid": "1777A",
+            "name": "Everybody Likes Good Arrays!",
+            "verdict": "OK",
+            "creationTime": 1674399659
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "43bdb741ef7d86fedd0dfde195dac17be2f09123"
+  "ref": "11f9423c3478537e25183784acde96cd5af3632d"
 }
