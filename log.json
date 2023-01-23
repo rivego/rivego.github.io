@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1674408781,
+  "updateTime": 1674451975,
   "history": {
     "user": [
       {
@@ -8,19 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 190112945,
-            "pid": "1777B",
-            "name": "Emordnilap",
+            "id": 190148682,
+            "pid": "1777D",
+            "name": "Score of a Tree",
             "verdict": "OK",
-            "creationTime": 1674401288
+            "creationTime": 1674443521
           },
           {
             "platform": "codeforces",
-            "id": 190110652,
-            "pid": "1777A",
-            "name": "Everybody Likes Good Arrays!",
+            "id": 190148477,
+            "pid": "1777C",
+            "name": "Quiz Master",
             "verdict": "OK",
-            "creationTime": 1674399659
+            "creationTime": 1674443236
           }
         ],
         "newContests": []
@@ -28,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "11f9423c3478537e25183784acde96cd5af3632d"
+  "ref": "f582550c017445d8683ad9432c8c203aae13ecde"
 }
