@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1674451975,
+  "updateTime": 1674495205,
   "history": {
     "user": [
       {
@@ -8,19 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 190148682,
-            "pid": "1777D",
-            "name": "Score of a Tree",
+            "id": 190177032,
+            "pid": "1777F",
+            "name": "Comfortably Numb",
             "verdict": "OK",
-            "creationTime": 1674443521
+            "creationTime": 1674461010
           },
           {
             "platform": "codeforces",
-            "id": 190148477,
-            "pid": "1777C",
-            "name": "Quiz Master",
+            "id": 190173475,
+            "pid": "1777E",
+            "name": "Edge Reverse",
             "verdict": "OK",
-            "creationTime": 1674443236
+            "creationTime": 1674459338
           }
         ],
         "newContests": []
@@ -28,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "f582550c017445d8683ad9432c8c203aae13ecde"
+  "ref": "e346ec3bdbb19dc692960c9ecc8681342b255a68"
 }
