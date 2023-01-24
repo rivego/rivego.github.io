@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1674538367,
+  "updateTime": 1674581582,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 190410094,
+            "pid": "1792B",
+            "name": "Stand-up Comedian",
+            "verdict": "OK",
+            "creationTime": 1674581524
+          },
+          {
+            "platform": "codeforces",
+            "id": 190409773,
+            "pid": "1792C",
+            "name": "Min Max Sort",
+            "verdict": "OK",
+            "creationTime": 1674581370
+          },
+          {
+            "platform": "codeforces",
+            "id": 190409404,
+            "pid": "1792D",
+            "name": "Fixed Prefix Permutations",
+            "verdict": "OK",
+            "creationTime": 1674581225
+          },
+          {
+            "platform": "codeforces",
+            "id": 190408687,
+            "pid": "1792E",
+            "name": "Divisors and Table",
+            "verdict": "OK",
+            "creationTime": 1674580926
+          },
+          {
+            "platform": "codeforces",
+            "id": 190407339,
+            "pid": "1792E",
+            "name": "Divisors and Table",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1674580389
+          },
+          {
+            "platform": "codeforces",
+            "id": 190404862,
+            "pid": "1792F1",
+            "name": "Graph Coloring (easy version)",
+            "verdict": "OK",
+            "creationTime": 1674579482
+          },
+          {
+            "platform": "codeforces",
+            "id": 190404729,
+            "pid": "1792F2",
+            "name": "Graph Coloring (hard version)",
+            "verdict": "OK",
+            "creationTime": 1674579444
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "0cc4adff258a435f5036c9aeb0435465e9029a61"
+  "ref": "306222cd6c33223f4847fb278688f8b15df5eb17"
 }
