@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1674495205,
+  "updateTime": 1674538367,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 190177032,
-            "pid": "1777F",
-            "name": "Comfortably Numb",
-            "verdict": "OK",
-            "creationTime": 1674461010
-          },
-          {
-            "platform": "codeforces",
-            "id": 190173475,
-            "pid": "1777E",
-            "name": "Edge Reverse",
-            "verdict": "OK",
-            "creationTime": 1674459338
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "e346ec3bdbb19dc692960c9ecc8681342b255a68"
+  "ref": "0cc4adff258a435f5036c9aeb0435465e9029a61"
 }
