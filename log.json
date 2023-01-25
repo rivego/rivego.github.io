@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1674624788,
+  "updateTime": 1674667972,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 190410242,
-            "pid": "1792A",
-            "name": "GamingForces",
-            "verdict": "OK",
-            "creationTime": 1674581596
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3be0dc0e4515a5a4d93f9f83106d16ee132ed68e"
+  "ref": "d361dea014d852f853954e14b53216fdcf31f3c4"
 }
