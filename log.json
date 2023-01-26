@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1674711190,
+  "updateTime": 1674754390,
   "history": {
     "user": [
       {
@@ -8,19 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 190614226,
-            "pid": "1780B",
-            "name": "GCD Partition",
+            "id": 190616778,
+            "pid": "1780G",
+            "name": "Delicious Dessert",
             "verdict": "OK",
-            "creationTime": 1674711095
+            "creationTime": 1674713275
           },
           {
             "platform": "codeforces",
-            "id": 190614047,
-            "pid": "1780A",
-            "name": "Hayato and School",
+            "id": 190616052,
+            "pid": "1780F",
+            "name": "Three Chairs",
             "verdict": "OK",
-            "creationTime": 1674710935
+            "creationTime": 1674712667
+          },
+          {
+            "platform": "codeforces",
+            "id": 190615652,
+            "pid": "1780E",
+            "name": "Josuke and Complete Graph",
+            "verdict": "OK",
+            "creationTime": 1674712329
+          },
+          {
+            "platform": "codeforces",
+            "id": 190614739,
+            "pid": "1780D",
+            "name": "Bit Guessing Game",
+            "verdict": "OK",
+            "creationTime": 1674711545
           }
         ],
         "newContests": []
@@ -28,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "a064e091adea9c4448c9d300b6f889e2caa477fa"
+  "ref": "6b42ac73b4a36c4dd3cc2c3e1e9b4d7c21382810"
 }
