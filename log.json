@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1674667972,
+  "updateTime": 1674711190,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 190614226,
+            "pid": "1780B",
+            "name": "GCD Partition",
+            "verdict": "OK",
+            "creationTime": 1674711095
+          },
+          {
+            "platform": "codeforces",
+            "id": 190614047,
+            "pid": "1780A",
+            "name": "Hayato and School",
+            "verdict": "OK",
+            "creationTime": 1674710935
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "d361dea014d852f853954e14b53216fdcf31f3c4"
+  "ref": "a064e091adea9c4448c9d300b6f889e2caa477fa"
 }
