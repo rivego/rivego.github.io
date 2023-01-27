@@ -1,48 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1674754390,
+  "updateTime": 1674797575,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 190616778,
-            "pid": "1780G",
-            "name": "Delicious Dessert",
-            "verdict": "OK",
-            "creationTime": 1674713275
-          },
-          {
-            "platform": "codeforces",
-            "id": 190616052,
-            "pid": "1780F",
-            "name": "Three Chairs",
-            "verdict": "OK",
-            "creationTime": 1674712667
-          },
-          {
-            "platform": "codeforces",
-            "id": 190615652,
-            "pid": "1780E",
-            "name": "Josuke and Complete Graph",
-            "verdict": "OK",
-            "creationTime": 1674712329
-          },
-          {
-            "platform": "codeforces",
-            "id": 190614739,
-            "pid": "1780D",
-            "name": "Bit Guessing Game",
-            "verdict": "OK",
-            "creationTime": 1674711545
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6b42ac73b4a36c4dd3cc2c3e1e9b4d7c21382810"
+  "ref": "584f145ab4b0b81d3c0a5a9c6494cd00b2351bdf"
 }
