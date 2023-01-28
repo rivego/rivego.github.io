@@ -15593,6 +15593,17 @@
     "standingsUrl": "https://codeforces.com/gym/104155/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 01-27-23 Div. 2 (Beginner)",
+    "startTime": 1674864000,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104157,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104157",
+    "standingsUrl": "https://codeforces.com/gym/104157/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "2022-2023 Всероссийская олимпиада школьников по информатике, региональный этап, 2 тур",
     "duration": 18000,
@@ -15601,5 +15612,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104156",
     "standingsUrl": "https://codeforces.com/gym/104156/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 01-27-23 Div. 1 (Advanced)",
+    "startTime": 1674864000,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104158,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104158",
+    "standingsUrl": "https://codeforces.com/gym/104158/standings"
   }
 ]
