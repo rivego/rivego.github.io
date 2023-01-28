@@ -15553,6 +15553,17 @@
     "standingsUrl": "https://codeforces.com/gym/104147/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Abakoda Long Contest 2022",
+    "startTime": 1674095400,
+    "duration": 799200,
+    "participantNumber": 0,
+    "id": 104146,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104146",
+    "standingsUrl": "https://codeforces.com/gym/104146/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "CPUlm Winter Contest 2022",
     "duration": 18000,
