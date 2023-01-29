@@ -15625,6 +15625,16 @@
     "standingsUrl": "https://codeforces.com/gym/104156/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Олимпиада школьников РС(Я) (5-8 классы) 2022-23, 2 день",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104159,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104159",
+    "standingsUrl": "https://codeforces.com/gym/104159/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "UTPC Contest 01-27-23 Div. 1 (Advanced)",
     "startTime": 1674864000,
