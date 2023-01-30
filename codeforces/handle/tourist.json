@@ -48,7 +48,8 @@
         "id": "1787G",
         "name": "Colorful Tree Again",
         "tags": [
-          "data structures"
+          "data structures",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/G"
       },
@@ -151,9 +152,11 @@
         "name": "Game on Axis",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "dsu",
           "graphs",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/D"
       },

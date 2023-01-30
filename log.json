@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1675056786,
+  "updateTime": 1675100000,
   "history": {
     "user": [
       {
@@ -8,35 +8,163 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 191170407,
-            "pid": "1787G",
-            "name": "Colorful Tree Again",
+            "id": 191259148,
+            "pid": "104128L",
+            "name": "Proposition Composition",
             "verdict": "OK",
-            "creationTime": 1675018148
+            "creationTime": 1675087134
           },
           {
             "platform": "codeforces",
-            "id": 191170332,
-            "pid": "1787I",
-            "name": "Treasure Hunt",
+            "id": 191252861,
+            "pid": "104128H",
+            "name": "Factories Once More",
             "verdict": "OK",
-            "creationTime": 1675018117
+            "creationTime": 1675084350
           },
           {
             "platform": "codeforces",
-            "id": 191170197,
-            "pid": "1787I",
-            "name": "Treasure Hunt",
+            "id": 191252835,
+            "pid": "104128H",
+            "name": "Factories Once More",
             "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1675018050
+            "creationTime": 1675084337
           },
           {
             "platform": "codeforces",
-            "id": 191169407,
-            "pid": "1787I",
-            "name": "Treasure Hunt",
+            "id": 191252746,
+            "pid": "104128H",
+            "name": "Factories Once More",
             "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1675017735
+            "creationTime": 1675084291
+          },
+          {
+            "platform": "codeforces",
+            "id": 191250669,
+            "pid": "104128F",
+            "name": "Triangles",
+            "verdict": "OK",
+            "creationTime": 1675083314
+          },
+          {
+            "platform": "codeforces",
+            "id": 191249688,
+            "pid": "104128C",
+            "name": "Fabulous Fungus Frenzy",
+            "verdict": "OK",
+            "creationTime": 1675082809
+          },
+          {
+            "platform": "codeforces",
+            "id": 191246766,
+            "pid": "104128K",
+            "name": "NaN in a Heap",
+            "verdict": "OK",
+            "creationTime": 1675081302
+          },
+          {
+            "platform": "codeforces",
+            "id": 191237773,
+            "pid": "104128J",
+            "name": "Perfect Matching",
+            "verdict": "OK",
+            "creationTime": 1675076043
+          },
+          {
+            "platform": "codeforces",
+            "id": 191236546,
+            "pid": "104128E",
+            "name": "Color the Tree",
+            "verdict": "OK",
+            "creationTime": 1675075238
+          },
+          {
+            "platform": "codeforces",
+            "id": 191236153,
+            "pid": "104128E",
+            "name": "Color the Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1675074971
+          },
+          {
+            "platform": "codeforces",
+            "id": 191234593,
+            "pid": "104128B",
+            "name": "Ropeway",
+            "verdict": "OK",
+            "creationTime": 1675073957
+          },
+          {
+            "platform": "codeforces",
+            "id": 191234569,
+            "pid": "104128B",
+            "name": "Ropeway",
+            "verdict": "OK",
+            "creationTime": 1675073945
+          },
+          {
+            "platform": "codeforces",
+            "id": 191233980,
+            "pid": "104128B",
+            "name": "Ropeway",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1675073575
+          },
+          {
+            "platform": "codeforces",
+            "id": 191233782,
+            "pid": "104128B",
+            "name": "Ropeway",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1675073438
+          },
+          {
+            "platform": "codeforces",
+            "id": 191233620,
+            "pid": "104128B",
+            "name": "Ropeway",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1675073329
+          },
+          {
+            "platform": "codeforces",
+            "id": 191232270,
+            "pid": "104128M",
+            "name": "Drain the Water Tank",
+            "verdict": "OK",
+            "creationTime": 1675072489
+          },
+          {
+            "platform": "codeforces",
+            "id": 191231384,
+            "pid": "104128D",
+            "name": "Chat Program",
+            "verdict": "OK",
+            "creationTime": 1675071936
+          },
+          {
+            "platform": "codeforces",
+            "id": 191230371,
+            "pid": "104128I",
+            "name": "Perfect Palindrome",
+            "verdict": "OK",
+            "creationTime": 1675071310
+          },
+          {
+            "platform": "codeforces",
+            "id": 191230219,
+            "pid": "104128G",
+            "name": "Inscryption",
+            "verdict": "OK",
+            "creationTime": 1675071226
+          },
+          {
+            "platform": "codeforces",
+            "id": 191228685,
+            "pid": "104128A",
+            "name": "Stop, Yesterday Please No More",
+            "verdict": "OK",
+            "creationTime": 1675070373
           }
         ],
         "newContests": []
@@ -44,5 +172,5 @@
     ],
     "contest": []
   },
-  "ref": "343b88588e8bc73716c4e78c05f4dfd44b3282c7"
+  "ref": "7a236f79038a8d72677ddc5801c3750ae270f8fa"
 }
