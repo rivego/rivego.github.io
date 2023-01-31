@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1675100000,
+  "updateTime": 1675143190,
   "history": {
     "user": [
       {
@@ -8,163 +8,107 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 191259148,
-            "pid": "104128L",
-            "name": "Proposition Composition",
+            "id": 191305821,
+            "pid": "104118B",
+            "name": "Better than Bitcoin",
             "verdict": "OK",
-            "creationTime": 1675087134
+            "creationTime": 1675109314
           },
           {
             "platform": "codeforces",
-            "id": 191252861,
-            "pid": "104128H",
-            "name": "Factories Once More",
+            "id": 191303872,
+            "pid": "104118E",
+            "name": "Escape from Markov",
             "verdict": "OK",
-            "creationTime": 1675084350
+            "creationTime": 1675107857
           },
           {
             "platform": "codeforces",
-            "id": 191252835,
-            "pid": "104128H",
-            "name": "Factories Once More",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1675084337
-          },
-          {
-            "platform": "codeforces",
-            "id": 191252746,
-            "pid": "104128H",
-            "name": "Factories Once More",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1675084291
-          },
-          {
-            "platform": "codeforces",
-            "id": 191250669,
-            "pid": "104128F",
-            "name": "Triangles",
+            "id": 191302834,
+            "pid": "104118D",
+            "name": "Domination Devil",
             "verdict": "OK",
-            "creationTime": 1675083314
+            "creationTime": 1675107134
           },
           {
             "platform": "codeforces",
-            "id": 191249688,
-            "pid": "104128C",
-            "name": "Fabulous Fungus Frenzy",
+            "id": 191301081,
+            "pid": "104118H",
+            "name": "HIIT",
             "verdict": "OK",
-            "creationTime": 1675082809
+            "creationTime": 1675105902
           },
           {
             "platform": "codeforces",
-            "id": 191246766,
-            "pid": "104128K",
-            "name": "NaN in a Heap",
+            "id": 191297920,
+            "pid": "104118L",
+            "name": "LCG Manipulation",
             "verdict": "OK",
-            "creationTime": 1675081302
+            "creationTime": 1675103987
           },
           {
             "platform": "codeforces",
-            "id": 191237773,
-            "pid": "104128J",
-            "name": "Perfect Matching",
-            "verdict": "OK",
-            "creationTime": 1675076043
-          },
-          {
-            "platform": "codeforces",
-            "id": 191236546,
-            "pid": "104128E",
-            "name": "Color the Tree",
-            "verdict": "OK",
-            "creationTime": 1675075238
-          },
-          {
-            "platform": "codeforces",
-            "id": 191236153,
-            "pid": "104128E",
-            "name": "Color the Tree",
+            "id": 191297833,
+            "pid": "104118L",
+            "name": "LCG Manipulation",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1675074971
+            "creationTime": 1675103929
           },
           {
             "platform": "codeforces",
-            "id": 191234593,
-            "pid": "104128B",
-            "name": "Ropeway",
-            "verdict": "OK",
-            "creationTime": 1675073957
-          },
-          {
-            "platform": "codeforces",
-            "id": 191234569,
-            "pid": "104128B",
-            "name": "Ropeway",
-            "verdict": "OK",
-            "creationTime": 1675073945
-          },
-          {
-            "platform": "codeforces",
-            "id": 191233980,
-            "pid": "104128B",
-            "name": "Ropeway",
+            "id": 191297538,
+            "pid": "104118L",
+            "name": "LCG Manipulation",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1675073575
+            "creationTime": 1675103773
           },
           {
             "platform": "codeforces",
-            "id": 191233782,
-            "pid": "104128B",
-            "name": "Ropeway",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1675073438
-          },
-          {
-            "platform": "codeforces",
-            "id": 191233620,
-            "pid": "104128B",
-            "name": "Ropeway",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1675073329
-          },
-          {
-            "platform": "codeforces",
-            "id": 191232270,
-            "pid": "104128M",
-            "name": "Drain the Water Tank",
+            "id": 191296580,
+            "pid": "104118I",
+            "name": "Item Crafting",
             "verdict": "OK",
-            "creationTime": 1675072489
+            "creationTime": 1675103238
           },
           {
             "platform": "codeforces",
-            "id": 191231384,
-            "pid": "104128D",
-            "name": "Chat Program",
+            "id": 191295699,
+            "pid": "104118F",
+            "name": "Factions vs The Hegemon",
             "verdict": "OK",
-            "creationTime": 1675071936
+            "creationTime": 1675102794
           },
           {
             "platform": "codeforces",
-            "id": 191230371,
-            "pid": "104128I",
-            "name": "Perfect Palindrome",
+            "id": 191293347,
+            "pid": "104118J",
+            "name": "Junior Steiner Three",
             "verdict": "OK",
-            "creationTime": 1675071310
+            "creationTime": 1675101646
           },
           {
             "platform": "codeforces",
-            "id": 191230219,
-            "pid": "104128G",
-            "name": "Inscryption",
+            "id": 191292574,
+            "pid": "104118G",
+            "name": "Gallivanting Merchant",
             "verdict": "OK",
-            "creationTime": 1675071226
+            "creationTime": 1675101299
           },
           {
             "platform": "codeforces",
-            "id": 191228685,
-            "pid": "104128A",
-            "name": "Stop, Yesterday Please No More",
+            "id": 191292025,
+            "pid": "104118C",
+            "name": "Conform Conforme",
             "verdict": "OK",
-            "creationTime": 1675070373
+            "creationTime": 1675101048
+          },
+          {
+            "platform": "codeforces",
+            "id": 191291157,
+            "pid": "104118K",
+            "name": "Kapitan Amazing",
+            "verdict": "OK",
+            "creationTime": 1675100659
           }
         ],
         "newContests": []
@@ -172,5 +116,5 @@
     ],
     "contest": []
   },
-  "ref": "7a236f79038a8d72677ddc5801c3750ae270f8fa"
+  "ref": "47660435622f05832c67eb6a0f448e6e37da862d"
 }
