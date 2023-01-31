@@ -25,7 +25,7 @@
           "binary search",
           "data structures",
           "dp",
-          "ternary search"
+          "geometry"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/H"
       },
@@ -110293,7 +110293,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3803,
+    "rating": 3768,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
