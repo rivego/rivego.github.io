@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1675229593,
+  "updateTime": 1675272786,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 191580571,
+            "pid": "1778F",
+            "name": "Maximizing Root",
+            "verdict": "OK",
+            "creationTime": 1675265299
+          },
+          {
+            "platform": "codeforces",
+            "id": 191574156,
+            "pid": "1778E",
+            "name": "The Tree Has Fallen!",
+            "verdict": "OK",
+            "creationTime": 1675264399
+          },
+          {
+            "platform": "codeforces",
+            "id": 191563024,
+            "pid": "1778D",
+            "name": "Flexible String Revisit",
+            "verdict": "OK",
+            "creationTime": 1675263212
+          },
+          {
+            "platform": "codeforces",
+            "id": 191557742,
+            "pid": "1778C",
+            "name": "Flexible String",
+            "verdict": "OK",
+            "creationTime": 1675262831
+          },
+          {
+            "platform": "codeforces",
+            "id": 191552284,
+            "pid": "1778B",
+            "name": "The Forbidden Permutation",
+            "verdict": "OK",
+            "creationTime": 1675262531
+          },
+          {
+            "platform": "codeforces",
+            "id": 191545810,
+            "pid": "1778A",
+            "name": "Flip Flop Sum",
+            "verdict": "OK",
+            "creationTime": 1675262198
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "a069a72adb67a67622b7bafd7d2a5441e49807ba"
+  "ref": "0dfd9eaa471457e82a875df060547607b69bfd65"
 }
