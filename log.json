@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1675877591,
+  "updateTime": 1675920785,
   "history": {
     "user": [
       {
@@ -8,115 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 192772298,
-            "pid": "1765G",
-            "name": "Guess the String",
+            "id": 192819075,
+            "pid": "1765I",
+            "name": "Infinite Chess",
             "verdict": "OK",
-            "creationTime": 1675877558
+            "creationTime": 1675920468
           },
           {
             "platform": "codeforces",
-            "id": 192771846,
-            "pid": "1765G",
-            "name": "Guess the String",
+            "id": 192818336,
+            "pid": "1765I",
+            "name": "Infinite Chess",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1675877349
+            "creationTime": 1675919863
           },
           {
             "platform": "codeforces",
-            "id": 192770743,
-            "pid": "1765G",
-            "name": "Guess the String",
+            "id": 192818213,
+            "pid": "1765I",
+            "name": "Infinite Chess",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1675876850
+            "creationTime": 1675919771
           },
           {
             "platform": "codeforces",
-            "id": 192768628,
-            "pid": "1765L",
-            "name": "Project Manager",
+            "id": 192775757,
+            "pid": "1765C",
+            "name": "Card Guessing",
             "verdict": "OK",
-            "creationTime": 1675875853
-          },
-          {
-            "platform": "codeforces",
-            "id": 192767355,
-            "pid": "1765L",
-            "name": "Project Manager",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1675875278
-          },
-          {
-            "platform": "codeforces",
-            "id": 192765540,
-            "pid": "1765F",
-            "name": "Chemistry Lab",
-            "verdict": "OK",
-            "creationTime": 1675874490
-          },
-          {
-            "platform": "codeforces",
-            "id": 192706770,
-            "pid": "1765A",
-            "name": "Access Levels",
-            "verdict": "OK",
-            "creationTime": 1675845131
-          },
-          {
-            "platform": "codeforces",
-            "id": 192697992,
-            "pid": "1765H",
-            "name": "Hospital Queue",
-            "verdict": "OK",
-            "creationTime": 1675839639
-          },
-          {
-            "platform": "codeforces",
-            "id": 192696458,
-            "pid": "1765D",
-            "name": "Watch the Videos",
-            "verdict": "OK",
-            "creationTime": 1675838574
-          },
-          {
-            "platform": "codeforces",
-            "id": 192695805,
-            "pid": "1765N",
-            "name": "Number Reduction",
-            "verdict": "OK",
-            "creationTime": 1675838115
-          },
-          {
-            "platform": "codeforces",
-            "id": 192695479,
-            "pid": "1765K",
-            "name": "Torus Path",
-            "verdict": "OK",
-            "creationTime": 1675837871
-          },
-          {
-            "platform": "codeforces",
-            "id": 192694909,
-            "pid": "1765M",
-            "name": "Minimum LCM",
-            "verdict": "OK",
-            "creationTime": 1675837450
-          },
-          {
-            "platform": "codeforces",
-            "id": 192694744,
-            "pid": "1765E",
-            "name": "Exchange",
-            "verdict": "OK",
-            "creationTime": 1675837333
-          },
-          {
-            "platform": "codeforces",
-            "id": 192694603,
-            "pid": "1765B",
-            "name": "Broken Keyboard",
-            "verdict": "OK",
-            "creationTime": 1675837218
+            "creationTime": 1675879217
           }
         ],
         "newContests": []
@@ -124,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "1efba568f7007316e7ff747e57540390af7db0fb"
+  "ref": "ba674b6a3cadd095b95914fd275cd2892ac5313b"
 }
