@@ -6,6 +6,81 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 192913571,
+      "creationTime": 1675955529,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675953300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1788C",
+        "name": "Matching Numbers",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1788/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1788/submission/192913571"
+    },
+    {
+      "type": "codeforces",
+      "id": 192884877,
+      "creationTime": 1675953931,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675953300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1788B",
+        "name": "Sum of Two Numbers",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1788/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1788/submission/192884877"
+    },
+    {
+      "type": "codeforces",
+      "id": 192874962,
+      "creationTime": 1675953520,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675953300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1788A",
+        "name": "One and Two",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1788/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1788/submission/192874962"
+    },
+    {
+      "type": "codeforces",
       "id": 183142167,
       "creationTime": 1669698378,
       "language": "GNU C++17 (64)",
@@ -24804,7 +24879,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1750,
+    "rating": 1773,
     "maxRank": "expert",
     "maxRating": 1832
   }

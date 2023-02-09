@@ -6,6 +6,106 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 192945721,
+      "creationTime": 1675958491,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675953300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1788C",
+        "name": "Matching Numbers",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1788/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1788/submission/192945721"
+    },
+    {
+      "type": "codeforces",
+      "id": 192923843,
+      "creationTime": 1675956321,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675953300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1788B",
+        "name": "Sum of Two Numbers",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1788/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1788/submission/192923843"
+    },
+    {
+      "type": "codeforces",
+      "id": 192921050,
+      "creationTime": 1675956090,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675953300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1788B",
+        "name": "Sum of Two Numbers",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1788/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1788/submission/192921050"
+    },
+    {
+      "type": "codeforces",
+      "id": 192881611,
+      "creationTime": 1675953799,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675953300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1788A",
+        "name": "One and Two",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1788/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1788/submission/192881611"
+    },
+    {
+      "type": "codeforces",
       "id": 186578427,
       "creationTime": 1671889453,
       "language": "GNU C++20 (64)",
@@ -21437,7 +21537,7 @@
   ],
   "codeforces": {
     "rank": "specialist",
-    "rating": 1440,
+    "rating": 1450,
     "maxRank": "specialist",
     "maxRating": 1492
   }
