@@ -23,6 +23,7 @@
         "name": "Matching Numbers",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1788/problem/C"
@@ -47,6 +48,8 @@
         "id": "1788B",
         "name": "Sum of Two Numbers",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation",
           "math"
         ],
@@ -72,6 +75,8 @@
         "id": "1788B",
         "name": "Sum of Two Numbers",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation",
           "math"
         ],

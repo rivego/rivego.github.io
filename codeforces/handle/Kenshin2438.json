@@ -6,6 +6,35 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193014463,
+      "creationTime": 1676004488,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471479159
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1788D",
+        "name": "Moving Dots",
+        "tags": [
+          "binary search",
+          "brute force",
+          "combinatorics",
+          "dp",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1788/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1788/submission/193014463"
+    },
+    {
+      "type": "codeforces",
       "id": 192913571,
       "creationTime": 1675955529,
       "language": "GNU C++17 (64)",
@@ -23,6 +52,7 @@
         "name": "Matching Numbers",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1788/problem/C"
@@ -47,6 +77,8 @@
         "id": "1788B",
         "name": "Sum of Two Numbers",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation",
           "math"
         ],
