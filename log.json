@@ -1,166 +1,130 @@
 {
   "version": "0.1.29",
-  "updateTime": 1676007181,
+  "updateTime": 1676050440,
   "history": {
     "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 193014463,
-            "pid": "1788D",
-            "name": "Moving Dots",
-            "verdict": "OK",
-            "creationTime": 1676004488
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 192978457,
-            "pid": "104147K",
-            "name": "Hobz is a good guy",
+            "id": 193089594,
+            "pid": "104160J",
+            "name": "Referee Without Red",
             "verdict": "OK",
-            "creationTime": 1675968218
+            "creationTime": 1676047472
           },
           {
             "platform": "codeforces",
-            "id": 192978255,
-            "pid": "104147J",
-            "name": "Two Faced Hobz",
-            "verdict": "OK",
-            "creationTime": 1675968108
-          },
-          {
-            "platform": "codeforces",
-            "id": 192978227,
-            "pid": "104147J",
-            "name": "Two Faced Hobz",
+            "id": 193088243,
+            "pid": "104160J",
+            "name": "Referee Without Red",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1675968095
+            "creationTime": 1676046824
           },
           {
             "platform": "codeforces",
-            "id": 192977635,
-            "pid": "104147I",
-            "name": "Wigz",
+            "id": 193087125,
+            "pid": "104160J",
+            "name": "Referee Without Red",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1676046283
+          },
+          {
+            "platform": "codeforces",
+            "id": 193086455,
+            "pid": "104160J",
+            "name": "Referee Without Red",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1676045967
+          },
+          {
+            "platform": "codeforces",
+            "id": 193086100,
+            "pid": "104160J",
+            "name": "Referee Without Red",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1676045792
+          },
+          {
+            "platform": "codeforces",
+            "id": 193039988,
+            "pid": "104160B",
+            "name": "Binary Substrings",
             "verdict": "OK",
-            "creationTime": 1675967762
+            "creationTime": 1676021804
           },
           {
             "platform": "codeforces",
-            "id": 192974658,
-            "pid": "104147F",
-            "name": "Nesr El Sieve",
+            "id": 193038919,
+            "pid": "104160B",
+            "name": "Binary Substrings",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1676021114
+          },
+          {
+            "platform": "codeforces",
+            "id": 193035157,
+            "pid": "104160L",
+            "name": "Tavern Chess",
             "verdict": "OK",
-            "creationTime": 1675966363
+            "creationTime": 1676018546
           },
           {
             "platform": "codeforces",
-            "id": 192974628,
-            "pid": "104147E",
-            "name": "I am not done yet",
+            "id": 193035148,
+            "pid": "104160I",
+            "name": "Quartz Collection",
             "verdict": "OK",
-            "creationTime": 1675966352
+            "creationTime": 1676018539
           },
           {
             "platform": "codeforces",
-            "id": 192974606,
-            "pid": "104147D",
-            "name": "Do and Tak Game",
+            "id": 193035140,
+            "pid": "104160H",
+            "name": "P-P-Palindrome",
             "verdict": "OK",
-            "creationTime": 1675966343
+            "creationTime": 1676018533
           },
           {
             "platform": "codeforces",
-            "id": 192974595,
-            "pid": "104147C",
-            "name": "Disney Land",
+            "id": 193035130,
+            "pid": "104160F",
+            "name": "Half Mixed",
             "verdict": "OK",
-            "creationTime": 1675966337
+            "creationTime": 1676018525
           },
           {
             "platform": "codeforces",
-            "id": 192974574,
-            "pid": "104147B",
-            "name": "I'll call him Hanya",
+            "id": 193035124,
+            "pid": "104160E",
+            "name": "Graph Completing",
             "verdict": "OK",
-            "creationTime": 1675966330
+            "creationTime": 1676018519
           },
           {
             "platform": "codeforces",
-            "id": 192974553,
-            "pid": "104147A",
-            "name": "Round 1",
+            "id": 193035118,
+            "pid": "104160D",
+            "name": "DRX vs. T1",
             "verdict": "OK",
-            "creationTime": 1675966324
+            "creationTime": 1676018513
           },
           {
             "platform": "codeforces",
-            "id": 192974464,
-            "pid": "104147H",
-            "name": "Alexandria Library",
+            "id": 193035087,
+            "pid": "104160C",
+            "name": "Clamped Sequence",
             "verdict": "OK",
-            "creationTime": 1675966282
+            "creationTime": 1676018494
           },
           {
             "platform": "codeforces",
-            "id": 192974371,
-            "pid": "104147H",
-            "name": "Alexandria Library",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1675966247
-          },
-          {
-            "platform": "codeforces",
-            "id": 192972960,
-            "pid": "104147G",
-            "name": "You're Milky",
+            "id": 193035077,
+            "pid": "104160A",
+            "name": "Absolute Difference",
             "verdict": "OK",
-            "creationTime": 1675965625
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 193007722,
-            "pid": "1788C",
-            "name": "Matching Numbers",
-            "verdict": "OK",
-            "creationTime": 1675998323
-          },
-          {
-            "platform": "codeforces",
-            "id": 193004158,
-            "pid": "1788B",
-            "name": "Sum of Two Numbers",
-            "verdict": "OK",
-            "creationTime": 1675994185
-          },
-          {
-            "platform": "codeforces",
-            "id": 193003615,
-            "pid": "1788B",
-            "name": "Sum of Two Numbers",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1675993375
-          },
-          {
-            "platform": "codeforces",
-            "id": 193003060,
-            "pid": "1788A",
-            "name": "One and Two",
-            "verdict": "OK",
-            "creationTime": 1675992454
+            "creationTime": 1676018488
           }
         ],
         "newContests": []
@@ -168,5 +132,5 @@
     ],
     "contest": []
   },
-  "ref": "3d708e357e7ff1d58f0616b25e26815e902fffd1"
+  "ref": "5ae88ae4da81f9132f26d054ecb680678c096d5e"
 }
