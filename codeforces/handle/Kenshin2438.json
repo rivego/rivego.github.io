@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193212254,
+      "creationTime": 1676131618,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471352029
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1788E",
+        "name": "Sum Over Zero",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1788/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1788/submission/193212254"
+    },
+    {
+      "type": "codeforces",
+      "id": 193211303,
+      "creationTime": 1676131130,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471352517
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1788E",
+        "name": "Sum Over Zero",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1788/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1788/submission/193211303"
+    },
+    {
+      "type": "codeforces",
       "id": 193014463,
       "creationTime": 1676004488,
       "language": "GNU C++17 (64)",

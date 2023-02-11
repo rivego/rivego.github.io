@@ -1,42 +1,48 @@
 {
   "version": "0.1.29",
-  "updateTime": 1676093572,
+  "updateTime": 1676136775,
   "history": {
     "user": [
       {
-        "name": "Reisen_",
+        "name": "Xiong_Qian",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 193137991,
-            "pid": "1778C",
-            "name": "Flexible String",
+            "id": 193198985,
+            "pid": "1786A2",
+            "name": "Alternating Deck (hard version)",
             "verdict": "OK",
-            "creationTime": 1676087916
+            "creationTime": 1676124819
           },
           {
             "platform": "codeforces",
-            "id": 193133930,
-            "pid": "1778B",
-            "name": "The Forbidden Permutation",
+            "id": 193192321,
+            "pid": "1786A1",
+            "name": "Non-alternating Deck (easy version)",
             "verdict": "OK",
-            "creationTime": 1676083042
+            "creationTime": 1676121234
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 193212254,
+            "pid": "1788E",
+            "name": "Sum Over Zero",
+            "verdict": "OK",
+            "creationTime": 1676131618
           },
           {
             "platform": "codeforces",
-            "id": 193133698,
-            "pid": "1778B",
-            "name": "The Forbidden Permutation",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676082668
-          },
-          {
-            "platform": "codeforces",
-            "id": 193132595,
-            "pid": "1778A",
-            "name": "Flip Flop Sum",
+            "id": 193211303,
+            "pid": "1788E",
+            "name": "Sum Over Zero",
             "verdict": "OK",
-            "creationTime": 1676080942
+            "creationTime": 1676131130
           }
         ],
         "newContests": []
@@ -44,5 +50,5 @@
     ],
     "contest": []
   },
-  "ref": "33e61a85773117bd10a8952f326353cf45911805"
+  "ref": "70b0e50c13e25590f408f6ae002bbfe35106168b"
 }

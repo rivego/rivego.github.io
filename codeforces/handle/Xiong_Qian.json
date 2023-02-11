@@ -6,6 +6,54 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193198985,
+      "creationTime": 1676124819,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471358828
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786A2",
+        "name": "Alternating Deck (hard version)",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/A2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193198985"
+    },
+    {
+      "type": "codeforces",
+      "id": 193192321,
+      "creationTime": 1676121234,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471362413
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786A1",
+        "name": "Non-alternating Deck (easy version)",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/A1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193192321"
+    },
+    {
+      "type": "codeforces",
       "id": 192945721,
       "creationTime": 1675958491,
       "language": "GNU C++20 (64)",
