@@ -1,130 +1,42 @@
 {
   "version": "0.1.29",
-  "updateTime": 1676050440,
+  "updateTime": 1676093572,
   "history": {
     "user": [
       {
-        "name": "jiangly",
+        "name": "Reisen_",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 193089594,
-            "pid": "104160J",
-            "name": "Referee Without Red",
+            "id": 193137991,
+            "pid": "1778C",
+            "name": "Flexible String",
             "verdict": "OK",
-            "creationTime": 1676047472
+            "creationTime": 1676087916
           },
           {
             "platform": "codeforces",
-            "id": 193088243,
-            "pid": "104160J",
-            "name": "Referee Without Red",
+            "id": 193133930,
+            "pid": "1778B",
+            "name": "The Forbidden Permutation",
+            "verdict": "OK",
+            "creationTime": 1676083042
+          },
+          {
+            "platform": "codeforces",
+            "id": 193133698,
+            "pid": "1778B",
+            "name": "The Forbidden Permutation",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1676046824
+            "creationTime": 1676082668
           },
           {
             "platform": "codeforces",
-            "id": 193087125,
-            "pid": "104160J",
-            "name": "Referee Without Red",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676046283
-          },
-          {
-            "platform": "codeforces",
-            "id": 193086455,
-            "pid": "104160J",
-            "name": "Referee Without Red",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676045967
-          },
-          {
-            "platform": "codeforces",
-            "id": 193086100,
-            "pid": "104160J",
-            "name": "Referee Without Red",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676045792
-          },
-          {
-            "platform": "codeforces",
-            "id": 193039988,
-            "pid": "104160B",
-            "name": "Binary Substrings",
+            "id": 193132595,
+            "pid": "1778A",
+            "name": "Flip Flop Sum",
             "verdict": "OK",
-            "creationTime": 1676021804
-          },
-          {
-            "platform": "codeforces",
-            "id": 193038919,
-            "pid": "104160B",
-            "name": "Binary Substrings",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676021114
-          },
-          {
-            "platform": "codeforces",
-            "id": 193035157,
-            "pid": "104160L",
-            "name": "Tavern Chess",
-            "verdict": "OK",
-            "creationTime": 1676018546
-          },
-          {
-            "platform": "codeforces",
-            "id": 193035148,
-            "pid": "104160I",
-            "name": "Quartz Collection",
-            "verdict": "OK",
-            "creationTime": 1676018539
-          },
-          {
-            "platform": "codeforces",
-            "id": 193035140,
-            "pid": "104160H",
-            "name": "P-P-Palindrome",
-            "verdict": "OK",
-            "creationTime": 1676018533
-          },
-          {
-            "platform": "codeforces",
-            "id": 193035130,
-            "pid": "104160F",
-            "name": "Half Mixed",
-            "verdict": "OK",
-            "creationTime": 1676018525
-          },
-          {
-            "platform": "codeforces",
-            "id": 193035124,
-            "pid": "104160E",
-            "name": "Graph Completing",
-            "verdict": "OK",
-            "creationTime": 1676018519
-          },
-          {
-            "platform": "codeforces",
-            "id": 193035118,
-            "pid": "104160D",
-            "name": "DRX vs. T1",
-            "verdict": "OK",
-            "creationTime": 1676018513
-          },
-          {
-            "platform": "codeforces",
-            "id": 193035087,
-            "pid": "104160C",
-            "name": "Clamped Sequence",
-            "verdict": "OK",
-            "creationTime": 1676018494
-          },
-          {
-            "platform": "codeforces",
-            "id": 193035077,
-            "pid": "104160A",
-            "name": "Absolute Difference",
-            "verdict": "OK",
-            "creationTime": 1676018488
+            "creationTime": 1676080942
           }
         ],
         "newContests": []
@@ -132,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "5ae88ae4da81f9132f26d054ecb680678c096d5e"
+  "ref": "33e61a85773117bd10a8952f326353cf45911805"
 }
