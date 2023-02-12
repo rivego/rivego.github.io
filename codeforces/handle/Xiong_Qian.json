@@ -6,6 +6,281 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193342946,
+      "creationTime": 1676204474,
+      "language": "Clang++20 Diagnostics",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471279173
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786C",
+        "name": "Monsters (easy version)",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193342946"
+    },
+    {
+      "type": "codeforces",
+      "id": 193342764,
+      "creationTime": 1676204372,
+      "language": "Clang++20 Diagnostics",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471279275
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786C",
+        "name": "Monsters (easy version)",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193342764"
+    },
+    {
+      "type": "codeforces",
+      "id": 193342639,
+      "creationTime": 1676204301,
+      "language": "Clang++20 Diagnostics",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471279346
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786C",
+        "name": "Monsters (easy version)",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193342639"
+    },
+    {
+      "type": "codeforces",
+      "id": 193342393,
+      "creationTime": 1676204152,
+      "language": "Clang++20 Diagnostics",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471279495
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786C",
+        "name": "Monsters (easy version)",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193342393"
+    },
+    {
+      "type": "codeforces",
+      "id": 193342304,
+      "creationTime": 1676204096,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471279551
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786C",
+        "name": "Monsters (easy version)",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193342304"
+    },
+    {
+      "type": "codeforces",
+      "id": 193341258,
+      "creationTime": 1676203520,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471280127
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786C",
+        "name": "Monsters (easy version)",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193341258"
+    },
+    {
+      "type": "codeforces",
+      "id": 193340818,
+      "creationTime": 1676203284,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471280363
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786C",
+        "name": "Monsters (easy version)",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193340818"
+    },
+    {
+      "type": "codeforces",
+      "id": 193340727,
+      "creationTime": 1676203223,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471280424
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786C",
+        "name": "Monsters (easy version)",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193340727"
+    },
+    {
+      "type": "codeforces",
+      "id": 193339739,
+      "creationTime": 1676202724,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471280923
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786C",
+        "name": "Monsters (easy version)",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193339739"
+    },
+    {
+      "type": "codeforces",
+      "id": 193339307,
+      "creationTime": 1676202514,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471281133
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786C",
+        "name": "Monsters (easy version)",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193339307"
+    },
+    {
+      "type": "codeforces",
+      "id": 193338292,
+      "creationTime": 1676201990,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471281657
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1786B",
+        "name": "Cake Assembly Line",
+        "tags": [
+          "brute force",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1786/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1786/submission/193338292"
+    },
+    {
+      "type": "codeforces",
       "id": 193198985,
       "creationTime": 1676124819,
       "language": "GNU C++20 (64)",

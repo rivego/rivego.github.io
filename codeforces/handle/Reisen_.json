@@ -6,6 +6,107 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193314335,
+      "creationTime": 1676195274,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676190900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1793C",
+        "name": "Dora and Search",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1793/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1793/submission/193314335"
+    },
+    {
+      "type": "codeforces",
+      "id": 193307796,
+      "creationTime": 1676194359,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676190900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1793B",
+        "name": "Fedya and Array",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1793/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1793/submission/193307796"
+    },
+    {
+      "type": "codeforces",
+      "id": 193301877,
+      "creationTime": 1676193646,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676190900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1793B",
+        "name": "Fedya and Array",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1793/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1793/submission/193301877"
+    },
+    {
+      "type": "codeforces",
+      "id": 193282274,
+      "creationTime": 1676191463,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676190900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1793A",
+        "name": "Yet Another Promotion",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1793/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1793/submission/193282274"
+    },
+    {
+      "type": "codeforces",
       "id": 193137991,
       "creationTime": 1676087916,
       "language": "GNU C++14",
@@ -29609,7 +29710,7 @@
   ],
   "codeforces": {
     "rank": "pupil",
-    "rating": 1349,
+    "rating": 1386,
     "maxRank": "specialist",
     "maxRating": 1505
   }
