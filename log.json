@@ -1,54 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1676136775,
+  "updateTime": 1676179973,
   "history": {
-    "user": [
-      {
-        "name": "Xiong_Qian",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 193198985,
-            "pid": "1786A2",
-            "name": "Alternating Deck (hard version)",
-            "verdict": "OK",
-            "creationTime": 1676124819
-          },
-          {
-            "platform": "codeforces",
-            "id": 193192321,
-            "pid": "1786A1",
-            "name": "Non-alternating Deck (easy version)",
-            "verdict": "OK",
-            "creationTime": 1676121234
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 193212254,
-            "pid": "1788E",
-            "name": "Sum Over Zero",
-            "verdict": "OK",
-            "creationTime": 1676131618
-          },
-          {
-            "platform": "codeforces",
-            "id": 193211303,
-            "pid": "1788E",
-            "name": "Sum Over Zero",
-            "verdict": "OK",
-            "creationTime": 1676131130
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "70b0e50c13e25590f408f6ae002bbfe35106168b"
+  "ref": "a65dbddac0bccee894ed489ae49a31e9c5c24327"
 }
