@@ -6,6 +6,34 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193437280,
+      "creationTime": 1676280155,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471203492
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1793D",
+        "name": "Moscow Gorillas",
+        "tags": [
+          "binary search",
+          "dp",
+          "greedy",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1793/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1793/submission/193437280"
+    },
+    {
+      "type": "codeforces",
       "id": 193314335,
       "creationTime": 1676195274,
       "language": "GNU C++14",

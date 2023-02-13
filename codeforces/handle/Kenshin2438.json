@@ -47,9 +47,11 @@
         "id": "1793D",
         "name": "Moscow Gorillas",
         "tags": [
+          "binary search",
           "dp",
           "greedy",
-          "implementation"
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1793/problem/D"
       },
@@ -73,9 +75,11 @@
         "id": "1793D",
         "name": "Moscow Gorillas",
         "tags": [
+          "binary search",
           "dp",
           "greedy",
-          "implementation"
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1793/problem/D"
       },
