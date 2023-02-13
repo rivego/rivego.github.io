@@ -47,10 +47,9 @@
         "id": "1793D",
         "name": "Moscow Gorillas",
         "tags": [
-          "brute force",
-          "combinatorics",
           "dp",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1793/problem/D"
       },
@@ -74,10 +73,9 @@
         "id": "1793D",
         "name": "Moscow Gorillas",
         "tags": [
-          "brute force",
-          "combinatorics",
           "dp",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1793/problem/D"
       },
@@ -153,6 +151,7 @@
         "name": "Sum Over Zero",
         "tags": [
           "data structures",
+          "dfs and similar",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1788/problem/E"
@@ -178,6 +177,7 @@
         "name": "Sum Over Zero",
         "tags": [
           "data structures",
+          "dfs and similar",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1788/problem/E"
