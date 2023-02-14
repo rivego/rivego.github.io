@@ -6,6 +6,87 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193597428,
+      "creationTime": 1676378426,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471105221
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790C",
+        "name": "Premutation",
+        "rating": 1000,
+        "tags": [
+          "brute force",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/193597428"
+    },
+    {
+      "type": "codeforces",
+      "id": 193595741,
+      "creationTime": 1676377490,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471106157
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790B",
+        "name": "Taisia and Dice",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/193595741"
+    },
+    {
+      "type": "codeforces",
+      "id": 193595270,
+      "creationTime": 1676377211,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471106436
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790A",
+        "name": "Polycarp and the Day of Pi",
+        "rating": 800,
+        "tags": [
+          "implementation",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/193595270"
+    },
+    {
+      "type": "codeforces",
       "id": 193437280,
       "creationTime": 1676280155,
       "language": "GNU C++14",
@@ -26,6 +107,7 @@
           "dp",
           "greedy",
           "implementation",
+          "math",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1793/problem/D"

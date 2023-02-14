@@ -6,6 +6,109 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193623458,
+      "creationTime": 1676390709,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1676384400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778D",
+        "name": "Flexible String Revisit",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193623458"
+    },
+    {
+      "type": "codeforces",
+      "id": 193618207,
+      "creationTime": 1676388232,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1676384400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778C",
+        "name": "Flexible String",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193618207"
+    },
+    {
+      "type": "codeforces",
+      "id": 193613969,
+      "creationTime": 1676386279,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1676384400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778B",
+        "name": "The Forbidden Permutation",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193613969"
+    },
+    {
+      "type": "codeforces",
+      "id": 193610506,
+      "creationTime": 1676384671,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1676384400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778A",
+        "name": "Flip Flop Sum",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193610506"
+    },
+    {
+      "type": "codeforces",
       "id": 193328204,
       "creationTime": 1676197601,
       "language": "GNU C++17 (64)",
@@ -51,6 +154,7 @@
           "dp",
           "greedy",
           "implementation",
+          "math",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1793/problem/D"
@@ -79,6 +183,7 @@
           "dp",
           "greedy",
           "implementation",
+          "math",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1793/problem/D"
