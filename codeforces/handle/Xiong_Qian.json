@@ -374,7 +374,8 @@
           "constructive algorithms",
           "greedy",
           "implementation",
-          "math"
+          "math",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1788/problem/B"
       },
@@ -401,7 +402,8 @@
           "constructive algorithms",
           "greedy",
           "implementation",
-          "math"
+          "math",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1788/problem/B"
       },
@@ -426,6 +428,7 @@
         "name": "One and Two",
         "tags": [
           "brute force",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1788/problem/A"
