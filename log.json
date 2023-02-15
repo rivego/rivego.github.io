@@ -1,78 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1676396043,
+  "updateTime": 1676439223,
   "history": {
-    "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 193623458,
-            "pid": "1778D",
-            "name": "Flexible String Revisit",
-            "verdict": "OK",
-            "creationTime": 1676390709
-          },
-          {
-            "platform": "codeforces",
-            "id": 193618207,
-            "pid": "1778C",
-            "name": "Flexible String",
-            "verdict": "OK",
-            "creationTime": 1676388232
-          },
-          {
-            "platform": "codeforces",
-            "id": 193613969,
-            "pid": "1778B",
-            "name": "The Forbidden Permutation",
-            "verdict": "OK",
-            "creationTime": 1676386279
-          },
-          {
-            "platform": "codeforces",
-            "id": 193610506,
-            "pid": "1778A",
-            "name": "Flip Flop Sum",
-            "verdict": "OK",
-            "creationTime": 1676384671
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 193597428,
-            "pid": "1790C",
-            "name": "Premutation",
-            "verdict": "OK",
-            "creationTime": 1676378426
-          },
-          {
-            "platform": "codeforces",
-            "id": 193595741,
-            "pid": "1790B",
-            "name": "Taisia and Dice",
-            "verdict": "OK",
-            "creationTime": 1676377490
-          },
-          {
-            "platform": "codeforces",
-            "id": 193595270,
-            "pid": "1790A",
-            "name": "Polycarp and the Day of Pi",
-            "verdict": "OK",
-            "creationTime": 1676377211
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9477402c8ec530900d1a0c64059192ea655e98d1"
+  "ref": "cdeb200fb27d84080e8103b079fc794fdfa10305"
 }
