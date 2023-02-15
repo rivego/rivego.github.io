@@ -6,6 +6,235 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193717392,
+      "creationTime": 1676467129,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471016518
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778C",
+        "name": "Flexible String",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193717392"
+    },
+    {
+      "type": "codeforces",
+      "id": 193717299,
+      "creationTime": 1676467092,
+      "language": "Clang++20 Diagnostics",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471016555
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778C",
+        "name": "Flexible String",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193717299"
+    },
+    {
+      "type": "codeforces",
+      "id": 193717256,
+      "creationTime": 1676467069,
+      "language": "GNU C++20 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471016578
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778C",
+        "name": "Flexible String",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193717256"
+    },
+    {
+      "type": "codeforces",
+      "id": 193717149,
+      "creationTime": 1676467006,
+      "language": "GNU C++20 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471016641
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778C",
+        "name": "Flexible String",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193717149"
+    },
+    {
+      "type": "codeforces",
+      "id": 193713908,
+      "creationTime": 1676465279,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471018368
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778B",
+        "name": "The Forbidden Permutation",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193713908"
+    },
+    {
+      "type": "codeforces",
+      "id": 193713843,
+      "creationTime": 1676465239,
+      "language": "Clang++20 Diagnostics",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471018408
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778B",
+        "name": "The Forbidden Permutation",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193713843"
+    },
+    {
+      "type": "codeforces",
+      "id": 193713051,
+      "creationTime": 1676464794,
+      "language": "Clang++20 Diagnostics",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471018853
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778B",
+        "name": "The Forbidden Permutation",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193713051"
+    },
+    {
+      "type": "codeforces",
+      "id": 193712961,
+      "creationTime": 1676464744,
+      "language": "Clang++17 Diagnostics",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471018903
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778B",
+        "name": "The Forbidden Permutation",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193712961"
+    },
+    {
+      "type": "codeforces",
+      "id": 193710012,
+      "creationTime": 1676462962,
+      "language": "Clang++17 Diagnostics",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -471020685
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1778A",
+        "name": "Flip Flop Sum",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1778/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1778/submission/193710012"
+    },
+    {
+      "type": "codeforces",
       "id": 193342946,
       "creationTime": 1676204474,
       "language": "Clang++20 Diagnostics",
