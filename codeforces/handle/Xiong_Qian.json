@@ -6,6 +6,81 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193885349,
+      "creationTime": 1676562350,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795C",
+        "name": "Tea Tasting",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193885349"
+    },
+    {
+      "type": "codeforces",
+      "id": 193858486,
+      "creationTime": 1676559653,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795B",
+        "name": "Ideal Point",
+        "tags": [
+          "geometry",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193858486"
+    },
+    {
+      "type": "codeforces",
+      "id": 193851909,
+      "creationTime": 1676559176,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795A",
+        "name": "Two Towers",
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193851909"
+    },
+    {
+      "type": "codeforces",
       "id": 193717392,
       "creationTime": 1676467129,
       "language": "GNU C++17",
@@ -21,6 +96,7 @@
         "type": "codeforces",
         "id": "1778C",
         "name": "Flexible String",
+        "rating": 1600,
         "tags": [
           "bitmasks",
           "brute force",
@@ -47,6 +123,7 @@
         "type": "codeforces",
         "id": "1778C",
         "name": "Flexible String",
+        "rating": 1600,
         "tags": [
           "bitmasks",
           "brute force",
@@ -73,6 +150,7 @@
         "type": "codeforces",
         "id": "1778C",
         "name": "Flexible String",
+        "rating": 1600,
         "tags": [
           "bitmasks",
           "brute force",
@@ -99,6 +177,7 @@
         "type": "codeforces",
         "id": "1778C",
         "name": "Flexible String",
+        "rating": 1600,
         "tags": [
           "bitmasks",
           "brute force",
@@ -125,6 +204,7 @@
         "type": "codeforces",
         "id": "1778B",
         "name": "The Forbidden Permutation",
+        "rating": 1300,
         "tags": [
           "greedy",
           "math"
@@ -150,6 +230,7 @@
         "type": "codeforces",
         "id": "1778B",
         "name": "The Forbidden Permutation",
+        "rating": 1300,
         "tags": [
           "greedy",
           "math"
@@ -175,6 +256,7 @@
         "type": "codeforces",
         "id": "1778B",
         "name": "The Forbidden Permutation",
+        "rating": 1300,
         "tags": [
           "greedy",
           "math"
@@ -200,6 +282,7 @@
         "type": "codeforces",
         "id": "1778B",
         "name": "The Forbidden Permutation",
+        "rating": 1300,
         "tags": [
           "greedy",
           "math"
@@ -225,6 +308,7 @@
         "type": "codeforces",
         "id": "1778A",
         "name": "Flip Flop Sum",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -250,6 +334,7 @@
         "type": "codeforces",
         "id": "1786C",
         "name": "Monsters (easy version)",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -275,6 +360,7 @@
         "type": "codeforces",
         "id": "1786C",
         "name": "Monsters (easy version)",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -300,6 +386,7 @@
         "type": "codeforces",
         "id": "1786C",
         "name": "Monsters (easy version)",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -325,6 +412,7 @@
         "type": "codeforces",
         "id": "1786C",
         "name": "Monsters (easy version)",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -350,6 +438,7 @@
         "type": "codeforces",
         "id": "1786C",
         "name": "Monsters (easy version)",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -375,6 +464,7 @@
         "type": "codeforces",
         "id": "1786C",
         "name": "Monsters (easy version)",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -400,6 +490,7 @@
         "type": "codeforces",
         "id": "1786C",
         "name": "Monsters (easy version)",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -425,6 +516,7 @@
         "type": "codeforces",
         "id": "1786C",
         "name": "Monsters (easy version)",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -450,6 +542,7 @@
         "type": "codeforces",
         "id": "1786C",
         "name": "Monsters (easy version)",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -475,6 +568,7 @@
         "type": "codeforces",
         "id": "1786C",
         "name": "Monsters (easy version)",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -500,6 +594,7 @@
         "type": "codeforces",
         "id": "1786B",
         "name": "Cake Assembly Line",
+        "rating": 1300,
         "tags": [
           "brute force",
           "sortings"
@@ -525,6 +620,7 @@
         "type": "codeforces",
         "id": "1786A2",
         "name": "Alternating Deck (hard version)",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -549,6 +645,7 @@
         "type": "codeforces",
         "id": "1786A1",
         "name": "Non-alternating Deck (easy version)",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -573,6 +670,7 @@
         "type": "codeforces",
         "id": "1788C",
         "name": "Matching Numbers",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -599,6 +697,7 @@
         "type": "codeforces",
         "id": "1788B",
         "name": "Sum of Two Numbers",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -627,6 +726,7 @@
         "type": "codeforces",
         "id": "1788B",
         "name": "Sum of Two Numbers",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -655,6 +755,7 @@
         "type": "codeforces",
         "id": "1788A",
         "name": "One and Two",
+        "rating": 800,
         "tags": [
           "brute force",
           "implementation",

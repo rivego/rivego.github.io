@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1780A",
         "name": "Hayato and School",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1780B",
         "name": "GCD Partition",
+        "rating": 1100,
         "tags": [
           "brute force",
           "greedy",
@@ -154,6 +156,7 @@
         "type": "codeforces",
         "id": "1793D",
         "name": "Moscow Gorillas",
+        "rating": 1800,
         "tags": [
           "binary search",
           "dp",
@@ -183,6 +186,7 @@
         "type": "codeforces",
         "id": "1793C",
         "name": "Dora and Search",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -209,6 +213,7 @@
         "type": "codeforces",
         "id": "1793B",
         "name": "Fedya and Array",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "math"
@@ -234,6 +239,7 @@
         "type": "codeforces",
         "id": "1793B",
         "name": "Fedya and Array",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "math"
@@ -259,6 +265,7 @@
         "type": "codeforces",
         "id": "1793A",
         "name": "Yet Another Promotion",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
@@ -284,6 +291,7 @@
         "type": "codeforces",
         "id": "1778C",
         "name": "Flexible String",
+        "rating": 1600,
         "tags": [
           "bitmasks",
           "brute force",
@@ -310,6 +318,7 @@
         "type": "codeforces",
         "id": "1778B",
         "name": "The Forbidden Permutation",
+        "rating": 1300,
         "tags": [
           "greedy",
           "math"
@@ -335,6 +344,7 @@
         "type": "codeforces",
         "id": "1778B",
         "name": "The Forbidden Permutation",
+        "rating": 1300,
         "tags": [
           "greedy",
           "math"
@@ -360,6 +370,7 @@
         "type": "codeforces",
         "id": "1778A",
         "name": "Flip Flop Sum",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -385,6 +396,7 @@
         "type": "codeforces",
         "id": "1788C",
         "name": "Matching Numbers",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -411,6 +423,7 @@
         "type": "codeforces",
         "id": "1788B",
         "name": "Sum of Two Numbers",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -439,6 +452,7 @@
         "type": "codeforces",
         "id": "1788B",
         "name": "Sum of Two Numbers",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -467,6 +481,7 @@
         "type": "codeforces",
         "id": "1788A",
         "name": "One and Two",
+        "rating": 800,
         "tags": [
           "brute force",
           "implementation",
@@ -493,6 +508,7 @@
         "type": "codeforces",
         "id": "1786A2",
         "name": "Alternating Deck (hard version)",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -517,6 +533,7 @@
         "type": "codeforces",
         "id": "1786A1",
         "name": "Non-alternating Deck (easy version)",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
