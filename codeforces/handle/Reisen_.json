@@ -6,6 +6,58 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193783915,
+      "creationTime": 1676518469,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -470965178
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1780A",
+        "name": "Hayato and School",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1780/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1780/submission/193783915"
+    },
+    {
+      "type": "codeforces",
+      "id": 193783622,
+      "creationTime": 1676518022,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -470965625
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1780B",
+        "name": "GCD Partition",
+        "tags": [
+          "brute force",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1780/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1780/submission/193783622"
+    },
+    {
+      "type": "codeforces",
       "id": 193597428,
       "creationTime": 1676378426,
       "language": "GNU C++14",

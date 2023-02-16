@@ -1,184 +1,26 @@
 {
   "version": "0.1.29",
-  "updateTime": 1676482465,
+  "updateTime": 1676525596,
   "history": {
     "user": [
       {
-        "name": "Xiong_Qian",
+        "name": "Reisen_",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 193717392,
-            "pid": "1778C",
-            "name": "Flexible String",
+            "id": 193783915,
+            "pid": "1780A",
+            "name": "Hayato and School",
             "verdict": "OK",
-            "creationTime": 1676467129
+            "creationTime": 1676518469
           },
           {
             "platform": "codeforces",
-            "id": 193717299,
-            "pid": "1778C",
-            "name": "Flexible String",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1676467092
-          },
-          {
-            "platform": "codeforces",
-            "id": 193717256,
-            "pid": "1778C",
-            "name": "Flexible String",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1676467069
-          },
-          {
-            "platform": "codeforces",
-            "id": 193717149,
-            "pid": "1778C",
-            "name": "Flexible String",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1676467006
-          },
-          {
-            "platform": "codeforces",
-            "id": 193713908,
-            "pid": "1778B",
-            "name": "The Forbidden Permutation",
+            "id": 193783622,
+            "pid": "1780B",
+            "name": "GCD Partition",
             "verdict": "OK",
-            "creationTime": 1676465279
-          },
-          {
-            "platform": "codeforces",
-            "id": 193713843,
-            "pid": "1778B",
-            "name": "The Forbidden Permutation",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1676465239
-          },
-          {
-            "platform": "codeforces",
-            "id": 193713051,
-            "pid": "1778B",
-            "name": "The Forbidden Permutation",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676464794
-          },
-          {
-            "platform": "codeforces",
-            "id": 193712961,
-            "pid": "1778B",
-            "name": "The Forbidden Permutation",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1676464744
-          },
-          {
-            "platform": "codeforces",
-            "id": 193710012,
-            "pid": "1778A",
-            "name": "Flip Flop Sum",
-            "verdict": "OK",
-            "creationTime": 1676462962
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 193719913,
-            "pid": "1773J",
-            "name": "Jumbled Trees",
-            "verdict": "OK",
-            "creationTime": 1676468497
-          },
-          {
-            "platform": "codeforces",
-            "id": 193719646,
-            "pid": "1773J",
-            "name": "Jumbled Trees",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676468334
-          },
-          {
-            "platform": "codeforces",
-            "id": 193719161,
-            "pid": "1773J",
-            "name": "Jumbled Trees",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676468064
-          },
-          {
-            "platform": "codeforces",
-            "id": 193719075,
-            "pid": "1773J",
-            "name": "Jumbled Trees",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676468015
-          },
-          {
-            "platform": "codeforces",
-            "id": 193718803,
-            "pid": "1773J",
-            "name": "Jumbled Trees",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676467870
-          },
-          {
-            "platform": "codeforces",
-            "id": 193718653,
-            "pid": "1773J",
-            "name": "Jumbled Trees",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676467800
-          },
-          {
-            "platform": "codeforces",
-            "id": 193699833,
-            "pid": "1774H",
-            "name": "Maximum Permutation",
-            "verdict": "OK",
-            "creationTime": 1676456408
-          },
-          {
-            "platform": "codeforces",
-            "id": 193696198,
-            "pid": "1774G",
-            "name": "Segment Covering",
-            "verdict": "OK",
-            "creationTime": 1676453853
-          },
-          {
-            "platform": "codeforces",
-            "id": 193693342,
-            "pid": "1774F1",
-            "name": "Magician and Pigs (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1676451794
-          },
-          {
-            "platform": "codeforces",
-            "id": 193693318,
-            "pid": "1774F2",
-            "name": "Magician and Pigs (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1676451779
-          },
-          {
-            "platform": "codeforces",
-            "id": 193687899,
-            "pid": "1774E",
-            "name": "Two Chess Pieces",
-            "verdict": "OK",
-            "creationTime": 1676447700
-          },
-          {
-            "platform": "codeforces",
-            "id": 193686849,
-            "pid": "1774D",
-            "name": "Same Count One",
-            "verdict": "OK",
-            "creationTime": 1676446819
+            "creationTime": 1676518022
           }
         ],
         "newContests": []
@@ -186,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "fce83d077161e3eb44e6c5da81d6443c1cda9f4d"
+  "ref": "e00c7f1e2fcbe7e6420a673e48f1eedda2eb4b0a"
 }
