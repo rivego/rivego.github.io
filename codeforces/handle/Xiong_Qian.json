@@ -23,7 +23,8 @@
         "name": "Tea Tasting",
         "tags": [
           "binary search",
-          "data structures"
+          "data structures",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/C"
       },
@@ -73,7 +74,8 @@
         "name": "Two Towers",
         "tags": [
           "brute force",
-          "implementation"
+          "implementation",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/A"
       },
