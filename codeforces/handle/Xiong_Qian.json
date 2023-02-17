@@ -48,6 +48,7 @@
         "id": "1795B",
         "name": "Ideal Point",
         "tags": [
+          "brute force",
           "geometry",
           "greedy"
         ],
@@ -22200,7 +22201,7 @@
   ],
   "codeforces": {
     "rank": "specialist",
-    "rating": 1450,
+    "rating": 1469,
     "maxRank": "specialist",
     "maxRating": 1492
   }
