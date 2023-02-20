@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1676871225,
+  "updateTime": 1676914393,
   "history": {
     "user": [
       {
@@ -8,115 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 194304280,
-            "pid": "104197N",
-            "name": "No Zero-Sum Subsegment",
+            "id": 194322234,
+            "pid": "104196B",
+            "name": "Abridged Reading",
             "verdict": "OK",
-            "creationTime": 1676861631
+            "creationTime": 1676882420
           },
           {
             "platform": "codeforces",
-            "id": 194304273,
-            "pid": "104197M",
-            "name": "Most Annoying Constructive Problem",
+            "id": 194321413,
+            "pid": "104196A",
+            "name": "1s For All",
             "verdict": "OK",
-            "creationTime": 1676861623
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304269,
-            "pid": "104197L",
-            "name": "Least Annoying Constructive Problem",
-            "verdict": "OK",
-            "creationTime": 1676861615
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304255,
-            "pid": "104197K",
-            "name": "King of Swapping",
-            "verdict": "OK",
-            "creationTime": 1676861595
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304246,
-            "pid": "104197J",
-            "name": "Jewel of Data Structure Problems",
-            "verdict": "OK",
-            "creationTime": 1676861583
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304236,
-            "pid": "104197I",
-            "name": "Increasing Grid",
-            "verdict": "OK",
-            "creationTime": 1676861574
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304227,
-            "pid": "104197H",
-            "name": "Help Me to Get This Published",
-            "verdict": "OK",
-            "creationTime": 1676861557
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304218,
-            "pid": "104197G",
-            "name": "Graph Problem With Small $n$",
-            "verdict": "OK",
-            "creationTime": 1676861549
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304210,
-            "pid": "104197F",
-            "name": "F*** 3-Colorable Graphs",
-            "verdict": "OK",
-            "creationTime": 1676861534
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304202,
-            "pid": "104197E",
-            "name": "Excellent XOR Problem",
-            "verdict": "OK",
-            "creationTime": 1676861524
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304182,
-            "pid": "104197D",
-            "name": "Distance Parities",
-            "verdict": "OK",
-            "creationTime": 1676861504
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304171,
-            "pid": "104197C",
-            "name": "Count Hamiltonian Cycles",
-            "verdict": "OK",
-            "creationTime": 1676861485
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304163,
-            "pid": "104197B",
-            "name": "Binary Arrays and Sliding Sums",
-            "verdict": "OK",
-            "creationTime": 1676861472
-          },
-          {
-            "platform": "codeforces",
-            "id": 194304153,
-            "pid": "104197A",
-            "name": "Adjacent Product Sum",
-            "verdict": "OK",
-            "creationTime": 1676861461
+            "creationTime": 1676881771
           }
         ],
         "newContests": []
@@ -124,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "be23aca5c538ed9d5bc9ba0f3c5607c13f0a5ced"
+  "ref": "c2cf863b2b6b996dffe4e9ed1e142b435d0ecd07"
 }

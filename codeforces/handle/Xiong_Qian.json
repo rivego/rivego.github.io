@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1795C",
         "name": "Tea Tasting",
+        "rating": 1500,
         "tags": [
           "binary search",
           "data structures",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1795B",
         "name": "Ideal Point",
+        "rating": 900,
         "tags": [
           "brute force",
           "geometry",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "1795A",
         "name": "Two Towers",
+        "rating": 800,
         "tags": [
           "brute force",
           "implementation",
