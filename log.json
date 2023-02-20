@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1676827996,
+  "updateTime": 1676871225,
   "history": {
     "user": [
       {
@@ -8,219 +8,115 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 194254005,
-            "pid": "1776E",
-            "name": "Crossing the Railways",
+            "id": 194304280,
+            "pid": "104197N",
+            "name": "No Zero-Sum Subsegment",
             "verdict": "OK",
-            "creationTime": 1676822672
+            "creationTime": 1676861631
           },
           {
             "platform": "codeforces",
-            "id": 194251587,
-            "pid": "1776E",
-            "name": "Crossing the Railways",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676821655
-          },
-          {
-            "platform": "codeforces",
-            "id": 194250560,
-            "pid": "1776E",
-            "name": "Crossing the Railways",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676821162
-          },
-          {
-            "platform": "codeforces",
-            "id": 194243343,
-            "pid": "1776K",
-            "name": "Uniform Chemistry",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676817639
-          },
-          {
-            "platform": "codeforces",
-            "id": 194243286,
-            "pid": "1776K",
-            "name": "Uniform Chemistry",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676817616
-          },
-          {
-            "platform": "codeforces",
-            "id": 194236279,
-            "pid": "1776M",
-            "name": "Parmigiana With Seafood",
+            "id": 194304273,
+            "pid": "104197M",
+            "name": "Most Annoying Constructive Problem",
             "verdict": "OK",
-            "creationTime": 1676814294
+            "creationTime": 1676861623
           },
           {
             "platform": "codeforces",
-            "id": 194235987,
-            "pid": "1776M",
-            "name": "Parmigiana With Seafood",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676814170
-          },
-          {
-            "platform": "codeforces",
-            "id": 194232857,
-            "pid": "1776D",
-            "name": "Teamwork",
+            "id": 194304269,
+            "pid": "104197L",
+            "name": "Least Annoying Constructive Problem",
             "verdict": "OK",
-            "creationTime": 1676812671
+            "creationTime": 1676861615
           },
           {
             "platform": "codeforces",
-            "id": 194232015,
-            "pid": "1776D",
-            "name": "Teamwork",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676812293
-          },
-          {
-            "platform": "codeforces",
-            "id": 194230715,
-            "pid": "1776D",
-            "name": "Teamwork",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676811716
-          },
-          {
-            "platform": "codeforces",
-            "id": 194229948,
-            "pid": "1776I",
-            "name": "Spinach Pizza",
+            "id": 194304255,
+            "pid": "104197K",
+            "name": "King of Swapping",
             "verdict": "OK",
-            "creationTime": 1676811380
+            "creationTime": 1676861595
           },
           {
             "platform": "codeforces",
-            "id": 194228461,
-            "pid": "1776J",
-            "name": "Italian Data Centers",
+            "id": 194304246,
+            "pid": "104197J",
+            "name": "Jewel of Data Structure Problems",
             "verdict": "OK",
-            "creationTime": 1676810719
+            "creationTime": 1676861583
           },
           {
             "platform": "codeforces",
-            "id": 194226551,
-            "pid": "1776C",
-            "name": "Library game",
+            "id": 194304236,
+            "pid": "104197I",
+            "name": "Increasing Grid",
             "verdict": "OK",
-            "creationTime": 1676809919
+            "creationTime": 1676861574
           },
           {
             "platform": "codeforces",
-            "id": 194226461,
-            "pid": "1776C",
-            "name": "Library game",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1676809876
-          },
-          {
-            "platform": "codeforces",
-            "id": 194226370,
-            "pid": "1776C",
-            "name": "Library game",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676809833
-          },
-          {
-            "platform": "codeforces",
-            "id": 194226176,
-            "pid": "1776C",
-            "name": "Library game",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1676809744
-          },
-          {
-            "platform": "codeforces",
-            "id": 194221929,
-            "pid": "1776D",
-            "name": "Teamwork",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676807947
-          },
-          {
-            "platform": "codeforces",
-            "id": 194221453,
-            "pid": "1776D",
-            "name": "Teamwork",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676807777
-          },
-          {
-            "platform": "codeforces",
-            "id": 194221180,
-            "pid": "1776D",
-            "name": "Teamwork",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676807676
-          },
-          {
-            "platform": "codeforces",
-            "id": 194218069,
-            "pid": "1776G",
-            "name": "Another Wine Tasting Event",
+            "id": 194304227,
+            "pid": "104197H",
+            "name": "Help Me to Get This Published",
             "verdict": "OK",
-            "creationTime": 1676806581
+            "creationTime": 1676861557
           },
           {
             "platform": "codeforces",
-            "id": 194217848,
-            "pid": "1776G",
-            "name": "Another Wine Tasting Event",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676806512
-          },
-          {
-            "platform": "codeforces",
-            "id": 194217019,
-            "pid": "1776F",
-            "name": "Train Splitting",
+            "id": 194304218,
+            "pid": "104197G",
+            "name": "Graph Problem With Small $n$",
             "verdict": "OK",
-            "creationTime": 1676806229
+            "creationTime": 1676861549
           },
           {
             "platform": "codeforces",
-            "id": 194215915,
-            "pid": "1776L",
-            "name": "Controllers",
+            "id": 194304210,
+            "pid": "104197F",
+            "name": "F*** 3-Colorable Graphs",
             "verdict": "OK",
-            "creationTime": 1676805870
+            "creationTime": 1676861534
           },
           {
             "platform": "codeforces",
-            "id": 194215825,
-            "pid": "1776K",
-            "name": "Uniform Chemistry",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1676805842
-          },
-          {
-            "platform": "codeforces",
-            "id": 194215037,
-            "pid": "1776H",
-            "name": "Beppa and SwerChat",
+            "id": 194304202,
+            "pid": "104197E",
+            "name": "Excellent XOR Problem",
             "verdict": "OK",
-            "creationTime": 1676805590
+            "creationTime": 1676861524
           },
           {
             "platform": "codeforces",
-            "id": 194214516,
-            "pid": "1776B",
-            "name": "Vittorio Plays with LEGO Bricks",
+            "id": 194304182,
+            "pid": "104197D",
+            "name": "Distance Parities",
             "verdict": "OK",
-            "creationTime": 1676805418
+            "creationTime": 1676861504
           },
           {
             "platform": "codeforces",
-            "id": 194212838,
-            "pid": "1776A",
-            "name": "Walking Boy",
+            "id": 194304171,
+            "pid": "104197C",
+            "name": "Count Hamiltonian Cycles",
             "verdict": "OK",
-            "creationTime": 1676804822
+            "creationTime": 1676861485
+          },
+          {
+            "platform": "codeforces",
+            "id": 194304163,
+            "pid": "104197B",
+            "name": "Binary Arrays and Sliding Sums",
+            "verdict": "OK",
+            "creationTime": 1676861472
+          },
+          {
+            "platform": "codeforces",
+            "id": 194304153,
+            "pid": "104197A",
+            "name": "Adjacent Product Sum",
+            "verdict": "OK",
+            "creationTime": 1676861461
           }
         ],
         "newContests": []
@@ -228,5 +124,5 @@
     ],
     "contest": []
   },
-  "ref": "839edb35d432b224ea29a1d9f4ca37b4ceb9ec15"
+  "ref": "be23aca5c538ed9d5bc9ba0f3c5607c13f0a5ced"
 }
