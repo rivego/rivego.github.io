@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1676914393,
+  "updateTime": 1676957620,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 194322234,
-            "pid": "104196B",
-            "name": "Abridged Reading",
-            "verdict": "OK",
-            "creationTime": 1676882420
-          },
-          {
-            "platform": "codeforces",
-            "id": 194321413,
-            "pid": "104196A",
-            "name": "1s For All",
-            "verdict": "OK",
-            "creationTime": 1676881771
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "c2cf863b2b6b996dffe4e9ed1e142b435d0ecd07"
+  "ref": "f120fb43d47d5b4e92d8de6a25853f52c5b57834"
 }
