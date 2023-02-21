@@ -6,6 +6,235 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 194464700,
+      "creationTime": 1676988647,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -470495000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1780F",
+        "name": "Three Chairs",
+        "rating": 2300,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "combinatorics",
+          "data structures",
+          "dp",
+          "number theory",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1780/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1780/submission/194464700"
+    },
+    {
+      "type": "codeforces",
+      "id": 194463483,
+      "creationTime": 1676988109,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -470495538
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1780F",
+        "name": "Three Chairs",
+        "rating": 2300,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "combinatorics",
+          "data structures",
+          "dp",
+          "number theory",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1780/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1780/submission/194463483"
+    },
+    {
+      "type": "codeforces",
+      "id": 194456337,
+      "creationTime": 1676984711,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1676977800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1780E",
+        "name": "Josuke and Complete Graph",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1780/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1780/submission/194456337"
+    },
+    {
+      "type": "codeforces",
+      "id": 194453190,
+      "creationTime": 1676983080,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1676977800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1780D",
+        "name": "Bit Guessing Game",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1780/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1780/submission/194453190"
+    },
+    {
+      "type": "codeforces",
+      "id": 194451908,
+      "creationTime": 1676982389,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1676977800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1780D",
+        "name": "Bit Guessing Game",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1780/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1780/submission/194451908"
+    },
+    {
+      "type": "codeforces",
+      "id": 194447311,
+      "creationTime": 1676979575,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1676977800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1780D",
+        "name": "Bit Guessing Game",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1780/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1780/submission/194447311"
+    },
+    {
+      "type": "codeforces",
+      "id": 194445492,
+      "creationTime": 1676978445,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1676977800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1780B",
+        "name": "GCD Partition",
+        "rating": 1100,
+        "tags": [
+          "brute force",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1780/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1780/submission/194445492"
+    },
+    {
+      "type": "codeforces",
+      "id": 194444932,
+      "creationTime": 1676978094,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1676977800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1780A",
+        "name": "Hayato and School",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1780/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1780/submission/194444932"
+    },
+    {
+      "type": "codeforces",
       "id": 193903890,
       "creationTime": 1676565097,
       "language": "GNU C++17 (64)",
