@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1677043979,
+  "updateTime": 1677087265,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Xiong_Qian",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 194583153,
+            "pid": "1793A",
+            "name": "Yet Another Promotion",
+            "verdict": "OK",
+            "creationTime": 1677078754
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "754c267f18aa9a39d47d85caaffa6b6ae5527d38"
+  "ref": "386912304b253fc034bb791e5c1d9227daad6101"
 }

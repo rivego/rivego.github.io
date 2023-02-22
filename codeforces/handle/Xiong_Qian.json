@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 194583153,
+      "creationTime": 1677078754,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -470404893
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1793A",
+        "name": "Yet Another Promotion",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1793/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1793/submission/194583153"
+    },
+    {
+      "type": "codeforces",
       "id": 193885349,
       "creationTime": 1676562350,
       "language": "GNU C++17",
