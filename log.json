@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1677000814,
+  "updateTime": 1677043979,
   "history": {
-    "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 194464700,
-            "pid": "1780F",
-            "name": "Three Chairs",
-            "verdict": "OK",
-            "creationTime": 1676988647
-          },
-          {
-            "platform": "codeforces",
-            "id": 194463483,
-            "pid": "1780F",
-            "name": "Three Chairs",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1676988109
-          },
-          {
-            "platform": "codeforces",
-            "id": 194456337,
-            "pid": "1780E",
-            "name": "Josuke and Complete Graph",
-            "verdict": "OK",
-            "creationTime": 1676984711
-          },
-          {
-            "platform": "codeforces",
-            "id": 194453190,
-            "pid": "1780D",
-            "name": "Bit Guessing Game",
-            "verdict": "OK",
-            "creationTime": 1676983080
-          },
-          {
-            "platform": "codeforces",
-            "id": 194451908,
-            "pid": "1780D",
-            "name": "Bit Guessing Game",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1676982389
-          },
-          {
-            "platform": "codeforces",
-            "id": 194447311,
-            "pid": "1780D",
-            "name": "Bit Guessing Game",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1676979575
-          },
-          {
-            "platform": "codeforces",
-            "id": 194445492,
-            "pid": "1780B",
-            "name": "GCD Partition",
-            "verdict": "OK",
-            "creationTime": 1676978445
-          },
-          {
-            "platform": "codeforces",
-            "id": 194444932,
-            "pid": "1780A",
-            "name": "Hayato and School",
-            "verdict": "OK",
-            "creationTime": 1676978094
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "41da187c29b9b29afc9642b28ec284a42c4336cd"
+  "ref": "754c267f18aa9a39d47d85caaffa6b6ae5527d38"
 }
