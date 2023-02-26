@@ -6,6 +6,57 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 195030766,
+      "creationTime": 1677400866,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1677400200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1789B",
+        "name": "Serval and Inversion Magic",
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1789/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1789/submission/195030766"
+    },
+    {
+      "type": "codeforces",
+      "id": 195030278,
+      "creationTime": 1677400511,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1677400200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1789A",
+        "name": "Serval and Mocha's Array",
+        "tags": [
+          "brute force",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1789/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1789/submission/195030278"
+    },
+    {
+      "type": "codeforces",
       "id": 194464700,
       "creationTime": 1676988647,
       "language": "GNU C++17 (64)",

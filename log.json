@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1677389596,
+  "updateTime": 1677432779,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 195030766,
+            "pid": "1789B",
+            "name": "Serval and Inversion Magic",
+            "verdict": "OK",
+            "creationTime": 1677400866
+          },
+          {
+            "platform": "codeforces",
+            "id": 195030278,
+            "pid": "1789A",
+            "name": "Serval and Mocha's Array",
+            "verdict": "OK",
+            "creationTime": 1677400511
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "ceb519bead97025ca1371504a13cf5920b31884c"
+  "ref": "ddbd8bb2a88c011da9becc6a933e81706c201d51"
 }
