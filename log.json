@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1677476007,
+  "updateTime": 1677519317,
   "history": {
     "user": [
       {
@@ -8,59 +8,99 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 195091089,
-            "pid": "1789E",
-            "name": "Serval and Music Game",
+            "id": 195172140,
+            "pid": "1799H",
+            "name": "Tree Cutting",
             "verdict": "OK",
-            "creationTime": 1677474378
+            "creationTime": 1677514697
           },
           {
             "platform": "codeforces",
-            "id": 195090513,
-            "pid": "1789D",
-            "name": "Serval and Shift-Shift-Shift",
+            "id": 195165805,
+            "pid": "1799G",
+            "name": "Count Voting",
             "verdict": "OK",
-            "creationTime": 1677473752
+            "creationTime": 1677513308
           },
           {
             "platform": "codeforces",
-            "id": 195090478,
-            "pid": "1789D",
-            "name": "Serval and Shift-Shift-Shift",
+            "id": 195162556,
+            "pid": "1799F",
+            "name": "Halve or Subtract",
+            "verdict": "OK",
+            "creationTime": 1677512655
+          },
+          {
+            "platform": "codeforces",
+            "id": 195155464,
+            "pid": "1799E",
+            "name": "City Union",
+            "verdict": "OK",
+            "creationTime": 1677511331
+          },
+          {
+            "platform": "codeforces",
+            "id": 195149687,
+            "pid": "1799D2",
+            "name": "Hot Start Up (hard version)",
+            "verdict": "OK",
+            "creationTime": 1677510342
+          },
+          {
+            "platform": "codeforces",
+            "id": 195149644,
+            "pid": "1799D1",
+            "name": "Hot Start Up (easy version)",
+            "verdict": "OK",
+            "creationTime": 1677510335
+          },
+          {
+            "platform": "codeforces",
+            "id": 195146230,
+            "pid": "1799C",
+            "name": "Double Lexicographically Minimum",
+            "verdict": "OK",
+            "creationTime": 1677509785
+          },
+          {
+            "platform": "codeforces",
+            "id": 195140902,
+            "pid": "1799B",
+            "name": "Equalize by Divide",
+            "verdict": "OK",
+            "creationTime": 1677508988
+          },
+          {
+            "platform": "codeforces",
+            "id": 195139293,
+            "pid": "1799A",
+            "name": "Recent Actions",
+            "verdict": "OK",
+            "creationTime": 1677508645
+          },
+          {
+            "platform": "codeforces",
+            "id": 195092956,
+            "pid": "1789F",
+            "name": "Serval and Brain Power",
+            "verdict": "OK",
+            "creationTime": 1677476565
+          },
+          {
+            "platform": "codeforces",
+            "id": 195092878,
+            "pid": "1789F",
+            "name": "Serval and Brain Power",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1677473728
+            "creationTime": 1677476482
           },
           {
             "platform": "codeforces",
-            "id": 195089990,
-            "pid": "1789D",
-            "name": "Serval and Shift-Shift-Shift",
+            "id": 195092763,
+            "pid": "1789F",
+            "name": "Serval and Brain Power",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1677473226
-          },
-          {
-            "platform": "codeforces",
-            "id": 195088983,
-            "pid": "1789C",
-            "name": "Serval and Toxel's Arrays",
-            "verdict": "OK",
-            "creationTime": 1677472103
-          },
-          {
-            "platform": "codeforces",
-            "id": 195088753,
-            "pid": "1789B",
-            "name": "Serval and Inversion Magic",
-            "verdict": "OK",
-            "creationTime": 1677471832
-          },
-          {
-            "platform": "codeforces",
-            "id": 195088633,
-            "pid": "1789A",
-            "name": "Serval and Mocha's Array",
-            "verdict": "OK",
-            "creationTime": 1677471646
+            "creationTime": 1677476343
           }
         ],
         "newContests": []
@@ -68,5 +108,5 @@
     ],
     "contest": []
   },
-  "ref": "7315c9be4ae1cbae7e85f0f5c45a0f26a01be6c8"
+  "ref": "1887b2e6307eb52d53bf02f2e4817c9de2ebffa2"
 }
