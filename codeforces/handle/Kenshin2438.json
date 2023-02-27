@@ -23,7 +23,8 @@
         "name": "Serval and Inversion Magic",
         "tags": [
           "implementation",
-          "strings"
+          "strings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1789/problem/B"
       },

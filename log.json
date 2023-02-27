@@ -1,26 +1,66 @@
 {
   "version": "0.1.29",
-  "updateTime": 1677432779,
+  "updateTime": 1677476007,
   "history": {
     "user": [
       {
-        "name": "Kenshin2438",
+        "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 195030766,
-            "pid": "1789B",
-            "name": "Serval and Inversion Magic",
+            "id": 195091089,
+            "pid": "1789E",
+            "name": "Serval and Music Game",
             "verdict": "OK",
-            "creationTime": 1677400866
+            "creationTime": 1677474378
           },
           {
             "platform": "codeforces",
-            "id": 195030278,
+            "id": 195090513,
+            "pid": "1789D",
+            "name": "Serval and Shift-Shift-Shift",
+            "verdict": "OK",
+            "creationTime": 1677473752
+          },
+          {
+            "platform": "codeforces",
+            "id": 195090478,
+            "pid": "1789D",
+            "name": "Serval and Shift-Shift-Shift",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1677473728
+          },
+          {
+            "platform": "codeforces",
+            "id": 195089990,
+            "pid": "1789D",
+            "name": "Serval and Shift-Shift-Shift",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1677473226
+          },
+          {
+            "platform": "codeforces",
+            "id": 195088983,
+            "pid": "1789C",
+            "name": "Serval and Toxel's Arrays",
+            "verdict": "OK",
+            "creationTime": 1677472103
+          },
+          {
+            "platform": "codeforces",
+            "id": 195088753,
+            "pid": "1789B",
+            "name": "Serval and Inversion Magic",
+            "verdict": "OK",
+            "creationTime": 1677471832
+          },
+          {
+            "platform": "codeforces",
+            "id": 195088633,
             "pid": "1789A",
             "name": "Serval and Mocha's Array",
             "verdict": "OK",
-            "creationTime": 1677400511
+            "creationTime": 1677471646
           }
         ],
         "newContests": []
@@ -28,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "ddbd8bb2a88c011da9becc6a933e81706c201d51"
+  "ref": "7315c9be4ae1cbae7e85f0f5c45a0f26a01be6c8"
 }
