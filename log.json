@@ -1,9 +1,88 @@
 {
   "version": "0.1.29",
-  "updateTime": 1677648886,
+  "updateTime": 1677692161,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 195450636,
+            "pid": "1796F",
+            "name": "Strange Triples",
+            "verdict": "OK",
+            "creationTime": 1677675108
+          },
+          {
+            "platform": "codeforces",
+            "id": 195448209,
+            "pid": "1796F",
+            "name": "Strange Triples",
+            "verdict": "OK",
+            "creationTime": 1677673941
+          },
+          {
+            "platform": "codeforces",
+            "id": 195439648,
+            "pid": "1796E",
+            "name": "Colored Subgraphs",
+            "verdict": "OK",
+            "creationTime": 1677669692
+          },
+          {
+            "platform": "codeforces",
+            "id": 195436464,
+            "pid": "1796D",
+            "name": "Maximum Subarray",
+            "verdict": "OK",
+            "creationTime": 1677667999
+          },
+          {
+            "platform": "codeforces",
+            "id": 195435737,
+            "pid": "1796C",
+            "name": "Maximum Set",
+            "verdict": "OK",
+            "creationTime": 1677667574
+          },
+          {
+            "platform": "codeforces",
+            "id": 195435422,
+            "pid": "1796B",
+            "name": "Asterisk-Minor Template",
+            "verdict": "OK",
+            "creationTime": 1677667386
+          },
+          {
+            "platform": "codeforces",
+            "id": 195434918,
+            "pid": "1796A",
+            "name": "Typical Interview Problem",
+            "verdict": "OK",
+            "creationTime": 1677667084
+          },
+          {
+            "platform": "codeforces",
+            "id": 195434808,
+            "pid": "1796A",
+            "name": "Typical Interview Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1677667010
+          },
+          {
+            "platform": "codeforces",
+            "id": 195434552,
+            "pid": "1796A",
+            "name": "Typical Interview Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1677666849
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "dc36505a3763633cbacf99c021c5b06e092a577d"
+  "ref": "48ae40825bb7dfd3d3955cd8f3c02df7befb9e8e"
 }
