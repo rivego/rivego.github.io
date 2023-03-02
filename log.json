@@ -1,9 +1,104 @@
 {
   "version": "0.1.29",
-  "updateTime": 1677735260,
+  "updateTime": 1677778520,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 195640720,
+            "pid": "1800F",
+            "name": "Dasha and Nightmares",
+            "verdict": "OK",
+            "creationTime": 1677770964
+          },
+          {
+            "platform": "codeforces",
+            "id": 195639031,
+            "pid": "1800F",
+            "name": "Dasha and Nightmares",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1677770855
+          },
+          {
+            "platform": "codeforces",
+            "id": 195636424,
+            "pid": "1800G",
+            "name": "Symmetree",
+            "verdict": "OK",
+            "creationTime": 1677770691
+          },
+          {
+            "platform": "codeforces",
+            "id": 195628715,
+            "pid": "1800F",
+            "name": "Dasha and Nightmares",
+            "verdict": "OK",
+            "creationTime": 1677770239
+          },
+          {
+            "platform": "codeforces",
+            "id": 195623858,
+            "pid": "1800E2",
+            "name": "Unforgivable Curse (hard version)",
+            "verdict": "OK",
+            "creationTime": 1677769966
+          },
+          {
+            "platform": "codeforces",
+            "id": 195623686,
+            "pid": "1800E1",
+            "name": "Unforgivable Curse (easy version)",
+            "verdict": "OK",
+            "creationTime": 1677769956
+          },
+          {
+            "platform": "codeforces",
+            "id": 195621120,
+            "pid": "1800D",
+            "name": "Remove Two Letters",
+            "verdict": "OK",
+            "creationTime": 1677769819
+          },
+          {
+            "platform": "codeforces",
+            "id": 195619486,
+            "pid": "1800C2",
+            "name": "Powering the Hero (hard version)",
+            "verdict": "OK",
+            "creationTime": 1677769735
+          },
+          {
+            "platform": "codeforces",
+            "id": 195619332,
+            "pid": "1800C1",
+            "name": "Powering the Hero (easy version)",
+            "verdict": "OK",
+            "creationTime": 1677769725
+          },
+          {
+            "platform": "codeforces",
+            "id": 195616760,
+            "pid": "1800B",
+            "name": "Count the Number of Pairs",
+            "verdict": "OK",
+            "creationTime": 1677769591
+          },
+          {
+            "platform": "codeforces",
+            "id": 195614301,
+            "pid": "1800A",
+            "name": "Is It a Cat?",
+            "verdict": "OK",
+            "creationTime": 1677769470
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "54269c283e73c3d51cd87f829ce2d406dfa597e6"
+  "ref": "549059aeeeaef901e8cda4ba74e07f152caed82a"
 }
