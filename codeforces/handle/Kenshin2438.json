@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1789B",
         "name": "Serval and Inversion Magic",
+        "rating": 800,
         "tags": [
           "brute force",
           "implementation",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1789A",
         "name": "Serval and Mocha's Array",
+        "rating": 800,
         "tags": [
           "brute force",
           "math",
