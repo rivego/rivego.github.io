@@ -1,9 +1,56 @@
 {
   "version": "0.1.29",
-  "updateTime": 1677951189,
+  "updateTime": 1677994615,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 196015876,
+            "pid": "1794E",
+            "name": "Labeling the Tree with Distances",
+            "verdict": "OK",
+            "creationTime": 1677952759
+          },
+          {
+            "platform": "codeforces",
+            "id": 196006307,
+            "pid": "1794D",
+            "name": "Counting Factorizations",
+            "verdict": "OK",
+            "creationTime": 1677951915
+          },
+          {
+            "platform": "codeforces",
+            "id": 196004376,
+            "pid": "1794C",
+            "name": "Scoring Subsequences",
+            "verdict": "OK",
+            "creationTime": 1677951715
+          },
+          {
+            "platform": "codeforces",
+            "id": 196003503,
+            "pid": "1794B",
+            "name": "Not Dividing",
+            "verdict": "OK",
+            "creationTime": 1677951607
+          },
+          {
+            "platform": "codeforces",
+            "id": 196002943,
+            "pid": "1794A",
+            "name": "Prefix and Suffix Array",
+            "verdict": "OK",
+            "creationTime": 1677951503
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "1a0c671196b61e929625bda0faa3d7a92c644c7f"
+  "ref": "16a2d90835bccac79989638a3688103d451569c0"
 }
