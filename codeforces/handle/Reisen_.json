@@ -6,6 +6,85 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 196249838,
+      "creationTime": 1678103902,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469379745
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1794C",
+        "name": "Scoring Subsequences",
+        "tags": [
+          "binary search",
+          "greedy",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1794/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1794/submission/196249838"
+    },
+    {
+      "type": "codeforces",
+      "id": 196245757,
+      "creationTime": 1678102018,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469381629
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1794B",
+        "name": "Not Dividing",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1794/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1794/submission/196245757"
+    },
+    {
+      "type": "codeforces",
+      "id": 196245534,
+      "creationTime": 1678101915,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469381732
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1794B",
+        "name": "Not Dividing",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1794/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1794/submission/196245534"
+    },
+    {
+      "type": "codeforces",
       "id": 193783915,
       "creationTime": 1676518469,
       "language": "GNU C++14",

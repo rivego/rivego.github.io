@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1678080872,
+  "updateTime": 1678124172,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Reisen_",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 196249838,
+            "pid": "1794C",
+            "name": "Scoring Subsequences",
+            "verdict": "OK",
+            "creationTime": 1678103902
+          },
+          {
+            "platform": "codeforces",
+            "id": 196245757,
+            "pid": "1794B",
+            "name": "Not Dividing",
+            "verdict": "OK",
+            "creationTime": 1678102018
+          },
+          {
+            "platform": "codeforces",
+            "id": 196245534,
+            "pid": "1794B",
+            "name": "Not Dividing",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1678101915
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "ec6544cea671c0433dc3fe15ce30d19a03d34351"
+  "ref": "c6592b6e91b2824a180ded281c1ed7777a39ce65"
 }
