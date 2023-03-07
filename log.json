@@ -1,9 +1,94 @@
 {
   "version": "0.1.29",
-  "updateTime": 1678167282,
+  "updateTime": 1678210531,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Xiong_Qian",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 196346393,
+            "pid": "103940H",
+            "name": "How Many Laughs",
+            "verdict": "OK",
+            "creationTime": 1678172873
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Reisen_",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 196392764,
+            "pid": "1426D",
+            "name": "Non-zero Segments",
+            "verdict": "OK",
+            "creationTime": 1678197597
+          },
+          {
+            "platform": "codeforces",
+            "id": 196389993,
+            "pid": "1428D",
+            "name": "Bouncing Boomerangs",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1678196349
+          },
+          {
+            "platform": "codeforces",
+            "id": 196389906,
+            "pid": "1428D",
+            "name": "Bouncing Boomerangs",
+            "verdict": "OK",
+            "creationTime": 1678196302
+          },
+          {
+            "platform": "codeforces",
+            "id": 196389099,
+            "pid": "1428D",
+            "name": "Bouncing Boomerangs",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1678195902
+          },
+          {
+            "platform": "codeforces",
+            "id": 196374537,
+            "pid": "103940H",
+            "name": "How Many Laughs",
+            "verdict": "OK",
+            "creationTime": 1678189116
+          },
+          {
+            "platform": "codeforces",
+            "id": 196372992,
+            "pid": "103940H",
+            "name": "How Many Laughs",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1678188326
+          },
+          {
+            "platform": "codeforces",
+            "id": 196372771,
+            "pid": "103940H",
+            "name": "How Many Laughs",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1678188220
+          },
+          {
+            "platform": "codeforces",
+            "id": 196372015,
+            "pid": "103940H",
+            "name": "How Many Laughs",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1678187834
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "61a3b867dc305ce256868a79bdfefc9eefce3552"
+  "ref": "86150649fd950c60db02641775ebdb7913fa0e2b"
 }

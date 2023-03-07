@@ -6,6 +6,203 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 196392764,
+      "creationTime": 1678197597,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469286050
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1426D",
+        "name": "Non-zero Segments",
+        "rating": 1500,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1426/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1426/submission/196392764"
+    },
+    {
+      "type": "codeforces",
+      "id": 196389993,
+      "creationTime": 1678196349,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469287298
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1428D",
+        "name": "Bouncing Boomerangs",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1428/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1428/submission/196389993"
+    },
+    {
+      "type": "codeforces",
+      "id": 196389906,
+      "creationTime": 1678196302,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469287345
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1428D",
+        "name": "Bouncing Boomerangs",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1428/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1428/submission/196389906"
+    },
+    {
+      "type": "codeforces",
+      "id": 196389099,
+      "creationTime": 1678195902,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469287745
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1428D",
+        "name": "Bouncing Boomerangs",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1428/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1428/submission/196389099"
+    },
+    {
+      "type": "codeforces",
+      "id": 196374537,
+      "creationTime": 1678189116,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469294531
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103940H",
+        "name": "How Many Laughs",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103940/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103940/submission/196374537"
+    },
+    {
+      "type": "codeforces",
+      "id": 196372992,
+      "creationTime": 1678188326,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469295321
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103940H",
+        "name": "How Many Laughs",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103940/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103940/submission/196372992"
+    },
+    {
+      "type": "codeforces",
+      "id": 196372771,
+      "creationTime": 1678188220,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469295427
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103940H",
+        "name": "How Many Laughs",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103940/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103940/submission/196372771"
+    },
+    {
+      "type": "codeforces",
+      "id": 196372015,
+      "creationTime": 1678187834,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469295813
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103940H",
+        "name": "How Many Laughs",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103940/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103940/submission/196372015"
+    },
+    {
+      "type": "codeforces",
       "id": 196249838,
       "creationTime": 1678103902,
       "language": "GNU C++14",
