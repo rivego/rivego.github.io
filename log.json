@@ -1,48 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1678296937,
+  "updateTime": 1678340113,
   "history": {
-    "user": [
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 196512999,
-            "pid": "1329A",
-            "name": "Dreamoon Likes Coloring",
-            "verdict": "OK",
-            "creationTime": 1678283448
-          },
-          {
-            "platform": "codeforces",
-            "id": 196512930,
-            "pid": "1329A",
-            "name": "Dreamoon Likes Coloring",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1678283405
-          },
-          {
-            "platform": "codeforces",
-            "id": 196512818,
-            "pid": "1329A",
-            "name": "Dreamoon Likes Coloring",
-            "verdict": "OK",
-            "creationTime": 1678283351
-          },
-          {
-            "platform": "codeforces",
-            "id": 196512607,
-            "pid": "1329A",
-            "name": "Dreamoon Likes Coloring",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1678283239
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "03d9cfcc37832b3d9e70fd4c5601b221baad617c"
+  "ref": "58b0411aac032cb7f7ac49d4119367b21097d848"
 }
