@@ -6,6 +6,87 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 196650728,
+      "creationTime": 1678363933,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469119714
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1339C",
+        "name": "Powered Addition",
+        "rating": 1500,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1339/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1339/submission/196650728"
+    },
+    {
+      "type": "codeforces",
+      "id": 196649909,
+      "creationTime": 1678363779,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469119868
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1339C",
+        "name": "Powered Addition",
+        "rating": 1500,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1339/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1339/submission/196649909"
+    },
+    {
+      "type": "codeforces",
+      "id": 196649150,
+      "creationTime": 1678363638,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469120009
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1339C",
+        "name": "Powered Addition",
+        "rating": 1500,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1339/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1339/submission/196649150"
+    },
+    {
+      "type": "codeforces",
       "id": 196346393,
       "creationTime": 1678172873,
       "language": "GNU C++17",

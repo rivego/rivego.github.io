@@ -6,6 +6,64 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 196663136,
+      "creationTime": 1678368250,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469115397
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1337D",
+        "name": "Xenia and Colorful Gems",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "implementation",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1337/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1337/submission/196663136"
+    },
+    {
+      "type": "codeforces",
+      "id": 196662651,
+      "creationTime": 1678367903,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469115744
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1337D",
+        "name": "Xenia and Colorful Gems",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "implementation",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1337/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1337/submission/196662651"
+    },
+    {
+      "type": "codeforces",
       "id": 196512999,
       "creationTime": 1678283448,
       "language": "GNU C++14",
