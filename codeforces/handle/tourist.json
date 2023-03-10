@@ -23,6 +23,7 @@
         "name": "Gasoline prices",
         "tags": [
           "data structures",
+          "divide and conquer",
           "dsu",
           "trees"
         ],
@@ -49,6 +50,7 @@
         "name": "Gasoline prices",
         "tags": [
           "data structures",
+          "divide and conquer",
           "dsu",
           "trees"
         ],
@@ -75,6 +77,7 @@
         "name": "Gasoline prices",
         "tags": [
           "data structures",
+          "divide and conquer",
           "dsu",
           "trees"
         ],
@@ -127,6 +130,7 @@
         "tags": [
           "dp",
           "graphs",
+          "greedy",
           "shortest paths",
           "sortings"
         ],
@@ -152,6 +156,7 @@
         "id": "1801C",
         "name": "Music Festival",
         "tags": [
+          "binary search",
           "data structures",
           "dp",
           "greedy",
@@ -180,6 +185,7 @@
         "name": "Buying gifts",
         "tags": [
           "data structures",
+          "dp",
           "greedy",
           "sortings"
         ],
@@ -110738,7 +110744,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3803,
+    "rating": 3658,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
