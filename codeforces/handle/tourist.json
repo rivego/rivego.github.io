@@ -25,6 +25,7 @@
           "data structures",
           "divide and conquer",
           "dsu",
+          "hashing",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1801/problem/E"
@@ -52,6 +53,7 @@
           "data structures",
           "divide and conquer",
           "dsu",
+          "hashing",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1801/problem/E"
@@ -79,6 +81,7 @@
           "data structures",
           "divide and conquer",
           "dsu",
+          "hashing",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1801/problem/E"
@@ -104,6 +107,8 @@
         "name": "Another n-dimensional chocolate bar",
         "tags": [
           "dp",
+          "math",
+          "meet-in-the-middle",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1801/problem/F"
