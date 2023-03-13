@@ -6,6 +6,216 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 197248765,
+      "creationTime": 1678716124,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -468767523
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1342D",
+        "name": "Multiple Testcases",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1342/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1342/submission/197248765"
+    },
+    {
+      "type": "codeforces",
+      "id": 197247677,
+      "creationTime": 1678715638,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -468768009
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1342D",
+        "name": "Multiple Testcases",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1342/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1342/submission/197247677"
+    },
+    {
+      "type": "codeforces",
+      "id": 197247339,
+      "creationTime": 1678715495,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -468768152
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1342D",
+        "name": "Multiple Testcases",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1342/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1342/submission/197247339"
+    },
+    {
+      "type": "codeforces",
+      "id": 197247201,
+      "creationTime": 1678715438,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -468768209
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1342D",
+        "name": "Multiple Testcases",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1342/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1342/submission/197247201"
+    },
+    {
+      "type": "codeforces",
+      "id": 197246302,
+      "creationTime": 1678715033,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -468768614
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1342D",
+        "name": "Multiple Testcases",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1342/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1342/submission/197246302"
+    },
+    {
+      "type": "codeforces",
+      "id": 197245873,
+      "creationTime": 1678714843,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -468768804
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1342D",
+        "name": "Multiple Testcases",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1342/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1342/submission/197245873"
+    },
+    {
+      "type": "codeforces",
+      "id": 197245750,
+      "creationTime": 1678714785,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Reisen_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -468768862
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1342D",
+        "name": "Multiple Testcases",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1342/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1342/submission/197245750"
+    },
+    {
+      "type": "codeforces",
       "id": 196663136,
       "creationTime": 1678368250,
       "language": "GNU C++14",

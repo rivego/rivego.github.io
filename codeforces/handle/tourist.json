@@ -125,6 +125,7 @@
         "id": "1804D",
         "name": "Accommodation",
         "tags": [
+          "constructive algorithms",
           "dp",
           "greedy"
         ],
@@ -110953,7 +110954,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3706,
+    "rating": 3803,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
