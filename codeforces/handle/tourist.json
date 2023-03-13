@@ -22,6 +22,7 @@
         "id": "1804G",
         "name": "Flow Control",
         "tags": [
+          "data structures",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/G"
@@ -46,6 +47,7 @@
         "id": "1804G",
         "name": "Flow Control",
         "tags": [
+          "data structures",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/G"
@@ -70,6 +72,8 @@
         "id": "1804F",
         "name": "Approximate Diameter",
         "tags": [
+          "binary search",
+          "divide and conquer",
           "graphs",
           "shortest paths"
         ],
@@ -95,6 +99,7 @@
         "id": "1804E",
         "name": "Routing",
         "tags": [
+          "bitmasks",
           "dp",
           "graphs"
         ],
@@ -120,8 +125,8 @@
         "id": "1804D",
         "name": "Accommodation",
         "tags": [
-          "greedy",
-          "math"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/D"
       },
@@ -147,7 +152,8 @@
         "tags": [
           "brute force",
           "greedy",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/C"
       },
@@ -172,7 +178,8 @@
         "name": "Vaccination",
         "tags": [
           "greedy",
-          "implementation"
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/B"
       },
@@ -110946,7 +110953,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3658,
+    "rating": 3706,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
