@@ -100,6 +100,7 @@
         "name": "Routing",
         "tags": [
           "bitmasks",
+          "brute force",
           "dp",
           "graphs"
         ],
@@ -125,7 +126,6 @@
         "id": "1804D",
         "name": "Accommodation",
         "tags": [
-          "constructive algorithms",
           "dp",
           "greedy"
         ],
@@ -110954,7 +110954,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3803,
+    "rating": 3658,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

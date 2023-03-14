@@ -1,94 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1678728843,
+  "updateTime": 1678772010,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 197219965,
-            "pid": "1802B",
-            "name": "Settlement of Guinea Pigs",
-            "verdict": "OK",
-            "creationTime": 1678703602
-          },
-          {
-            "platform": "codeforces",
-            "id": 197219537,
-            "pid": "1802A",
-            "name": "Likes",
-            "verdict": "OK",
-            "creationTime": 1678703385
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 197248765,
-            "pid": "1342D",
-            "name": "Multiple Testcases",
-            "verdict": "OK",
-            "creationTime": 1678716124
-          },
-          {
-            "platform": "codeforces",
-            "id": 197247677,
-            "pid": "1342D",
-            "name": "Multiple Testcases",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1678715638
-          },
-          {
-            "platform": "codeforces",
-            "id": 197247339,
-            "pid": "1342D",
-            "name": "Multiple Testcases",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1678715495
-          },
-          {
-            "platform": "codeforces",
-            "id": 197247201,
-            "pid": "1342D",
-            "name": "Multiple Testcases",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1678715438
-          },
-          {
-            "platform": "codeforces",
-            "id": 197246302,
-            "pid": "1342D",
-            "name": "Multiple Testcases",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1678715033
-          },
-          {
-            "platform": "codeforces",
-            "id": 197245873,
-            "pid": "1342D",
-            "name": "Multiple Testcases",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1678714843
-          },
-          {
-            "platform": "codeforces",
-            "id": 197245750,
-            "pid": "1342D",
-            "name": "Multiple Testcases",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1678714785
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "51e2c1b3ffeac4bc16ed2407152f973e0d099e72"
+  "ref": "d34ce6efb395030756313dd672ef28ec58d734d9"
 }
