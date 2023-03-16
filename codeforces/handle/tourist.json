@@ -105,8 +105,7 @@
           "brute force",
           "dfs and similar",
           "dp",
-          "graphs",
-          "greedy"
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/E"
       },
@@ -324,6 +323,7 @@
         "tags": [
           "dp",
           "math",
+          "meet-in-the-middle",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1801/problem/F"
@@ -355,6 +355,7 @@
           "dp",
           "graphs",
           "greedy",
+          "implementation",
           "shortest paths",
           "sortings"
         ],
