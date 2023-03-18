@@ -183,8 +183,7 @@
         "name": "Vaccination",
         "tags": [
           "greedy",
-          "implementation",
-          "two pointers"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/B"
       },
