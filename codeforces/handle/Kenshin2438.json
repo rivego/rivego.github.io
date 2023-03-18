@@ -6,6 +6,112 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 197996997,
+      "creationTime": 1679159316,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -468324331
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1806E",
+        "name": "Tree Master",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dfs and similar",
+          "hashing",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1806/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1806/submission/197996997"
+    },
+    {
+      "type": "codeforces",
+      "id": 197951376,
+      "creationTime": 1679145936,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1679141100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1806C",
+        "name": "Sequence Master",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1806/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1806/submission/197951376"
+    },
+    {
+      "type": "codeforces",
+      "id": 197918103,
+      "creationTime": 1679142166,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1679141100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1806B",
+        "name": "Mex Master",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1806/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1806/submission/197918103"
+    },
+    {
+      "type": "codeforces",
+      "id": 197909706,
+      "creationTime": 1679141494,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1679141100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1806A",
+        "name": "Walking Master",
+        "tags": [
+          "geometry",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1806/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1806/submission/197909706"
+    },
+    {
+      "type": "codeforces",
       "id": 195030766,
       "creationTime": 1677400866,
       "language": "GNU C++17 (64)",
@@ -25663,7 +25769,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1871,
+    "rating": 1866,
     "maxRank": "expert",
     "maxRating": 1871
   }
