@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1806E",
         "name": "Tree Master",
+        "rating": 2200,
         "tags": [
           "brute force",
           "data structures",
@@ -49,6 +50,7 @@
         "type": "codeforces",
         "id": "1806C",
         "name": "Sequence Master",
+        "rating": 1600,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "1806B",
         "name": "Mex Master",
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -100,6 +103,7 @@
         "type": "codeforces",
         "id": "1806A",
         "name": "Walking Master",
+        "rating": 800,
         "tags": [
           "geometry",
           "greedy",
