@@ -1,48 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1679160794,
+  "updateTime": 1679203990,
   "history": {
-    "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 197996997,
-            "pid": "1806E",
-            "name": "Tree Master",
-            "verdict": "OK",
-            "creationTime": 1679159316
-          },
-          {
-            "platform": "codeforces",
-            "id": 197951376,
-            "pid": "1806C",
-            "name": "Sequence Master",
-            "verdict": "OK",
-            "creationTime": 1679145936
-          },
-          {
-            "platform": "codeforces",
-            "id": 197918103,
-            "pid": "1806B",
-            "name": "Mex Master",
-            "verdict": "OK",
-            "creationTime": 1679142166
-          },
-          {
-            "platform": "codeforces",
-            "id": 197909706,
-            "pid": "1806A",
-            "name": "Walking Master",
-            "verdict": "OK",
-            "creationTime": 1679141494
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "0e7068d392d40d52d54c4b5129b220392b72aa05"
+  "ref": "8cceab212e1cabd67f3a73c2e1413434bb4c2fcc"
 }
