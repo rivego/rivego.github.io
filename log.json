@@ -1,9 +1,104 @@
 {
   "version": "0.1.29",
-  "updateTime": 1679290397,
+  "updateTime": 1679333619,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 198359005,
+            "pid": "1807G2",
+            "name": "Subsequence Addition (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1679317986
+          },
+          {
+            "platform": "codeforces",
+            "id": 198358950,
+            "pid": "1807G2",
+            "name": "Subsequence Addition (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1679317960
+          },
+          {
+            "platform": "codeforces",
+            "id": 198358913,
+            "pid": "1807G1",
+            "name": "Subsequence Addition (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1679317937
+          },
+          {
+            "platform": "codeforces",
+            "id": 198358525,
+            "pid": "1807F",
+            "name": "Bouncy Ball",
+            "verdict": "OK",
+            "creationTime": 1679317705
+          },
+          {
+            "platform": "codeforces",
+            "id": 198358485,
+            "pid": "1807E",
+            "name": "Interview",
+            "verdict": "OK",
+            "creationTime": 1679317684
+          },
+          {
+            "platform": "codeforces",
+            "id": 198358453,
+            "pid": "1807F",
+            "name": "Bouncy Ball",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1679317668
+          },
+          {
+            "platform": "codeforces",
+            "id": 198357528,
+            "pid": "1807E",
+            "name": "Interview",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1679317203
+          },
+          {
+            "platform": "codeforces",
+            "id": 198357167,
+            "pid": "1807D",
+            "name": "Odd Queries",
+            "verdict": "OK",
+            "creationTime": 1679317011
+          },
+          {
+            "platform": "codeforces",
+            "id": 198357029,
+            "pid": "1807B",
+            "name": "Grab the Candies",
+            "verdict": "OK",
+            "creationTime": 1679316919
+          },
+          {
+            "platform": "codeforces",
+            "id": 198357028,
+            "pid": "1807C",
+            "name": "Find and Replace",
+            "verdict": "OK",
+            "creationTime": 1679316919
+          },
+          {
+            "platform": "codeforces",
+            "id": 198356554,
+            "pid": "1807A",
+            "name": "Plus or Minus",
+            "verdict": "OK",
+            "creationTime": 1679316653
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "2e74f1d99ff5b0e59ac2a92aa9c8e9d0e51e8b9c"
+  "ref": "3c0e2990dc61b99bf620bce79386a8daa78fa079"
 }
