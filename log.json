@@ -1,96 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1679376790,
+  "updateTime": 1679419985,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 198413531,
-            "pid": "1806F2",
-            "name": "GCD Master (hard version)",
-            "verdict": "OK",
-            "creationTime": 1679342485
-          },
-          {
-            "platform": "codeforces",
-            "id": 198413371,
-            "pid": "1806F2",
-            "name": "GCD Master (hard version)",
-            "verdict": "OK",
-            "creationTime": 1679342370
-          },
-          {
-            "platform": "codeforces",
-            "id": 198413324,
-            "pid": "1806F1",
-            "name": "GCD Master (easy version)",
-            "verdict": "OK",
-            "creationTime": 1679342339
-          },
-          {
-            "platform": "codeforces",
-            "id": 198411379,
-            "pid": "1806F1",
-            "name": "GCD Master (easy version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1679341127
-          },
-          {
-            "platform": "codeforces",
-            "id": 198411221,
-            "pid": "1806F1",
-            "name": "GCD Master (easy version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1679341024
-          },
-          {
-            "platform": "codeforces",
-            "id": 198407263,
-            "pid": "1806E",
-            "name": "Tree Master",
-            "verdict": "OK",
-            "creationTime": 1679338859
-          },
-          {
-            "platform": "codeforces",
-            "id": 198406007,
-            "pid": "1806D",
-            "name": "DSU Master",
-            "verdict": "OK",
-            "creationTime": 1679338225
-          },
-          {
-            "platform": "codeforces",
-            "id": 198403457,
-            "pid": "1806C",
-            "name": "Sequence Master",
-            "verdict": "OK",
-            "creationTime": 1679337029
-          },
-          {
-            "platform": "codeforces",
-            "id": 198397901,
-            "pid": "1806B",
-            "name": "Mex Master",
-            "verdict": "OK",
-            "creationTime": 1679334727
-          },
-          {
-            "platform": "codeforces",
-            "id": 198397477,
-            "pid": "1806A",
-            "name": "Walking Master",
-            "verdict": "OK",
-            "creationTime": 1679334558
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "4257a978012d1a14029d3f2f9d398ba8e64c5892"
+  "ref": "6d24a98697db25172cd945efef442d9a6f2f7d7e"
 }
