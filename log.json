@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1679333619,
+  "updateTime": 1679376790,
   "history": {
     "user": [
       {
@@ -8,91 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 198359005,
-            "pid": "1807G2",
-            "name": "Subsequence Addition (Hard Version)",
+            "id": 198413531,
+            "pid": "1806F2",
+            "name": "GCD Master (hard version)",
             "verdict": "OK",
-            "creationTime": 1679317986
+            "creationTime": 1679342485
           },
           {
             "platform": "codeforces",
-            "id": 198358950,
-            "pid": "1807G2",
-            "name": "Subsequence Addition (Hard Version)",
+            "id": 198413371,
+            "pid": "1806F2",
+            "name": "GCD Master (hard version)",
+            "verdict": "OK",
+            "creationTime": 1679342370
+          },
+          {
+            "platform": "codeforces",
+            "id": 198413324,
+            "pid": "1806F1",
+            "name": "GCD Master (easy version)",
+            "verdict": "OK",
+            "creationTime": 1679342339
+          },
+          {
+            "platform": "codeforces",
+            "id": 198411379,
+            "pid": "1806F1",
+            "name": "GCD Master (easy version)",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1679317960
+            "creationTime": 1679341127
           },
           {
             "platform": "codeforces",
-            "id": 198358913,
-            "pid": "1807G1",
-            "name": "Subsequence Addition (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1679317937
-          },
-          {
-            "platform": "codeforces",
-            "id": 198358525,
-            "pid": "1807F",
-            "name": "Bouncy Ball",
-            "verdict": "OK",
-            "creationTime": 1679317705
-          },
-          {
-            "platform": "codeforces",
-            "id": 198358485,
-            "pid": "1807E",
-            "name": "Interview",
-            "verdict": "OK",
-            "creationTime": 1679317684
-          },
-          {
-            "platform": "codeforces",
-            "id": 198358453,
-            "pid": "1807F",
-            "name": "Bouncy Ball",
+            "id": 198411221,
+            "pid": "1806F1",
+            "name": "GCD Master (easy version)",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1679317668
+            "creationTime": 1679341024
           },
           {
             "platform": "codeforces",
-            "id": 198357528,
-            "pid": "1807E",
-            "name": "Interview",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1679317203
-          },
-          {
-            "platform": "codeforces",
-            "id": 198357167,
-            "pid": "1807D",
-            "name": "Odd Queries",
+            "id": 198407263,
+            "pid": "1806E",
+            "name": "Tree Master",
             "verdict": "OK",
-            "creationTime": 1679317011
+            "creationTime": 1679338859
           },
           {
             "platform": "codeforces",
-            "id": 198357029,
-            "pid": "1807B",
-            "name": "Grab the Candies",
+            "id": 198406007,
+            "pid": "1806D",
+            "name": "DSU Master",
             "verdict": "OK",
-            "creationTime": 1679316919
+            "creationTime": 1679338225
           },
           {
             "platform": "codeforces",
-            "id": 198357028,
-            "pid": "1807C",
-            "name": "Find and Replace",
+            "id": 198403457,
+            "pid": "1806C",
+            "name": "Sequence Master",
             "verdict": "OK",
-            "creationTime": 1679316919
+            "creationTime": 1679337029
           },
           {
             "platform": "codeforces",
-            "id": 198356554,
-            "pid": "1807A",
-            "name": "Plus or Minus",
+            "id": 198397901,
+            "pid": "1806B",
+            "name": "Mex Master",
             "verdict": "OK",
-            "creationTime": 1679316653
+            "creationTime": 1679334727
+          },
+          {
+            "platform": "codeforces",
+            "id": 198397477,
+            "pid": "1806A",
+            "name": "Walking Master",
+            "verdict": "OK",
+            "creationTime": 1679334558
           }
         ],
         "newContests": []
@@ -100,5 +92,5 @@
     ],
     "contest": []
   },
-  "ref": "3c0e2990dc61b99bf620bce79386a8daa78fa079"
+  "ref": "4257a978012d1a14029d3f2f9d398ba8e64c5892"
 }
