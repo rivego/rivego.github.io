@@ -6,6 +6,30 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 198631317,
+      "creationTime": 1679493377,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -467990270
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1807B",
+        "name": "Grab the Candies",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1807/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1807/submission/198631317"
+    },
+    {
+      "type": "codeforces",
       "id": 185749846,
       "creationTime": 1671341430,
       "language": "GNU C++20 (64)",
