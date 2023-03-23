@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1679506391,
+  "updateTime": 1679549577,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 198631317,
-            "pid": "1807B",
-            "name": "Grab the Candies",
-            "verdict": "OK",
-            "creationTime": 1679493377
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "ee05a8b56cb05ae2d51ac3392de2e2190e30ec6e"
+  "ref": "e7f827fa708d25f990135c50b94c605c3cdac850"
 }
