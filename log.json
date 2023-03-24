@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1679592838,
+  "updateTime": 1679636000,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 198800857,
-            "pid": "1809G",
-            "name": "Prediction",
-            "verdict": "OK",
-            "creationTime": 1679585994
-          },
-          {
-            "platform": "codeforces",
-            "id": 198786104,
-            "pid": "1809F",
-            "name": "Traveling in Berland",
-            "verdict": "OK",
-            "creationTime": 1679584629
-          },
-          {
-            "platform": "codeforces",
-            "id": 198775336,
-            "pid": "1809E",
-            "name": "Two Tanks",
-            "verdict": "OK",
-            "creationTime": 1679583717
-          },
-          {
-            "platform": "codeforces",
-            "id": 198768775,
-            "pid": "1809D",
-            "name": "Binary String Sorting",
-            "verdict": "OK",
-            "creationTime": 1679583221
-          },
-          {
-            "platform": "codeforces",
-            "id": 198764545,
-            "pid": "1809C",
-            "name": "Sum on Subarrays",
-            "verdict": "OK",
-            "creationTime": 1679582940
-          },
-          {
-            "platform": "codeforces",
-            "id": 198760964,
-            "pid": "1809B",
-            "name": "Points on Plane",
-            "verdict": "OK",
-            "creationTime": 1679582740
-          },
-          {
-            "platform": "codeforces",
-            "id": 198757842,
-            "pid": "1809A",
-            "name": "Garland",
-            "verdict": "OK",
-            "creationTime": 1679582565
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "65e75a8147efda337ed207e12b571872c7b04430"
+  "ref": "4b999dec26870f6b2235097ce989b3eb71a7fd8c"
 }
