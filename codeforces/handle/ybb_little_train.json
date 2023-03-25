@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1807B",
         "name": "Grab the Candies",
+        "rating": 800,
         "tags": [
           "greedy"
         ],
