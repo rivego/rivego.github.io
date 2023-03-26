@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1679808800,
+  "updateTime": 1679851997,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 199278827,
+            "pid": "1798F",
+            "name": "Gifts from Grandfather Ahmed",
+            "verdict": "OK",
+            "creationTime": 1679844555
+          },
+          {
+            "platform": "codeforces",
+            "id": 199266588,
+            "pid": "1798E",
+            "name": "Multitest Generator",
+            "verdict": "OK",
+            "creationTime": 1679842941
+          },
+          {
+            "platform": "codeforces",
+            "id": 199259590,
+            "pid": "1798D",
+            "name": "Shocking Arrangement",
+            "verdict": "OK",
+            "creationTime": 1679842194
+          },
+          {
+            "platform": "codeforces",
+            "id": 199257084,
+            "pid": "1798C",
+            "name": "Candy Store",
+            "verdict": "OK",
+            "creationTime": 1679841976
+          },
+          {
+            "platform": "codeforces",
+            "id": 199257016,
+            "pid": "1798B",
+            "name": "Three Sevens",
+            "verdict": "OK",
+            "creationTime": 1679841971
+          },
+          {
+            "platform": "codeforces",
+            "id": 199256943,
+            "pid": "1798A",
+            "name": "Showstopper",
+            "verdict": "OK",
+            "creationTime": 1679841966
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "332bcdc48e5c36b56efb535bf1e917aff7254d89"
+  "ref": "a6eb095bcb6e7da3d02e37b1c603bb091f692e12"
 }
