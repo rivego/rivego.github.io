@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1680197629,
+  "updateTime": 1680240796,
   "history": {
     "user": [
       {
@@ -8,187 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 199861485,
-            "pid": "1019B",
-            "name": "The hat",
+            "id": 199908299,
+            "pid": "104257A",
+            "name": "Acceptable Answer",
             "verdict": "OK",
-            "creationTime": 1680195998
-          },
-          {
-            "platform": "codeforces",
-            "id": 199859877,
-            "pid": "109D",
-            "name": "Lucky Sorting",
-            "verdict": "OK",
-            "creationTime": 1680195245
-          },
-          {
-            "platform": "codeforces",
-            "id": 199859024,
-            "pid": "109D",
-            "name": "Lucky Sorting",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1680194832
-          },
-          {
-            "platform": "codeforces",
-            "id": 199858329,
-            "pid": "109D",
-            "name": "Lucky Sorting",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1680194462
-          },
-          {
-            "platform": "codeforces",
-            "id": 199857036,
-            "pid": "109D",
-            "name": "Lucky Sorting",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1680193785
-          },
-          {
-            "platform": "codeforces",
-            "id": 199856885,
-            "pid": "109D",
-            "name": "Lucky Sorting",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1680193708
-          },
-          {
-            "platform": "codeforces",
-            "id": 199850403,
-            "pid": "1808E3",
-            "name": "Minibuses on Venus (hard version)",
-            "verdict": "OK",
-            "creationTime": 1680190818
-          },
-          {
-            "platform": "codeforces",
-            "id": 199849930,
-            "pid": "1808E3",
-            "name": "Minibuses on Venus (hard version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1680190626
-          },
-          {
-            "platform": "codeforces",
-            "id": 199849219,
-            "pid": "1808E2",
-            "name": "Minibuses on Venus (medium version)",
-            "verdict": "OK",
-            "creationTime": 1680190345
-          },
-          {
-            "platform": "codeforces",
-            "id": 199849208,
-            "pid": "1808E3",
-            "name": "Minibuses on Venus (hard version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1680190341
-          },
-          {
-            "platform": "codeforces",
-            "id": 199849095,
-            "pid": "1808E3",
-            "name": "Minibuses on Venus (hard version)",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1680190295
-          },
-          {
-            "platform": "codeforces",
-            "id": 199849092,
-            "pid": "1808E2",
-            "name": "Minibuses on Venus (medium version)",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1680190293
-          },
-          {
-            "platform": "codeforces",
-            "id": 199849071,
-            "pid": "1808E1",
-            "name": "Minibuses on Venus (easy version)",
-            "verdict": "OK",
-            "creationTime": 1680190283
-          },
-          {
-            "platform": "codeforces",
-            "id": 199846022,
-            "pid": "1808D",
-            "name": "Petya, Petya, Petr, and Palindromes",
-            "verdict": "OK",
-            "creationTime": 1680189195
-          },
-          {
-            "platform": "codeforces",
-            "id": 199844953,
-            "pid": "1808D",
-            "name": "Petya, Petya, Petr, and Palindromes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1680188843
-          },
-          {
-            "platform": "codeforces",
-            "id": 199844357,
-            "pid": "63E",
-            "name": "Sweets Game",
-            "verdict": "OK",
-            "creationTime": 1680188632
-          },
-          {
-            "platform": "codeforces",
-            "id": 199842475,
-            "pid": "1808C",
-            "name": "Unlucky Numbers",
-            "verdict": "OK",
-            "creationTime": 1680187915
-          },
-          {
-            "platform": "codeforces",
-            "id": 199842059,
-            "pid": "533B",
-            "name": "Work Group",
-            "verdict": "OK",
-            "creationTime": 1680187761
-          },
-          {
-            "platform": "codeforces",
-            "id": 199841229,
-            "pid": "533B",
-            "name": "Work Group",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1680187465
-          },
-          {
-            "platform": "codeforces",
-            "id": 199840804,
-            "pid": "1808B",
-            "name": "Playing in a Casino",
-            "verdict": "OK",
-            "creationTime": 1680187297
-          },
-          {
-            "platform": "codeforces",
-            "id": 199839861,
-            "pid": "1806A",
-            "name": "Walking Master",
-            "verdict": "OK",
-            "creationTime": 1680186975
-          },
-          {
-            "platform": "codeforces",
-            "id": 199839315,
-            "pid": "1808A",
-            "name": "Lucky Numbers",
-            "verdict": "OK",
-            "creationTime": 1680186782
-          },
-          {
-            "platform": "codeforces",
-            "id": 199837241,
-            "pid": "1106A",
-            "name": "Lunar New Year and Cross Counting",
-            "verdict": "OK",
-            "creationTime": 1680186054
+            "creationTime": 1680240663
           }
         ],
         "newContests": []
@@ -196,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "884b234bfa019cb1e983823ed8304c7be22d6fb6"
+  "ref": "9055155ef9623816c5aa081efe4a7ce956db07a6"
 }
