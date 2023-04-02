@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1680413575,
+  "updateTime": 1680456774,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 200408572,
+            "pid": "1805E",
+            "name": "There Should Be a Lot of Maximums",
+            "verdict": "OK",
+            "creationTime": 1680447680
+          },
+          {
+            "platform": "codeforces",
+            "id": 200400490,
+            "pid": "1805D",
+            "name": "A Wide, Wide Graph",
+            "verdict": "OK",
+            "creationTime": 1680447001
+          },
+          {
+            "platform": "codeforces",
+            "id": 200395832,
+            "pid": "1805C",
+            "name": "Place for a Selfie",
+            "verdict": "OK",
+            "creationTime": 1680446706
+          },
+          {
+            "platform": "codeforces",
+            "id": 200393957,
+            "pid": "1805C",
+            "name": "Place for a Selfie",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1680446596
+          },
+          {
+            "platform": "codeforces",
+            "id": 200389933,
+            "pid": "1805B",
+            "name": "The String Has a Target",
+            "verdict": "OK",
+            "creationTime": 1680446328
+          },
+          {
+            "platform": "codeforces",
+            "id": 200387995,
+            "pid": "1805A",
+            "name": "We Need the Zero",
+            "verdict": "OK",
+            "creationTime": 1680446199
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "47339fd7711eddacacd63a04e0c22808c3c7852b"
+  "ref": "d281723d3853d245b5894b50e13b6de9f3c37338"
 }
