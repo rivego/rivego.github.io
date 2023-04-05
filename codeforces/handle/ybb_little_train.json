@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 200655577,
+      "creationTime": 1680596861,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -466886786
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1805B",
+        "name": "The String Has a Target",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1805/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1805/submission/200655577"
+    },
+    {
+      "type": "codeforces",
+      "id": 200654342,
+      "creationTime": 1680596131,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -466887516
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1805A",
+        "name": "We Need the Zero",
+        "tags": [
+          "bitmasks",
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1805/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1805/submission/200654342"
+    },
+    {
+      "type": "codeforces",
       "id": 198631317,
       "creationTime": 1679493377,
       "language": "GNU C++20 (64)",
