@@ -1,9 +1,104 @@
 {
   "version": "0.1.29",
-  "updateTime": 1680931982,
+  "updateTime": 1680975165,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 201350956,
+            "pid": "1797E",
+            "name": "Li Hua and Array",
+            "verdict": "OK",
+            "creationTime": 1680972201
+          },
+          {
+            "platform": "codeforces",
+            "id": 201305592,
+            "pid": "1797F",
+            "name": "Li Hua and Path",
+            "verdict": "OK",
+            "creationTime": 1680965653
+          },
+          {
+            "platform": "codeforces",
+            "id": 201296417,
+            "pid": "1797E",
+            "name": "Li Hua and Array",
+            "verdict": "OK",
+            "creationTime": 1680964956
+          },
+          {
+            "platform": "codeforces",
+            "id": 201292821,
+            "pid": "1797E",
+            "name": "Li Hua and Array",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1680964699
+          },
+          {
+            "platform": "codeforces",
+            "id": 201286324,
+            "pid": "1797E",
+            "name": "Li Hua and Array",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1680964250
+          },
+          {
+            "platform": "codeforces",
+            "id": 201277358,
+            "pid": "1797D",
+            "name": "Li Hua and Tree",
+            "verdict": "OK",
+            "creationTime": 1680963688
+          },
+          {
+            "platform": "codeforces",
+            "id": 201270711,
+            "pid": "1797C",
+            "name": "Li Hua and Chess",
+            "verdict": "OK",
+            "creationTime": 1680963297
+          },
+          {
+            "platform": "codeforces",
+            "id": 201269740,
+            "pid": "1797C",
+            "name": "Li Hua and Chess",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1680963231
+          },
+          {
+            "platform": "codeforces",
+            "id": 201268602,
+            "pid": "1797C",
+            "name": "Li Hua and Chess",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1680963152
+          },
+          {
+            "platform": "codeforces",
+            "id": 201266248,
+            "pid": "1797B",
+            "name": "Li Hua and Pattern",
+            "verdict": "OK",
+            "creationTime": 1680962948
+          },
+          {
+            "platform": "codeforces",
+            "id": 201265673,
+            "pid": "1797A",
+            "name": "Li Hua and Maze",
+            "verdict": "OK",
+            "creationTime": 1680962833
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "5d8cf91ad978622a1814dcb1f6920d4817c558e9"
+  "ref": "7b1c4853995501ad0b402b89fea14e3833739846"
 }
