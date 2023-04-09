@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1680975165,
+  "updateTime": 1681018383,
   "history": {
     "user": [
       {
@@ -8,91 +8,203 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 201350956,
-            "pid": "1797E",
-            "name": "Li Hua and Array",
+            "id": 201419133,
+            "pid": "22E",
+            "name": "Scheme",
             "verdict": "OK",
-            "creationTime": 1680972201
+            "creationTime": 1681017714
           },
           {
             "platform": "codeforces",
-            "id": 201305592,
-            "pid": "1797F",
-            "name": "Li Hua and Path",
+            "id": 201418254,
+            "pid": "22D",
+            "name": "Segments",
             "verdict": "OK",
-            "creationTime": 1680965653
+            "creationTime": 1681017169
           },
           {
             "platform": "codeforces",
-            "id": 201296417,
-            "pid": "1797E",
-            "name": "Li Hua and Array",
+            "id": 201418003,
+            "pid": "22C",
+            "name": "System Administrator",
             "verdict": "OK",
-            "creationTime": 1680964956
+            "creationTime": 1681017011
           },
           {
             "platform": "codeforces",
-            "id": 201292821,
-            "pid": "1797E",
-            "name": "Li Hua and Array",
+            "id": 201417661,
+            "pid": "22B",
+            "name": "Bargaining Table",
+            "verdict": "OK",
+            "creationTime": 1681016783
+          },
+          {
+            "platform": "codeforces",
+            "id": 201417565,
+            "pid": "22B",
+            "name": "Bargaining Table",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1680964699
+            "creationTime": 1681016714
           },
           {
             "platform": "codeforces",
-            "id": 201286324,
-            "pid": "1797E",
-            "name": "Li Hua and Array",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1680964250
-          },
-          {
-            "platform": "codeforces",
-            "id": 201277358,
-            "pid": "1797D",
-            "name": "Li Hua and Tree",
+            "id": 201417216,
+            "pid": "22A",
+            "name": "Second Order Statistics",
             "verdict": "OK",
-            "creationTime": 1680963688
+            "creationTime": 1681016487
           },
           {
             "platform": "codeforces",
-            "id": 201270711,
-            "pid": "1797C",
-            "name": "Li Hua and Chess",
+            "id": 201414420,
+            "pid": "21D",
+            "name": "Traveling Graph",
             "verdict": "OK",
-            "creationTime": 1680963297
+            "creationTime": 1681014240
           },
           {
             "platform": "codeforces",
-            "id": 201269740,
-            "pid": "1797C",
-            "name": "Li Hua and Chess",
+            "id": 201414379,
+            "pid": "21D",
+            "name": "Traveling Graph",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1680963231
+            "creationTime": 1681014202
           },
           {
             "platform": "codeforces",
-            "id": 201268602,
-            "pid": "1797C",
-            "name": "Li Hua and Chess",
+            "id": 201414340,
+            "pid": "21D",
+            "name": "Traveling Graph",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1680963152
+            "creationTime": 1681014173
           },
           {
             "platform": "codeforces",
-            "id": 201266248,
-            "pid": "1797B",
-            "name": "Li Hua and Pattern",
+            "id": 201413974,
+            "pid": "21C",
+            "name": "Stripe 2",
             "verdict": "OK",
-            "creationTime": 1680962948
+            "creationTime": 1681013865
           },
           {
             "platform": "codeforces",
-            "id": 201265673,
-            "pid": "1797A",
-            "name": "Li Hua and Maze",
+            "id": 201413822,
+            "pid": "21B",
+            "name": "Intersection",
             "verdict": "OK",
-            "creationTime": 1680962833
+            "creationTime": 1681013739
+          },
+          {
+            "platform": "codeforces",
+            "id": 201413798,
+            "pid": "21B",
+            "name": "Intersection",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1681013710
+          },
+          {
+            "platform": "codeforces",
+            "id": 201413645,
+            "pid": "21A",
+            "name": "Jabber ID",
+            "verdict": "OK",
+            "creationTime": 1681013573
+          },
+          {
+            "platform": "codeforces",
+            "id": 201413595,
+            "pid": "21A",
+            "name": "Jabber ID",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1681013533
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412855,
+            "pid": "104288L",
+            "name": "Where Am I?",
+            "verdict": "OK",
+            "creationTime": 1681012859
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412835,
+            "pid": "104288K",
+            "name": "Take On Meme",
+            "verdict": "OK",
+            "creationTime": 1681012844
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412827,
+            "pid": "104288J",
+            "name": "Splitstream",
+            "verdict": "OK",
+            "creationTime": 1681012837
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412815,
+            "pid": "104288I",
+            "name": "Spider Walk",
+            "verdict": "OK",
+            "creationTime": 1681012828
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412804,
+            "pid": "104288H",
+            "name": "Prehistoric Programs",
+            "verdict": "OK",
+            "creationTime": 1681012819
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412792,
+            "pid": "104288G",
+            "name": "Mosaic Browsing",
+            "verdict": "OK",
+            "creationTime": 1681012811
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412773,
+            "pid": "104288F",
+            "name": "Islands from the Sky",
+            "verdict": "OK",
+            "creationTime": 1681012793
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412765,
+            "pid": "104288E",
+            "name": "Hand of the Free Marked",
+            "verdict": "OK",
+            "creationTime": 1681012785
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412735,
+            "pid": "104288C",
+            "name": "Fair Division",
+            "verdict": "OK",
+            "creationTime": 1681012767
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412722,
+            "pid": "104288B",
+            "name": "Dungeon Crawler",
+            "verdict": "OK",
+            "creationTime": 1681012757
+          },
+          {
+            "platform": "codeforces",
+            "id": 201412709,
+            "pid": "104288A",
+            "name": "Crystal Crosswind",
+            "verdict": "OK",
+            "creationTime": 1681012747
           }
         ],
         "newContests": []
@@ -100,5 +212,5 @@
     ],
     "contest": []
   },
-  "ref": "7b1c4853995501ad0b402b89fea14e3833739846"
+  "ref": "a7a63b8e79b836fd3fbb3de2663fa310af18df50"
 }
