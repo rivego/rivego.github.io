@@ -1,271 +1,114 @@
 {
   "version": "0.1.29",
-  "updateTime": 1681061581,
+  "updateTime": 1681104779,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 201555670,
-            "pid": "1815F",
-            "name": "OH NO1 (-2-3-4)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1681058520
-          },
-          {
-            "platform": "codeforces",
-            "id": 201530172,
-            "pid": "1815E",
-            "name": "Bosco and Particle",
-            "verdict": "OK",
-            "creationTime": 1681055207
-          },
-          {
-            "platform": "codeforces",
-            "id": 201513083,
-            "pid": "1815D",
-            "name": "XOR Counting",
-            "verdict": "OK",
-            "creationTime": 1681053751
-          },
-          {
-            "platform": "codeforces",
-            "id": 201497483,
-            "pid": "1815C",
-            "name": "Between",
-            "verdict": "OK",
-            "creationTime": 1681052712
-          },
-          {
-            "platform": "codeforces",
-            "id": 201489690,
-            "pid": "1815B",
-            "name": "Sum Graph",
-            "verdict": "OK",
-            "creationTime": 1681052264
-          },
-          {
-            "platform": "codeforces",
-            "id": 201483243,
-            "pid": "1815A",
-            "name": "Ian and Array Sorting",
-            "verdict": "OK",
-            "creationTime": 1681051886
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 201558612,
-            "pid": "1815F",
-            "name": "OH NO1 (-2-3-4)",
-            "creationTime": 1681058983
-          },
-          {
-            "platform": "codeforces",
-            "id": 201558013,
-            "pid": "1815F",
-            "name": "OH NO1 (-2-3-4)",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1681058887
-          },
-          {
-            "platform": "codeforces",
-            "id": 201555382,
-            "pid": "1815F",
-            "name": "OH NO1 (-2-3-4)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1681058475
-          },
-          {
-            "platform": "codeforces",
-            "id": 201528832,
-            "pid": "1815E",
-            "name": "Bosco and Particle",
+            "id": 201611200,
+            "pid": "27A",
+            "name": "Next Test",
             "verdict": "OK",
-            "creationTime": 1681055075
+            "creationTime": 1681099749
           },
           {
             "platform": "codeforces",
-            "id": 201522069,
-            "pid": "1815E",
-            "name": "Bosco and Particle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1681054444
-          },
-          {
-            "platform": "codeforces",
-            "id": 201506968,
-            "pid": "1815D",
-            "name": "XOR Counting",
+            "id": 201610926,
+            "pid": "26E",
+            "name": "Multithreading",
             "verdict": "OK",
-            "creationTime": 1681053315
+            "creationTime": 1681099498
           },
           {
             "platform": "codeforces",
-            "id": 201499771,
-            "pid": "1815C",
-            "name": "Between",
+            "id": 201609596,
+            "pid": "26D",
+            "name": "Tickets",
             "verdict": "OK",
-            "creationTime": 1681052855
+            "creationTime": 1681098193
           },
           {
             "platform": "codeforces",
-            "id": 201490417,
-            "pid": "1815B",
-            "name": "Sum Graph",
+            "id": 201609033,
+            "pid": "26C",
+            "name": "Parquet",
             "verdict": "OK",
-            "creationTime": 1681052302
+            "creationTime": 1681097623
           },
           {
             "platform": "codeforces",
-            "id": 201489925,
-            "pid": "1815B",
-            "name": "Sum Graph",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1681052277
-          },
-          {
-            "platform": "codeforces",
-            "id": 201480897,
-            "pid": "1815A",
-            "name": "Ian and Array Sorting",
+            "id": 201608638,
+            "pid": "26B",
+            "name": "Regular Bracket Sequence",
             "verdict": "OK",
-            "creationTime": 1681051666
+            "creationTime": 1681097225
           },
           {
             "platform": "codeforces",
-            "id": 201475431,
-            "pid": "24E",
-            "name": "Berland collider",
+            "id": 201608465,
+            "pid": "26A",
+            "name": "Almost Prime",
             "verdict": "OK",
-            "creationTime": 1681048665
+            "creationTime": 1681097047
           },
           {
             "platform": "codeforces",
-            "id": 201474449,
-            "pid": "24D",
-            "name": "Broken robot",
+            "id": 201608269,
+            "pid": "25E",
+            "name": "Test",
             "verdict": "OK",
-            "creationTime": 1681048133
+            "creationTime": 1681096843
           },
           {
             "platform": "codeforces",
-            "id": 201472542,
-            "pid": "24D",
-            "name": "Broken robot",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1681047099
-          },
-          {
-            "platform": "codeforces",
-            "id": 201470363,
-            "pid": "24C",
-            "name": "Sequence of points",
+            "id": 201607555,
+            "pid": "25D",
+            "name": "Roads not only in Berland",
             "verdict": "OK",
-            "creationTime": 1681045845
+            "creationTime": 1681096075
           },
           {
             "platform": "codeforces",
-            "id": 201469586,
-            "pid": "24B",
-            "name": "F1 Champions",
+            "id": 201607375,
+            "pid": "25C",
+            "name": "Roads in Berland",
             "verdict": "OK",
-            "creationTime": 1681045373
+            "creationTime": 1681095892
           },
           {
             "platform": "codeforces",
-            "id": 201469274,
-            "pid": "24B",
-            "name": "F1 Champions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1681045209
-          },
-          {
-            "platform": "codeforces",
-            "id": 201468759,
-            "pid": "24A",
-            "name": "Ring road",
+            "id": 201607001,
+            "pid": "25B",
+            "name": "Phone numbers",
             "verdict": "OK",
-            "creationTime": 1681044928
+            "creationTime": 1681095522
           },
           {
             "platform": "codeforces",
-            "id": 201446016,
-            "pid": "23E",
-            "name": "Tree",
+            "id": 201606847,
+            "pid": "25A",
+            "name": "IQ test",
             "verdict": "OK",
-            "creationTime": 1681032637
+            "creationTime": 1681095340
           },
           {
             "platform": "codeforces",
-            "id": 201444447,
-            "pid": "23E",
-            "name": "Tree",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1681031823
-          },
-          {
-            "platform": "codeforces",
-            "id": 201444419,
-            "pid": "23E",
-            "name": "Tree",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1681031807
-          },
-          {
-            "platform": "codeforces",
-            "id": 201441133,
-            "pid": "23D",
-            "name": "Tetragon",
+            "id": 201605391,
+            "pid": "1816B",
+            "name": "Grid Reconstruction",
             "verdict": "OK",
-            "creationTime": 1681030130
+            "creationTime": 1681093777
           },
           {
             "platform": "codeforces",
-            "id": 201441035,
-            "pid": "23D",
-            "name": "Tetragon",
+            "id": 201604773,
+            "pid": "1816A",
+            "name": "Ian Visits Mary",
             "verdict": "OK",
-            "creationTime": 1681030078
-          },
-          {
-            "platform": "codeforces",
-            "id": 201440909,
-            "pid": "23D",
-            "name": "Tetragon",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1681030010
-          },
-          {
-            "platform": "codeforces",
-            "id": 201438705,
-            "pid": "23C",
-            "name": "Oranges and Apples",
-            "verdict": "OK",
-            "creationTime": 1681028853
-          },
-          {
-            "platform": "codeforces",
-            "id": 201436124,
-            "pid": "23B",
-            "name": "Party",
-            "verdict": "OK",
-            "creationTime": 1681027464
-          },
-          {
-            "platform": "codeforces",
-            "id": 201435455,
-            "pid": "23A",
-            "name": "You're Given a String...",
-            "verdict": "OK",
-            "creationTime": 1681027145
+            "creationTime": 1681093135
           }
         ],
         "newContests": []
@@ -273,5 +116,5 @@
     ],
     "contest": []
   },
-  "ref": "aa650b8f1eb24d78c433b71ed6ac8b43cf28959b"
+  "ref": "e0d179f94838a451b1cef9c5c0254123f3e29ed6"
 }
