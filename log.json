@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1681104779,
+  "updateTime": 1681148002,
   "history": {
     "user": [
       {
@@ -8,107 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 201611200,
-            "pid": "27A",
-            "name": "Next Test",
+            "id": 201688921,
+            "pid": "380C",
+            "name": "Sereja and Brackets",
             "verdict": "OK",
-            "creationTime": 1681099749
+            "creationTime": 1681142716
           },
           {
             "platform": "codeforces",
-            "id": 201610926,
-            "pid": "26E",
-            "name": "Multithreading",
+            "id": 201688094,
+            "pid": "1147C",
+            "name": "Thanos Nim",
             "verdict": "OK",
-            "creationTime": 1681099498
+            "creationTime": 1681142273
           },
           {
             "platform": "codeforces",
-            "id": 201609596,
-            "pid": "26D",
-            "name": "Tickets",
-            "verdict": "OK",
-            "creationTime": 1681098193
+            "id": 201685740,
+            "pid": "1147C",
+            "name": "Thanos Nim",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1681141218
           },
           {
             "platform": "codeforces",
-            "id": 201609033,
-            "pid": "26C",
-            "name": "Parquet",
+            "id": 201620038,
+            "pid": "27E",
+            "name": "Number With The Given Amount Of Divisors",
             "verdict": "OK",
-            "creationTime": 1681097623
+            "creationTime": 1681107254
           },
           {
             "platform": "codeforces",
-            "id": 201608638,
-            "pid": "26B",
-            "name": "Regular Bracket Sequence",
-            "verdict": "OK",
-            "creationTime": 1681097225
+            "id": 201619973,
+            "pid": "27E",
+            "name": "Number With The Given Amount Of Divisors",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1681107205
           },
           {
             "platform": "codeforces",
-            "id": 201608465,
-            "pid": "26A",
-            "name": "Almost Prime",
+            "id": 201619655,
+            "pid": "27D",
+            "name": "Ring Road 2",
             "verdict": "OK",
-            "creationTime": 1681097047
-          },
-          {
-            "platform": "codeforces",
-            "id": 201608269,
-            "pid": "25E",
-            "name": "Test",
-            "verdict": "OK",
-            "creationTime": 1681096843
-          },
-          {
-            "platform": "codeforces",
-            "id": 201607555,
-            "pid": "25D",
-            "name": "Roads not only in Berland",
-            "verdict": "OK",
-            "creationTime": 1681096075
-          },
-          {
-            "platform": "codeforces",
-            "id": 201607375,
-            "pid": "25C",
-            "name": "Roads in Berland",
-            "verdict": "OK",
-            "creationTime": 1681095892
-          },
-          {
-            "platform": "codeforces",
-            "id": 201607001,
-            "pid": "25B",
-            "name": "Phone numbers",
-            "verdict": "OK",
-            "creationTime": 1681095522
-          },
-          {
-            "platform": "codeforces",
-            "id": 201606847,
-            "pid": "25A",
-            "name": "IQ test",
-            "verdict": "OK",
-            "creationTime": 1681095340
-          },
-          {
-            "platform": "codeforces",
-            "id": 201605391,
-            "pid": "1816B",
-            "name": "Grid Reconstruction",
-            "verdict": "OK",
-            "creationTime": 1681093777
-          },
-          {
-            "platform": "codeforces",
-            "id": 201604773,
-            "pid": "1816A",
-            "name": "Ian Visits Mary",
-            "verdict": "OK",
-            "creationTime": 1681093135
+            "creationTime": 1681106950
           }
         ],
         "newContests": []
@@ -116,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "e0d179f94838a451b1cef9c5c0254123f3e29ed6"
+  "ref": "54a572b757efc3585c95b2ac64d4ce3110d0e749"
 }
