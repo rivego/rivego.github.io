@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1681148002,
+  "updateTime": 1681234404,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 201688921,
-            "pid": "380C",
-            "name": "Sereja and Brackets",
-            "verdict": "OK",
-            "creationTime": 1681142716
-          },
-          {
-            "platform": "codeforces",
-            "id": 201688094,
-            "pid": "1147C",
-            "name": "Thanos Nim",
-            "verdict": "OK",
-            "creationTime": 1681142273
-          },
-          {
-            "platform": "codeforces",
-            "id": 201685740,
-            "pid": "1147C",
-            "name": "Thanos Nim",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1681141218
-          },
-          {
-            "platform": "codeforces",
-            "id": 201620038,
-            "pid": "27E",
-            "name": "Number With The Given Amount Of Divisors",
-            "verdict": "OK",
-            "creationTime": 1681107254
-          },
-          {
-            "platform": "codeforces",
-            "id": 201619973,
-            "pid": "27E",
-            "name": "Number With The Given Amount Of Divisors",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1681107205
-          },
-          {
-            "platform": "codeforces",
-            "id": 201619655,
-            "pid": "27D",
-            "name": "Ring Road 2",
-            "verdict": "OK",
-            "creationTime": 1681106950
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "54a572b757efc3585c95b2ac64d4ce3110d0e749"
+  "ref": "2c6e1ed07c1c4f9f1ef0bd0611af6dbfe2eca8ac"
 }

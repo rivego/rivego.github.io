@@ -110,8 +110,7 @@
           "constructive algorithms",
           "dfs and similar",
           "graphs",
-          "greedy",
-          "shortest paths"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1815/problem/C"
       },
@@ -140,7 +139,6 @@
           "graphs",
           "implementation",
           "interactive",
-          "math",
           "shortest paths",
           "trees"
         ],
@@ -168,7 +166,6 @@
         "rating": 1300,
         "tags": [
           "greedy",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1815/problem/A"
