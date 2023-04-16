@@ -16159,6 +16159,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "UTPC Spring 2023 Open Contest",
+    "startTime": 1681581600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104294,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104294",
+    "standingsUrl": "https://codeforces.com/gym/104294/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "TheForces Round #10 (TEN-Forces)",
     "startTime": 1681139100,
     "duration": 7200,
@@ -16210,5 +16221,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104313",
     "standingsUrl": "https://codeforces.com/gym/104313/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Spring 2023 Contest (HS)",
+    "startTime": 1681581600,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104312,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104312",
+    "standingsUrl": "https://codeforces.com/gym/104312/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "XXV Interregional Programming Olympiad, Vologda SU, 2023",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104314,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104314",
+    "standingsUrl": "https://codeforces.com/gym/104314/standings"
   }
 ]
