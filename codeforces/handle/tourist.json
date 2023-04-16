@@ -73,7 +73,8 @@
         "name": "Misha and Apples",
         "tags": [
           "data structures",
-          "dp"
+          "dp",
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1819/problem/D"
       },
