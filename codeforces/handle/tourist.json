@@ -73,8 +73,7 @@
         "name": "Misha and Apples",
         "tags": [
           "data structures",
-          "dp",
-          "graphs"
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1819/problem/D"
       },
@@ -100,7 +99,6 @@
         "tags": [
           "constructive algorithms",
           "dp",
-          "games",
           "implementation",
           "math",
           "trees"
