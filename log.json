@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1681839171,
+  "updateTime": 1681925591,
   "history": {
     "user": [
       {
@@ -8,35 +8,259 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 202614359,
-            "pid": "417E",
-            "name": "Square Table",
+            "id": 202713265,
+            "pid": "36E",
+            "name": "Two Paths",
             "verdict": "OK",
-            "creationTime": 1681826665
+            "creationTime": 1681910985
           },
           {
             "platform": "codeforces",
-            "id": 202607910,
-            "pid": "1819F",
-            "name": "Willy-nilly, Crack, Into Release!",
-            "verdict": "OK",
-            "creationTime": 1681823480
-          },
-          {
-            "platform": "codeforces",
-            "id": 202568402,
-            "pid": "32E",
-            "name": "Hide-and-Seek",
-            "verdict": "OK",
-            "creationTime": 1681797412
-          },
-          {
-            "platform": "codeforces",
-            "id": 202568061,
-            "pid": "32E",
-            "name": "Hide-and-Seek",
+            "id": 202713114,
+            "pid": "36E",
+            "name": "Two Paths",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1681797133
+            "creationTime": 1681910917
+          },
+          {
+            "platform": "codeforces",
+            "id": 202713039,
+            "pid": "36E",
+            "name": "Two Paths",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1681910872
+          },
+          {
+            "platform": "codeforces",
+            "id": 202709363,
+            "pid": "36D",
+            "name": "New Game with a Chess Piece",
+            "verdict": "OK",
+            "creationTime": 1681909254
+          },
+          {
+            "platform": "codeforces",
+            "id": 202709061,
+            "pid": "36D",
+            "name": "New Game with a Chess Piece",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1681909108
+          },
+          {
+            "platform": "codeforces",
+            "id": 202707816,
+            "pid": "36C",
+            "name": "Bowls",
+            "verdict": "OK",
+            "creationTime": 1681908569
+          },
+          {
+            "platform": "codeforces",
+            "id": 202706335,
+            "pid": "36B",
+            "name": "Fractal",
+            "verdict": "OK",
+            "creationTime": 1681907869
+          },
+          {
+            "platform": "codeforces",
+            "id": 202705854,
+            "pid": "36A",
+            "name": "Extra-terrestrial Intelligence",
+            "verdict": "OK",
+            "creationTime": 1681907616
+          },
+          {
+            "platform": "codeforces",
+            "id": 202696861,
+            "pid": "35E",
+            "name": "Parade",
+            "verdict": "OK",
+            "creationTime": 1681901888
+          },
+          {
+            "platform": "codeforces",
+            "id": 202696185,
+            "pid": "35D",
+            "name": "Animals",
+            "verdict": "OK",
+            "creationTime": 1681901338
+          },
+          {
+            "platform": "codeforces",
+            "id": 202695911,
+            "pid": "35C",
+            "name": "Fire Again",
+            "verdict": "OK",
+            "creationTime": 1681901125
+          },
+          {
+            "platform": "codeforces",
+            "id": 202695658,
+            "pid": "35B",
+            "name": "Warehouse",
+            "verdict": "OK",
+            "creationTime": 1681900948
+          },
+          {
+            "platform": "codeforces",
+            "id": 202694780,
+            "pid": "35A",
+            "name": "Shell Game",
+            "verdict": "OK",
+            "creationTime": 1681900251
+          },
+          {
+            "platform": "codeforces",
+            "id": 202691841,
+            "pid": "34E",
+            "name": "Collisions",
+            "verdict": "OK",
+            "creationTime": 1681897690
+          },
+          {
+            "platform": "codeforces",
+            "id": 202691006,
+            "pid": "34D",
+            "name": "Road Map",
+            "verdict": "OK",
+            "creationTime": 1681896952
+          },
+          {
+            "platform": "codeforces",
+            "id": 202690801,
+            "pid": "34C",
+            "name": "Page Numbers",
+            "verdict": "OK",
+            "creationTime": 1681896754
+          },
+          {
+            "platform": "codeforces",
+            "id": 202690544,
+            "pid": "34B",
+            "name": "Sale",
+            "verdict": "OK",
+            "creationTime": 1681896503
+          },
+          {
+            "platform": "codeforces",
+            "id": 202689236,
+            "pid": "34A",
+            "name": "Reconnaissance 2",
+            "verdict": "OK",
+            "creationTime": 1681895327
+          },
+          {
+            "platform": "codeforces",
+            "id": 202688760,
+            "pid": "33E",
+            "name": "Helper",
+            "verdict": "OK",
+            "creationTime": 1681894901
+          },
+          {
+            "platform": "codeforces",
+            "id": 202688711,
+            "pid": "33E",
+            "name": "Helper",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1681894858
+          },
+          {
+            "platform": "codeforces",
+            "id": 202686942,
+            "pid": "33C",
+            "name": "Wonderful Randomized Sum",
+            "verdict": "OK",
+            "creationTime": 1681893284
+          },
+          {
+            "platform": "codeforces",
+            "id": 202686747,
+            "pid": "33B",
+            "name": "String Problem",
+            "verdict": "OK",
+            "creationTime": 1681893121
+          },
+          {
+            "platform": "codeforces",
+            "id": 202686406,
+            "pid": "33A",
+            "name": "What is for dinner?",
+            "verdict": "OK",
+            "creationTime": 1681892798
+          },
+          {
+            "platform": "codeforces",
+            "id": 202680926,
+            "pid": "1820A",
+            "name": "Yura's New Name",
+            "verdict": "OK",
+            "creationTime": 1681887345
+          },
+          {
+            "platform": "codeforces",
+            "id": 202680679,
+            "pid": "1820B",
+            "name": "JoJo's Incredible Adventures",
+            "verdict": "OK",
+            "creationTime": 1681887127
+          },
+          {
+            "platform": "codeforces",
+            "id": 202680199,
+            "pid": "1819A",
+            "name": "Constructive Problem",
+            "verdict": "OK",
+            "creationTime": 1681886665
+          },
+          {
+            "platform": "codeforces",
+            "id": 202679944,
+            "pid": "1819B",
+            "name": "The Butcher",
+            "verdict": "OK",
+            "creationTime": 1681886414
+          },
+          {
+            "platform": "codeforces",
+            "id": 202679800,
+            "pid": "1819B",
+            "name": "The Butcher",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1681886270
+          },
+          {
+            "platform": "codeforces",
+            "id": 202679342,
+            "pid": "1819C",
+            "name": "The Fox and the Complete Tree Traversal",
+            "verdict": "OK",
+            "creationTime": 1681885829
+          },
+          {
+            "platform": "codeforces",
+            "id": 202678600,
+            "pid": "1819D",
+            "name": "Misha and Apples",
+            "verdict": "OK",
+            "creationTime": 1681885010
+          },
+          {
+            "platform": "codeforces",
+            "id": 202677662,
+            "pid": "1819E",
+            "name": "Roads in E City",
+            "verdict": "OK",
+            "creationTime": 1681884036
+          },
+          {
+            "platform": "codeforces",
+            "id": 202677393,
+            "pid": "1819E",
+            "name": "Roads in E City",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1681883701
           }
         ],
         "newContests": []
@@ -44,5 +268,5 @@
     ],
     "contest": []
   },
-  "ref": "f05f8e4c8bcd5c23dd3f858020f5b9c1fb4e391f"
+  "ref": "c30b1377e2b2eaaafaf055bbdf1c067948e0277a"
 }

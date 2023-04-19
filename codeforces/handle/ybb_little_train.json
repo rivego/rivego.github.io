@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1805B",
         "name": "The String Has a Target",
+        "rating": 800,
         "tags": [
           "greedy",
           "strings"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1805A",
         "name": "We Need the Zero",
+        "rating": 800,
         "tags": [
           "bitmasks",
           "brute force"
