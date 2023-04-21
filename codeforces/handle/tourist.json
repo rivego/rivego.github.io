@@ -162,9 +162,7 @@
         "rating": 1300,
         "tags": [
           "brute force",
-          "constructive algorithms",
-          "greedy",
-          "implementation"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1819/problem/A"
       },
