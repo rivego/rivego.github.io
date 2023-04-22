@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1682098380,
+  "updateTime": 1682141592,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 202931377,
-            "pid": "38H",
-            "name": "The Great Marathon",
-            "verdict": "OK",
-            "creationTime": 1682062856
-          },
-          {
-            "platform": "codeforces",
-            "id": 202920690,
-            "pid": "38F",
-            "name": "Smart Boy",
-            "verdict": "OK",
-            "creationTime": 1682055417
-          },
-          {
-            "platform": "codeforces",
-            "id": 202920485,
-            "pid": "38F",
-            "name": "Smart Boy",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682055215
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9f8160a9f2bad68cf5a01bd85e23edb9b58e9e60"
+  "ref": "c7dfcfd6b331a757f8134ecd67527b4586120135"
 }
