@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1682184793,
+  "updateTime": 1682227973,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 203103318,
+            "pid": "40C",
+            "name": "Berland Square",
+            "verdict": "OK",
+            "creationTime": 1682222736
+          },
+          {
+            "platform": "codeforces",
+            "id": 203103046,
+            "pid": "40C",
+            "name": "Berland Square",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682222338
+          },
+          {
+            "platform": "codeforces",
+            "id": 203103028,
+            "pid": "40C",
+            "name": "Berland Square",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682222317
+          },
+          {
+            "platform": "codeforces",
+            "id": 203102393,
+            "pid": "40B",
+            "name": "Repaintings",
+            "verdict": "OK",
+            "creationTime": 1682221349
+          },
+          {
+            "platform": "codeforces",
+            "id": 203102239,
+            "pid": "40A",
+            "name": "Find Color",
+            "verdict": "OK",
+            "creationTime": 1682221090
+          },
+          {
+            "platform": "codeforces",
+            "id": 203075149,
+            "pid": "778D",
+            "name": "Parquet Re-laying",
+            "verdict": "OK",
+            "creationTime": 1682187068
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "da27da370185f7ea835e65d738f754de11ddf921"
+  "ref": "01537143743c8cd924992f266b9a2c1f0224e916"
 }
