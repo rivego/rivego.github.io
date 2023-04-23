@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1682227973,
+  "updateTime": 1682271185,
   "history": {
     "user": [
       {
@@ -8,51 +8,195 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 203103318,
-            "pid": "40C",
-            "name": "Berland Square",
+            "id": 203166998,
+            "pid": "598C",
+            "name": "Nearest vectors",
             "verdict": "OK",
-            "creationTime": 1682222736
+            "creationTime": 1682262837
           },
           {
             "platform": "codeforces",
-            "id": 203103046,
-            "pid": "40C",
-            "name": "Berland Square",
+            "id": 203166570,
+            "pid": "598C",
+            "name": "Nearest vectors",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1682222338
+            "creationTime": 1682262549
           },
           {
             "platform": "codeforces",
-            "id": 203103028,
-            "pid": "40C",
-            "name": "Berland Square",
+            "id": 203166221,
+            "pid": "598C",
+            "name": "Nearest vectors",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1682222317
+            "creationTime": 1682262321
           },
           {
             "platform": "codeforces",
-            "id": 203102393,
-            "pid": "40B",
-            "name": "Repaintings",
-            "verdict": "OK",
-            "creationTime": 1682221349
+            "id": 203166188,
+            "pid": "598C",
+            "name": "Nearest vectors",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682262302
           },
           {
             "platform": "codeforces",
-            "id": 203102239,
-            "pid": "40A",
-            "name": "Find Color",
+            "id": 203165741,
+            "pid": "598B",
+            "name": "Queries on a String",
             "verdict": "OK",
-            "creationTime": 1682221090
+            "creationTime": 1682262011
           },
           {
             "platform": "codeforces",
-            "id": 203075149,
-            "pid": "778D",
-            "name": "Parquet Re-laying",
+            "id": 203165455,
+            "pid": "598A",
+            "name": "Tricky Sum",
             "verdict": "OK",
-            "creationTime": 1682187068
+            "creationTime": 1682261834
+          },
+          {
+            "platform": "codeforces",
+            "id": 203132350,
+            "pid": "44I",
+            "name": "Toys",
+            "verdict": "OK",
+            "creationTime": 1682243152
+          },
+          {
+            "platform": "codeforces",
+            "id": 203132275,
+            "pid": "44I",
+            "name": "Toys",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682243112
+          },
+          {
+            "platform": "codeforces",
+            "id": 203131299,
+            "pid": "44H",
+            "name": "Phone Number",
+            "verdict": "OK",
+            "creationTime": 1682242520
+          },
+          {
+            "platform": "codeforces",
+            "id": 203130683,
+            "pid": "44G",
+            "name": "Shooting Gallery",
+            "verdict": "OK",
+            "creationTime": 1682242163
+          },
+          {
+            "platform": "codeforces",
+            "id": 203130592,
+            "pid": "44G",
+            "name": "Shooting Gallery",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682242106
+          },
+          {
+            "platform": "codeforces",
+            "id": 203128459,
+            "pid": "44G",
+            "name": "Shooting Gallery",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1682240641
+          },
+          {
+            "platform": "codeforces",
+            "id": 203128428,
+            "pid": "44G",
+            "name": "Shooting Gallery",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1682240621
+          },
+          {
+            "platform": "codeforces",
+            "id": 203128348,
+            "pid": "44G",
+            "name": "Shooting Gallery",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1682240567
+          },
+          {
+            "platform": "codeforces",
+            "id": 203127223,
+            "pid": "44G",
+            "name": "Shooting Gallery",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1682239825
+          },
+          {
+            "platform": "codeforces",
+            "id": 203127039,
+            "pid": "44G",
+            "name": "Shooting Gallery",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1682239728
+          },
+          {
+            "platform": "codeforces",
+            "id": 203123947,
+            "pid": "44E",
+            "name": "Anfisa the Monkey",
+            "verdict": "OK",
+            "creationTime": 1682237525
+          },
+          {
+            "platform": "codeforces",
+            "id": 203123768,
+            "pid": "44D",
+            "name": "Hyperdrive",
+            "verdict": "OK",
+            "creationTime": 1682237388
+          },
+          {
+            "platform": "codeforces",
+            "id": 203123580,
+            "pid": "44C",
+            "name": "Holidays",
+            "verdict": "OK",
+            "creationTime": 1682237246
+          },
+          {
+            "platform": "codeforces",
+            "id": 203123397,
+            "pid": "44C",
+            "name": "Holidays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682237101
+          },
+          {
+            "platform": "codeforces",
+            "id": 203123109,
+            "pid": "44B",
+            "name": "Cola",
+            "verdict": "OK",
+            "creationTime": 1682236886
+          },
+          {
+            "platform": "codeforces",
+            "id": 203122955,
+            "pid": "44A",
+            "name": "Indian Summer",
+            "verdict": "OK",
+            "creationTime": 1682236768
+          },
+          {
+            "platform": "codeforces",
+            "id": 203113369,
+            "pid": "40E",
+            "name": "Number Table",
+            "verdict": "OK",
+            "creationTime": 1682229339
+          },
+          {
+            "platform": "codeforces",
+            "id": 203112836,
+            "pid": "40D",
+            "name": "Interesting Sequence",
+            "verdict": "OK",
+            "creationTime": 1682228786
           }
         ],
         "newContests": []
@@ -60,5 +204,5 @@
     ],
     "contest": []
   },
-  "ref": "01537143743c8cd924992f266b9a2c1f0224e916"
+  "ref": "d06474aa82d266649467b2bd3067c128839c4ad3"
 }
