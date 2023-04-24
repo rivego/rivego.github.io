@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1682271185,
+  "updateTime": 1682314371,
   "history": {
     "user": [
       {
@@ -8,195 +8,195 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 203166998,
-            "pid": "598C",
-            "name": "Nearest vectors",
+            "id": 203215225,
+            "pid": "609C",
+            "name": "Load Balancing",
             "verdict": "OK",
-            "creationTime": 1682262837
+            "creationTime": 1682313806
           },
           {
             "platform": "codeforces",
-            "id": 203166570,
-            "pid": "598C",
-            "name": "Nearest vectors",
+            "id": 203215055,
+            "pid": "609B",
+            "name": "The Best Gift",
+            "verdict": "OK",
+            "creationTime": 1682313583
+          },
+          {
+            "platform": "codeforces",
+            "id": 203215039,
+            "pid": "609A",
+            "name": "USB Flash Drives",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1682262549
+            "creationTime": 1682313567
           },
           {
             "platform": "codeforces",
-            "id": 203166221,
-            "pid": "598C",
-            "name": "Nearest vectors",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682262321
-          },
-          {
-            "platform": "codeforces",
-            "id": 203166188,
-            "pid": "598C",
-            "name": "Nearest vectors",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682262302
-          },
-          {
-            "platform": "codeforces",
-            "id": 203165741,
-            "pid": "598B",
-            "name": "Queries on a String",
+            "id": 203212722,
+            "pid": "600F",
+            "name": "Edge coloring of bipartite graph",
             "verdict": "OK",
-            "creationTime": 1682262011
+            "creationTime": 1682310126
           },
           {
             "platform": "codeforces",
-            "id": 203165455,
-            "pid": "598A",
-            "name": "Tricky Sum",
-            "verdict": "OK",
-            "creationTime": 1682261834
-          },
-          {
-            "platform": "codeforces",
-            "id": 203132350,
-            "pid": "44I",
-            "name": "Toys",
-            "verdict": "OK",
-            "creationTime": 1682243152
-          },
-          {
-            "platform": "codeforces",
-            "id": 203132275,
-            "pid": "44I",
-            "name": "Toys",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682243112
-          },
-          {
-            "platform": "codeforces",
-            "id": 203131299,
-            "pid": "44H",
-            "name": "Phone Number",
-            "verdict": "OK",
-            "creationTime": 1682242520
-          },
-          {
-            "platform": "codeforces",
-            "id": 203130683,
-            "pid": "44G",
-            "name": "Shooting Gallery",
-            "verdict": "OK",
-            "creationTime": 1682242163
-          },
-          {
-            "platform": "codeforces",
-            "id": 203130592,
-            "pid": "44G",
-            "name": "Shooting Gallery",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682242106
-          },
-          {
-            "platform": "codeforces",
-            "id": 203128459,
-            "pid": "44G",
-            "name": "Shooting Gallery",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1682240641
-          },
-          {
-            "platform": "codeforces",
-            "id": 203128428,
-            "pid": "44G",
-            "name": "Shooting Gallery",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1682240621
-          },
-          {
-            "platform": "codeforces",
-            "id": 203128348,
-            "pid": "44G",
-            "name": "Shooting Gallery",
+            "id": 203212651,
+            "pid": "600F",
+            "name": "Edge coloring of bipartite graph",
             "verdict": "RUNTIME_ERROR",
-            "creationTime": 1682240567
+            "creationTime": 1682310018
           },
           {
             "platform": "codeforces",
-            "id": 203127223,
-            "pid": "44G",
-            "name": "Shooting Gallery",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1682239825
-          },
-          {
-            "platform": "codeforces",
-            "id": 203127039,
-            "pid": "44G",
-            "name": "Shooting Gallery",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1682239728
-          },
-          {
-            "platform": "codeforces",
-            "id": 203123947,
-            "pid": "44E",
-            "name": "Anfisa the Monkey",
+            "id": 203211741,
+            "pid": "600E",
+            "name": "Lomsat gelral",
             "verdict": "OK",
-            "creationTime": 1682237525
+            "creationTime": 1682308701
           },
           {
             "platform": "codeforces",
-            "id": 203123768,
-            "pid": "44D",
-            "name": "Hyperdrive",
+            "id": 203211276,
+            "pid": "600D",
+            "name": "Area of Two Circles' Intersection",
             "verdict": "OK",
-            "creationTime": 1682237388
+            "creationTime": 1682307980
           },
           {
             "platform": "codeforces",
-            "id": 203123580,
-            "pid": "44C",
-            "name": "Holidays",
-            "verdict": "OK",
-            "creationTime": 1682237246
-          },
-          {
-            "platform": "codeforces",
-            "id": 203123397,
-            "pid": "44C",
-            "name": "Holidays",
+            "id": 203211259,
+            "pid": "600D",
+            "name": "Area of Two Circles' Intersection",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1682237101
+            "creationTime": 1682307948
           },
           {
             "platform": "codeforces",
-            "id": 203123109,
-            "pid": "44B",
-            "name": "Cola",
+            "id": 203210881,
+            "pid": "600C",
+            "name": "Make Palindrome",
             "verdict": "OK",
-            "creationTime": 1682236886
+            "creationTime": 1682307352
           },
           {
             "platform": "codeforces",
-            "id": 203122955,
-            "pid": "44A",
-            "name": "Indian Summer",
-            "verdict": "OK",
-            "creationTime": 1682236768
+            "id": 203210869,
+            "pid": "600C",
+            "name": "Make Palindrome",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1682307340
           },
           {
             "platform": "codeforces",
-            "id": 203113369,
-            "pid": "40E",
-            "name": "Number Table",
-            "verdict": "OK",
-            "creationTime": 1682229339
+            "id": 203210841,
+            "pid": "600C",
+            "name": "Make Palindrome",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682307303
           },
           {
             "platform": "codeforces",
-            "id": 203112836,
-            "pid": "40D",
-            "name": "Interesting Sequence",
+            "id": 203210554,
+            "pid": "600B",
+            "name": "Queries about less or equal elements",
             "verdict": "OK",
-            "creationTime": 1682228786
+            "creationTime": 1682306865
+          },
+          {
+            "platform": "codeforces",
+            "id": 203210471,
+            "pid": "600A",
+            "name": "Extract Numbers",
+            "verdict": "OK",
+            "creationTime": 1682306754
+          },
+          {
+            "platform": "codeforces",
+            "id": 203186397,
+            "pid": "598F",
+            "name": "Cut Length",
+            "verdict": "OK",
+            "creationTime": 1682276330
+          },
+          {
+            "platform": "codeforces",
+            "id": 203185675,
+            "pid": "598F",
+            "name": "Cut Length",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682275736
+          },
+          {
+            "platform": "codeforces",
+            "id": 203185200,
+            "pid": "598F",
+            "name": "Cut Length",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682275358
+          },
+          {
+            "platform": "codeforces",
+            "id": 203185179,
+            "pid": "598F",
+            "name": "Cut Length",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682275345
+          },
+          {
+            "platform": "codeforces",
+            "id": 203184307,
+            "pid": "598F",
+            "name": "Cut Length",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682274656
+          },
+          {
+            "platform": "codeforces",
+            "id": 203183100,
+            "pid": "598F",
+            "name": "Cut Length",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682273790
+          },
+          {
+            "platform": "codeforces",
+            "id": 203182047,
+            "pid": "598E",
+            "name": "Chocolate Bar",
+            "verdict": "OK",
+            "creationTime": 1682272995
+          },
+          {
+            "platform": "codeforces",
+            "id": 203181968,
+            "pid": "598E",
+            "name": "Chocolate Bar",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682272942
+          },
+          {
+            "platform": "codeforces",
+            "id": 203180937,
+            "pid": "598D",
+            "name": "Igor In the Museum",
+            "verdict": "OK",
+            "creationTime": 1682272268
+          },
+          {
+            "platform": "codeforces",
+            "id": 203180014,
+            "pid": "248D",
+            "name": "Sweets for Everyone!",
+            "verdict": "OK",
+            "creationTime": 1682271660
+          },
+          {
+            "platform": "codeforces",
+            "id": 203179713,
+            "pid": "248D",
+            "name": "Sweets for Everyone!",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1682271469
           }
         ],
         "newContests": []
@@ -204,5 +204,5 @@
     ],
     "contest": []
   },
-  "ref": "d06474aa82d266649467b2bd3067c128839c4ad3"
+  "ref": "e38794f72f14081b116ae42b3b70c5029b67cd7d"
 }
