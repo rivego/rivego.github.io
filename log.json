@@ -1,96 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1682357591,
+  "updateTime": 1682400781,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 203223282,
-            "pid": "612E",
-            "name": "Square Root of Permutation",
-            "verdict": "OK",
-            "creationTime": 1682322807
-          },
-          {
-            "platform": "codeforces",
-            "id": 203222974,
-            "pid": "612D",
-            "name": "The Union of k-Segments",
-            "verdict": "OK",
-            "creationTime": 1682322479
-          },
-          {
-            "platform": "codeforces",
-            "id": 203222345,
-            "pid": "612D",
-            "name": "The Union of k-Segments",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682321805
-          },
-          {
-            "platform": "codeforces",
-            "id": 203222052,
-            "pid": "612C",
-            "name": "Replace To Make Regular Bracket Sequence",
-            "verdict": "OK",
-            "creationTime": 1682321482
-          },
-          {
-            "platform": "codeforces",
-            "id": 203221809,
-            "pid": "612B",
-            "name": "HDD is Outdated Technology",
-            "verdict": "OK",
-            "creationTime": 1682321198
-          },
-          {
-            "platform": "codeforces",
-            "id": 203221625,
-            "pid": "612A",
-            "name": "The Text Splitting",
-            "verdict": "OK",
-            "creationTime": 1682321011
-          },
-          {
-            "platform": "codeforces",
-            "id": 203217169,
-            "pid": "609F",
-            "name": "Frogs and mosquitoes",
-            "verdict": "OK",
-            "creationTime": 1682316180
-          },
-          {
-            "platform": "codeforces",
-            "id": 203217104,
-            "pid": "609F",
-            "name": "Frogs and mosquitoes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682316104
-          },
-          {
-            "platform": "codeforces",
-            "id": 203216366,
-            "pid": "609E",
-            "name": "Minimum spanning tree for each edge",
-            "verdict": "OK",
-            "creationTime": 1682315240
-          },
-          {
-            "platform": "codeforces",
-            "id": 203215644,
-            "pid": "609D",
-            "name": "Gadgets for dollars and pounds",
-            "verdict": "OK",
-            "creationTime": 1682314384
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "da74da8146daca8fedac1fa798a89f05380565c1"
+  "ref": "8e3d36ccfddb923263de6e684ebaeeaa5940dc6e"
 }
