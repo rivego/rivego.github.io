@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1682530380,
+  "updateTime": 1682573580,
   "history": {
     "user": [
       {
@@ -8,267 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 203580881,
-            "pid": "158E",
-            "name": "Phone Talks",
+            "id": 203622246,
+            "pid": "331E2",
+            "name": "Deja Vu",
             "verdict": "OK",
-            "creationTime": 1682529178
+            "creationTime": 1682568821
           },
           {
             "platform": "codeforces",
-            "id": 203580764,
-            "pid": "158E",
-            "name": "Phone Talks",
+            "id": 203622112,
+            "pid": "331E2",
+            "name": "Deja Vu",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1682529094
-          },
-          {
-            "platform": "codeforces",
-            "id": 203578979,
-            "pid": "158D",
-            "name": "Ice Sculptures",
-            "verdict": "OK",
-            "creationTime": 1682528001
-          },
-          {
-            "platform": "codeforces",
-            "id": 203578673,
-            "pid": "158C",
-            "name": "Cd and pwd commands",
-            "verdict": "OK",
-            "creationTime": 1682527806
-          },
-          {
-            "platform": "codeforces",
-            "id": 203577809,
-            "pid": "158B",
-            "name": "Taxi",
-            "verdict": "OK",
-            "creationTime": 1682527262
-          },
-          {
-            "platform": "codeforces",
-            "id": 203577550,
-            "pid": "158A",
-            "name": "Next Round",
-            "verdict": "OK",
-            "creationTime": 1682527092
-          },
-          {
-            "platform": "codeforces",
-            "id": 203543539,
-            "pid": "71E",
-            "name": "Nuclear Fusion",
-            "verdict": "OK",
-            "creationTime": 1682507889
-          },
-          {
-            "platform": "codeforces",
-            "id": 203535541,
-            "pid": "71D",
-            "name": "Solitaire",
-            "verdict": "OK",
-            "creationTime": 1682501963
-          },
-          {
-            "platform": "codeforces",
-            "id": 203533343,
-            "pid": "71C",
-            "name": "Round Table Knights",
-            "verdict": "OK",
-            "creationTime": 1682500205
-          },
-          {
-            "platform": "codeforces",
-            "id": 203532681,
-            "pid": "71B",
-            "name": "Progress Bar",
-            "verdict": "OK",
-            "creationTime": 1682499679
-          },
-          {
-            "platform": "codeforces",
-            "id": 203532329,
-            "pid": "71A",
-            "name": "Way Too Long Words",
-            "verdict": "OK",
-            "creationTime": 1682499423
-          },
-          {
-            "platform": "codeforces",
-            "id": 203531144,
-            "pid": "47E",
-            "name": "Cannon",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1682498566
-          },
-          {
-            "platform": "codeforces",
-            "id": 203531112,
-            "pid": "47E",
-            "name": "Cannon",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682498539
-          },
-          {
-            "platform": "codeforces",
-            "id": 203530988,
-            "pid": "47E",
-            "name": "Cannon",
-            "verdict": "OK",
-            "creationTime": 1682498436
-          },
-          {
-            "platform": "codeforces",
-            "id": 203530514,
-            "pid": "47E",
-            "name": "Cannon",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682498091
-          },
-          {
-            "platform": "codeforces",
-            "id": 203528837,
-            "pid": "47D",
-            "name": "Safe",
-            "verdict": "OK",
-            "creationTime": 1682496815
-          },
-          {
-            "platform": "codeforces",
-            "id": 203528400,
-            "pid": "47B",
-            "name": "Coins",
-            "verdict": "OK",
-            "creationTime": 1682496469
-          },
-          {
-            "platform": "codeforces",
-            "id": 203528147,
-            "pid": "47A",
-            "name": "Triangular numbers",
-            "verdict": "OK",
-            "creationTime": 1682496259
-          },
-          {
-            "platform": "codeforces",
-            "id": 203527895,
-            "pid": "46G",
-            "name": "Emperor's Problem",
-            "verdict": "OK",
-            "creationTime": 1682496083
-          },
-          {
-            "platform": "codeforces",
-            "id": 203526627,
-            "pid": "46F",
-            "name": "Hercule Poirot Problem",
-            "verdict": "OK",
-            "creationTime": 1682495169
-          },
-          {
-            "platform": "codeforces",
-            "id": 203523190,
-            "pid": "46E",
-            "name": "Comb",
-            "verdict": "OK",
-            "creationTime": 1682492692
-          },
-          {
-            "platform": "codeforces",
-            "id": 203522145,
-            "pid": "46D",
-            "name": "Parking Lot",
-            "verdict": "OK",
-            "creationTime": 1682491919
-          },
-          {
-            "platform": "codeforces",
-            "id": 203521696,
-            "pid": "46C",
-            "name": "Hamsters and Tigers",
-            "verdict": "OK",
-            "creationTime": 1682491558
-          },
-          {
-            "platform": "codeforces",
-            "id": 203521512,
-            "pid": "46B",
-            "name": "T-shirts from Sponsor",
-            "verdict": "OK",
-            "creationTime": 1682491404
-          },
-          {
-            "platform": "codeforces",
-            "id": 203521261,
-            "pid": "46A",
-            "name": "Ball Game",
-            "verdict": "OK",
-            "creationTime": 1682491221
-          },
-          {
-            "platform": "codeforces",
-            "id": 203520977,
-            "pid": "43E",
-            "name": "Race",
-            "verdict": "OK",
-            "creationTime": 1682490991
-          },
-          {
-            "platform": "codeforces",
-            "id": 203520920,
-            "pid": "43E",
-            "name": "Race",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682490944
-          },
-          {
-            "platform": "codeforces",
-            "id": 203520184,
-            "pid": "43D",
-            "name": "Journey",
-            "verdict": "OK",
-            "creationTime": 1682490432
-          },
-          {
-            "platform": "codeforces",
-            "id": 203520141,
-            "pid": "43D",
-            "name": "Journey",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682490408
-          },
-          {
-            "platform": "codeforces",
-            "id": 203520074,
-            "pid": "43D",
-            "name": "Journey",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682490347
-          },
-          {
-            "platform": "codeforces",
-            "id": 203519714,
-            "pid": "43C",
-            "name": "Lucky Tickets",
-            "verdict": "OK",
-            "creationTime": 1682490070
-          },
-          {
-            "platform": "codeforces",
-            "id": 203519557,
-            "pid": "43B",
-            "name": "Letter",
-            "verdict": "OK",
-            "creationTime": 1682489957
-          },
-          {
-            "platform": "codeforces",
-            "id": 203519270,
-            "pid": "43A",
-            "name": "Football",
-            "verdict": "OK",
-            "creationTime": 1682489740
+            "creationTime": 1682568683
           }
         ],
         "newContests": []
@@ -276,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "714b51c77ab093819cf8498c4f890c492bfd174b"
+  "ref": "4b71b796b23736e9565cbfeda5846860028ec340"
 }
