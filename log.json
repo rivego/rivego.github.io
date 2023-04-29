@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1682703166,
+  "updateTime": 1682746374,
   "history": {
     "user": [
       {
@@ -8,203 +8,27 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 203829489,
+            "id": 203830797,
+            "pid": "281B",
+            "name": "Nearest Fraction",
+            "verdict": "OK",
+            "creationTime": 1682703833
+          },
+          {
+            "platform": "codeforces",
+            "id": 203829999,
+            "pid": "281A",
+            "name": "Word Capitalization",
+            "verdict": "OK",
+            "creationTime": 1682703359
+          },
+          {
+            "platform": "codeforces",
+            "id": 203829809,
             "pid": "339E",
             "name": "Three Swaps",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682703032
-          },
-          {
-            "platform": "codeforces",
-            "id": 203829420,
-            "pid": "339E",
-            "name": "Three Swaps",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1682702986
-          },
-          {
-            "platform": "codeforces",
-            "id": 203828933,
-            "pid": "339E",
-            "name": "Three Swaps",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682702680
-          },
-          {
-            "platform": "codeforces",
-            "id": 203828149,
-            "pid": "339E",
-            "name": "Three Swaps",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682702226
-          },
-          {
-            "platform": "codeforces",
-            "id": 203828073,
-            "pid": "339E",
-            "name": "Three Swaps",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682702178
-          },
-          {
-            "platform": "codeforces",
-            "id": 203826183,
-            "pid": "339D",
-            "name": "Xenia and Bit Operations",
             "verdict": "OK",
-            "creationTime": 1682701040
-          },
-          {
-            "platform": "codeforces",
-            "id": 203825833,
-            "pid": "339C",
-            "name": "Xenia and Weights",
-            "verdict": "OK",
-            "creationTime": 1682700828
-          },
-          {
-            "platform": "codeforces",
-            "id": 203825197,
-            "pid": "339C",
-            "name": "Xenia and Weights",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682700457
-          },
-          {
-            "platform": "codeforces",
-            "id": 203823933,
-            "pid": "339B",
-            "name": "Xenia and Ringroad",
-            "verdict": "OK",
-            "creationTime": 1682699764
-          },
-          {
-            "platform": "codeforces",
-            "id": 203784705,
-            "pid": "339A",
-            "name": "Helpful Maths",
-            "verdict": "OK",
-            "creationTime": 1682675648
-          },
-          {
-            "platform": "codeforces",
-            "id": 203784046,
-            "pid": "111E",
-            "name": "Petya and Rectangle",
-            "verdict": "OK",
-            "creationTime": 1682675206
-          },
-          {
-            "platform": "codeforces",
-            "id": 203782893,
-            "pid": "111E",
-            "name": "Petya and Rectangle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682674395
-          },
-          {
-            "platform": "codeforces",
-            "id": 203782712,
-            "pid": "111E",
-            "name": "Petya and Rectangle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682674275
-          },
-          {
-            "platform": "codeforces",
-            "id": 203782566,
-            "pid": "111E",
-            "name": "Petya and Rectangle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682674173
-          },
-          {
-            "platform": "codeforces",
-            "id": 203782470,
-            "pid": "111E",
-            "name": "Petya and Rectangle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682674109
-          },
-          {
-            "platform": "codeforces",
-            "id": 203781192,
-            "pid": "111E",
-            "name": "Petya and Rectangle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682673134
-          },
-          {
-            "platform": "codeforces",
-            "id": 203770934,
-            "pid": "1823F",
-            "name": "Random Walk",
-            "verdict": "OK",
-            "creationTime": 1682664903
-          },
-          {
-            "platform": "codeforces",
-            "id": 203770883,
-            "pid": "1823F",
-            "name": "Random Walk",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682664852
-          },
-          {
-            "platform": "codeforces",
-            "id": 203768532,
-            "pid": "1823E",
-            "name": "Removing Graph",
-            "verdict": "OK",
-            "creationTime": 1682662696
-          },
-          {
-            "platform": "codeforces",
-            "id": 203767582,
-            "pid": "1823D",
-            "name": "Unique Palindromes",
-            "verdict": "OK",
-            "creationTime": 1682661826
-          },
-          {
-            "platform": "codeforces",
-            "id": 203767475,
-            "pid": "1823D",
-            "name": "Unique Palindromes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682661724
-          },
-          {
-            "platform": "codeforces",
-            "id": 203767341,
-            "pid": "1823D",
-            "name": "Unique Palindromes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1682661598
-          },
-          {
-            "platform": "codeforces",
-            "id": 203766834,
-            "pid": "1823C",
-            "name": "Strongly Composite",
-            "verdict": "OK",
-            "creationTime": 1682661112
-          },
-          {
-            "platform": "codeforces",
-            "id": 203766397,
-            "pid": "1823B",
-            "name": "Sort with Step",
-            "verdict": "OK",
-            "creationTime": 1682660605
-          },
-          {
-            "platform": "codeforces",
-            "id": 203766227,
-            "pid": "1823A",
-            "name": "A-characteristic",
-            "verdict": "OK",
-            "creationTime": 1682660427
+            "creationTime": 1682703232
           }
         ],
         "newContests": []
@@ -212,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "cb0ed5afb406873aca277518e3b1d03518bd8003"
+  "ref": "293404da3eaca0dbff2c8a95e0ca7fe71c94d35f"
 }
