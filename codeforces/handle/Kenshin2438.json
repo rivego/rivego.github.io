@@ -6,6 +6,149 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 203956294,
+      "creationTime": 1682786628,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1818D",
+        "name": "Fish Graph",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1818/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1818/submission/203956294"
+    },
+    {
+      "type": "codeforces",
+      "id": 203953140,
+      "creationTime": 1682785971,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1818D",
+        "name": "Fish Graph",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1818/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1818/submission/203953140"
+    },
+    {
+      "type": "codeforces",
+      "id": 203948474,
+      "creationTime": 1682784952,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1818D",
+        "name": "Fish Graph",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1818/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1818/submission/203948474"
+    },
+    {
+      "type": "codeforces",
+      "id": 203931365,
+      "creationTime": 1682781626,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1818C",
+        "name": "Almost Increasing Subsequence",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1818/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1818/submission/203931365"
+    },
+    {
+      "type": "codeforces",
+      "id": 203921699,
+      "creationTime": 1682780192,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1818B",
+        "name": "Indivisible",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1818/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1818/submission/203921699"
+    },
+    {
+      "type": "codeforces",
+      "id": 203917761,
+      "creationTime": 1682779649,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1818A",
+        "name": "Politics",
+        "tags": [
+          "implementation",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1818/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1818/submission/203917761"
+    },
+    {
+      "type": "codeforces",
       "id": 197996997,
       "creationTime": 1679159316,
       "language": "GNU C++17 (64)",
