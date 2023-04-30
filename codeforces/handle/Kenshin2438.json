@@ -21,7 +21,11 @@
         "type": "codeforces",
         "id": "1818C",
         "name": "Almost Increasing Subsequence",
-        "tags": [],
+        "rating": 1500,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1818/submission/203970919"
@@ -43,7 +47,11 @@
         "type": "codeforces",
         "id": "1818C",
         "name": "Almost Increasing Subsequence",
-        "tags": [],
+        "rating": 1500,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1818/submission/203967173"
@@ -65,7 +73,11 @@
         "type": "codeforces",
         "id": "1818C",
         "name": "Almost Increasing Subsequence",
-        "tags": [],
+        "rating": 1500,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1818/submission/203967112"
@@ -87,10 +99,12 @@
         "type": "codeforces",
         "id": "1818D",
         "name": "Fish Graph",
+        "rating": 1900,
         "tags": [
           "brute force",
           "dfs and similar",
-          "graphs"
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/D"
       },
@@ -113,10 +127,12 @@
         "type": "codeforces",
         "id": "1818D",
         "name": "Fish Graph",
+        "rating": 1900,
         "tags": [
           "brute force",
           "dfs and similar",
-          "graphs"
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/D"
       },
@@ -139,10 +155,12 @@
         "type": "codeforces",
         "id": "1818D",
         "name": "Fish Graph",
+        "rating": 1900,
         "tags": [
           "brute force",
           "dfs and similar",
-          "graphs"
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/D"
       },
@@ -165,7 +183,11 @@
         "type": "codeforces",
         "id": "1818C",
         "name": "Almost Increasing Subsequence",
-        "tags": [],
+        "rating": 1500,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1818/submission/203931365"
@@ -187,6 +209,7 @@
         "type": "codeforces",
         "id": "1818B",
         "name": "Indivisible",
+        "rating": 900,
         "tags": [
           "constructive algorithms"
         ],
@@ -211,6 +234,7 @@
         "type": "codeforces",
         "id": "1818A",
         "name": "Politics",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
