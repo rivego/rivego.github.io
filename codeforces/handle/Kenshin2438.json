@@ -6,6 +6,72 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 203970919,
+      "creationTime": 1682794359,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -464689288
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1818C",
+        "name": "Almost Increasing Subsequence",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1818/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1818/submission/203970919"
+    },
+    {
+      "type": "codeforces",
+      "id": 203967173,
+      "creationTime": 1682792221,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -464691426
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1818C",
+        "name": "Almost Increasing Subsequence",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1818/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1818/submission/203967173"
+    },
+    {
+      "type": "codeforces",
+      "id": 203967112,
+      "creationTime": 1682792186,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -464691461
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1818C",
+        "name": "Almost Increasing Subsequence",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1818/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1818/submission/203967112"
+    },
+    {
+      "type": "codeforces",
       "id": 203956294,
       "creationTime": 1682786628,
       "language": "GNU C++17 (64)",
@@ -22,6 +88,8 @@
         "id": "1818D",
         "name": "Fish Graph",
         "tags": [
+          "brute force",
+          "dfs and similar",
           "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/D"
@@ -46,6 +114,8 @@
         "id": "1818D",
         "name": "Fish Graph",
         "tags": [
+          "brute force",
+          "dfs and similar",
           "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/D"
@@ -70,6 +140,8 @@
         "id": "1818D",
         "name": "Fish Graph",
         "tags": [
+          "brute force",
+          "dfs and similar",
           "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/D"
@@ -140,7 +212,7 @@
         "id": "1818A",
         "name": "Politics",
         "tags": [
-          "implementation",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1818/problem/A"
@@ -25914,7 +25986,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1866,
+    "rating": 1838,
     "maxRank": "expert",
     "maxRating": 1871
   }

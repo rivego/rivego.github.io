@@ -23,7 +23,8 @@
         "name": "Toy Machine",
         "tags": [
           "constructive algorithms",
-          "games"
+          "games",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1817/problem/D"
       },
@@ -121,8 +122,10 @@
         "name": "Fish Graph",
         "tags": [
           "brute force",
+          "constructive algorithms",
           "dfs and similar",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1817/problem/B"
       },
@@ -172,8 +175,10 @@
         "name": "Fish Graph",
         "tags": [
           "brute force",
+          "constructive algorithms",
           "dfs and similar",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1817/problem/B"
       },
@@ -111672,7 +111677,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3588,
+    "rating": 3662,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
