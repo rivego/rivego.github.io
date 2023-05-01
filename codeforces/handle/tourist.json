@@ -50,6 +50,7 @@
         "name": "Half-sum",
         "rating": 3400,
         "tags": [
+          "brute force",
           "divide and conquer",
           "greedy"
         ],
