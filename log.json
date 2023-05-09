@@ -1,96 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1683610373,
+  "updateTime": 1683653574,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 205156470,
-            "pid": "1826F",
-            "name": "Fading into Fog",
-            "verdict": "OK",
-            "creationTime": 1683571438
-          },
-          {
-            "platform": "codeforces",
-            "id": 205156297,
-            "pid": "1826F",
-            "name": "Fading into Fog",
-            "verdict": "IDLENESS_LIMIT_EXCEEDED",
-            "creationTime": 1683571300
-          },
-          {
-            "platform": "codeforces",
-            "id": 205156208,
-            "pid": "1826F",
-            "name": "Fading into Fog",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1683571227
-          },
-          {
-            "platform": "codeforces",
-            "id": 205156078,
-            "pid": "1826F",
-            "name": "Fading into Fog",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1683571140
-          },
-          {
-            "platform": "codeforces",
-            "id": 205155933,
-            "pid": "1826F",
-            "name": "Fading into Fog",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1683571043
-          },
-          {
-            "platform": "codeforces",
-            "id": 205154870,
-            "pid": "1826E",
-            "name": "Walk the Runway",
-            "verdict": "OK",
-            "creationTime": 1683570278
-          },
-          {
-            "platform": "codeforces",
-            "id": 205154152,
-            "pid": "1826D",
-            "name": "Running Miles",
-            "verdict": "OK",
-            "creationTime": 1683569793
-          },
-          {
-            "platform": "codeforces",
-            "id": 205153934,
-            "pid": "1826C",
-            "name": "Dreaming of Freedom",
-            "verdict": "OK",
-            "creationTime": 1683569654
-          },
-          {
-            "platform": "codeforces",
-            "id": 205153550,
-            "pid": "1826B",
-            "name": "Lunatic Never Content",
-            "verdict": "OK",
-            "creationTime": 1683569410
-          },
-          {
-            "platform": "codeforces",
-            "id": 205153442,
-            "pid": "1826A",
-            "name": "Trust Nobody",
-            "verdict": "OK",
-            "creationTime": 1683569343
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7bbcf4add13da5e2253f18b77329fc4bbc94c002"
+  "ref": "1bdcf39abcd311e9238915e98d41b6e4dbc97d4b"
 }
