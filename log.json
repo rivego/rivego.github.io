@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1683567178,
+  "updateTime": 1683610373,
   "history": {
     "user": [
       {
@@ -8,123 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 205133694,
-            "pid": "1825B",
-            "name": "LuoTianyi and the Table",
+            "id": 205156470,
+            "pid": "1826F",
+            "name": "Fading into Fog",
             "verdict": "OK",
-            "creationTime": 1683558471
+            "creationTime": 1683571438
           },
           {
             "platform": "codeforces",
-            "id": 205132749,
-            "pid": "1825A",
-            "name": "LuoTianyi and the Palindrome String",
-            "verdict": "OK",
-            "creationTime": 1683558069
+            "id": 205156297,
+            "pid": "1826F",
+            "name": "Fading into Fog",
+            "verdict": "IDLENESS_LIMIT_EXCEEDED",
+            "creationTime": 1683571300
           },
           {
             "platform": "codeforces",
-            "id": 205128571,
-            "pid": "1824E",
-            "name": "LuoTianyi and Cartridge",
-            "verdict": "OK",
-            "creationTime": 1683556545
-          },
-          {
-            "platform": "codeforces",
-            "id": 205122552,
-            "pid": "1824E",
-            "name": "LuoTianyi and Cartridge",
+            "id": 205156208,
+            "pid": "1826F",
+            "name": "Fading into Fog",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1683554543
+            "creationTime": 1683571227
           },
           {
             "platform": "codeforces",
-            "id": 205121174,
-            "pid": "1824E",
-            "name": "LuoTianyi and Cartridge",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1683554336
+            "id": 205156078,
+            "pid": "1826F",
+            "name": "Fading into Fog",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1683571140
           },
           {
             "platform": "codeforces",
-            "id": 205120480,
-            "pid": "1824E",
-            "name": "LuoTianyi and Cartridge",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1683554232
+            "id": 205155933,
+            "pid": "1826F",
+            "name": "Fading into Fog",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1683571043
           },
           {
             "platform": "codeforces",
-            "id": 205120095,
-            "pid": "1824E",
-            "name": "LuoTianyi and Cartridge",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1683554165
-          },
-          {
-            "platform": "codeforces",
-            "id": 205119784,
-            "pid": "1824E",
-            "name": "LuoTianyi and Cartridge",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1683554111
-          },
-          {
-            "platform": "codeforces",
-            "id": 205118568,
-            "pid": "1824E",
-            "name": "LuoTianyi and Cartridge",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1683553886
-          },
-          {
-            "platform": "codeforces",
-            "id": 205099783,
-            "pid": "1824D",
-            "name": "LuoTianyi and the Function",
+            "id": 205154870,
+            "pid": "1826E",
+            "name": "Walk the Runway",
             "verdict": "OK",
-            "creationTime": 1683550207
+            "creationTime": 1683570278
           },
           {
             "platform": "codeforces",
-            "id": 205092605,
-            "pid": "1824C",
-            "name": "LuoTianyi and XOR-Tree",
+            "id": 205154152,
+            "pid": "1826D",
+            "name": "Running Miles",
             "verdict": "OK",
-            "creationTime": 1683549015
+            "creationTime": 1683569793
           },
           {
             "platform": "codeforces",
-            "id": 205086508,
-            "pid": "1824B2",
-            "name": "LuoTianyi and the Floating Islands (Hard Version)",
+            "id": 205153934,
+            "pid": "1826C",
+            "name": "Dreaming of Freedom",
             "verdict": "OK",
-            "creationTime": 1683548261
+            "creationTime": 1683569654
           },
           {
             "platform": "codeforces",
-            "id": 205086422,
-            "pid": "1824B1",
-            "name": "LuoTianyi and the Floating Islands (Easy Version)",
+            "id": 205153550,
+            "pid": "1826B",
+            "name": "Lunatic Never Content",
             "verdict": "OK",
-            "creationTime": 1683548252
+            "creationTime": 1683569410
           },
           {
             "platform": "codeforces",
-            "id": 205083763,
-            "pid": "1824A",
-            "name": "LuoTianyi and the Show",
+            "id": 205153442,
+            "pid": "1826A",
+            "name": "Trust Nobody",
             "verdict": "OK",
-            "creationTime": 1683548010
-          },
-          {
-            "platform": "codeforces",
-            "id": 205080974,
-            "pid": "1824A",
-            "name": "LuoTianyi and the Show",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1683547799
+            "creationTime": 1683569343
           }
         ],
         "newContests": []
@@ -132,5 +92,5 @@
     ],
     "contest": []
   },
-  "ref": "a6d93e19304c011ba1f9e62402f3cf427d0a365b"
+  "ref": "7bbcf4add13da5e2253f18b77329fc4bbc94c002"
 }
