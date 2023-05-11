@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1683783190,
+  "updateTime": 1683826391,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 205426518,
+            "pid": "118E",
+            "name": "Bertown roads",
+            "verdict": "OK",
+            "creationTime": 1683807112
+          },
+          {
+            "platform": "codeforces",
+            "id": 205425212,
+            "pid": "118D",
+            "name": "Caesar's Legions",
+            "verdict": "OK",
+            "creationTime": 1683806406
+          },
+          {
+            "platform": "codeforces",
+            "id": 205424814,
+            "pid": "118C",
+            "name": "Fancy Number",
+            "verdict": "OK",
+            "creationTime": 1683806188
+          },
+          {
+            "platform": "codeforces",
+            "id": 205424774,
+            "pid": "118C",
+            "name": "Fancy Number",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1683806169
+          },
+          {
+            "platform": "codeforces",
+            "id": 205424263,
+            "pid": "118B",
+            "name": "Present from Lena",
+            "verdict": "OK",
+            "creationTime": 1683805900
+          },
+          {
+            "platform": "codeforces",
+            "id": 205423959,
+            "pid": "118A",
+            "name": "String Task",
+            "verdict": "OK",
+            "creationTime": 1683805752
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b5e387cf9ff9e5e96019f133c06d050857600c3e"
+  "ref": "29a2766cc33fcc2abc8771cf267bd70b3887c336"
 }
