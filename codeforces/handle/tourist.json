@@ -22,6 +22,7 @@
         "id": "1832F",
         "name": "Zombies",
         "tags": [
+          "binary search",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/F"
@@ -46,6 +47,7 @@
         "id": "1832F",
         "name": "Zombies",
         "tags": [
+          "binary search",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/F"
@@ -152,6 +154,7 @@
         "name": "Contrast Value",
         "tags": [
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/C"
