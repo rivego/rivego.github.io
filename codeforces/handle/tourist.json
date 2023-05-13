@@ -9,7 +9,7 @@
       "id": 205596162,
       "creationTime": 1683906205,
       "language": "GNU C++20 (64)",
-      "verdict": "OK",
+      "verdict": "CHALLENGED",
       "author": {
         "members": [
           "tourist"
@@ -72,8 +72,8 @@
         "tags": [
           "binary search",
           "greedy",
-          "math",
-          "sortings"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/D2"
       },
@@ -98,8 +98,8 @@
         "name": "Red-Blue Operations (Easy Version)",
         "tags": [
           "binary search",
-          "dp",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/D1"
@@ -124,9 +124,9 @@
         "id": "1832E",
         "name": "Combinatorics Problem",
         "tags": [
+          "brute force",
           "combinatorics",
           "dp",
-          "fft",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/E"
@@ -178,8 +178,8 @@
         "tags": [
           "brute force",
           "dp",
-          "greedy",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/B"
       },
@@ -203,7 +203,6 @@
         "id": "1832A",
         "name": "New Palindrome",
         "tags": [
-          "greedy",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/A"
