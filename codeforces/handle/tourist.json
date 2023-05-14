@@ -179,10 +179,8 @@
         "id": "1832B",
         "name": "Maximum Sum",
         "tags": [
-          "brute force",
-          "dp",
-          "sortings",
-          "two pointers"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/B"
       },
