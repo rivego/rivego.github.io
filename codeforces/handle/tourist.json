@@ -159,8 +159,8 @@
         "tags": [
           "binary search",
           "dp",
+          "dsu",
           "greedy",
-          "math",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1827/problem/B1"
@@ -187,8 +187,7 @@
         "tags": [
           "data structures",
           "dp",
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1827/problem/B2"
       },
@@ -289,11 +288,9 @@
         "name": "Red-Blue Operations (Hard Version)",
         "tags": [
           "binary search",
-          "combinatorics",
           "greedy",
           "implementation",
-          "math",
-          "number theory"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/D2"
       },
@@ -345,9 +342,7 @@
         "name": "Combinatorics Problem",
         "tags": [
           "brute force",
-          "combinatorics",
-          "dp",
-          "math"
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/E"
       },
@@ -372,8 +367,7 @@
         "name": "Contrast Value",
         "tags": [
           "greedy",
-          "implementation",
-          "math"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/C"
       },
@@ -397,7 +391,7 @@
         "id": "1832B",
         "name": "Maximum Sum",
         "tags": [
-          "greedy",
+          "brute force",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/B"
