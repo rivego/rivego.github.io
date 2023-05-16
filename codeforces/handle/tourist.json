@@ -49,6 +49,7 @@
         "id": "1827C",
         "name": "Palindrome Partition",
         "tags": [
+          "binary search",
           "brute force",
           "dp",
           "hashing",
@@ -130,6 +131,7 @@
         "id": "1827C",
         "name": "Palindrome Partition",
         "tags": [
+          "binary search",
           "brute force",
           "dp",
           "hashing",
@@ -159,7 +161,6 @@
         "tags": [
           "binary search",
           "dp",
-          "dsu",
           "greedy",
           "two pointers"
         ],
@@ -185,6 +186,7 @@
         "id": "1827B2",
         "name": "Range Sorting (Hard Version)",
         "tags": [
+          "binary search",
           "data structures",
           "dp",
           "greedy"
@@ -213,7 +215,8 @@
         "tags": [
           "combinatorics",
           "math",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1827/problem/A"
       },
