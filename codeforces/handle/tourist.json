@@ -163,6 +163,7 @@
         "tags": [
           "binary search",
           "dp",
+          "dsu",
           "greedy",
           "two pointers"
         ],
@@ -347,6 +348,7 @@
         "name": "Combinatorics Problem",
         "tags": [
           "brute force",
+          "combinatorics",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/E"
