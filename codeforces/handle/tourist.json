@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1827E",
         "name": "Bus Routes",
+        "rating": 3400,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1827C",
         "name": "Palindrome Partition",
+        "rating": 2600,
         "tags": [
           "binary search",
           "brute force",
@@ -77,6 +79,7 @@
         "type": "codeforces",
         "id": "1827D",
         "name": "Two Centroids",
+        "rating": 2800,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -104,6 +107,7 @@
         "type": "codeforces",
         "id": "1827D",
         "name": "Two Centroids",
+        "rating": 2800,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -131,6 +135,7 @@
         "type": "codeforces",
         "id": "1827C",
         "name": "Palindrome Partition",
+        "rating": 2600,
         "tags": [
           "binary search",
           "brute force",
@@ -160,6 +165,7 @@
         "type": "codeforces",
         "id": "1827B1",
         "name": "Range Sorting (Easy Version)",
+        "rating": 2000,
         "tags": [
           "binary search",
           "dp",
@@ -188,6 +194,7 @@
         "type": "codeforces",
         "id": "1827B2",
         "name": "Range Sorting (Hard Version)",
+        "rating": 2400,
         "tags": [
           "binary search",
           "data structures",
@@ -215,6 +222,7 @@
         "type": "codeforces",
         "id": "1827A",
         "name": "Counting Orders",
+        "rating": 1100,
         "tags": [
           "combinatorics",
           "math",
