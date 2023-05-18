@@ -1,9 +1,144 @@
 {
   "version": "0.1.29",
-  "updateTime": 1684387975,
+  "updateTime": 1684431193,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 206370592,
+            "pid": "104355M",
+            "name": "斑马子树",
+            "verdict": "OK",
+            "creationTime": 1684430821
+          },
+          {
+            "platform": "codeforces",
+            "id": 206370330,
+            "pid": "104355L",
+            "name": "绘画爱好者以撒",
+            "verdict": "OK",
+            "creationTime": 1684430671
+          },
+          {
+            "platform": "codeforces",
+            "id": 206368623,
+            "pid": "104355K",
+            "name": "莉可丽丝",
+            "verdict": "OK",
+            "creationTime": 1684429688
+          },
+          {
+            "platform": "codeforces",
+            "id": 206367564,
+            "pid": "104355J",
+            "name": "大秦酒店欢迎您",
+            "verdict": "OK",
+            "creationTime": 1684428993
+          },
+          {
+            "platform": "codeforces",
+            "id": 206365877,
+            "pid": "104355I",
+            "name": "喵喵喵",
+            "verdict": "OK",
+            "creationTime": 1684427853
+          },
+          {
+            "platform": "codeforces",
+            "id": 206363002,
+            "pid": "104355I",
+            "name": "喵喵喵",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1684426088
+          },
+          {
+            "platform": "codeforces",
+            "id": 206362836,
+            "pid": "104355I",
+            "name": "喵喵喵",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1684425986
+          },
+          {
+            "platform": "codeforces",
+            "id": 206358809,
+            "pid": "104355H",
+            "name": "字符游戏",
+            "verdict": "OK",
+            "creationTime": 1684423700
+          },
+          {
+            "platform": "codeforces",
+            "id": 206358232,
+            "pid": "104355G",
+            "name": "和而不同",
+            "verdict": "OK",
+            "creationTime": 1684423388
+          },
+          {
+            "platform": "codeforces",
+            "id": 206358197,
+            "pid": "104355G",
+            "name": "和而不同",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1684423367
+          },
+          {
+            "platform": "codeforces",
+            "id": 206352950,
+            "pid": "104355F",
+            "name": "渡渡鸟游乐场",
+            "verdict": "OK",
+            "creationTime": 1684420444
+          },
+          {
+            "platform": "codeforces",
+            "id": 206352409,
+            "pid": "104355E",
+            "name": "全错",
+            "verdict": "OK",
+            "creationTime": 1684420154
+          },
+          {
+            "platform": "codeforces",
+            "id": 206351647,
+            "pid": "104355D",
+            "name": "点集扩张",
+            "verdict": "OK",
+            "creationTime": 1684419778
+          },
+          {
+            "platform": "codeforces",
+            "id": 206351260,
+            "pid": "104355C",
+            "name": "话剧",
+            "verdict": "OK",
+            "creationTime": 1684419579
+          },
+          {
+            "platform": "codeforces",
+            "id": 206351056,
+            "pid": "104355B",
+            "name": "原粥率",
+            "verdict": "OK",
+            "creationTime": 1684419467
+          },
+          {
+            "platform": "codeforces",
+            "id": 206350931,
+            "pid": "104355A",
+            "name": "大水题",
+            "verdict": "OK",
+            "creationTime": 1684419397
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "43dc7172ecc5c0ce70536b1d7ecec5f873c4af96"
+  "ref": "daf85eccbef60fc57e99e6f1e1760ba6c10f2e1c"
 }
