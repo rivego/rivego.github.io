@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1684517605,
+  "updateTime": 1684560784,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 206490972,
-            "pid": "1833G",
-            "name": "Ksyusha and Chinchilla",
-            "verdict": "OK",
-            "creationTime": 1684508999
-          },
-          {
-            "platform": "codeforces",
-            "id": 206483674,
-            "pid": "1833F",
-            "name": "Ira and Flamenco",
-            "verdict": "OK",
-            "creationTime": 1684508455
-          },
-          {
-            "platform": "codeforces",
-            "id": 206479670,
-            "pid": "1833E",
-            "name": "Round Dance",
-            "verdict": "OK",
-            "creationTime": 1684508190
-          },
-          {
-            "platform": "codeforces",
-            "id": 206474224,
-            "pid": "1833D",
-            "name": "Flipper",
-            "verdict": "OK",
-            "creationTime": 1684507862
-          },
-          {
-            "platform": "codeforces",
-            "id": 206467908,
-            "pid": "1833C",
-            "name": "Vlad Building Beautiful Array",
-            "verdict": "OK",
-            "creationTime": 1684507522
-          },
-          {
-            "platform": "codeforces",
-            "id": 206465463,
-            "pid": "1833B",
-            "name": "Restore the Weather",
-            "verdict": "OK",
-            "creationTime": 1684507389
-          },
-          {
-            "platform": "codeforces",
-            "id": 206464642,
-            "pid": "1833B",
-            "name": "Restore the Weather",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1684507349
-          },
-          {
-            "platform": "codeforces",
-            "id": 206461616,
-            "pid": "1833A",
-            "name": "Musical Puzzle",
-            "verdict": "OK",
-            "creationTime": 1684507212
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "fe181dcee2f4874bf2ef5a9e71ef2ddaf4f30b76"
+  "ref": "e52f26f0ab592cd18a356671c6bcb84fb3e4cd28"
 }
