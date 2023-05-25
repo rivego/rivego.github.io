@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1684949579,
+  "updateTime": 1684992782,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 207011037,
-            "pid": "416D",
-            "name": "Population Size",
-            "verdict": "OK",
-            "creationTime": 1684909915
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "37d64502abd5e6bd3242af9f717e64b96b419af1"
+  "ref": "070349a2f51e6a5c2c392d08fffcebae3dede7a2"
 }
