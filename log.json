@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1685035975,
+  "updateTime": 1685079166,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 207211176,
-            "pid": "1837F",
-            "name": "Editorial for Two",
-            "verdict": "OK",
-            "creationTime": 1685028017
-          },
-          {
-            "platform": "codeforces",
-            "id": 207200402,
-            "pid": "1837E",
-            "name": "Playoff Fixing",
-            "verdict": "OK",
-            "creationTime": 1685027345
-          },
-          {
-            "platform": "codeforces",
-            "id": 207191491,
-            "pid": "1837E",
-            "name": "Playoff Fixing",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1685026874
-          },
-          {
-            "platform": "codeforces",
-            "id": 207177453,
-            "pid": "1837D",
-            "name": "Bracket Coloring",
-            "verdict": "OK",
-            "creationTime": 1685026170
-          },
-          {
-            "platform": "codeforces",
-            "id": 207171463,
-            "pid": "1837B",
-            "name": "Comparison String",
-            "verdict": "OK",
-            "creationTime": 1685025943
-          },
-          {
-            "platform": "codeforces",
-            "id": 207171047,
-            "pid": "1837D",
-            "name": "Bracket Coloring",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1685025928
-          },
-          {
-            "platform": "codeforces",
-            "id": 207163968,
-            "pid": "1837C",
-            "name": "Best Binary String",
-            "verdict": "OK",
-            "creationTime": 1685025662
-          },
-          {
-            "platform": "codeforces",
-            "id": 207160479,
-            "pid": "1837B",
-            "name": "Comparison String",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1685025546
-          },
-          {
-            "platform": "codeforces",
-            "id": 207156537,
-            "pid": "1837A",
-            "name": "Grasshopper on a Line",
-            "verdict": "OK",
-            "creationTime": 1685025392
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3124229437660399dba3f368b7b04ecd9ad12a2d"
+  "ref": "7778e63be49bf0c22c2a8bf6d1178c5ce671407c"
 }
