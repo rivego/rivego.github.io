@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1685208793,
+  "updateTime": 1685251991,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 207490682,
-            "pid": "104353H",
-            "name": "灌水工程",
-            "verdict": "OK",
-            "creationTime": 1685203845
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3090f94868e4917ec316dfdf60e63bef2bfe60ac"
+  "ref": "8a8263ee0c7fe839888952fc91ef1baa5fd9a9c1"
 }
