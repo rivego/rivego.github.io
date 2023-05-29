@@ -75,10 +75,10 @@
         "name": "Hyperregular Bracket Strings",
         "tags": [
           "combinatorics",
+          "data structures",
           "hashing",
           "number theory",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1830/problem/C"
       },
