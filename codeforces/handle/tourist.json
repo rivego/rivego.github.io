@@ -77,7 +77,8 @@
           "combinatorics",
           "hashing",
           "number theory",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1830/problem/C"
       },
@@ -102,6 +103,7 @@
         "name": "The BOSS Can Count Pairs",
         "tags": [
           "brute force",
+          "data structures",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1830/problem/B"
@@ -128,6 +130,7 @@
         "tags": [
           "dfs and similar",
           "dp",
+          "graphs",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1830/problem/A"
@@ -112261,7 +112264,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3622,
+    "rating": 3611,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
