@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1685381636,
+  "updateTime": 1685424796,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 207766765,
-            "pid": "758F",
-            "name": "Geometrical Progression",
-            "verdict": "OK",
-            "creationTime": 1685369812
-          },
-          {
-            "platform": "codeforces",
-            "id": 207765813,
-            "pid": "196E",
-            "name": "Opening Portals",
-            "verdict": "OK",
-            "creationTime": 1685369262
-          },
-          {
-            "platform": "codeforces",
-            "id": 207716812,
-            "pid": "133B",
-            "name": "Unary",
-            "verdict": "OK",
-            "creationTime": 1685339388
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "2354e8315cecadcd49c33d2f50ba061e6a8d1fa3"
+  "ref": "b74452933f09c2cf879f63a7b25c0cd228aea8be"
 }
