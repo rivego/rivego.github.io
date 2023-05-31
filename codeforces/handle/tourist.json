@@ -75,6 +75,7 @@
         "name": "Hyperregular Bracket Strings",
         "tags": [
           "combinatorics",
+          "data structures",
           "hashing",
           "math",
           "number theory",
@@ -103,6 +104,7 @@
         "name": "The BOSS Can Count Pairs",
         "tags": [
           "brute force",
+          "data structures",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1830/problem/B"
