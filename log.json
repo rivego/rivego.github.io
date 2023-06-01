@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1685597574,
+  "updateTime": 1685640779,
   "history": {
     "user": [
       {
@@ -8,43 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 207994055,
-            "pid": "266E",
-            "name": "More Queries to Array...",
+            "id": 208043423,
+            "pid": "223D",
+            "name": "Spider",
             "verdict": "OK",
-            "creationTime": 1685558451
+            "creationTime": 1685614825
           },
           {
             "platform": "codeforces",
-            "id": 207992970,
-            "pid": "266D",
-            "name": "BerDonalds",
-            "verdict": "OK",
-            "creationTime": 1685557518
-          },
-          {
-            "platform": "codeforces",
-            "id": 207992069,
-            "pid": "266C",
-            "name": "Below the Diagonal",
-            "verdict": "OK",
-            "creationTime": 1685556827
-          },
-          {
-            "platform": "codeforces",
-            "id": 207990099,
-            "pid": "266B",
-            "name": "Queue at the School",
-            "verdict": "OK",
-            "creationTime": 1685555337
-          },
-          {
-            "platform": "codeforces",
-            "id": 207989955,
-            "pid": "266A",
-            "name": "Stones on the Table",
-            "verdict": "OK",
-            "creationTime": 1685555247
+            "id": 208043036,
+            "pid": "223D",
+            "name": "Spider",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1685614550
           }
         ],
         "newContests": []
@@ -52,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "0763201da7962140dac78a69fc1b401adb40bf64"
+  "ref": "e949a5f18b29feaf2850817cc9f7a41fa790fb25"
 }
