@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1685554388,
+  "updateTime": 1685597574,
   "history": {
     "user": [
       {
@@ -8,123 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 207980286,
-            "pid": "104396D",
-            "name": "Star Rail",
+            "id": 207994055,
+            "pid": "266E",
+            "name": "More Queries to Array...",
             "verdict": "OK",
-            "creationTime": 1685548294
+            "creationTime": 1685558451
           },
           {
             "platform": "codeforces",
-            "id": 207971825,
-            "pid": "104396B",
-            "name": "Honkai in TAIKULA",
+            "id": 207992970,
+            "pid": "266D",
+            "name": "BerDonalds",
             "verdict": "OK",
-            "creationTime": 1685542532
+            "creationTime": 1685557518
           },
           {
             "platform": "codeforces",
-            "id": 207970085,
-            "pid": "104396B",
-            "name": "Honkai in TAIKULA",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1685541499
-          },
-          {
-            "platform": "codeforces",
-            "id": 207967946,
-            "pid": "104396G",
-            "name": "Moving Boxes",
+            "id": 207992069,
+            "pid": "266C",
+            "name": "Below the Diagonal",
             "verdict": "OK",
-            "creationTime": 1685540296
+            "creationTime": 1685556827
           },
           {
             "platform": "codeforces",
-            "id": 207963873,
-            "pid": "104396L",
-            "name": "Architect",
+            "id": 207990099,
+            "pid": "266B",
+            "name": "Queue at the School",
             "verdict": "OK",
-            "creationTime": 1685537949
+            "creationTime": 1685555337
           },
           {
             "platform": "codeforces",
-            "id": 207962915,
-            "pid": "104396E",
-            "name": "LCM Plus GCD",
+            "id": 207989955,
+            "pid": "266A",
+            "name": "Stones on the Table",
             "verdict": "OK",
-            "creationTime": 1685537391
-          },
-          {
-            "platform": "codeforces",
-            "id": 207961397,
-            "pid": "104396F",
-            "name": "Timaeus",
-            "verdict": "OK",
-            "creationTime": 1685536517
-          },
-          {
-            "platform": "codeforces",
-            "id": 207961167,
-            "pid": "104396F",
-            "name": "Timaeus",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1685536396
-          },
-          {
-            "platform": "codeforces",
-            "id": 207960745,
-            "pid": "104396K",
-            "name": "Similarity (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1685536151
-          },
-          {
-            "platform": "codeforces",
-            "id": 207960620,
-            "pid": "104396K",
-            "name": "Similarity (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1685536078
-          },
-          {
-            "platform": "codeforces",
-            "id": 207959551,
-            "pid": "104396A",
-            "name": "Today's Word",
-            "verdict": "OK",
-            "creationTime": 1685535490
-          },
-          {
-            "platform": "codeforces",
-            "id": 207959123,
-            "pid": "104396A",
-            "name": "Today's Word",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1685535232
-          },
-          {
-            "platform": "codeforces",
-            "id": 207958671,
-            "pid": "104396H",
-            "name": "Neil's Machine",
-            "verdict": "OK",
-            "creationTime": 1685534965
-          },
-          {
-            "platform": "codeforces",
-            "id": 207958354,
-            "pid": "104396J",
-            "name": "Similarity (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1685534786
-          },
-          {
-            "platform": "codeforces",
-            "id": 207957800,
-            "pid": "104396I",
-            "name": "Elevator",
-            "verdict": "OK",
-            "creationTime": 1685534503
+            "creationTime": 1685555247
           }
         ],
         "newContests": []
@@ -132,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "068716a1241afd98753baffa32b78bfd5bd62e67"
+  "ref": "0763201da7962140dac78a69fc1b401adb40bf64"
 }
