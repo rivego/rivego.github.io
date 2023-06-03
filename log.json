@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1685727195,
+  "updateTime": 1685770392,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 208162325,
-            "pid": "925D",
-            "name": "Aztec Catacombs",
-            "verdict": "OK",
-            "creationTime": 1685707291
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "d619a6a01efc2f5e8123260be81ae8af5892bdc4"
+  "ref": "3e96d95eb4a01eef002472caa89c24548bf4a45b"
 }
