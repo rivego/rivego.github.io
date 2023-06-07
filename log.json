@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1686115976,
+  "updateTime": 1686159166,
   "history": {
     "user": [
       {
@@ -8,51 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 208853998,
-            "pid": "1840F",
-            "name": "Railguns",
+            "id": 208862626,
+            "pid": "1838E",
+            "name": "Count Supersequences",
             "verdict": "OK",
-            "creationTime": 1686114383
+            "creationTime": 1686121193
           },
           {
             "platform": "codeforces",
-            "id": 208852317,
-            "pid": "1840E",
-            "name": "Character Blocking",
+            "id": 208859298,
+            "pid": "1838D",
+            "name": "Bracket Walk",
             "verdict": "OK",
-            "creationTime": 1686112758
+            "creationTime": 1686118869
           },
           {
             "platform": "codeforces",
-            "id": 208851635,
-            "pid": "1840D",
-            "name": "Wooden Toy Festival",
+            "id": 208858637,
+            "pid": "1838C",
+            "name": "No Prime Differences",
             "verdict": "OK",
-            "creationTime": 1686112114
+            "creationTime": 1686118361
           },
           {
             "platform": "codeforces",
-            "id": 208851448,
-            "pid": "1840C",
-            "name": "Ski Resort",
-            "verdict": "OK",
-            "creationTime": 1686111909
+            "id": 208858165,
+            "pid": "1838C",
+            "name": "No Prime Differences",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1686117977
           },
           {
             "platform": "codeforces",
-            "id": 208851229,
-            "pid": "1840B",
-            "name": "Binary Cafe",
+            "id": 208857285,
+            "pid": "1838B",
+            "name": "Minimize Permutation Subarrays",
             "verdict": "OK",
-            "creationTime": 1686111692
+            "creationTime": 1686117249
           },
           {
             "platform": "codeforces",
-            "id": 208851136,
-            "pid": "1840A",
-            "name": "Cipher Shifer",
+            "id": 208857237,
+            "pid": "1838B",
+            "name": "Minimize Permutation Subarrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1686117212
+          },
+          {
+            "platform": "codeforces",
+            "id": 208857138,
+            "pid": "1838B",
+            "name": "Minimize Permutation Subarrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1686117138
+          },
+          {
+            "platform": "codeforces",
+            "id": 208856752,
+            "pid": "1838A",
+            "name": "Blackboard List",
             "verdict": "OK",
-            "creationTime": 1686111602
+            "creationTime": 1686116827
+          },
+          {
+            "platform": "codeforces",
+            "id": 208856519,
+            "pid": "1840G2",
+            "name": "In Search of Truth (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1686116619
+          },
+          {
+            "platform": "codeforces",
+            "id": 208856487,
+            "pid": "1840G1",
+            "name": "In Search of Truth (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1686116591
           }
         ],
         "newContests": []
@@ -60,5 +92,5 @@
     ],
     "contest": []
   },
-  "ref": "14e4085229bda907d82f0426083c5bf548990c3e"
+  "ref": "3f6327ca52b58a7cf028baf59f1a112cce6917bb"
 }
