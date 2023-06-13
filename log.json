@@ -1,9 +1,104 @@
 {
   "version": "0.1.29",
-  "updateTime": 1686634381,
+  "updateTime": 1686677592,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 209529405,
+            "pid": "1841F",
+            "name": "Monocarp and a Strategic Game",
+            "verdict": "OK",
+            "creationTime": 1686641103
+          },
+          {
+            "platform": "codeforces",
+            "id": 209529287,
+            "pid": "1841F",
+            "name": "Monocarp and a Strategic Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1686641019
+          },
+          {
+            "platform": "codeforces",
+            "id": 209529181,
+            "pid": "1841F",
+            "name": "Monocarp and a Strategic Game",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1686640947
+          },
+          {
+            "platform": "codeforces",
+            "id": 209528962,
+            "pid": "1841F",
+            "name": "Monocarp and a Strategic Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1686640805
+          },
+          {
+            "platform": "codeforces",
+            "id": 209528925,
+            "pid": "1841F",
+            "name": "Monocarp and a Strategic Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1686640778
+          },
+          {
+            "platform": "codeforces",
+            "id": 209527748,
+            "pid": "1841E",
+            "name": "Fill the Matrix",
+            "verdict": "OK",
+            "creationTime": 1686639947
+          },
+          {
+            "platform": "codeforces",
+            "id": 209527659,
+            "pid": "1841E",
+            "name": "Fill the Matrix",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1686639884
+          },
+          {
+            "platform": "codeforces",
+            "id": 209525266,
+            "pid": "1841D",
+            "name": "Pairs of Segments",
+            "verdict": "OK",
+            "creationTime": 1686638149
+          },
+          {
+            "platform": "codeforces",
+            "id": 209524746,
+            "pid": "1841C",
+            "name": "Ranom Numbers",
+            "verdict": "OK",
+            "creationTime": 1686637750
+          },
+          {
+            "platform": "codeforces",
+            "id": 209523946,
+            "pid": "1841B",
+            "name": "Keep it Beautiful",
+            "verdict": "OK",
+            "creationTime": 1686637116
+          },
+          {
+            "platform": "codeforces",
+            "id": 209523446,
+            "pid": "1841A",
+            "name": "Game with Board",
+            "verdict": "OK",
+            "creationTime": 1686636725
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "d2d13ad92dc501758db9c205fe4c2769ee3fbb02"
+  "ref": "6ac407e3f32fbdee628d361ee2bf6c8acc0dabab"
 }
