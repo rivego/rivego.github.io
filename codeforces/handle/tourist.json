@@ -21,7 +21,11 @@
         "type": "codeforces",
         "id": "1841F",
         "name": "Monocarp and a Strategic Game",
-        "tags": [],
+        "tags": [
+          "dp",
+          "geometry",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1841/submission/209426567"
@@ -44,10 +48,9 @@
         "id": "1841E",
         "name": "Fill the Matrix",
         "tags": [
-          "binary search",
           "data structures",
-          "divide and conquer",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/E"
       },
@@ -71,7 +74,6 @@
         "id": "1841D",
         "name": "Pairs of Segments",
         "tags": [
-          "binary search",
           "data structures",
           "dp",
           "greedy",
@@ -102,6 +104,7 @@
           "brute force",
           "dp",
           "greedy",
+          "math",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/C"
@@ -126,7 +129,8 @@
         "id": "1841B",
         "name": "Keep it Beautiful",
         "tags": [
-          "implementation"
+          "implementation",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/B"
       },
@@ -150,6 +154,7 @@
         "id": "1841A",
         "name": "Game with Board",
         "tags": [
+          "constructive algorithms",
           "games"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/A"
