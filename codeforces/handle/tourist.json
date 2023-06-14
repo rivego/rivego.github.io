@@ -22,7 +22,6 @@
         "id": "1841F",
         "name": "Monocarp and a Strategic Game",
         "tags": [
-          "dp",
           "geometry",
           "sortings",
           "two pointers"
@@ -36,7 +35,7 @@
       "id": 209414216,
       "creationTime": 1686581920,
       "language": "GNU C++20 (64)",
-      "verdict": "OK",
+      "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
           "tourist"
@@ -49,11 +48,11 @@
         "id": "1841E",
         "name": "Fill the Matrix",
         "tags": [
+          "binary search",
           "data structures",
-          "divide and conquer",
           "greedy",
           "math",
-          "sortings"
+          "string suffix structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/E"
       },
@@ -133,8 +132,7 @@
         "id": "1841B",
         "name": "Keep it Beautiful",
         "tags": [
-          "implementation",
-          "strings"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/B"
       },
