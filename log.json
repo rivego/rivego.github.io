@@ -1,18 +1,18 @@
 {
   "version": "0.1.29",
-  "updateTime": 1686807190,
+  "updateTime": 1686850363,
   "history": {
     "user": [
       {
-        "name": "tourist",
+        "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 209706350,
-            "pid": "1841E",
-            "name": "Fill the Matrix",
+            "id": 209754197,
+            "pid": "1841F",
+            "name": "Monocarp and a Strategic Game",
             "verdict": "OK",
-            "creationTime": 1686780531
+            "creationTime": 1686827374
           }
         ],
         "newContests": []
@@ -20,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "8df5f4030c1aabe185661d652955b6b42afcc376"
+  "ref": "788bf9ec60eacfcb2e6e935771ab95da65ffcd79"
 }

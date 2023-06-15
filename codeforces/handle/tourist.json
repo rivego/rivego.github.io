@@ -22,11 +22,9 @@
         "id": "1841E",
         "name": "Fill the Matrix",
         "tags": [
-          "binary search",
           "data structures",
           "greedy",
-          "math",
-          "two pointers"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/E"
       },
@@ -76,11 +74,9 @@
         "id": "1841E",
         "name": "Fill the Matrix",
         "tags": [
-          "binary search",
           "data structures",
           "greedy",
-          "math",
-          "two pointers"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/E"
       },
