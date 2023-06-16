@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1686850363,
+  "updateTime": 1686893577,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 209754197,
-            "pid": "1841F",
-            "name": "Monocarp and a Strategic Game",
-            "verdict": "OK",
-            "creationTime": 1686827374
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "788bf9ec60eacfcb2e6e935771ab95da65ffcd79"
+  "ref": "3ca30f13e17e6206df49b68910542e79a8298635"
 }
