@@ -24,6 +24,7 @@
         "rating": 3500,
         "tags": [
           "bitmasks",
+          "dfs and similar",
           "graph matchings",
           "graphs",
           "implementation"
@@ -137,6 +138,7 @@
         "name": "Old Mobile",
         "rating": 3500,
         "tags": [
+          "combinatorics",
           "dp",
           "probabilities"
         ],
