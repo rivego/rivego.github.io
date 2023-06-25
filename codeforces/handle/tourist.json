@@ -113,6 +113,7 @@
       "id": 210909272,
       "creationTime": 1687618775,
       "language": "GNU C++20 (64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -125,7 +126,10 @@
         "id": "1842H",
         "name": "Tenzing and Random Real Numbers",
         "tags": [
-          "dp"
+          "2-sat",
+          "bitmasks",
+          "dp",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1842/problem/H"
       },
@@ -149,7 +153,12 @@
         "id": "1842F",
         "name": "Tenzing and Tree",
         "tags": [
-          "greedy"
+          "brute force",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1842/problem/F"
       },
@@ -173,7 +182,11 @@
         "id": "1842E",
         "name": "Tenzing and Triangle",
         "tags": [
-          "dp"
+          "data structures",
+          "dp",
+          "geometry",
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1842/problem/E"
       },
@@ -197,7 +210,9 @@
         "id": "1842D",
         "name": "Tenzing and His Animal Friends ",
         "tags": [
+          "brute force",
           "constructive algorithms",
+          "graphs",
           "greedy",
           "shortest paths"
         ],
@@ -223,8 +238,10 @@
         "id": "1842G",
         "name": "Tenzing and Random Operations",
         "tags": [
+          "combinatorics",
           "dp",
-          "math"
+          "math",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1842/problem/G"
       },
@@ -112928,7 +112945,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3664,
+    "rating": 3755,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
