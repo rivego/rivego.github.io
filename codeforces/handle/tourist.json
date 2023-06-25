@@ -126,9 +126,10 @@
         "id": "1842H",
         "name": "Tenzing and Random Real Numbers",
         "tags": [
-          "2-sat",
           "bitmasks",
           "dp",
+          "graphs",
+          "math",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1842/problem/H"
@@ -155,9 +156,10 @@
         "tags": [
           "brute force",
           "dfs and similar",
-          "dp",
           "graphs",
           "greedy",
+          "shortest paths",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1842/problem/F"
