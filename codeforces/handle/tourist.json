@@ -126,6 +126,7 @@
         "id": "1842H",
         "name": "Tenzing and Random Real Numbers",
         "tags": [
+          "2-sat",
           "bitmasks",
           "dp",
           "graphs",
@@ -156,9 +157,7 @@
         "tags": [
           "brute force",
           "dfs and similar",
-          "graphs",
           "greedy",
-          "shortest paths",
           "sortings",
           "trees"
         ],
@@ -242,6 +241,7 @@
         "tags": [
           "combinatorics",
           "dp",
+          "fft",
           "math",
           "probabilities"
         ],
