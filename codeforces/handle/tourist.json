@@ -155,7 +155,6 @@
         "id": "1842F",
         "name": "Tenzing and Tree",
         "tags": [
-          "brute force",
           "dfs and similar",
           "greedy",
           "sortings",
@@ -211,8 +210,9 @@
         "id": "1842D",
         "name": "Tenzing and His Animal Friends ",
         "tags": [
-          "brute force",
           "constructive algorithms",
+          "data structures",
+          "dfs and similar",
           "graphs",
           "greedy",
           "shortest paths"
@@ -241,7 +241,6 @@
         "tags": [
           "combinatorics",
           "dp",
-          "fft",
           "math",
           "probabilities"
         ],
