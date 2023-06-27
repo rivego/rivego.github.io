@@ -210,8 +210,8 @@
         "id": "1842D",
         "name": "Tenzing and His Animal Friends ",
         "tags": [
+          "brute force",
           "constructive algorithms",
-          "data structures",
           "dfs and similar",
           "graphs",
           "greedy",
@@ -112946,7 +112946,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3755,
+    "rating": 3664,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
