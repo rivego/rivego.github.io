@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1688405599,
+  "updateTime": 1688448948,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 211937038,
-            "pid": "1845F",
-            "name": "Swimmers in the Pool",
-            "verdict": "OK",
-            "creationTime": 1688382907
-          },
-          {
-            "platform": "codeforces",
-            "id": 211933259,
-            "pid": "1845E",
-            "name": "Boxes and Balls",
-            "verdict": "OK",
-            "creationTime": 1688380975
-          },
-          {
-            "platform": "codeforces",
-            "id": 211926800,
-            "pid": "1845D",
-            "name": "Rating System",
-            "verdict": "OK",
-            "creationTime": 1688377373
-          },
-          {
-            "platform": "codeforces",
-            "id": 211925964,
-            "pid": "1845C",
-            "name": "Strong Password",
-            "verdict": "OK",
-            "creationTime": 1688376927
-          },
-          {
-            "platform": "codeforces",
-            "id": 211924840,
-            "pid": "1845B",
-            "name": "Come Together",
-            "verdict": "OK",
-            "creationTime": 1688376359
-          },
-          {
-            "platform": "codeforces",
-            "id": 211924421,
-            "pid": "1845A",
-            "name": "Forbidden Integer",
-            "verdict": "OK",
-            "creationTime": 1688376137
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "453ed23b2b9c9c247da16d33bf9dd08a72f1941c"
+  "ref": "3790e576dce62b0f6e6ce5e88da25152a0a3ec46"
 }
