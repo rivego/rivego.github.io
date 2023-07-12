@@ -21,7 +21,16 @@
         "type": "codeforces",
         "id": "1844G",
         "name": "Tree Weights",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "dfs and similar",
+          "math",
+          "matrices",
+          "matrices",
+          "number theory",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1844/submission/213364706"
@@ -43,7 +52,13 @@
         "type": "codeforces",
         "id": "1844F2",
         "name": "Min Cost Permutation (Hard Version)",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "data structures",
+          "graphs",
+          "greedy",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/F2"
       },
       "submissionUrl": "https://codeforces.com/contest/1844/submission/213352374"
@@ -65,7 +80,9 @@
         "type": "codeforces",
         "id": "1844F1",
         "name": "Min Cost Permutation (Easy Version)",
-        "tags": [],
+        "tags": [
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/F1"
       },
       "submissionUrl": "https://codeforces.com/contest/1844/submission/213346552"
@@ -87,7 +104,13 @@
         "type": "codeforces",
         "id": "1844E",
         "name": "Great Grids",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1844/submission/213326176"
@@ -109,7 +132,12 @@
         "type": "codeforces",
         "id": "1844C",
         "name": "Particles",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1844/submission/213315167"
@@ -131,7 +159,12 @@
         "type": "codeforces",
         "id": "1844D",
         "name": "Row Major",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory",
+          "strings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/1844/submission/213311325"
@@ -153,7 +186,11 @@
         "type": "codeforces",
         "id": "1844B",
         "name": "Permutations & Primes",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1844/submission/213307651"
@@ -175,7 +212,11 @@
         "type": "codeforces",
         "id": "1844A",
         "name": "Subtraction Game",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1844/submission/213301327"
