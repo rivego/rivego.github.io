@@ -1,9 +1,112 @@
 {
   "version": "0.1.29",
-  "updateTime": 1689140091,
+  "updateTime": 1689183239,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 213493905,
+            "pid": "104460L",
+            "name": "Digit Product",
+            "verdict": "OK",
+            "creationTime": 1689160162
+          },
+          {
+            "platform": "codeforces",
+            "id": 213491913,
+            "pid": "104460K",
+            "name": "Escape Plan",
+            "verdict": "OK",
+            "creationTime": 1689159406
+          },
+          {
+            "platform": "codeforces",
+            "id": 213491490,
+            "pid": "104460K",
+            "name": "Escape Plan",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1689159233
+          },
+          {
+            "platform": "codeforces",
+            "id": 213489558,
+            "pid": "104460J",
+            "name": "Coolbits",
+            "verdict": "OK",
+            "creationTime": 1689158345
+          },
+          {
+            "platform": "codeforces",
+            "id": 213488681,
+            "pid": "104460I",
+            "name": "Unrooted Trie",
+            "verdict": "OK",
+            "creationTime": 1689157949
+          },
+          {
+            "platform": "codeforces",
+            "id": 213488026,
+            "pid": "104460H",
+            "name": "To the Park",
+            "verdict": "OK",
+            "creationTime": 1689157613
+          },
+          {
+            "platform": "codeforces",
+            "id": 213487351,
+            "pid": "104460F",
+            "name": "K-hour Clock",
+            "verdict": "OK",
+            "creationTime": 1689157283
+          },
+          {
+            "platform": "codeforces",
+            "id": 213487031,
+            "pid": "104460E",
+            "name": "Turn It Off",
+            "verdict": "OK",
+            "creationTime": 1689157123
+          },
+          {
+            "platform": "codeforces",
+            "id": 213484359,
+            "pid": "104460C",
+            "name": "0689",
+            "verdict": "OK",
+            "creationTime": 1689155914
+          },
+          {
+            "platform": "codeforces",
+            "id": 213474338,
+            "pid": "104460B",
+            "name": "Grid with Arrows",
+            "verdict": "OK",
+            "creationTime": 1689151610
+          },
+          {
+            "platform": "codeforces",
+            "id": 213473077,
+            "pid": "104460A",
+            "name": "Digit Mode",
+            "verdict": "OK",
+            "creationTime": 1689151159
+          },
+          {
+            "platform": "codeforces",
+            "id": 213472267,
+            "pid": "104460A",
+            "name": "Digit Mode",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1689150867
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "2a8cfa9cda6bafccd0ca5bc0dbe43a6d87db7391"
+  "ref": "78c1ddb7cbc3a4e4b05810d39d3e0d612cc53a82"
 }
