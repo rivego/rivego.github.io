@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1689269707,
+  "updateTime": 1689312877,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 213606047,
-            "pid": "104459A",
-            "name": "Calandar",
-            "verdict": "OK",
-            "creationTime": 1689231233
-          },
-          {
-            "platform": "codeforces",
-            "id": 213604741,
-            "pid": "104460G",
-            "name": "Paper-cutting",
-            "verdict": "OK",
-            "creationTime": 1689230650
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "c69891b6ddd29577a5bcbe660877b4e73898852a"
+  "ref": "7afcb4ff87ef8a901f7b0f9d074ff5885599bbcb"
 }
