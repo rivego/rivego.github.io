@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1689399282,
+  "updateTime": 1689442375,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 213900390,
+            "pid": "552E",
+            "name": "Vanya and Brackets",
+            "verdict": "OK",
+            "creationTime": 1689421931
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "2a49a03f928da3e5211b99aa696c6aae4dd94290"
+  "ref": "9090a8a3ddfd18169f31d904a08290d7e3ab85b2"
 }

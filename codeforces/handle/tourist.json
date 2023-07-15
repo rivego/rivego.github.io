@@ -26,6 +26,7 @@
           "constructive algorithms",
           "data structures",
           "dfs and similar",
+          "implementation",
           "math",
           "matrices",
           "number theory",
@@ -193,7 +194,6 @@
         "name": "Permutations & Primes",
         "tags": [
           "constructive algorithms",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/B"
@@ -113177,7 +113177,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3767,
+    "rating": 3755,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
