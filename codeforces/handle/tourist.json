@@ -109,11 +109,11 @@
         "id": "1844E",
         "name": "Great Grids",
         "tags": [
+          "2-sat",
           "constructive algorithms",
           "dfs and similar",
           "dsu",
-          "graphs",
-          "math"
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/E"
       },

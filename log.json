@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1689355985,
+  "updateTime": 1689399282,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 213728227,
-            "pid": "104459I",
-            "name": "Connected Intervals",
-            "verdict": "OK",
-            "creationTime": 1689315433
-          },
-          {
-            "platform": "codeforces",
-            "id": 213727410,
-            "pid": "104459H",
-            "name": "Tokens on the Segments",
-            "verdict": "OK",
-            "creationTime": 1689315002
-          },
-          {
-            "platform": "codeforces",
-            "id": 213726981,
-            "pid": "104459G",
-            "name": "Heap",
-            "verdict": "OK",
-            "creationTime": 1689314753
-          },
-          {
-            "platform": "codeforces",
-            "id": 213726576,
-            "pid": "104459G",
-            "name": "Heap",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1689314513
-          },
-          {
-            "platform": "codeforces",
-            "id": 213725578,
-            "pid": "104459F",
-            "name": "Stones in the Bucket",
-            "verdict": "OK",
-            "creationTime": 1689313929
-          },
-          {
-            "platform": "codeforces",
-            "id": 213725366,
-            "pid": "104459E",
-            "name": "BaoBao Loves Reading",
-            "verdict": "OK",
-            "creationTime": 1689313818
-          },
-          {
-            "platform": "codeforces",
-            "id": 213724654,
-            "pid": "104459D",
-            "name": "Game on a Graph",
-            "verdict": "OK",
-            "creationTime": 1689313391
-          },
-          {
-            "platform": "codeforces",
-            "id": 213724405,
-            "pid": "104459C",
-            "name": "Wandering Robot",
-            "verdict": "OK",
-            "creationTime": 1689313233
-          },
-          {
-            "platform": "codeforces",
-            "id": 213723851,
-            "pid": "104459B",
-            "name": "Flipping Game",
-            "verdict": "OK",
-            "creationTime": 1689312912
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "d69ab2a1eb7558f2491bbcb5bfdf581624cee2d5"
+  "ref": "2a49a03f928da3e5211b99aa696c6aae4dd94290"
 }
