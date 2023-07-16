@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1689485618,
+  "updateTime": 1689528775,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 214072675,
+            "pid": "1848F",
+            "name": "Vika and Wiki",
+            "verdict": "OK",
+            "creationTime": 1689521543
+          },
+          {
+            "platform": "codeforces",
+            "id": 214072599,
+            "pid": "1848F",
+            "name": "Vika and Wiki",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1689521532
+          },
+          {
+            "platform": "codeforces",
+            "id": 214066158,
+            "pid": "1848E",
+            "name": "Vika and Stone Skipping",
+            "verdict": "OK",
+            "creationTime": 1689520630
+          },
+          {
+            "platform": "codeforces",
+            "id": 214059659,
+            "pid": "1848D",
+            "name": "Vika and Bonuses",
+            "verdict": "OK",
+            "creationTime": 1689519808
+          },
+          {
+            "platform": "codeforces",
+            "id": 214056656,
+            "pid": "1848C",
+            "name": "Vika and Price Tags",
+            "verdict": "OK",
+            "creationTime": 1689519441
+          },
+          {
+            "platform": "codeforces",
+            "id": 214052195,
+            "pid": "1848B",
+            "name": "Vika and the Bridge",
+            "verdict": "OK",
+            "creationTime": 1689518877
+          },
+          {
+            "platform": "codeforces",
+            "id": 214052145,
+            "pid": "1848A",
+            "name": "Vika and Her Friends",
+            "verdict": "OK",
+            "creationTime": 1689518871
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "aeb449f40a1724f098fcc725b2eef5c1f091de28"
+  "ref": "c71a5267543d350234a73b1abe6a7a06f9c15776"
 }
