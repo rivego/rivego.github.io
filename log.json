@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1689572089,
+  "updateTime": 1689615240,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 214191769,
+            "pid": "747F",
+            "name": "Igor and Interesting Numbers",
+            "verdict": "OK",
+            "creationTime": 1689591477
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "801e85778ea717139abf4bd69ace71cc977fffbc"
+  "ref": "aab644c5fb58a0eaea2825b6af9aab4ecc9fce67"
 }
