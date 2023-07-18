@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 214302031,
+      "creationTime": 1689661856,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -457821791
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1848A",
+        "name": "Vika and Her Friends",
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1848/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1848/submission/214302031"
+    },
+    {
+      "type": "codeforces",
       "id": 200655577,
       "creationTime": 1680596861,
       "language": "GNU C++20 (64)",
