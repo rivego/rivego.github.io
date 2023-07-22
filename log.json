@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1689917587,
+  "updateTime": 1690047178,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 214811046,
+            "pid": "1850H",
+            "name": "The Third Letter",
+            "verdict": "OK",
+            "creationTime": 1689951196
+          },
+          {
+            "platform": "codeforces",
+            "id": 214804371,
+            "pid": "1850G",
+            "name": "The Morning Star",
+            "verdict": "OK",
+            "creationTime": 1689951020
+          },
+          {
+            "platform": "codeforces",
+            "id": 214799572,
+            "pid": "1850F",
+            "name": "We Were Both Children",
+            "verdict": "OK",
+            "creationTime": 1689950906
+          },
+          {
+            "platform": "codeforces",
+            "id": 214793272,
+            "pid": "1850E",
+            "name": "Cardboard for Pictures",
+            "verdict": "OK",
+            "creationTime": 1689950766
+          },
+          {
+            "platform": "codeforces",
+            "id": 214780852,
+            "pid": "1850D",
+            "name": "Balanced Round",
+            "verdict": "OK",
+            "creationTime": 1689950535
+          },
+          {
+            "platform": "codeforces",
+            "id": 214776290,
+            "pid": "1850C",
+            "name": "Word on the Paper",
+            "verdict": "OK",
+            "creationTime": 1689950451
+          },
+          {
+            "platform": "codeforces",
+            "id": 214772898,
+            "pid": "1850B",
+            "name": "Ten Words of Wisdom",
+            "verdict": "OK",
+            "creationTime": 1689950390
+          },
+          {
+            "platform": "codeforces",
+            "id": 214767448,
+            "pid": "1850A",
+            "name": "To My Critics",
+            "verdict": "OK",
+            "creationTime": 1689950296
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e595a127746c81cfd5f36ef2e8fcb3f5b2921df6"
+  "ref": "a5629d2214e3a20268047d6773797a4fc4f74ecd"
 }
