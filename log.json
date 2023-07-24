@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1690176781,
+  "updateTime": 1690219973,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 215258181,
-            "pid": "1852F",
-            "name": "Panda Meetups",
-            "verdict": "OK",
-            "creationTime": 1690135828
-          },
-          {
-            "platform": "codeforces",
-            "id": 215255554,
-            "pid": "1852F",
-            "name": "Panda Meetups",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1690134719
-          },
-          {
-            "platform": "codeforces",
-            "id": 215254645,
-            "pid": "1852F",
-            "name": "Panda Meetups",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1690134442
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "828b7763d8467784bed05c37c37d7c45edcb0ffa"
+  "ref": "67f560f86fd4014adc516f06030f95b88f50e9c6"
 }
