@@ -1,102 +1,34 @@
 {
   "version": "0.1.29",
-  "updateTime": 1690133590,
+  "updateTime": 1690176781,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 215243658,
-            "pid": "1852E",
-            "name": "Rivalries",
-            "creationTime": 1690130158
-          },
-          {
-            "platform": "codeforces",
-            "id": 215242234,
-            "pid": "1852E",
-            "name": "Rivalries",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1690129824
-          },
-          {
-            "platform": "codeforces",
-            "id": 215225730,
-            "pid": "1852D",
-            "name": "Miriany and Matchstick",
-            "verdict": "OK",
-            "creationTime": 1690126601
-          },
-          {
-            "platform": "codeforces",
-            "id": 215220833,
-            "pid": "1852C",
-            "name": "Ina of the Mountain",
-            "verdict": "OK",
-            "creationTime": 1690125842
-          },
-          {
-            "platform": "codeforces",
-            "id": 215199335,
-            "pid": "1852B",
-            "name": "Imbalanced Arrays",
-            "verdict": "OK",
-            "creationTime": 1690123464
-          },
-          {
-            "platform": "codeforces",
-            "id": 215194419,
-            "pid": "1852A",
-            "name": "Ntarsis' Set",
-            "verdict": "OK",
-            "creationTime": 1690123221
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 215240027,
-            "pid": "1852E",
-            "name": "Rivalries",
-            "creationTime": 1690129326
+            "id": 215258181,
+            "pid": "1852F",
+            "name": "Panda Meetups",
+            "verdict": "OK",
+            "creationTime": 1690135828
           },
           {
             "platform": "codeforces",
-            "id": 215222100,
-            "pid": "1852D",
-            "name": "Miriany and Matchstick",
-            "verdict": "OK",
-            "creationTime": 1690126027
+            "id": 215255554,
+            "pid": "1852F",
+            "name": "Panda Meetups",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1690134719
           },
           {
             "platform": "codeforces",
-            "id": 215209363,
-            "pid": "1852C",
-            "name": "Ina of the Mountain",
-            "verdict": "OK",
-            "creationTime": 1690124361
-          },
-          {
-            "platform": "codeforces",
-            "id": 215201282,
-            "pid": "1852B",
-            "name": "Imbalanced Arrays",
-            "verdict": "OK",
-            "creationTime": 1690123592
-          },
-          {
-            "platform": "codeforces",
-            "id": 215201184,
-            "pid": "1852A",
-            "name": "Ntarsis' Set",
-            "verdict": "OK",
-            "creationTime": 1690123586
+            "id": 215254645,
+            "pid": "1852F",
+            "name": "Panda Meetups",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1690134442
           }
         ],
         "newContests": []
@@ -104,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "48519af8e0ce734f219eecbdb15f6e40de472ee0"
+  "ref": "828b7763d8467784bed05c37c37d7c45edcb0ffa"
 }

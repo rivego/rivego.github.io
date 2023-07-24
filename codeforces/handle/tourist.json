@@ -9,6 +9,7 @@
       "id": 215243658,
       "creationTime": 1690130158,
       "language": "GNU C++20 (64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -21,7 +22,8 @@
         "id": "1852E",
         "name": "Rivalries",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1852/problem/E"
       },
@@ -45,7 +47,8 @@
         "id": "1852E",
         "name": "Rivalries",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1852/problem/E"
       },
@@ -69,6 +72,7 @@
         "id": "1852D",
         "name": "Miriany and Matchstick",
         "tags": [
+          "constructive algorithms",
           "dp",
           "greedy"
         ],
@@ -94,6 +98,8 @@
         "id": "1852C",
         "name": "Ina of the Mountain",
         "tags": [
+          "data structures",
+          "dp",
           "greedy",
           "math"
         ],
@@ -120,6 +126,8 @@
         "name": "Imbalanced Arrays",
         "tags": [
           "constructive algorithms",
+          "greedy",
+          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1852/problem/B"
@@ -146,7 +154,8 @@
         "tags": [
           "binary search",
           "implementation",
-          "math"
+          "math",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1852/problem/A"
       },
@@ -113332,7 +113341,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3767,
+    "rating": 3726,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
