@@ -126,6 +126,7 @@
         "name": "Imbalanced Arrays",
         "tags": [
           "constructive algorithms",
+          "graphs",
           "greedy",
           "sortings",
           "two pointers"
@@ -113341,7 +113342,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3767,
+    "rating": 3726,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
