@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1690349583,
+  "updateTime": 1690392781,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 215739007,
+            "pid": "1848E",
+            "name": "Vika and Stone Skipping",
+            "verdict": "OK",
+            "creationTime": 1690377399
+          },
+          {
+            "platform": "codeforces",
+            "id": 215738505,
+            "pid": "1848E",
+            "name": "Vika and Stone Skipping",
+            "verdict": "OK",
+            "creationTime": 1690377213
+          },
+          {
+            "platform": "codeforces",
+            "id": 215737602,
+            "pid": "1848E",
+            "name": "Vika and Stone Skipping",
+            "verdict": "OK",
+            "creationTime": 1690376823
+          },
+          {
+            "platform": "codeforces",
+            "id": 215734957,
+            "pid": "1848E",
+            "name": "Vika and Stone Skipping",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1690375711
+          },
+          {
+            "platform": "codeforces",
+            "id": 215706970,
+            "pid": "1848F",
+            "name": "Vika and Wiki",
+            "verdict": "OK",
+            "creationTime": 1690363743
+          },
+          {
+            "platform": "codeforces",
+            "id": 215687977,
+            "pid": "1851G",
+            "name": "Vlad and the Mountains",
+            "verdict": "OK",
+            "creationTime": 1690355304
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "0ba1985c97fc389af23478bf65828cc5f8246197"
+  "ref": "e564fe85ed6b67781b408a31f94878f67016620d"
 }
