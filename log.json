@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1690435983,
+  "updateTime": 1690479174,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 215983324,
+            "pid": "1849F",
+            "name": "XOR Partition",
+            "verdict": "OK",
+            "creationTime": 1690476185
+          },
+          {
+            "platform": "codeforces",
+            "id": 215952856,
+            "pid": "1849F",
+            "name": "XOR Partition",
+            "verdict": "OK",
+            "creationTime": 1690473129
+          },
+          {
+            "platform": "codeforces",
+            "id": 215924453,
+            "pid": "1849E",
+            "name": "Max to the Right of Min",
+            "verdict": "OK",
+            "creationTime": 1690470756
+          },
+          {
+            "platform": "codeforces",
+            "id": 215901738,
+            "pid": "1849D",
+            "name": "Array Painting",
+            "verdict": "OK",
+            "creationTime": 1690469296
+          },
+          {
+            "platform": "codeforces",
+            "id": 215896251,
+            "pid": "1849C",
+            "name": "Binary String Copying",
+            "verdict": "OK",
+            "creationTime": 1690469037
+          },
+          {
+            "platform": "codeforces",
+            "id": 215891011,
+            "pid": "1849B",
+            "name": "Monsters",
+            "verdict": "OK",
+            "creationTime": 1690468833
+          },
+          {
+            "platform": "codeforces",
+            "id": 215887103,
+            "pid": "1849A",
+            "name": "Morning Sandwich",
+            "verdict": "OK",
+            "creationTime": 1690468699
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "13eacec1b03c19489962f4db3f15093b1738ce13"
+  "ref": "f56b53ae10b3abbba831f20b2e3fbdc0e24a7b04"
 }
