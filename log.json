@@ -1,9 +1,123 @@
 {
   "version": "0.1.29",
-  "updateTime": 1690608785,
+  "updateTime": 1690651962,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 216321960,
+            "pid": "1854D",
+            "name": "Michael and Hotel",
+            "creationTime": 1690648364
+          },
+          {
+            "platform": "codeforces",
+            "id": 216302036,
+            "pid": "1854E",
+            "name": "Game Bundles",
+            "creationTime": 1690646308
+          },
+          {
+            "platform": "codeforces",
+            "id": 216300983,
+            "pid": "1854E",
+            "name": "Game Bundles",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1690646208
+          },
+          {
+            "platform": "codeforces",
+            "id": 216275667,
+            "pid": "1854A2",
+            "name": "Dual (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1690643985
+          },
+          {
+            "platform": "codeforces",
+            "id": 216266654,
+            "pid": "1854C",
+            "name": "Expected Destruction",
+            "verdict": "OK",
+            "creationTime": 1690643232
+          },
+          {
+            "platform": "codeforces",
+            "id": 216255683,
+            "pid": "1854A1",
+            "name": "Dual (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1690642343
+          },
+          {
+            "platform": "codeforces",
+            "id": 216241500,
+            "pid": "1854B",
+            "name": "Earn or Unlock",
+            "verdict": "OK",
+            "creationTime": 1690641578
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 216339026,
+            "pid": "1854E",
+            "name": "Game Bundles",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1690650154
+          },
+          {
+            "platform": "codeforces",
+            "id": 216302623,
+            "pid": "1854D",
+            "name": "Michael and Hotel",
+            "creationTime": 1690646364
+          },
+          {
+            "platform": "codeforces",
+            "id": 216286697,
+            "pid": "1854A1",
+            "name": "Dual (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1690644907
+          },
+          {
+            "platform": "codeforces",
+            "id": 216286574,
+            "pid": "1854A2",
+            "name": "Dual (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1690644896
+          },
+          {
+            "platform": "codeforces",
+            "id": 216269655,
+            "pid": "1854C",
+            "name": "Expected Destruction",
+            "verdict": "OK",
+            "creationTime": 1690643482
+          },
+          {
+            "platform": "codeforces",
+            "id": 216265372,
+            "pid": "1854B",
+            "name": "Earn or Unlock",
+            "verdict": "OK",
+            "creationTime": 1690643126
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "83d7ab5cd2e9c442f16f13a55759a4a263e1e82c"
+  "ref": "d76c2923aba3627181646ed8d63217ced20349f0"
 }
