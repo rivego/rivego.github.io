@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1690695188,
+  "updateTime": 1690738381,
   "history": {
     "user": [
       {
@@ -8,11 +8,131 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 216345470,
-            "pid": "1854E",
-            "name": "Game Bundles",
+            "id": 216428713,
+            "pid": "104466K",
+            "name": "Kaldorian Knights",
             "verdict": "OK",
-            "creationTime": 1690652879
+            "creationTime": 1690711516
+          },
+          {
+            "platform": "codeforces",
+            "id": 216427799,
+            "pid": "104466B",
+            "name": "Balloon Darts",
+            "verdict": "OK",
+            "creationTime": 1690711025
+          },
+          {
+            "platform": "codeforces",
+            "id": 216427687,
+            "pid": "104466B",
+            "name": "Balloon Darts",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1690710965
+          },
+          {
+            "platform": "codeforces",
+            "id": 216421752,
+            "pid": "104466C",
+            "name": "Cosmic Commute",
+            "verdict": "OK",
+            "creationTime": 1690707893
+          },
+          {
+            "platform": "codeforces",
+            "id": 216421124,
+            "pid": "104466I",
+            "name": "Investigating Frog Behaviour on Lily Pad Patterns",
+            "verdict": "OK",
+            "creationTime": 1690707578
+          },
+          {
+            "platform": "codeforces",
+            "id": 216420720,
+            "pid": "104466D",
+            "name": "DnD Dice",
+            "verdict": "OK",
+            "creationTime": 1690707377
+          },
+          {
+            "platform": "codeforces",
+            "id": 216420544,
+            "pid": "104466D",
+            "name": "DnD Dice",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1690707281
+          },
+          {
+            "platform": "codeforces",
+            "id": 216420294,
+            "pid": "104466L",
+            "name": "Loop Invariant",
+            "verdict": "OK",
+            "creationTime": 1690707144
+          },
+          {
+            "platform": "codeforces",
+            "id": 216419859,
+            "pid": "104466M",
+            "name": "Mischievous Math",
+            "verdict": "OK",
+            "creationTime": 1690706920
+          },
+          {
+            "platform": "codeforces",
+            "id": 216419762,
+            "pid": "104466M",
+            "name": "Mischievous Math",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1690706874
+          },
+          {
+            "platform": "codeforces",
+            "id": 216419310,
+            "pid": "104466G",
+            "name": "German Conference for Public Counting",
+            "verdict": "OK",
+            "creationTime": 1690706641
+          },
+          {
+            "platform": "codeforces",
+            "id": 216418872,
+            "pid": "104466E",
+            "name": "Eszett",
+            "verdict": "OK",
+            "creationTime": 1690706435
+          },
+          {
+            "platform": "codeforces",
+            "id": 216417864,
+            "pid": "104468A",
+            "name": "Salahiano-utiful Arrays",
+            "verdict": "OK",
+            "creationTime": 1690705932
+          },
+          {
+            "platform": "codeforces",
+            "id": 216416863,
+            "pid": "104468A",
+            "name": "Salahiano-utiful Arrays",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1690705396
+          },
+          {
+            "platform": "codeforces",
+            "id": 216416765,
+            "pid": "104468A",
+            "name": "Salahiano-utiful Arrays",
+            "verdict": "OK",
+            "creationTime": 1690705346
+          },
+          {
+            "platform": "codeforces",
+            "id": 216415487,
+            "pid": "104468A",
+            "name": "Salahiano-utiful Arrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1690704659
           }
         ],
         "newContests": []
@@ -20,5 +140,5 @@
     ],
     "contest": []
   },
-  "ref": "caf38bf188b42b9ad9cb1688e0d7bab022d52e34"
+  "ref": "825db1043f44aecf3283fc379470be607c87bc8c"
 }

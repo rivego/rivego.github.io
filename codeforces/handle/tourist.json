@@ -120,6 +120,7 @@
         "id": "1854C",
         "name": "Expected Destruction",
         "tags": [
+          "combinatorics",
           "dp",
           "math",
           "probabilities"
