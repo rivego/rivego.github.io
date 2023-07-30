@@ -9,6 +9,7 @@
       "id": 216321960,
       "creationTime": 1690648364,
       "language": "GNU C++20 (64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -21,7 +22,8 @@
         "id": "1854D",
         "name": "Michael and Hotel",
         "tags": [
-          "interactive"
+          "interactive",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1854/problem/D"
       },
@@ -32,6 +34,7 @@
       "id": 216302036,
       "creationTime": 1690646308,
       "language": "GNU C++20 (64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -92,7 +95,8 @@
         "id": "1854A2",
         "name": "Dual (Hard Version)",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1854/problem/A2"
       },
@@ -116,6 +120,7 @@
         "id": "1854C",
         "name": "Expected Destruction",
         "tags": [
+          "dp",
           "math",
           "probabilities"
         ],
@@ -141,7 +146,8 @@
         "id": "1854A1",
         "name": "Dual (Easy Version)",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1854/problem/A1"
       },
@@ -164,7 +170,11 @@
         "type": "codeforces",
         "id": "1854B",
         "name": "Earn or Unlock",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/1854/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1854/submission/216241500"
@@ -113786,7 +113796,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3726,
+    "rating": 3727,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
