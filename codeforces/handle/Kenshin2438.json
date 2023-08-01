@@ -6,6 +6,34 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 216672392,
+      "creationTime": 1690874727,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -456608920
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1829E",
+        "name": "The Lakes",
+        "rating": 1100,
+        "tags": [
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1829/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1829/submission/216672392"
+    },
+    {
+      "type": "codeforces",
       "id": 215739007,
       "creationTime": 1690377399,
       "language": "GNU C++20 (64)",
