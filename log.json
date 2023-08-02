@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1690911181,
+  "updateTime": 1690954375,
   "history": {
-    "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 216672392,
-            "pid": "1829E",
-            "name": "The Lakes",
-            "verdict": "OK",
-            "creationTime": 1690874727
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "a790f57a838e0a15785add1f6feb37824a5d1eb9"
+  "ref": "bf08200b70c617116984ab412279fc4976ce53c2"
 }
