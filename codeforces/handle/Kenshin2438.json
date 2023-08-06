@@ -6,6 +6,140 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 217401871,
+      "creationTime": 1691294716,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -456188931
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1856E1",
+        "name": "PermuTree (easy version)",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1856/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1856/submission/217401871"
+    },
+    {
+      "type": "codeforces",
+      "id": 217401857,
+      "creationTime": 1691294697,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -456188950
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1856E2",
+        "name": "PermuTree (hard version)",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1856/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1856/submission/217401857"
+    },
+    {
+      "type": "codeforces",
+      "id": 217401262,
+      "creationTime": 1691294093,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -456189554
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1856E2",
+        "name": "PermuTree (hard version)",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1856/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1856/submission/217401262"
+    },
+    {
+      "type": "codeforces",
+      "id": 217401045,
+      "creationTime": 1691293873,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -456189774
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1856E2",
+        "name": "PermuTree (hard version)",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1856/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1856/submission/217401045"
+    },
+    {
+      "type": "codeforces",
+      "id": 217400482,
+      "creationTime": 1691293326,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -456190321
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1856E2",
+        "name": "PermuTree (hard version)",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1856/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1856/submission/217400482"
+    },
+    {
+      "type": "codeforces",
       "id": 216672392,
       "creationTime": 1690874727,
       "language": "GNU C++20 (64)",
