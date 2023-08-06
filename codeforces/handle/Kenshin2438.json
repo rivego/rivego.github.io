@@ -22,8 +22,10 @@
         "id": "1856E1",
         "name": "PermuTree (easy version)",
         "tags": [
+          "data structures",
           "dfs and similar",
           "dp",
+          "greedy",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1856/problem/E1"
@@ -49,7 +51,9 @@
         "name": "PermuTree (hard version)",
         "tags": [
           "bitmasks",
+          "dfs and similar",
           "dp",
+          "fft",
           "implementation",
           "trees"
         ],
@@ -76,7 +80,9 @@
         "name": "PermuTree (hard version)",
         "tags": [
           "bitmasks",
+          "dfs and similar",
           "dp",
+          "fft",
           "implementation",
           "trees"
         ],
@@ -103,7 +109,9 @@
         "name": "PermuTree (hard version)",
         "tags": [
           "bitmasks",
+          "dfs and similar",
           "dp",
+          "fft",
           "implementation",
           "trees"
         ],
@@ -130,7 +138,9 @@
         "name": "PermuTree (hard version)",
         "tags": [
           "bitmasks",
+          "dfs and similar",
           "dp",
+          "fft",
           "implementation",
           "trees"
         ],

@@ -1,56 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1691299972,
+  "updateTime": 1691343173,
   "history": {
-    "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 217401871,
-            "pid": "1856E1",
-            "name": "PermuTree (easy version)",
-            "verdict": "OK",
-            "creationTime": 1691294716
-          },
-          {
-            "platform": "codeforces",
-            "id": 217401857,
-            "pid": "1856E2",
-            "name": "PermuTree (hard version)",
-            "verdict": "OK",
-            "creationTime": 1691294697
-          },
-          {
-            "platform": "codeforces",
-            "id": 217401262,
-            "pid": "1856E2",
-            "name": "PermuTree (hard version)",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1691294093
-          },
-          {
-            "platform": "codeforces",
-            "id": 217401045,
-            "pid": "1856E2",
-            "name": "PermuTree (hard version)",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1691293873
-          },
-          {
-            "platform": "codeforces",
-            "id": 217400482,
-            "pid": "1856E2",
-            "name": "PermuTree (hard version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1691293326
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "8c3df42d18144a606e5fad662e62313a3debedc3"
+  "ref": "5ba861196d7b8eb5bd71e4caeb5dacc6f2aa184e"
 }
