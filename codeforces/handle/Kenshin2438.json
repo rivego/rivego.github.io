@@ -22,7 +22,6 @@
         "id": "1856E1",
         "name": "PermuTree (easy version)",
         "tags": [
-          "combinatorics",
           "dfs and similar",
           "dp",
           "trees"
