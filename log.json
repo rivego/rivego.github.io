@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1691818381,
+  "updateTime": 1691861580,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 218556590,
+            "pid": "1859F",
+            "name": "Teleportation in Byteland",
+            "verdict": "OK",
+            "creationTime": 1691855434
+          },
+          {
+            "platform": "codeforces",
+            "id": 218538031,
+            "pid": "1859E",
+            "name": "Maximum Monogonosity",
+            "verdict": "OK",
+            "creationTime": 1691853486
+          },
+          {
+            "platform": "codeforces",
+            "id": 218532262,
+            "pid": "1859D",
+            "name": "Andrey and Escape from Capygrad",
+            "verdict": "OK",
+            "creationTime": 1691853011
+          },
+          {
+            "platform": "codeforces",
+            "id": 218527131,
+            "pid": "1859C",
+            "name": "Another Permutation Problem",
+            "verdict": "OK",
+            "creationTime": 1691852633
+          },
+          {
+            "platform": "codeforces",
+            "id": 218519245,
+            "pid": "1859B",
+            "name": "Olya and Game with Arrays",
+            "verdict": "OK",
+            "creationTime": 1691852117
+          },
+          {
+            "platform": "codeforces",
+            "id": 218514982,
+            "pid": "1859A",
+            "name": "United We Stand",
+            "verdict": "OK",
+            "creationTime": 1691851876
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b79f3d18838a7f373aeb3be8935dc80666d69f66"
+  "ref": "a71af41fefb9fd3d8d562077231365a7c65a0177"
 }
