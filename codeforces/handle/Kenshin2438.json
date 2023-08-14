@@ -341,6 +341,7 @@
         "type": "codeforces",
         "id": "1851G",
         "name": "Vlad and the Mountains",
+        "rating": 2000,
         "tags": [
           "binary search",
           "data structures",

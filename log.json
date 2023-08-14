@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1691991184,
+  "updateTime": 1692034378,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 218831188,
+            "pid": "888F",
+            "name": "Connecting Vertices",
+            "verdict": "OK",
+            "creationTime": 1692033892
+          },
+          {
+            "platform": "codeforces",
+            "id": 218830113,
+            "pid": "888E",
+            "name": "Maximum Subsequence",
+            "verdict": "OK",
+            "creationTime": 1692033326
+          },
+          {
+            "platform": "codeforces",
+            "id": 218829753,
+            "pid": "888D",
+            "name": "Almost Identity Permutations",
+            "verdict": "OK",
+            "creationTime": 1692033135
+          },
+          {
+            "platform": "codeforces",
+            "id": 218829501,
+            "pid": "888C",
+            "name": "K-Dominant Character",
+            "verdict": "OK",
+            "creationTime": 1692032999
+          },
+          {
+            "platform": "codeforces",
+            "id": 218829200,
+            "pid": "888B",
+            "name": "Buggy Robot",
+            "verdict": "OK",
+            "creationTime": 1692032850
+          },
+          {
+            "platform": "codeforces",
+            "id": 218829010,
+            "pid": "888A",
+            "name": "Local Extrema",
+            "verdict": "OK",
+            "creationTime": 1692032752
+          },
+          {
+            "platform": "codeforces",
+            "id": 218806536,
+            "pid": "696E",
+            "name": "...Wait for it...",
+            "verdict": "OK",
+            "creationTime": 1692021826
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "692aef5e040ec4fcd924afa93a983b0f66974032"
+  "ref": "9e990a09c886dafcbe693d49013e30331781d61a"
 }
