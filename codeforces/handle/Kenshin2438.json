@@ -6,6 +6,108 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 218983347,
+      "creationTime": 1692115279,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1692110100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1858B",
+        "name": "The Walkway",
+        "tags": [
+          "implementation",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1858/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1858/submission/218983347"
+    },
+    {
+      "type": "codeforces",
+      "id": 218976825,
+      "creationTime": 1692114460,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1692110100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1858B",
+        "name": "The Walkway",
+        "tags": [
+          "implementation",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1858/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1858/submission/218976825"
+    },
+    {
+      "type": "codeforces",
+      "id": 218949129,
+      "creationTime": 1692111881,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1692110100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1858C",
+        "name": "Yet Another Permutation Problem",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1858/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1858/submission/218949129"
+    },
+    {
+      "type": "codeforces",
+      "id": 218929541,
+      "creationTime": 1692110613,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1692110100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1858A",
+        "name": "Buttons",
+        "tags": [
+          "games",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1858/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1858/submission/218929541"
+    },
+    {
+      "type": "codeforces",
       "id": 218865502,
       "creationTime": 1692068131,
       "language": "GNU C++20 (64)",
