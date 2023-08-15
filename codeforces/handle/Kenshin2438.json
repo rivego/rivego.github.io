@@ -6,6 +6,99 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 218865502,
+      "creationTime": 1692068131,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -455415516
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1857G",
+        "name": "Counting Graphs",
+        "rating": 2000,
+        "tags": [
+          "combinatorics",
+          "divide and conquer",
+          "dsu",
+          "graphs",
+          "greedy",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1857/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1857/submission/218865502"
+    },
+    {
+      "type": "codeforces",
+      "id": 218865460,
+      "creationTime": 1692068094,
+      "language": "GNU C++20 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -455415553
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1857G",
+        "name": "Counting Graphs",
+        "rating": 2000,
+        "tags": [
+          "combinatorics",
+          "divide and conquer",
+          "dsu",
+          "graphs",
+          "greedy",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1857/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1857/submission/218865460"
+    },
+    {
+      "type": "codeforces",
+      "id": 218865373,
+      "creationTime": 1692068025,
+      "language": "GNU C++20 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -455415622
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1857G",
+        "name": "Counting Graphs",
+        "rating": 2000,
+        "tags": [
+          "combinatorics",
+          "divide and conquer",
+          "dsu",
+          "graphs",
+          "greedy",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1857/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1857/submission/218865373"
+    },
+    {
+      "type": "codeforces",
       "id": 217401871,
       "creationTime": 1691294716,
       "language": "GNU C++20 (64)",
@@ -21,6 +114,7 @@
         "type": "codeforces",
         "id": "1856E1",
         "name": "PermuTree (easy version)",
+        "rating": 1800,
         "tags": [
           "dfs and similar",
           "dp",
@@ -47,6 +141,7 @@
         "type": "codeforces",
         "id": "1856E2",
         "name": "PermuTree (hard version)",
+        "rating": 2700,
         "tags": [
           "bitmasks",
           "dfs and similar",
@@ -78,6 +173,7 @@
         "type": "codeforces",
         "id": "1856E2",
         "name": "PermuTree (hard version)",
+        "rating": 2700,
         "tags": [
           "bitmasks",
           "dfs and similar",
@@ -109,6 +205,7 @@
         "type": "codeforces",
         "id": "1856E2",
         "name": "PermuTree (hard version)",
+        "rating": 2700,
         "tags": [
           "bitmasks",
           "dfs and similar",
@@ -140,6 +237,7 @@
         "type": "codeforces",
         "id": "1856E2",
         "name": "PermuTree (hard version)",
+        "rating": 2700,
         "tags": [
           "bitmasks",
           "dfs and similar",

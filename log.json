@@ -1,66 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692034378,
+  "updateTime": 1692077587,
   "history": {
     "user": [
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 218865502,
+            "pid": "1857G",
+            "name": "Counting Graphs",
+            "verdict": "OK",
+            "creationTime": 1692068131
+          },
+          {
+            "platform": "codeforces",
+            "id": 218865460,
+            "pid": "1857G",
+            "name": "Counting Graphs",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1692068094
+          },
+          {
+            "platform": "codeforces",
+            "id": 218865373,
+            "pid": "1857G",
+            "name": "Counting Graphs",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1692068025
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 218831188,
-            "pid": "888F",
-            "name": "Connecting Vertices",
+            "id": 218839285,
+            "pid": "889E",
+            "name": "Mod Mod Mod",
             "verdict": "OK",
-            "creationTime": 1692033892
+            "creationTime": 1692038478
           },
           {
             "platform": "codeforces",
-            "id": 218830113,
-            "pid": "888E",
-            "name": "Maximum Subsequence",
+            "id": 218835974,
+            "pid": "889C",
+            "name": "Maximum Element",
             "verdict": "OK",
-            "creationTime": 1692033326
+            "creationTime": 1692036513
           },
           {
             "platform": "codeforces",
-            "id": 218829753,
-            "pid": "888D",
-            "name": "Almost Identity Permutations",
+            "id": 218834793,
+            "pid": "889B",
+            "name": "Restoration of string",
             "verdict": "OK",
-            "creationTime": 1692033135
+            "creationTime": 1692035858
           },
           {
             "platform": "codeforces",
-            "id": 218829501,
-            "pid": "888C",
-            "name": "K-Dominant Character",
+            "id": 218833321,
+            "pid": "889A",
+            "name": "Petya and Catacombs",
             "verdict": "OK",
-            "creationTime": 1692032999
-          },
-          {
-            "platform": "codeforces",
-            "id": 218829200,
-            "pid": "888B",
-            "name": "Buggy Robot",
-            "verdict": "OK",
-            "creationTime": 1692032850
-          },
-          {
-            "platform": "codeforces",
-            "id": 218829010,
-            "pid": "888A",
-            "name": "Local Extrema",
-            "verdict": "OK",
-            "creationTime": 1692032752
-          },
-          {
-            "platform": "codeforces",
-            "id": 218806536,
-            "pid": "696E",
-            "name": "...Wait for it...",
-            "verdict": "OK",
-            "creationTime": 1692021826
+            "creationTime": 1692035064
           }
         ],
         "newContests": []
@@ -68,5 +74,5 @@
     ],
     "contest": []
   },
-  "ref": "9e990a09c886dafcbe693d49013e30331781d61a"
+  "ref": "fc28d0808a149602c49c914df1dc9cda81d6da0a"
 }
