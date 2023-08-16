@@ -21,8 +21,10 @@
         "type": "codeforces",
         "id": "1858B",
         "name": "The Walkway",
+        "rating": 1500,
         "tags": [
           "brute force",
+          "dp",
           "greedy",
           "implementation",
           "math",
@@ -49,8 +51,10 @@
         "type": "codeforces",
         "id": "1858B",
         "name": "The Walkway",
+        "rating": 1500,
         "tags": [
           "brute force",
+          "dp",
           "greedy",
           "implementation",
           "math",
@@ -77,8 +81,10 @@
         "type": "codeforces",
         "id": "1858C",
         "name": "Yet Another Permutation Problem",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
+          "greedy",
           "math",
           "number theory"
         ],
@@ -103,6 +109,7 @@
         "type": "codeforces",
         "id": "1858A",
         "name": "Buttons",
+        "rating": 800,
         "tags": [
           "games",
           "greedy",
