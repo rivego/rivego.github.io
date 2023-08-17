@@ -1,9 +1,88 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692250390,
+  "updateTime": 1692293590,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 219298549,
+            "pid": "1860F",
+            "name": "Evaluate RBS",
+            "verdict": "OK",
+            "creationTime": 1692286099
+          },
+          {
+            "platform": "codeforces",
+            "id": 219292862,
+            "pid": "1860F",
+            "name": "Evaluate RBS",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692285684
+          },
+          {
+            "platform": "codeforces",
+            "id": 219291160,
+            "pid": "1860F",
+            "name": "Evaluate RBS",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692285560
+          },
+          {
+            "platform": "codeforces",
+            "id": 219290180,
+            "pid": "1860F",
+            "name": "Evaluate RBS",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692285488
+          },
+          {
+            "platform": "codeforces",
+            "id": 219277150,
+            "pid": "1860E",
+            "name": "Fast Travel Text Editor",
+            "verdict": "OK",
+            "creationTime": 1692284569
+          },
+          {
+            "platform": "codeforces",
+            "id": 219271388,
+            "pid": "1860D",
+            "name": "Balanced String",
+            "verdict": "OK",
+            "creationTime": 1692284171
+          },
+          {
+            "platform": "codeforces",
+            "id": 219264168,
+            "pid": "1860C",
+            "name": "Game on Permutation",
+            "verdict": "OK",
+            "creationTime": 1692283687
+          },
+          {
+            "platform": "codeforces",
+            "id": 219260635,
+            "pid": "1860B",
+            "name": "Fancy Coins",
+            "verdict": "OK",
+            "creationTime": 1692283448
+          },
+          {
+            "platform": "codeforces",
+            "id": 219257237,
+            "pid": "1860A",
+            "name": "Not a Substring",
+            "verdict": "OK",
+            "creationTime": 1692283128
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c671163502ff84bdf8ebf7e8597c7ed616f7735a"
+  "ref": "9e9e03d9d7f25bca141fa3bab5644d8fbc208a56"
 }
