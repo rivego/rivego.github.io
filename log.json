@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692423177,
+  "updateTime": 1692466363,
   "history": {
     "user": [
       {
@@ -8,11 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 219520037,
-            "pid": "891E",
-            "name": "Lust",
+            "id": 219559710,
+            "pid": "892B",
+            "name": "Wrath",
             "verdict": "OK",
-            "creationTime": 1692420699
+            "creationTime": 1692446163
+          },
+          {
+            "platform": "codeforces",
+            "id": 219559427,
+            "pid": "892A",
+            "name": "Greed",
+            "verdict": "OK",
+            "creationTime": 1692446009
+          },
+          {
+            "platform": "codeforces",
+            "id": 219559005,
+            "pid": "891D",
+            "name": "Sloth",
+            "verdict": "OK",
+            "creationTime": 1692445771
+          },
+          {
+            "platform": "codeforces",
+            "id": 219550498,
+            "pid": "891C",
+            "name": "Envy",
+            "verdict": "OK",
+            "creationTime": 1692440643
           }
         ],
         "newContests": []
@@ -20,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "f6ef5d84a26ee5dd64e8fa62455bf7f02bf6bd18"
+  "ref": "bc2aa5295f1be4dd69d85b2d05f5b9b38d5550a6"
 }
