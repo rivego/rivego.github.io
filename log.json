@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692379989,
+  "updateTime": 1692423177,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 219520037,
+            "pid": "891E",
+            "name": "Lust",
+            "verdict": "OK",
+            "creationTime": 1692420699
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "054516ee80c5e32947b71d9dfc8af2868f90d72d"
+  "ref": "f6ef5d84a26ee5dd64e8fa62455bf7f02bf6bd18"
 }
