@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692509576,
+  "updateTime": 1692552784,
   "history": {
     "user": [
       {
@@ -8,51 +8,91 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 219605336,
-            "pid": "894E",
-            "name": "Ralph and Mushrooms",
+            "id": 219698463,
+            "pid": "895C",
+            "name": "Square Subsets",
             "verdict": "OK",
-            "creationTime": 1692471956
+            "creationTime": 1692547652
           },
           {
             "platform": "codeforces",
-            "id": 219604887,
-            "pid": "894E",
-            "name": "Ralph and Mushrooms",
+            "id": 219697464,
+            "pid": "895B",
+            "name": "XK Segments",
+            "verdict": "OK",
+            "creationTime": 1692547073
+          },
+          {
+            "platform": "codeforces",
+            "id": 219697386,
+            "pid": "895B",
+            "name": "XK Segments",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1692471604
+            "creationTime": 1692547031
           },
           {
             "platform": "codeforces",
-            "id": 219603950,
-            "pid": "894D",
-            "name": "Ralph And His Tour in Binary Country",
+            "id": 219696557,
+            "pid": "895A",
+            "name": "Pizza Separation",
             "verdict": "OK",
-            "creationTime": 1692470874
+            "creationTime": 1692546582
           },
           {
             "platform": "codeforces",
-            "id": 219602288,
-            "pid": "894C",
-            "name": "Marco and GCD Sequence",
+            "id": 219696077,
+            "pid": "893E",
+            "name": "Counting Arrays",
             "verdict": "OK",
-            "creationTime": 1692469678
+            "creationTime": 1692546309
           },
           {
             "platform": "codeforces",
-            "id": 219599404,
-            "pid": "894B",
-            "name": "Ralph And His Magic Field",
+            "id": 219683587,
+            "pid": "893D",
+            "name": "Credit Card",
             "verdict": "OK",
-            "creationTime": 1692467775
+            "creationTime": 1692539459
           },
           {
             "platform": "codeforces",
-            "id": 219599327,
-            "pid": "894B",
-            "name": "Ralph And His Magic Field",
+            "id": 219681290,
+            "pid": "893D",
+            "name": "Credit Card",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1692467722
+            "creationTime": 1692538306
+          },
+          {
+            "platform": "codeforces",
+            "id": 219677972,
+            "pid": "893D",
+            "name": "Credit Card",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692536663
+          },
+          {
+            "platform": "codeforces",
+            "id": 219665625,
+            "pid": "893C",
+            "name": "Rumor",
+            "verdict": "OK",
+            "creationTime": 1692530191
+          },
+          {
+            "platform": "codeforces",
+            "id": 219664943,
+            "pid": "893B",
+            "name": "Beautiful Divisors",
+            "verdict": "OK",
+            "creationTime": 1692529820
+          },
+          {
+            "platform": "codeforces",
+            "id": 219664381,
+            "pid": "893A",
+            "name": "Chess For Three",
+            "verdict": "OK",
+            "creationTime": 1692529539
           }
         ],
         "newContests": []
@@ -60,5 +100,5 @@
     ],
     "contest": []
   },
-  "ref": "2bf00a9c804e65122f3610769973780bff8777d9"
+  "ref": "215e98ede746177c922a358f8dbc9863a4ead961"
 }
