@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692466363,
+  "updateTime": 1692509576,
   "history": {
     "user": [
       {
@@ -8,35 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 219559710,
-            "pid": "892B",
-            "name": "Wrath",
+            "id": 219605336,
+            "pid": "894E",
+            "name": "Ralph and Mushrooms",
             "verdict": "OK",
-            "creationTime": 1692446163
+            "creationTime": 1692471956
           },
           {
             "platform": "codeforces",
-            "id": 219559427,
-            "pid": "892A",
-            "name": "Greed",
-            "verdict": "OK",
-            "creationTime": 1692446009
+            "id": 219604887,
+            "pid": "894E",
+            "name": "Ralph and Mushrooms",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692471604
           },
           {
             "platform": "codeforces",
-            "id": 219559005,
-            "pid": "891D",
-            "name": "Sloth",
+            "id": 219603950,
+            "pid": "894D",
+            "name": "Ralph And His Tour in Binary Country",
             "verdict": "OK",
-            "creationTime": 1692445771
+            "creationTime": 1692470874
           },
           {
             "platform": "codeforces",
-            "id": 219550498,
-            "pid": "891C",
-            "name": "Envy",
+            "id": 219602288,
+            "pid": "894C",
+            "name": "Marco and GCD Sequence",
             "verdict": "OK",
-            "creationTime": 1692440643
+            "creationTime": 1692469678
+          },
+          {
+            "platform": "codeforces",
+            "id": 219599404,
+            "pid": "894B",
+            "name": "Ralph And His Magic Field",
+            "verdict": "OK",
+            "creationTime": 1692467775
+          },
+          {
+            "platform": "codeforces",
+            "id": 219599327,
+            "pid": "894B",
+            "name": "Ralph And His Magic Field",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692467722
           }
         ],
         "newContests": []
@@ -44,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "bc2aa5295f1be4dd69d85b2d05f5b9b38d5550a6"
+  "ref": "2bf00a9c804e65122f3610769973780bff8777d9"
 }
