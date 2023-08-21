@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692595988,
+  "updateTime": 1692639186,
   "history": {
     "user": [
       {
@@ -8,11 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 219747580,
-            "pid": "895D",
-            "name": "String Mark",
+            "id": 219820412,
+            "pid": "896C",
+            "name": "Willem, Chtholly and Seniorious",
             "verdict": "OK",
-            "creationTime": 1692595909
+            "creationTime": 1692636359
+          },
+          {
+            "platform": "codeforces",
+            "id": 219815491,
+            "pid": "896B",
+            "name": "Ithea Plays With Chtholly",
+            "verdict": "OK",
+            "creationTime": 1692633940
+          },
+          {
+            "platform": "codeforces",
+            "id": 219804855,
+            "pid": "896A",
+            "name": "Nephren gives a riddle",
+            "verdict": "OK",
+            "creationTime": 1692628473
+          },
+          {
+            "platform": "codeforces",
+            "id": 219748326,
+            "pid": "895E",
+            "name": "Eyes Closed",
+            "verdict": "OK",
+            "creationTime": 1692596619
           }
         ],
         "newContests": []
@@ -20,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "5d18836ee319b3ffa105a060b0953144885123a3"
+  "ref": "2f324b2837159fadebd4424873ea37d6aed86f4c"
 }
