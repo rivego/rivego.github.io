@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692552784,
+  "updateTime": 1692595988,
   "history": {
     "user": [
       {
@@ -8,91 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 219698463,
-            "pid": "895C",
-            "name": "Square Subsets",
+            "id": 219747580,
+            "pid": "895D",
+            "name": "String Mark",
             "verdict": "OK",
-            "creationTime": 1692547652
-          },
-          {
-            "platform": "codeforces",
-            "id": 219697464,
-            "pid": "895B",
-            "name": "XK Segments",
-            "verdict": "OK",
-            "creationTime": 1692547073
-          },
-          {
-            "platform": "codeforces",
-            "id": 219697386,
-            "pid": "895B",
-            "name": "XK Segments",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1692547031
-          },
-          {
-            "platform": "codeforces",
-            "id": 219696557,
-            "pid": "895A",
-            "name": "Pizza Separation",
-            "verdict": "OK",
-            "creationTime": 1692546582
-          },
-          {
-            "platform": "codeforces",
-            "id": 219696077,
-            "pid": "893E",
-            "name": "Counting Arrays",
-            "verdict": "OK",
-            "creationTime": 1692546309
-          },
-          {
-            "platform": "codeforces",
-            "id": 219683587,
-            "pid": "893D",
-            "name": "Credit Card",
-            "verdict": "OK",
-            "creationTime": 1692539459
-          },
-          {
-            "platform": "codeforces",
-            "id": 219681290,
-            "pid": "893D",
-            "name": "Credit Card",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1692538306
-          },
-          {
-            "platform": "codeforces",
-            "id": 219677972,
-            "pid": "893D",
-            "name": "Credit Card",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1692536663
-          },
-          {
-            "platform": "codeforces",
-            "id": 219665625,
-            "pid": "893C",
-            "name": "Rumor",
-            "verdict": "OK",
-            "creationTime": 1692530191
-          },
-          {
-            "platform": "codeforces",
-            "id": 219664943,
-            "pid": "893B",
-            "name": "Beautiful Divisors",
-            "verdict": "OK",
-            "creationTime": 1692529820
-          },
-          {
-            "platform": "codeforces",
-            "id": 219664381,
-            "pid": "893A",
-            "name": "Chess For Three",
-            "verdict": "OK",
-            "creationTime": 1692529539
+            "creationTime": 1692595909
           }
         ],
         "newContests": []
@@ -100,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "215e98ede746177c922a358f8dbc9863a4ead961"
+  "ref": "5d18836ee319b3ffa105a060b0953144885123a3"
 }
