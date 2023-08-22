@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692682392,
+  "updateTime": 1692725581,
   "history": {
     "user": [
       {
@@ -8,19 +8,107 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 219861532,
-            "pid": "896D",
-            "name": "Nephren Runs a Cinema",
+            "id": 219940002,
+            "pid": "903A",
+            "name": "Hungry Student Problem",
             "verdict": "OK",
-            "creationTime": 1692675328
+            "creationTime": 1692722196
           },
           {
             "platform": "codeforces",
-            "id": 219861415,
-            "pid": "896D",
-            "name": "Nephren Runs a Cinema",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1692675219
+            "id": 219939517,
+            "pid": "900E",
+            "name": "Maximum Questions",
+            "verdict": "OK",
+            "creationTime": 1692721919
+          },
+          {
+            "platform": "codeforces",
+            "id": 219933395,
+            "pid": "900D",
+            "name": "Unusual Sequences",
+            "verdict": "OK",
+            "creationTime": 1692718858
+          },
+          {
+            "platform": "codeforces",
+            "id": 219922511,
+            "pid": "900C",
+            "name": "Remove Extra One",
+            "verdict": "OK",
+            "creationTime": 1692713388
+          },
+          {
+            "platform": "codeforces",
+            "id": 219920734,
+            "pid": "900C",
+            "name": "Remove Extra One",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692712503
+          },
+          {
+            "platform": "codeforces",
+            "id": 219919255,
+            "pid": "900C",
+            "name": "Remove Extra One",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692711740
+          },
+          {
+            "platform": "codeforces",
+            "id": 219919066,
+            "pid": "900C",
+            "name": "Remove Extra One",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692711638
+          },
+          {
+            "platform": "codeforces",
+            "id": 219885414,
+            "pid": "900B",
+            "name": "Position in Fraction",
+            "verdict": "OK",
+            "creationTime": 1692692923
+          },
+          {
+            "platform": "codeforces",
+            "id": 219884716,
+            "pid": "900A",
+            "name": "Find Extra One",
+            "verdict": "OK",
+            "creationTime": 1692692531
+          },
+          {
+            "platform": "codeforces",
+            "id": 219883774,
+            "pid": "897B",
+            "name": "Chtholly's request",
+            "verdict": "OK",
+            "creationTime": 1692692003
+          },
+          {
+            "platform": "codeforces",
+            "id": 219882908,
+            "pid": "897A",
+            "name": "Scarborough Fair",
+            "verdict": "OK",
+            "creationTime": 1692691510
+          },
+          {
+            "platform": "codeforces",
+            "id": 219881471,
+            "pid": "896E",
+            "name": "Welcome home, Chtholly",
+            "verdict": "OK",
+            "creationTime": 1692690706
+          },
+          {
+            "platform": "codeforces",
+            "id": 219881219,
+            "pid": "896E",
+            "name": "Welcome home, Chtholly",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692690558
           }
         ],
         "newContests": []
@@ -28,5 +116,5 @@
     ],
     "contest": []
   },
-  "ref": "67214f41a0434ad818dba353a53628c8ac026a14"
+  "ref": "0d37171bccf2cd249df4dee48db65faa87a4d4d3"
 }
