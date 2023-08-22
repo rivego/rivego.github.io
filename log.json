@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692639186,
+  "updateTime": 1692682392,
   "history": {
     "user": [
       {
@@ -8,35 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 219820412,
-            "pid": "896C",
-            "name": "Willem, Chtholly and Seniorious",
+            "id": 219861532,
+            "pid": "896D",
+            "name": "Nephren Runs a Cinema",
             "verdict": "OK",
-            "creationTime": 1692636359
+            "creationTime": 1692675328
           },
           {
             "platform": "codeforces",
-            "id": 219815491,
-            "pid": "896B",
-            "name": "Ithea Plays With Chtholly",
-            "verdict": "OK",
-            "creationTime": 1692633940
-          },
-          {
-            "platform": "codeforces",
-            "id": 219804855,
-            "pid": "896A",
-            "name": "Nephren gives a riddle",
-            "verdict": "OK",
-            "creationTime": 1692628473
-          },
-          {
-            "platform": "codeforces",
-            "id": 219748326,
-            "pid": "895E",
-            "name": "Eyes Closed",
-            "verdict": "OK",
-            "creationTime": 1692596619
+            "id": 219861415,
+            "pid": "896D",
+            "name": "Nephren Runs a Cinema",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1692675219
           }
         ],
         "newContests": []
@@ -44,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "2f324b2837159fadebd4424873ea37d6aed86f4c"
+  "ref": "67214f41a0434ad818dba353a53628c8ac026a14"
 }
