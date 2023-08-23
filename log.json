@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692768793,
+  "updateTime": 1692811979,
   "history": {
     "user": [
       {
@@ -8,19 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 219989606,
-            "pid": "903C",
-            "name": "Boxes Packing",
+            "id": 219991746,
+            "pid": "903E",
+            "name": "Swapping Characters",
             "verdict": "OK",
-            "creationTime": 1692768547
+            "creationTime": 1692770414
           },
           {
             "platform": "codeforces",
-            "id": 219989411,
-            "pid": "903B",
-            "name": "The Modcrab",
+            "id": 219991667,
+            "pid": "903E",
+            "name": "Swapping Characters",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692770359
+          },
+          {
+            "platform": "codeforces",
+            "id": 219990029,
+            "pid": "903D",
+            "name": "Almost Difference",
             "verdict": "OK",
-            "creationTime": 1692768395
+            "creationTime": 1692768951
+          },
+          {
+            "platform": "codeforces",
+            "id": 219989913,
+            "pid": "903D",
+            "name": "Almost Difference",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1692768843
           }
         ],
         "newContests": []
@@ -28,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "b679e2bda207f6e0db3ad664ea14ebce463d9c0e"
+  "ref": "eef38acb499f746c777c2108c51f901b0c46f24e"
 }
