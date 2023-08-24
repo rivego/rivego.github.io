@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692855184,
+  "updateTime": 1692898409,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 220206760,
+            "pid": "1862G",
+            "name": "The Great Equalizer",
+            "verdict": "OK",
+            "creationTime": 1692889871
+          },
+          {
+            "platform": "codeforces",
+            "id": 220198161,
+            "pid": "1862F",
+            "name": "Magic Will Save the World",
+            "verdict": "OK",
+            "creationTime": 1692889434
+          },
+          {
+            "platform": "codeforces",
+            "id": 220193685,
+            "pid": "1862E",
+            "name": "Kolya and Movie Theatre",
+            "verdict": "OK",
+            "creationTime": 1692889225
+          },
+          {
+            "platform": "codeforces",
+            "id": 220182178,
+            "pid": "1862D",
+            "name": "Ice Cream Balls",
+            "verdict": "OK",
+            "creationTime": 1692888750
+          },
+          {
+            "platform": "codeforces",
+            "id": 220173336,
+            "pid": "1862C",
+            "name": "Flower City Fence",
+            "verdict": "OK",
+            "creationTime": 1692888405
+          },
+          {
+            "platform": "codeforces",
+            "id": 220168854,
+            "pid": "1862B",
+            "name": "Sequence Game",
+            "verdict": "OK",
+            "creationTime": 1692888226
+          },
+          {
+            "platform": "codeforces",
+            "id": 220165585,
+            "pid": "1862A",
+            "name": "Gift Carpet",
+            "verdict": "OK",
+            "creationTime": 1692888074
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "031bde9b9cd7a523de786d922b53dfc405658a33"
+  "ref": "75b534fd378d98bdd0b9db082bbe71cb03720351"
 }
