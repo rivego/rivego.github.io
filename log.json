@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692941580,
+  "updateTime": 1692984783,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 220327706,
-            "pid": "1862C",
-            "name": "Flower City Fence",
-            "verdict": "OK",
-            "creationTime": 1692926940
-          },
-          {
-            "platform": "codeforces",
-            "id": 220325983,
-            "pid": "1862B",
-            "name": "Sequence Game",
-            "verdict": "OK",
-            "creationTime": 1692924351
-          },
-          {
-            "platform": "codeforces",
-            "id": 220325617,
-            "pid": "1862A",
-            "name": "Gift Carpet",
-            "verdict": "OK",
-            "creationTime": 1692923709
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5b942b1d8f081d31280a4ea945bf2615c2806f4e"
+  "ref": "fba7028ccda778d2f32b5a917c7011144cd0c0c6"
 }

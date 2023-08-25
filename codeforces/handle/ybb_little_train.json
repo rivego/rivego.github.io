@@ -22,7 +22,9 @@
         "id": "1862C",
         "name": "Flower City Fence",
         "tags": [
-          "implementation"
+          "binary search",
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1862/problem/C"
       },
