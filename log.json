@@ -1,66 +1,34 @@
 {
   "version": "0.1.29",
-  "updateTime": 1692898409,
+  "updateTime": 1692941580,
   "history": {
     "user": [
       {
-        "name": "jiangly",
+        "name": "ybb_little_train",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 220206760,
-            "pid": "1862G",
-            "name": "The Great Equalizer",
-            "verdict": "OK",
-            "creationTime": 1692889871
-          },
-          {
-            "platform": "codeforces",
-            "id": 220198161,
-            "pid": "1862F",
-            "name": "Magic Will Save the World",
-            "verdict": "OK",
-            "creationTime": 1692889434
-          },
-          {
-            "platform": "codeforces",
-            "id": 220193685,
-            "pid": "1862E",
-            "name": "Kolya and Movie Theatre",
-            "verdict": "OK",
-            "creationTime": 1692889225
-          },
-          {
-            "platform": "codeforces",
-            "id": 220182178,
-            "pid": "1862D",
-            "name": "Ice Cream Balls",
-            "verdict": "OK",
-            "creationTime": 1692888750
-          },
-          {
-            "platform": "codeforces",
-            "id": 220173336,
+            "id": 220327706,
             "pid": "1862C",
             "name": "Flower City Fence",
             "verdict": "OK",
-            "creationTime": 1692888405
+            "creationTime": 1692926940
           },
           {
             "platform": "codeforces",
-            "id": 220168854,
+            "id": 220325983,
             "pid": "1862B",
             "name": "Sequence Game",
             "verdict": "OK",
-            "creationTime": 1692888226
+            "creationTime": 1692924351
           },
           {
             "platform": "codeforces",
-            "id": 220165585,
+            "id": 220325617,
             "pid": "1862A",
             "name": "Gift Carpet",
             "verdict": "OK",
-            "creationTime": 1692888074
+            "creationTime": 1692923709
           }
         ],
         "newContests": []
@@ -68,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "75b534fd378d98bdd0b9db082bbe71cb03720351"
+  "ref": "5b942b1d8f081d31280a4ea945bf2615c2806f4e"
 }
