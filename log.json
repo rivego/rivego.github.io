@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1693027970,
+  "updateTime": 1693071178,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 220584872,
+            "pid": "1864H",
+            "name": "Asterism Stream",
+            "verdict": "OK",
+            "creationTime": 1693068441
+          },
+          {
+            "platform": "codeforces",
+            "id": 220576772,
+            "pid": "1864G",
+            "name": "Magic Square",
+            "verdict": "OK",
+            "creationTime": 1693066824
+          },
+          {
+            "platform": "codeforces",
+            "id": 220558951,
+            "pid": "1864F",
+            "name": "Exotic Queries",
+            "verdict": "OK",
+            "creationTime": 1693063923
+          },
+          {
+            "platform": "codeforces",
+            "id": 220550014,
+            "pid": "1864E",
+            "name": "Guess Game",
+            "verdict": "OK",
+            "creationTime": 1693062830
+          },
+          {
+            "platform": "codeforces",
+            "id": 220542850,
+            "pid": "1864D",
+            "name": "Matrix Cascade",
+            "verdict": "OK",
+            "creationTime": 1693062109
+          },
+          {
+            "platform": "codeforces",
+            "id": 220537748,
+            "pid": "1864C",
+            "name": "Divisor Chain",
+            "verdict": "OK",
+            "creationTime": 1693061678
+          },
+          {
+            "platform": "codeforces",
+            "id": 220524039,
+            "pid": "1864B",
+            "name": "Swap and Reverse",
+            "verdict": "OK",
+            "creationTime": 1693060808
+          },
+          {
+            "platform": "codeforces",
+            "id": 220521570,
+            "pid": "1864A",
+            "name": "Increasing and Decreasing",
+            "verdict": "OK",
+            "creationTime": 1693060631
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "a24c0e5cfb25e02dc323a7d2f020fa736fe21160"
+  "ref": "58ba2963dd271a2b35398b5b16d610a3c11139ee"
 }

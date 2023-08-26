@@ -23,6 +23,7 @@
         "name": "Flower City Fence",
         "tags": [
           "binary search",
+          "data structures",
           "implementation",
           "sortings"
         ],
@@ -72,6 +73,7 @@
         "id": "1862A",
         "name": "Gift Carpet",
         "tags": [
+          "dp",
           "greedy",
           "implementation",
           "strings"
