@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1693200789,
+  "updateTime": 1693243977,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 220832309,
+            "pid": "1864F",
+            "name": "Exotic Queries",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1693215337
+          },
+          {
+            "platform": "codeforces",
+            "id": 220832223,
+            "pid": "1864F",
+            "name": "Exotic Queries",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693215291
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "03817afcc6dfe303d6d797e263c9e7290a6dffd5"
+  "ref": "48f1df064777e6879422c34747a34db61ca8c70c"
 }
