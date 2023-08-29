@@ -1,9 +1,112 @@
 {
   "version": "0.1.29",
-  "updateTime": 1693287188,
+  "updateTime": 1693330379,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 220987267,
+            "pid": "104479E",
+            "name": "Erase the Primes",
+            "verdict": "OK",
+            "creationTime": 1693321450
+          },
+          {
+            "platform": "codeforces",
+            "id": 220981266,
+            "pid": "104479D",
+            "name": "DAG Probability",
+            "verdict": "OK",
+            "creationTime": 1693318404
+          },
+          {
+            "platform": "codeforces",
+            "id": 220968652,
+            "pid": "163E",
+            "name": "e-Government",
+            "verdict": "OK",
+            "creationTime": 1693313151
+          },
+          {
+            "platform": "codeforces",
+            "id": 220968498,
+            "pid": "163E",
+            "name": "e-Government",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693313070
+          },
+          {
+            "platform": "codeforces",
+            "id": 220966737,
+            "pid": "104479L",
+            "name": "Lying Faces",
+            "verdict": "OK",
+            "creationTime": 1693312097
+          },
+          {
+            "platform": "codeforces",
+            "id": 220966291,
+            "pid": "593E",
+            "name": "Strange Calculation and Cats",
+            "verdict": "OK",
+            "creationTime": 1693311857
+          },
+          {
+            "platform": "codeforces",
+            "id": 220964315,
+            "pid": "104479L",
+            "name": "Lying Faces",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693310814
+          },
+          {
+            "platform": "codeforces",
+            "id": 220964023,
+            "pid": "104479L",
+            "name": "Lying Faces",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693310688
+          },
+          {
+            "platform": "codeforces",
+            "id": 220963897,
+            "pid": "104479L",
+            "name": "Lying Faces",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693310611
+          },
+          {
+            "platform": "codeforces",
+            "id": 220962050,
+            "pid": "104479G",
+            "name": "Guessing by Divisibility",
+            "verdict": "OK",
+            "creationTime": 1693309556
+          },
+          {
+            "platform": "codeforces",
+            "id": 220961976,
+            "pid": "104479G",
+            "name": "Guessing by Divisibility",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693309515
+          },
+          {
+            "platform": "codeforces",
+            "id": 220961494,
+            "pid": "104479C",
+            "name": "Convolution",
+            "verdict": "OK",
+            "creationTime": 1693309242
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "7e3cee3a05c56da9556219cb709ffc22500aec1f"
+  "ref": "379f8422d1a057a688e4220357c06feb40358630"
 }
