@@ -1,66 +1,184 @@
 {
   "version": "0.1.29",
-  "updateTime": 1693373567,
+  "updateTime": 1693416773,
   "history": {
     "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 221136551,
+            "pid": "1863G",
+            "name": "Swaps",
+            "verdict": "OK",
+            "creationTime": 1693409631
+          },
+          {
+            "platform": "codeforces",
+            "id": 221121590,
+            "pid": "1863F",
+            "name": "Divide, XOR, and Conquer",
+            "verdict": "OK",
+            "creationTime": 1693408073
+          },
+          {
+            "platform": "codeforces",
+            "id": 221110018,
+            "pid": "1863E",
+            "name": "Speedrun",
+            "verdict": "OK",
+            "creationTime": 1693407173
+          },
+          {
+            "platform": "codeforces",
+            "id": 221102414,
+            "pid": "1863D",
+            "name": "Two-Colored Dominoes",
+            "verdict": "OK",
+            "creationTime": 1693406706
+          },
+          {
+            "platform": "codeforces",
+            "id": 221098267,
+            "pid": "1863C",
+            "name": "MEX Repetition",
+            "verdict": "OK",
+            "creationTime": 1693406468
+          },
+          {
+            "platform": "codeforces",
+            "id": 221096643,
+            "pid": "1863A",
+            "name": "Channel",
+            "verdict": "OK",
+            "creationTime": 1693406347
+          },
+          {
+            "platform": "codeforces",
+            "id": 221096498,
+            "pid": "1863B",
+            "name": "Split Sort",
+            "verdict": "OK",
+            "creationTime": 1693406332
+          },
+          {
+            "platform": "codeforces",
+            "id": 221095962,
+            "pid": "1863A",
+            "name": "Channel",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693406217
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 221039732,
-            "pid": "104479B",
-            "name": "Beautiful XOR Problem",
-            "verdict": "OK",
-            "creationTime": 1693368747
-          },
-          {
-            "platform": "codeforces",
-            "id": 221039497,
-            "pid": "104479B",
-            "name": "Beautiful XOR Problem",
+            "id": 221177815,
+            "pid": "1863H",
+            "name": "Goldberg Machine 3",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1693368480
+            "creationTime": 1693416647
           },
           {
             "platform": "codeforces",
-            "id": 221036520,
-            "pid": "104479F",
-            "name": "Forest Game",
-            "verdict": "OK",
-            "creationTime": 1693364929
-          },
-          {
-            "platform": "codeforces",
-            "id": 221034881,
-            "pid": "104479I",
-            "name": "Incomplete Information Queries",
-            "verdict": "OK",
-            "creationTime": 1693362808
-          },
-          {
-            "platform": "codeforces",
-            "id": 221033998,
-            "pid": "104479H",
-            "name": "Highest Median Walk",
-            "verdict": "OK",
-            "creationTime": 1693361527
-          },
-          {
-            "platform": "codeforces",
-            "id": 221033912,
-            "pid": "104479H",
-            "name": "Highest Median Walk",
+            "id": 221176892,
+            "pid": "1863H",
+            "name": "Goldberg Machine 3",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1693361413
+            "creationTime": 1693416474
           },
           {
             "platform": "codeforces",
-            "id": 221033132,
-            "pid": "104479J",
-            "name": "Joining Arrays",
+            "id": 221174732,
+            "pid": "1863H",
+            "name": "Goldberg Machine 3",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693416065
+          },
+          {
+            "platform": "codeforces",
+            "id": 221150406,
+            "pid": "1863G",
+            "name": "Swaps",
             "verdict": "OK",
-            "creationTime": 1693360401
+            "creationTime": 1693411541
+          },
+          {
+            "platform": "codeforces",
+            "id": 221138108,
+            "pid": "1863F",
+            "name": "Divide, XOR, and Conquer",
+            "verdict": "OK",
+            "creationTime": 1693409831
+          },
+          {
+            "platform": "codeforces",
+            "id": 221116632,
+            "pid": "1863E",
+            "name": "Speedrun",
+            "verdict": "OK",
+            "creationTime": 1693407654
+          },
+          {
+            "platform": "codeforces",
+            "id": 221107918,
+            "pid": "1863D",
+            "name": "Two-Colored Dominoes",
+            "verdict": "OK",
+            "creationTime": 1693407037
+          },
+          {
+            "platform": "codeforces",
+            "id": 221098509,
+            "pid": "1863C",
+            "name": "MEX Repetition",
+            "verdict": "OK",
+            "creationTime": 1693406482
+          },
+          {
+            "platform": "codeforces",
+            "id": 221096607,
+            "pid": "1863B",
+            "name": "Split Sort",
+            "verdict": "OK",
+            "creationTime": 1693406344
+          },
+          {
+            "platform": "codeforces",
+            "id": 221096043,
+            "pid": "1863A",
+            "name": "Channel",
+            "verdict": "OK",
+            "creationTime": 1693406252
+          },
+          {
+            "platform": "codeforces",
+            "id": 221054349,
+            "pid": "104479A",
+            "name": "Assembly",
+            "verdict": "OK",
+            "creationTime": 1693381288
+          },
+          {
+            "platform": "codeforces",
+            "id": 221046245,
+            "pid": "104479A",
+            "name": "Assembly",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693375094
+          },
+          {
+            "platform": "codeforces",
+            "id": 221046190,
+            "pid": "104479A",
+            "name": "Assembly",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693375041
           }
         ],
         "newContests": []
@@ -68,5 +186,5 @@
     ],
     "contest": []
   },
-  "ref": "b7050782047d4d0f9817bcc616ededb12e36ba55"
+  "ref": "081984e0bab87d6d730ea1e26762f7b9b4cff415"
 }
