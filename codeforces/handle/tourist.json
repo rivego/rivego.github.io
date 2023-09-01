@@ -22,7 +22,9 @@
         "id": "1861D",
         "name": "Sorting By Multiplication",
         "tags": [
-          "greedy"
+          "dp",
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1861/problem/D"
       },
@@ -73,6 +75,7 @@
         "tags": [
           "data structures",
           "dfs and similar",
+          "implementation",
           "strings",
           "trees"
         ],
@@ -98,6 +101,7 @@
         "id": "1861B",
         "name": "Two Binary Strings",
         "tags": [
+          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1861/problem/B"
