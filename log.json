@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1693589571,
+  "updateTime": 1693632779,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 221415977,
-            "pid": "1861F",
-            "name": "Four Suits",
-            "verdict": "OK",
-            "creationTime": 1693553754
-          },
-          {
-            "platform": "codeforces",
-            "id": 221415813,
-            "pid": "1861F",
-            "name": "Four Suits",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1693553658
-          },
-          {
-            "platform": "codeforces",
-            "id": 221410295,
-            "pid": "1861E",
-            "name": "Non-Intersecting Subpermutations",
-            "verdict": "OK",
-            "creationTime": 1693549910
-          },
-          {
-            "platform": "codeforces",
-            "id": 221409085,
-            "pid": "1861D",
-            "name": "Sorting By Multiplication",
-            "verdict": "OK",
-            "creationTime": 1693549056
-          },
-          {
-            "platform": "codeforces",
-            "id": 221408088,
-            "pid": "1861C",
-            "name": "Queries for the Array",
-            "verdict": "OK",
-            "creationTime": 1693548329
-          },
-          {
-            "platform": "codeforces",
-            "id": 221407482,
-            "pid": "1861C",
-            "name": "Queries for the Array",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1693547867
-          },
-          {
-            "platform": "codeforces",
-            "id": 221407433,
-            "pid": "1861C",
-            "name": "Queries for the Array",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1693547831
-          },
-          {
-            "platform": "codeforces",
-            "id": 221407073,
-            "pid": "1861B",
-            "name": "Two Binary Strings",
-            "verdict": "OK",
-            "creationTime": 1693547539
-          },
-          {
-            "platform": "codeforces",
-            "id": 221407062,
-            "pid": "1861A",
-            "name": "Prime Deletion",
-            "verdict": "OK",
-            "creationTime": 1693547525
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9a33fc7f9e600ab49bda713b5027be9c39395e4f"
+  "ref": "6d188f1d356f7481aa259e71d8bb8c401cbfe20b"
 }
