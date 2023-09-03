@@ -208,7 +208,8 @@
           "dfs and similar",
           "dp",
           "graphs",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1863/problem/E"
       },
