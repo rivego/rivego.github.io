@@ -48,7 +48,8 @@
         "name": "Non-Intersecting Subpermutations",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1861/problem/E"
       },
@@ -204,10 +205,11 @@
         "name": "Speedrun",
         "tags": [
           "brute force",
-          "data structures",
           "dfs and similar",
           "dp",
           "graphs",
+          "greedy",
+          "math",
           "sortings",
           "two pointers"
         ],
