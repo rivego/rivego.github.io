@@ -1,9 +1,128 @@
 {
   "version": "0.1.29",
-  "updateTime": 1693891972,
+  "updateTime": 1693935179,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 221976818,
+            "pid": "1649A",
+            "name": "Game",
+            "verdict": "OK",
+            "creationTime": 1693935121
+          },
+          {
+            "platform": "codeforces",
+            "id": 221976532,
+            "pid": "1647E",
+            "name": "Madoka and the Sixth-graders",
+            "verdict": "OK",
+            "creationTime": 1693934970
+          },
+          {
+            "platform": "codeforces",
+            "id": 221974871,
+            "pid": "1647D",
+            "name": "Madoka and the Best School in Russia",
+            "verdict": "OK",
+            "creationTime": 1693934113
+          },
+          {
+            "platform": "codeforces",
+            "id": 221974644,
+            "pid": "1647D",
+            "name": "Madoka and the Best School in Russia",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1693934005
+          },
+          {
+            "platform": "codeforces",
+            "id": 221973606,
+            "pid": "1647C",
+            "name": "Madoka and Childish Pranks",
+            "verdict": "OK",
+            "creationTime": 1693933438
+          },
+          {
+            "platform": "codeforces",
+            "id": 221973316,
+            "pid": "1647B",
+            "name": "Madoka and the Elegant Gift",
+            "verdict": "OK",
+            "creationTime": 1693933287
+          },
+          {
+            "platform": "codeforces",
+            "id": 221972993,
+            "pid": "1647A",
+            "name": "Madoka and Math Dad",
+            "verdict": "OK",
+            "creationTime": 1693933101
+          },
+          {
+            "platform": "codeforces",
+            "id": 221972698,
+            "pid": "1668B",
+            "name": "Social Distance",
+            "verdict": "OK",
+            "creationTime": 1693932937
+          },
+          {
+            "platform": "codeforces",
+            "id": 221972412,
+            "pid": "1668A",
+            "name": "Direction Change",
+            "verdict": "OK",
+            "creationTime": 1693932791
+          },
+          {
+            "platform": "codeforces",
+            "id": 221971013,
+            "pid": "1688C",
+            "name": "Manipulating History",
+            "verdict": "OK",
+            "creationTime": 1693932636
+          },
+          {
+            "platform": "codeforces",
+            "id": 221967261,
+            "pid": "1688B",
+            "name": "Patchouli's Magical Talisman",
+            "verdict": "OK",
+            "creationTime": 1693932512
+          },
+          {
+            "platform": "codeforces",
+            "id": 221967036,
+            "pid": "1688A",
+            "name": "Cirno's Perfect Bitmasks Classroom",
+            "verdict": "OK",
+            "creationTime": 1693932396
+          },
+          {
+            "platform": "codeforces",
+            "id": 221966622,
+            "pid": "1708B",
+            "name": "Difference of GCDs",
+            "verdict": "OK",
+            "creationTime": 1693932189
+          },
+          {
+            "platform": "codeforces",
+            "id": 221966406,
+            "pid": "1708A",
+            "name": "Difference Operations",
+            "verdict": "OK",
+            "creationTime": 1693932071
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e1978acd5d54380ef74106034482dbc13175fbf1"
+  "ref": "c07e3e88102929fa2b654e8992dc2a74c75233a3"
 }
