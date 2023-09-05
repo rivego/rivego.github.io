@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1693848781,
+  "updateTime": 1693891972,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 221825420,
-            "pid": "1863I",
-            "name": "Redundant Routes",
-            "verdict": "OK",
-            "creationTime": 1693836188
-          },
-          {
-            "platform": "codeforces",
-            "id": 221824784,
-            "pid": "1863I",
-            "name": "Redundant Routes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1693835896
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "1d76594a1a58f955b645d9413c4196f08b85a3bd"
+  "ref": "e1978acd5d54380ef74106034482dbc13175fbf1"
 }
