@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1693978377,
+  "updateTime": 1694021574,
   "history": {
     "user": [
       {
@@ -8,27 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 221977573,
-            "pid": "1642B",
-            "name": "Power Walking",
+            "id": 222117806,
+            "pid": "1631A",
+            "name": "Min Max Swap",
             "verdict": "OK",
-            "creationTime": 1693935552
-          },
-          {
-            "platform": "codeforces",
-            "id": 221977336,
-            "pid": "1642A",
-            "name": "Hard Way",
-            "verdict": "OK",
-            "creationTime": 1693935416
-          },
-          {
-            "platform": "codeforces",
-            "id": 221977063,
-            "pid": "1649B",
-            "name": "Game of Ball Passing",
-            "verdict": "OK",
-            "creationTime": 1693935261
+            "creationTime": 1694021386
           }
         ],
         "newContests": []
@@ -36,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "21731b20fe28edc019b25927e1943fdb500d3ea8"
+  "ref": "683580f4aacb1fa746cbaeaeb5b556a176ccf4f9"
 }
