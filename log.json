@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1694064788,
+  "updateTime": 1694107992,
   "history": {
     "user": [
       {
@@ -8,91 +8,59 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 222125115,
-            "pid": "1585G",
-            "name": "Poachers",
+            "id": 222252992,
+            "pid": "1872G",
+            "name": "Replace With Product",
             "verdict": "OK",
-            "creationTime": 1694025571
+            "creationTime": 1694099020
           },
           {
             "platform": "codeforces",
-            "id": 222122861,
-            "pid": "1585F",
-            "name": "Non-equal Neighbours",
+            "id": 222243691,
+            "pid": "1872F",
+            "name": "Selling a Menagerie",
             "verdict": "OK",
-            "creationTime": 1694024187
+            "creationTime": 1694098524
           },
           {
             "platform": "codeforces",
-            "id": 222122075,
-            "pid": "1585E",
-            "name": "Frequency Queries",
+            "id": 222233059,
+            "pid": "1872E",
+            "name": "Data Structures Fan",
             "verdict": "OK",
-            "creationTime": 1694023722
+            "creationTime": 1694097988
           },
           {
             "platform": "codeforces",
-            "id": 222121663,
-            "pid": "1585E",
-            "name": "Frequency Queries",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1694023492
+            "id": 222229645,
+            "pid": "1872D",
+            "name": "Plus Minus Permutation",
+            "verdict": "OK",
+            "creationTime": 1694097828
           },
           {
             "platform": "codeforces",
-            "id": 222120365,
-            "pid": "1591D",
-            "name": "Yet Another Sorting Problem",
+            "id": 222227406,
+            "pid": "1872C",
+            "name": "Non-coprime Split",
             "verdict": "OK",
-            "creationTime": 1694022773
+            "creationTime": 1694097725
           },
           {
             "platform": "codeforces",
-            "id": 222120120,
-            "pid": "1591C",
-            "name": "Minimize Distance",
+            "id": 222224253,
+            "pid": "1872B",
+            "name": "The Corridor or There and Back Again",
             "verdict": "OK",
-            "creationTime": 1694022639
+            "creationTime": 1694097599
           },
           {
             "platform": "codeforces",
-            "id": 222119688,
-            "pid": "1591B",
-            "name": "Array Eversion",
+            "id": 222221064,
+            "pid": "1872A",
+            "name": "Two Vessels",
             "verdict": "OK",
-            "creationTime": 1694022399
-          },
-          {
-            "platform": "codeforces",
-            "id": 222119482,
-            "pid": "1591A",
-            "name": "Life of a Flower",
-            "verdict": "OK",
-            "creationTime": 1694022280
-          },
-          {
-            "platform": "codeforces",
-            "id": 222119038,
-            "pid": "1629B",
-            "name": "GCD Arrays",
-            "verdict": "OK",
-            "creationTime": 1694022046
-          },
-          {
-            "platform": "codeforces",
-            "id": 222118515,
-            "pid": "1629A",
-            "name": "Download More RAM",
-            "verdict": "OK",
-            "creationTime": 1694021775
-          },
-          {
-            "platform": "codeforces",
-            "id": 222118142,
-            "pid": "1631B",
-            "name": "Fun with Even Subarrays",
-            "verdict": "OK",
-            "creationTime": 1694021563
+            "creationTime": 1694097477
           }
         ],
         "newContests": []
@@ -100,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "1f5c09cc23107cc8f31c7ced51b4f9c1cfd96d41"
+  "ref": "c2ef69d6c7a7d76916edd3c7e921521de806e3cc"
 }
