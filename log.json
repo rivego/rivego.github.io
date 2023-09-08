@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1694107992,
+  "updateTime": 1694151187,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 222252992,
-            "pid": "1872G",
-            "name": "Replace With Product",
-            "verdict": "OK",
-            "creationTime": 1694099020
-          },
-          {
-            "platform": "codeforces",
-            "id": 222243691,
-            "pid": "1872F",
-            "name": "Selling a Menagerie",
-            "verdict": "OK",
-            "creationTime": 1694098524
-          },
-          {
-            "platform": "codeforces",
-            "id": 222233059,
-            "pid": "1872E",
-            "name": "Data Structures Fan",
-            "verdict": "OK",
-            "creationTime": 1694097988
-          },
-          {
-            "platform": "codeforces",
-            "id": 222229645,
-            "pid": "1872D",
-            "name": "Plus Minus Permutation",
-            "verdict": "OK",
-            "creationTime": 1694097828
-          },
-          {
-            "platform": "codeforces",
-            "id": 222227406,
-            "pid": "1872C",
-            "name": "Non-coprime Split",
-            "verdict": "OK",
-            "creationTime": 1694097725
-          },
-          {
-            "platform": "codeforces",
-            "id": 222224253,
-            "pid": "1872B",
-            "name": "The Corridor or There and Back Again",
-            "verdict": "OK",
-            "creationTime": 1694097599
-          },
-          {
-            "platform": "codeforces",
-            "id": 222221064,
-            "pid": "1872A",
-            "name": "Two Vessels",
-            "verdict": "OK",
-            "creationTime": 1694097477
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "c2ef69d6c7a7d76916edd3c7e921521de806e3cc"
+  "ref": "d82bb85ded9e4335b8bb54b71d98418cc67f786c"
 }
