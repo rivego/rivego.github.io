@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1694194381,
+  "updateTime": 1694237591,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 222470773,
-            "pid": "1605E",
-            "name": "Array Equalizer",
-            "verdict": "OK",
-            "creationTime": 1694182995
-          },
-          {
-            "platform": "codeforces",
-            "id": 222469133,
-            "pid": "1605D",
-            "name": "Treelabeling",
-            "verdict": "OK",
-            "creationTime": 1694182340
-          },
-          {
-            "platform": "codeforces",
-            "id": 222467338,
-            "pid": "1605C",
-            "name": "Dominant Character",
-            "verdict": "OK",
-            "creationTime": 1694181615
-          },
-          {
-            "platform": "codeforces",
-            "id": 222466906,
-            "pid": "1605B",
-            "name": "Reverse Sort",
-            "verdict": "OK",
-            "creationTime": 1694181441
-          },
-          {
-            "platform": "codeforces",
-            "id": 222466410,
-            "pid": "1605A",
-            "name": "A.M. Deviation",
-            "verdict": "OK",
-            "creationTime": 1694181223
-          },
-          {
-            "platform": "codeforces",
-            "id": 222465923,
-            "pid": "1589B",
-            "name": "Coloring Rectangles",
-            "verdict": "OK",
-            "creationTime": 1694181008
-          },
-          {
-            "platform": "codeforces",
-            "id": 222465587,
-            "pid": "1589A",
-            "name": "Mathematical Addition",
-            "verdict": "OK",
-            "creationTime": 1694180864
-          },
-          {
-            "platform": "codeforces",
-            "id": 222464136,
-            "pid": "1654E",
-            "name": "Arithmetic Operations",
-            "verdict": "OK",
-            "creationTime": 1694180289
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "e1369c2dad063d374bf5862080401a416d1204d9"
+  "ref": "39b9e05852411d612c203208541dfd4ab1f77bbb"
 }
