@@ -1,9 +1,96 @@
 {
   "version": "0.1.29",
-  "updateTime": 1694323970,
+  "updateTime": 1694367176,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 222810358,
+            "pid": "1868E",
+            "name": "Min-Sum-Max",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1694367124
+          },
+          {
+            "platform": "codeforces",
+            "id": 222810028,
+            "pid": "1868E",
+            "name": "Min-Sum-Max",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1694366986
+          },
+          {
+            "platform": "codeforces",
+            "id": 222808154,
+            "pid": "1868E",
+            "name": "Min-Sum-Max",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1694366336
+          },
+          {
+            "platform": "codeforces",
+            "id": 222784253,
+            "pid": "1868E",
+            "name": "Min-Sum-Max",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1694361140
+          },
+          {
+            "platform": "codeforces",
+            "id": 222776638,
+            "pid": "1868D",
+            "name": "Flower-like Pseudotree",
+            "verdict": "OK",
+            "creationTime": 1694360080
+          },
+          {
+            "platform": "codeforces",
+            "id": 222759154,
+            "pid": "1868C",
+            "name": "Travel Plan",
+            "verdict": "OK",
+            "creationTime": 1694357941
+          },
+          {
+            "platform": "codeforces",
+            "id": 222757273,
+            "pid": "1868C",
+            "name": "Travel Plan",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1694357739
+          },
+          {
+            "platform": "codeforces",
+            "id": 222748527,
+            "pid": "1868B2",
+            "name": "Candy Party (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1694356861
+          },
+          {
+            "platform": "codeforces",
+            "id": 222740465,
+            "pid": "1868B1",
+            "name": "Candy Party (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1694356114
+          },
+          {
+            "platform": "codeforces",
+            "id": 222731429,
+            "pid": "1868A",
+            "name": "Fill in the Matrix",
+            "verdict": "OK",
+            "creationTime": 1694355385
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "1fef475c64995930f9a49b724e848fbf7410100f"
+  "ref": "382fbda41347930520fbd8f03413298e3a15c846"
 }
