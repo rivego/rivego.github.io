@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1694410374,
+  "updateTime": 1694453591,
   "history": {
     "user": [
       {
@@ -8,27 +8,89 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 222815728,
-            "pid": "1868E",
-            "name": "Min-Sum-Max",
-            "verdict": "OK",
-            "creationTime": 1694369569
+            "id": 222988148,
+            "pid": "1869B",
+            "name": "2D Traveling",
+            "creationTime": 1694453017
           },
           {
             "platform": "codeforces",
-            "id": 222812892,
-            "pid": "1868E",
-            "name": "Min-Sum-Max",
+            "id": 222987930,
+            "pid": "1869A",
+            "name": "Make It Zero",
+            "creationTime": 1694452823
+          },
+          {
+            "platform": "codeforces",
+            "id": 222983364,
+            "pid": "1867F",
+            "name": "Most Different Tree",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1694368218
+            "creationTime": 1694449993
           },
           {
             "platform": "codeforces",
-            "id": 222811259,
-            "pid": "1868E",
-            "name": "Min-Sum-Max",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1694367501
+            "id": 222976468,
+            "pid": "1867E1",
+            "name": "Salyg1n and Array (simple version)",
+            "verdict": "OK",
+            "creationTime": 1694449239
+          },
+          {
+            "platform": "codeforces",
+            "id": 222976315,
+            "pid": "1867E2",
+            "name": "Salyg1n and Array (hard version)",
+            "verdict": "OK",
+            "creationTime": 1694449220
+          },
+          {
+            "platform": "codeforces",
+            "id": 222972571,
+            "pid": "1867D",
+            "name": "Cyclic Operations",
+            "verdict": "OK",
+            "creationTime": 1694448758
+          },
+          {
+            "platform": "codeforces",
+            "id": 222971560,
+            "pid": "1867D",
+            "name": "Cyclic Operations",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1694448634
+          },
+          {
+            "platform": "codeforces",
+            "id": 222970076,
+            "pid": "1867C",
+            "name": "Salyg1n and the MEX Game",
+            "verdict": "OK",
+            "creationTime": 1694448456
+          },
+          {
+            "platform": "codeforces",
+            "id": 222968135,
+            "pid": "1867C",
+            "name": "Salyg1n and the MEX Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1694448231
+          },
+          {
+            "platform": "codeforces",
+            "id": 222966148,
+            "pid": "1867B",
+            "name": "XOR Palindromes",
+            "verdict": "OK",
+            "creationTime": 1694448006
+          },
+          {
+            "platform": "codeforces",
+            "id": 222964957,
+            "pid": "1867A",
+            "name": "green_gold_dog, array and permutation",
+            "verdict": "OK",
+            "creationTime": 1694447873
           }
         ],
         "newContests": []
@@ -36,5 +98,5 @@
     ],
     "contest": []
   },
-  "ref": "b154bf5a09a0604a5ddf55e4f9a901dce8839d1c"
+  "ref": "76b6a901c66c5030ba814bc2d60a60fd6071e4bd"
 }
