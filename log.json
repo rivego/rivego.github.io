@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1694367176,
+  "updateTime": 1694410374,
   "history": {
     "user": [
       {
@@ -8,83 +8,27 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 222810358,
+            "id": 222815728,
+            "pid": "1868E",
+            "name": "Min-Sum-Max",
+            "verdict": "OK",
+            "creationTime": 1694369569
+          },
+          {
+            "platform": "codeforces",
+            "id": 222812892,
             "pid": "1868E",
             "name": "Min-Sum-Max",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1694367124
+            "creationTime": 1694368218
           },
           {
             "platform": "codeforces",
-            "id": 222810028,
+            "id": 222811259,
             "pid": "1868E",
             "name": "Min-Sum-Max",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1694366986
-          },
-          {
-            "platform": "codeforces",
-            "id": 222808154,
-            "pid": "1868E",
-            "name": "Min-Sum-Max",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1694366336
-          },
-          {
-            "platform": "codeforces",
-            "id": 222784253,
-            "pid": "1868E",
-            "name": "Min-Sum-Max",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1694361140
-          },
-          {
-            "platform": "codeforces",
-            "id": 222776638,
-            "pid": "1868D",
-            "name": "Flower-like Pseudotree",
-            "verdict": "OK",
-            "creationTime": 1694360080
-          },
-          {
-            "platform": "codeforces",
-            "id": 222759154,
-            "pid": "1868C",
-            "name": "Travel Plan",
-            "verdict": "OK",
-            "creationTime": 1694357941
-          },
-          {
-            "platform": "codeforces",
-            "id": 222757273,
-            "pid": "1868C",
-            "name": "Travel Plan",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1694357739
-          },
-          {
-            "platform": "codeforces",
-            "id": 222748527,
-            "pid": "1868B2",
-            "name": "Candy Party (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1694356861
-          },
-          {
-            "platform": "codeforces",
-            "id": 222740465,
-            "pid": "1868B1",
-            "name": "Candy Party (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1694356114
-          },
-          {
-            "platform": "codeforces",
-            "id": 222731429,
-            "pid": "1868A",
-            "name": "Fill in the Matrix",
-            "verdict": "OK",
-            "creationTime": 1694355385
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1694367501
           }
         ],
         "newContests": []
@@ -92,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "382fbda41347930520fbd8f03413298e3a15c846"
+  "ref": "b154bf5a09a0604a5ddf55e4f9a901dce8839d1c"
 }
