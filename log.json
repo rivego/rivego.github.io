@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1694496793,
+  "updateTime": 1694539977,
   "history": {
     "user": [
       {
@@ -8,19 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 222990845,
-            "pid": "1867F",
-            "name": "Most Different Tree",
+            "id": 223113732,
+            "pid": "1602A",
+            "name": "Two Subsequences",
             "verdict": "OK",
-            "creationTime": 1694454651
+            "creationTime": 1694536361
           },
           {
             "platform": "codeforces",
-            "id": 222989978,
-            "pid": "1867F",
-            "name": "Most Different Tree",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1694454497
+            "id": 223109411,
+            "pid": "1604B",
+            "name": "XOR Specia-LIS-t",
+            "verdict": "OK",
+            "creationTime": 1694534284
+          },
+          {
+            "platform": "codeforces",
+            "id": 223109161,
+            "pid": "1604A",
+            "name": "Era",
+            "verdict": "OK",
+            "creationTime": 1694534164
+          },
+          {
+            "platform": "codeforces",
+            "id": 223107949,
+            "pid": "1605F",
+            "name": "PalindORme",
+            "verdict": "OK",
+            "creationTime": 1694533645
           }
         ],
         "newContests": []
@@ -28,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "60edccf2ec99b1ba0b6e8a2643b12d3a6e036df4"
+  "ref": "920393fee2bc3dc638693d0d4c998db7e7511a5c"
 }
