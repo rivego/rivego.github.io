@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1694539977,
+  "updateTime": 1694583201,
   "history": {
     "user": [
       {
@@ -8,35 +8,99 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 223113732,
-            "pid": "1602A",
-            "name": "Two Subsequences",
+            "id": 223161539,
+            "pid": "1582F1",
+            "name": "Korney Korneevich and XOR (easy version)",
             "verdict": "OK",
-            "creationTime": 1694536361
+            "creationTime": 1694577356
           },
           {
             "platform": "codeforces",
-            "id": 223109411,
-            "pid": "1604B",
-            "name": "XOR Specia-LIS-t",
+            "id": 223161530,
+            "pid": "1582F2",
+            "name": "Korney Korneevich and XOR (hard version)",
             "verdict": "OK",
-            "creationTime": 1694534284
+            "creationTime": 1694577347
           },
           {
             "platform": "codeforces",
-            "id": 223109161,
-            "pid": "1604A",
-            "name": "Era",
+            "id": 223159619,
+            "pid": "1582E",
+            "name": "Pchelyonok and Segments",
             "verdict": "OK",
-            "creationTime": 1694534164
+            "creationTime": 1694575377
           },
           {
             "platform": "codeforces",
-            "id": 223107949,
-            "pid": "1605F",
-            "name": "PalindORme",
+            "id": 223159269,
+            "pid": "1582D",
+            "name": "Vupsen, Pupsen and 0",
             "verdict": "OK",
-            "creationTime": 1694533645
+            "creationTime": 1694575018
+          },
+          {
+            "platform": "codeforces",
+            "id": 223158789,
+            "pid": "1582C",
+            "name": "Grandma Capa Knits a Scarf",
+            "verdict": "OK",
+            "creationTime": 1694574519
+          },
+          {
+            "platform": "codeforces",
+            "id": 223158608,
+            "pid": "1582B",
+            "name": "Luntik and Subsequences",
+            "verdict": "OK",
+            "creationTime": 1694574332
+          },
+          {
+            "platform": "codeforces",
+            "id": 223158479,
+            "pid": "1582A",
+            "name": "Luntik and Concerts",
+            "verdict": "OK",
+            "creationTime": 1694574210
+          },
+          {
+            "platform": "codeforces",
+            "id": 223158127,
+            "pid": "1602F",
+            "name": "Difficult Mountain",
+            "verdict": "OK",
+            "creationTime": 1694573762
+          },
+          {
+            "platform": "codeforces",
+            "id": 223157271,
+            "pid": "1602E",
+            "name": "Optimal Insertion",
+            "verdict": "OK",
+            "creationTime": 1694572614
+          },
+          {
+            "platform": "codeforces",
+            "id": 223156269,
+            "pid": "1602D",
+            "name": "Frog Traveler",
+            "verdict": "OK",
+            "creationTime": 1694571509
+          },
+          {
+            "platform": "codeforces",
+            "id": 223155994,
+            "pid": "1602C",
+            "name": "Array Elimination",
+            "verdict": "OK",
+            "creationTime": 1694571141
+          },
+          {
+            "platform": "codeforces",
+            "id": 223155831,
+            "pid": "1602B",
+            "name": "Divine Array",
+            "verdict": "OK",
+            "creationTime": 1694570944
           }
         ],
         "newContests": []
@@ -44,5 +108,5 @@
     ],
     "contest": []
   },
-  "ref": "920393fee2bc3dc638693d0d4c998db7e7511a5c"
+  "ref": "0de44f458907be79170c67af4bfa815fc76a2173"
 }
