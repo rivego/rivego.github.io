@@ -6,6 +6,81 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 223578012,
+      "creationTime": 1694848940,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -452634707
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1867A",
+        "name": "green_gold_dog, array and permutation",
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1867/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1867/submission/223578012"
+    },
+    {
+      "type": "codeforces",
+      "id": 223576007,
+      "creationTime": 1694847757,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -452635890
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1867A",
+        "name": "green_gold_dog, array and permutation",
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1867/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1867/submission/223576007"
+    },
+    {
+      "type": "codeforces",
+      "id": 223575399,
+      "creationTime": 1694847413,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -452636234
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1867A",
+        "name": "green_gold_dog, array and permutation",
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1867/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1867/submission/223575399"
+    },
+    {
+      "type": "codeforces",
       "id": 220327706,
       "creationTime": 1692926940,
       "language": "GNU C++20 (64)",

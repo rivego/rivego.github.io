@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1694842391,
+  "updateTime": 1694885563,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 223578012,
+            "pid": "1867A",
+            "name": "green_gold_dog, array and permutation",
+            "verdict": "OK",
+            "creationTime": 1694848940
+          },
+          {
+            "platform": "codeforces",
+            "id": 223576007,
+            "pid": "1867A",
+            "name": "green_gold_dog, array and permutation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1694847757
+          },
+          {
+            "platform": "codeforces",
+            "id": 223575399,
+            "pid": "1867A",
+            "name": "green_gold_dog, array and permutation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1694847413
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b850baa55c48ce50721dc8ab6c8fe57dda8eb78e"
+  "ref": "fdf6a80c2624a5107a57966c5be2ef27cf7bded1"
 }
