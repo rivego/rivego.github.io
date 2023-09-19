@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1695101568,
+  "updateTime": 1695144781,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 223925076,
-            "pid": "1870F",
-            "name": "Lazy Numbers",
-            "verdict": "OK",
-            "creationTime": 1695059207
-          },
-          {
-            "platform": "codeforces",
-            "id": 223924067,
-            "pid": "1870G",
-            "name": "MEXanization",
-            "verdict": "OK",
-            "creationTime": 1695058831
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "74b25ae7091bd09777b37f0168bf39a516c2e865"
+  "ref": "fd00788ff0c9b3cd11c76dc7473ab7d1f0abb529"
 }

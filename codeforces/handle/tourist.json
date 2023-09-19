@@ -46,7 +46,9 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
-        "tags": [],
+        "tags": [
+          "data structures"
+        ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1870/submission/223924067"
@@ -68,7 +70,9 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
-        "tags": [],
+        "tags": [
+          "data structures"
+        ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1870/submission/223915464"
@@ -90,7 +94,9 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
-        "tags": [],
+        "tags": [
+          "data structures"
+        ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1870/submission/223913305"
@@ -112,7 +118,9 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
-        "tags": [],
+        "tags": [
+          "data structures"
+        ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1870/submission/223912110"
@@ -134,7 +142,9 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
-        "tags": [],
+        "tags": [
+          "data structures"
+        ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1870/submission/223909650"
@@ -156,7 +166,9 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
-        "tags": [],
+        "tags": [
+          "data structures"
+        ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1870/submission/223909250"
@@ -278,7 +290,9 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
-        "tags": [],
+        "tags": [
+          "data structures"
+        ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1870/submission/223895819"
@@ -300,7 +314,9 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
-        "tags": [],
+        "tags": [
+          "data structures"
+        ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1870/submission/223890634"
@@ -324,6 +340,7 @@
         "name": "Another MEX Problem",
         "tags": [
           "bitmasks",
+          "brute force",
           "dp",
           "graphs",
           "shortest paths"
@@ -350,8 +367,10 @@
         "id": "1870D",
         "name": "Prefix Purchase",
         "tags": [
+          "binary search",
           "data structures",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/D"
       },
@@ -380,7 +399,6 @@
           "dp",
           "implementation",
           "math",
-          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/C"
