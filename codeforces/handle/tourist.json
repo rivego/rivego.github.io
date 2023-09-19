@@ -6,6 +6,53 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 223925076,
+      "creationTime": 1695059207,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -452424440
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870F",
+        "name": "Lazy Numbers",
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223925076"
+    },
+    {
+      "type": "codeforces",
+      "id": 223924067,
+      "creationTime": 1695058831,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -452424816
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870G",
+        "name": "MEXanization",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223924067"
+    },
+    {
+      "type": "codeforces",
       "id": 223915464,
       "creationTime": 1695055364,
       "language": "GNU C++20 (64)",
@@ -276,7 +323,10 @@
         "id": "1870E",
         "name": "Another MEX Problem",
         "tags": [
-          "dp"
+          "bitmasks",
+          "dp",
+          "graphs",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/E"
       },
@@ -301,8 +351,7 @@
         "name": "Prefix Purchase",
         "tags": [
           "data structures",
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/D"
       },
@@ -327,8 +376,11 @@
         "name": "Colorful Table",
         "tags": [
           "binary search",
+          "data structures",
           "dp",
           "implementation",
+          "math",
+          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/C"
@@ -354,7 +406,8 @@
         "name": "Friendly Arrays",
         "tags": [
           "bitmasks",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/B"
       },
@@ -379,7 +432,8 @@
         "name": "MEXanized Array",
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/A"
       },
@@ -114545,7 +114599,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3816,
+    "rating": 3750,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
