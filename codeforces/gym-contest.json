@@ -17534,5 +17534,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104610",
     "standingsUrl": "https://codeforces.com/gym/104610/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022-2023 ICPC East Central North America Regional Contest (ECNA 2022)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104614,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104614",
+    "standingsUrl": "https://codeforces.com/gym/104614/standings"
   }
 ]
