@@ -367,7 +367,8 @@
         "name": "Prefix Purchase",
         "tags": [
           "greedy",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1870/problem/D"
       },
