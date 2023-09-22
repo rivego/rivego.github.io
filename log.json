@@ -1,9 +1,88 @@
 {
   "version": "0.1.29",
-  "updateTime": 1695274379,
+  "updateTime": 1695360781,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 224512315,
+            "pid": "1873H",
+            "name": "Mad City",
+            "verdict": "OK",
+            "creationTime": 1695317992
+          },
+          {
+            "platform": "codeforces",
+            "id": 224511732,
+            "pid": "1873H",
+            "name": "Mad City",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1695317786
+          },
+          {
+            "platform": "codeforces",
+            "id": 224510604,
+            "pid": "1873G",
+            "name": "ABBC or BACB",
+            "verdict": "OK",
+            "creationTime": 1695317436
+          },
+          {
+            "platform": "codeforces",
+            "id": 224509984,
+            "pid": "1873F",
+            "name": "Money Trees",
+            "verdict": "OK",
+            "creationTime": 1695317254
+          },
+          {
+            "platform": "codeforces",
+            "id": 224509434,
+            "pid": "1873E",
+            "name": "Building an Aquarium",
+            "verdict": "OK",
+            "creationTime": 1695317108
+          },
+          {
+            "platform": "codeforces",
+            "id": 224508365,
+            "pid": "1873D",
+            "name": "1D Eraser",
+            "verdict": "OK",
+            "creationTime": 1695316829
+          },
+          {
+            "platform": "codeforces",
+            "id": 224508104,
+            "pid": "1873C",
+            "name": "Target Practice",
+            "verdict": "OK",
+            "creationTime": 1695316765
+          },
+          {
+            "platform": "codeforces",
+            "id": 224507495,
+            "pid": "1873B",
+            "name": "Good Kid",
+            "verdict": "OK",
+            "creationTime": 1695316610
+          },
+          {
+            "platform": "codeforces",
+            "id": 224507171,
+            "pid": "1873A",
+            "name": "Short Sort",
+            "verdict": "OK",
+            "creationTime": 1695316534
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "97f9ea709791c4df04c89e7bd5d6e06cd301633d"
+  "ref": "9838f46db687d6f10142a343f115fc4e118821f7"
 }
