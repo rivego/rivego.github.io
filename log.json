@@ -1,9 +1,88 @@
 {
   "version": "0.1.29",
-  "updateTime": 1695533586,
+  "updateTime": 1695576775,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 224935202,
+            "pid": "1879F",
+            "name": "Last Man Standing",
+            "verdict": "OK",
+            "creationTime": 1695569684
+          },
+          {
+            "platform": "codeforces",
+            "id": 224914283,
+            "pid": "1879E",
+            "name": "Interactive Game with Coloring",
+            "verdict": "OK",
+            "creationTime": 1695568178
+          },
+          {
+            "platform": "codeforces",
+            "id": 224911910,
+            "pid": "1879E",
+            "name": "Interactive Game with Coloring",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1695568019
+          },
+          {
+            "platform": "codeforces",
+            "id": 224910813,
+            "pid": "1879E",
+            "name": "Interactive Game with Coloring",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1695567947
+          },
+          {
+            "platform": "codeforces",
+            "id": 224902736,
+            "pid": "1879E",
+            "name": "Interactive Game with Coloring",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1695567452
+          },
+          {
+            "platform": "codeforces",
+            "id": 224890483,
+            "pid": "1879D",
+            "name": "Sum of XOR Functions",
+            "verdict": "OK",
+            "creationTime": 1695566761
+          },
+          {
+            "platform": "codeforces",
+            "id": 224886635,
+            "pid": "1879C",
+            "name": "Make it Alternating",
+            "verdict": "OK",
+            "creationTime": 1695566573
+          },
+          {
+            "platform": "codeforces",
+            "id": 224883808,
+            "pid": "1879B",
+            "name": "Chips on the Board",
+            "verdict": "OK",
+            "creationTime": 1695566448
+          },
+          {
+            "platform": "codeforces",
+            "id": 224880258,
+            "pid": "1879A",
+            "name": "Rigged!",
+            "verdict": "OK",
+            "creationTime": 1695566259
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "746f7c1edb345464640e3726989afac7a6dcdd9d"
+  "ref": "890884e2f24f4b96f96f23d81189b0a9feb88fa9"
 }
