@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1867A",
         "name": "green_gold_dog, array and permutation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "sortings"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1867A",
         "name": "green_gold_dog, array and permutation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "sortings"
@@ -71,6 +73,7 @@
         "type": "codeforces",
         "id": "1867A",
         "name": "green_gold_dog, array and permutation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "sortings"
@@ -96,6 +99,7 @@
         "type": "codeforces",
         "id": "1862C",
         "name": "Flower City Fence",
+        "rating": 1100,
         "tags": [
           "binary search",
           "data structures",
@@ -123,6 +127,7 @@
         "type": "codeforces",
         "id": "1862B",
         "name": "Sequence Game",
+        "rating": 800,
         "tags": [
           "constructive algorithms"
         ],
@@ -147,6 +152,7 @@
         "type": "codeforces",
         "id": "1862A",
         "name": "Gift Carpet",
+        "rating": 800,
         "tags": [
           "dp",
           "greedy",
