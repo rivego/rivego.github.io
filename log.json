@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1695619970,
+  "updateTime": 1695663178,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 225128903,
+            "pid": "1882E1",
+            "name": "Two Permutations (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1695655876
+          },
+          {
+            "platform": "codeforces",
+            "id": 225128821,
+            "pid": "1882E2",
+            "name": "Two Permutations (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1695655866
+          },
+          {
+            "platform": "codeforces",
+            "id": 225105404,
+            "pid": "1882D",
+            "name": "Tree XOR",
+            "verdict": "OK",
+            "creationTime": 1695653226
+          },
+          {
+            "platform": "codeforces",
+            "id": 225101650,
+            "pid": "1882C",
+            "name": "Card Game",
+            "verdict": "OK",
+            "creationTime": 1695652956
+          },
+          {
+            "platform": "codeforces",
+            "id": 225097723,
+            "pid": "1882B",
+            "name": "Sets and Union",
+            "verdict": "OK",
+            "creationTime": 1695652751
+          },
+          {
+            "platform": "codeforces",
+            "id": 225093987,
+            "pid": "1882A",
+            "name": "Increasing Sequence",
+            "verdict": "OK",
+            "creationTime": 1695652577
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "d333211f6c6c2cc86fc1c98dde4c691406d38115"
+  "ref": "d6714a15fa60bff701d13da6cad890abcd0e611e"
 }
