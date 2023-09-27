@@ -6,6 +6,258 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 225390564,
+      "creationTime": 1695745541,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1695738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1878F",
+        "name": "Vasilije Loves Number Theory",
+        "tags": [
+          "brute force",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1878/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1878/submission/225390564"
+    },
+    {
+      "type": "codeforces",
+      "id": 225387901,
+      "creationTime": 1695745288,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1695738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1878F",
+        "name": "Vasilije Loves Number Theory",
+        "tags": [
+          "brute force",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1878/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1878/submission/225387901"
+    },
+    {
+      "type": "codeforces",
+      "id": 225385152,
+      "creationTime": 1695745035,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1695738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1878F",
+        "name": "Vasilije Loves Number Theory",
+        "tags": [
+          "brute force",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1878/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1878/submission/225385152"
+    },
+    {
+      "type": "codeforces",
+      "id": 225374366,
+      "creationTime": 1695744083,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1695738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1878E",
+        "name": "Iva & Pav",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1878/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1878/submission/225374366"
+    },
+    {
+      "type": "codeforces",
+      "id": 225361309,
+      "creationTime": 1695743029,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1695738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1878D",
+        "name": "Reverse Madness",
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1878/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1878/submission/225361309"
+    },
+    {
+      "type": "codeforces",
+      "id": 225358357,
+      "creationTime": 1695742794,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1695738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1878D",
+        "name": "Reverse Madness",
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1878/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1878/submission/225358357"
+    },
+    {
+      "type": "codeforces",
+      "id": 225317257,
+      "creationTime": 1695740467,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1695738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1878C",
+        "name": "Vasilije in Cacak",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1878/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1878/submission/225317257"
+    },
+    {
+      "type": "codeforces",
+      "id": 225306007,
+      "creationTime": 1695739993,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1695738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1878B",
+        "name": "Aleksa and Stack",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1878/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1878/submission/225306007"
+    },
+    {
+      "type": "codeforces",
+      "id": 225305371,
+      "creationTime": 1695739968,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1695738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1878A",
+        "name": "How Much Does Daytona Cost?",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1878/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1878/submission/225305371"
+    },
+    {
+      "type": "codeforces",
+      "id": 225279114,
+      "creationTime": 1695739121,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1695738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1878A",
+        "name": "How Much Does Daytona Cost?",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1878/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1878/submission/225279114"
+    },
+    {
+      "type": "codeforces",
       "id": 218983347,
       "creationTime": 1692115279,
       "language": "GNU C++20 (64)",
