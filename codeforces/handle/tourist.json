@@ -21,7 +21,9 @@
         "type": "codeforces",
         "id": "1874F",
         "name": "Jellyfish and OEIS",
-        "tags": [],
+        "tags": [
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/1874/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1874/submission/226055202"
@@ -43,7 +45,11 @@
         "type": "codeforces",
         "id": "1874D",
         "name": "Jellyfish and Miku",
-        "tags": [],
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
         "problemUrl": "https://codeforces.com/contest/1874/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/1874/submission/226004287"
@@ -65,7 +71,11 @@
         "type": "codeforces",
         "id": "1874D",
         "name": "Jellyfish and Miku",
-        "tags": [],
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
         "problemUrl": "https://codeforces.com/contest/1874/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/1874/submission/225998158"
@@ -87,7 +97,10 @@
         "type": "codeforces",
         "id": "1874E",
         "name": "Jellyfish and Hack",
-        "tags": [],
+        "tags": [
+          "dp",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1874/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1874/submission/225981897"
@@ -109,7 +122,13 @@
         "type": "codeforces",
         "id": "1874C",
         "name": "Jellyfish and EVA",
-        "tags": [],
+        "tags": [
+          "dp",
+          "graphs",
+          "greedy",
+          "math",
+          "probabilities"
+        ],
         "problemUrl": "https://codeforces.com/contest/1874/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1874/submission/225968755"
@@ -131,7 +150,12 @@
         "type": "codeforces",
         "id": "1874B",
         "name": "Jellyfish and Math",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "dp",
+          "graphs",
+          "shortest paths"
+        ],
         "problemUrl": "https://codeforces.com/contest/1874/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1874/submission/225944596"
@@ -153,7 +177,11 @@
         "type": "codeforces",
         "id": "1874A",
         "name": "Jellyfish and Game",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation"
+        ],
         "problemUrl": "https://codeforces.com/contest/1874/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1874/submission/225922035"
@@ -114800,7 +114828,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3751,
+    "rating": 3775,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

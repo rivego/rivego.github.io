@@ -1,66 +1,18 @@
 {
   "version": "0.1.29",
-  "updateTime": 1696095178,
+  "updateTime": 1696138386,
   "history": {
     "user": [
       {
-        "name": "tourist",
+        "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 226055202,
-            "pid": "1874F",
-            "name": "Jellyfish and OEIS",
+            "id": 226069129,
+            "pid": "1874G",
+            "name": "Jellyfish and Inscryption",
             "verdict": "OK",
-            "creationTime": 1696094152
-          },
-          {
-            "platform": "codeforces",
-            "id": 226004287,
-            "pid": "1874D",
-            "name": "Jellyfish and Miku",
-            "verdict": "OK",
-            "creationTime": 1696089882
-          },
-          {
-            "platform": "codeforces",
-            "id": 225998158,
-            "pid": "1874D",
-            "name": "Jellyfish and Miku",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1696089239
-          },
-          {
-            "platform": "codeforces",
-            "id": 225981897,
-            "pid": "1874E",
-            "name": "Jellyfish and Hack",
-            "verdict": "OK",
-            "creationTime": 1696087718
-          },
-          {
-            "platform": "codeforces",
-            "id": 225968755,
-            "pid": "1874C",
-            "name": "Jellyfish and EVA",
-            "verdict": "OK",
-            "creationTime": 1696086614
-          },
-          {
-            "platform": "codeforces",
-            "id": 225944596,
-            "pid": "1874B",
-            "name": "Jellyfish and Math",
-            "verdict": "OK",
-            "creationTime": 1696085536
-          },
-          {
-            "platform": "codeforces",
-            "id": 225922035,
-            "pid": "1874A",
-            "name": "Jellyfish and Game",
-            "verdict": "OK",
-            "creationTime": 1696084716
+            "creationTime": 1696098861
           }
         ],
         "newContests": []
@@ -68,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "27bc56336b52492fde7f49038a90b0efd7767795"
+  "ref": "ab8778530779cf98aa14bfccfbf7149805d34577"
 }
