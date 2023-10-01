@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1696138386,
+  "updateTime": 1696181568,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 226069129,
-            "pid": "1874G",
-            "name": "Jellyfish and Inscryption",
-            "verdict": "OK",
-            "creationTime": 1696098861
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "ab8778530779cf98aa14bfccfbf7149805d34577"
+  "ref": "38f109a0fa952776875abd71a1d2ed83b21a5d4b"
 }

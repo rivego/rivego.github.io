@@ -152,6 +152,8 @@
         "name": "Jellyfish and Math",
         "tags": [
           "bitmasks",
+          "brute force",
+          "dfs and similar",
           "dp",
           "graphs",
           "shortest paths"
