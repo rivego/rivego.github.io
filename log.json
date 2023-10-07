@@ -1,56 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1696613580,
+  "updateTime": 1696656764,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 226872426,
-            "pid": "1184D2",
-            "name": "Parallel Universes (Hard)",
-            "verdict": "OK",
-            "creationTime": 1696595186
-          },
-          {
-            "platform": "codeforces",
-            "id": 226872319,
-            "pid": "1184D2",
-            "name": "Parallel Universes (Hard)",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1696595135
-          },
-          {
-            "platform": "codeforces",
-            "id": 226867820,
-            "pid": "794F",
-            "name": "Leha and security system",
-            "verdict": "OK",
-            "creationTime": 1696592861
-          },
-          {
-            "platform": "codeforces",
-            "id": 226866639,
-            "pid": "187D",
-            "name": "BRT Contract ",
-            "verdict": "OK",
-            "creationTime": 1696592260
-          },
-          {
-            "platform": "codeforces",
-            "id": 226865804,
-            "pid": "187D",
-            "name": "BRT Contract ",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1696591729
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6a936b260befcfd21ff39cd9656c9cc6923908b1"
+  "ref": "ec68f1d77b5a09061382bd5131c580fc4199fa6e"
 }
