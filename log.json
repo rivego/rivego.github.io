@@ -1,9 +1,160 @@
 {
   "version": "0.1.29",
-  "updateTime": 1696743187,
+  "updateTime": 1696786375,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 227207094,
+            "pid": "1876F",
+            "name": "Indefinite Clownfish",
+            "verdict": "OK",
+            "creationTime": 1696774404
+          },
+          {
+            "platform": "codeforces",
+            "id": 227206047,
+            "pid": "1876F",
+            "name": "Indefinite Clownfish",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1696773975
+          },
+          {
+            "platform": "codeforces",
+            "id": 227205972,
+            "pid": "1876F",
+            "name": "Indefinite Clownfish",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1696773940
+          },
+          {
+            "platform": "codeforces",
+            "id": 227205539,
+            "pid": "1876F",
+            "name": "Indefinite Clownfish",
+            "verdict": "OK",
+            "creationTime": 1696773772
+          },
+          {
+            "platform": "codeforces",
+            "id": 227205151,
+            "pid": "1876F",
+            "name": "Indefinite Clownfish",
+            "verdict": "OK",
+            "creationTime": 1696773598
+          },
+          {
+            "platform": "codeforces",
+            "id": 227204635,
+            "pid": "1876F",
+            "name": "Indefinite Clownfish",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1696773371
+          },
+          {
+            "platform": "codeforces",
+            "id": 227204283,
+            "pid": "1876F",
+            "name": "Indefinite Clownfish",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1696773226
+          },
+          {
+            "platform": "codeforces",
+            "id": 227186687,
+            "pid": "1876F",
+            "name": "Indefinite Clownfish",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1696764874
+          },
+          {
+            "platform": "codeforces",
+            "id": 227172380,
+            "pid": "1876E",
+            "name": "Ball-Stackable",
+            "verdict": "OK",
+            "creationTime": 1696762493
+          },
+          {
+            "platform": "codeforces",
+            "id": 227171114,
+            "pid": "1876E",
+            "name": "Ball-Stackable",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1696762269
+          },
+          {
+            "platform": "codeforces",
+            "id": 227168220,
+            "pid": "1876E",
+            "name": "Ball-Stackable",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1696761768
+          },
+          {
+            "platform": "codeforces",
+            "id": 227145257,
+            "pid": "1876E",
+            "name": "Ball-Stackable",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1696758809
+          },
+          {
+            "platform": "codeforces",
+            "id": 227140586,
+            "pid": "1876D",
+            "name": "Lexichromatography",
+            "verdict": "OK",
+            "creationTime": 1696758277
+          },
+          {
+            "platform": "codeforces",
+            "id": 227136820,
+            "pid": "1876D",
+            "name": "Lexichromatography",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1696757872
+          },
+          {
+            "platform": "codeforces",
+            "id": 227136576,
+            "pid": "1876D",
+            "name": "Lexichromatography",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1696757845
+          },
+          {
+            "platform": "codeforces",
+            "id": 227130971,
+            "pid": "1876C",
+            "name": "Autosynthesis",
+            "verdict": "OK",
+            "creationTime": 1696757278
+          },
+          {
+            "platform": "codeforces",
+            "id": 227119488,
+            "pid": "1876B",
+            "name": "Effects of Anti Pimples",
+            "verdict": "OK",
+            "creationTime": 1696756253
+          },
+          {
+            "platform": "codeforces",
+            "id": 227116487,
+            "pid": "1876A",
+            "name": "Helmets in Night Light",
+            "verdict": "OK",
+            "creationTime": 1696756075
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "993d25428234a970506f12395b233910de3aacce"
+  "ref": "5e4fa3dee9b79cc97aaf66055a2125cc999d2221"
 }
