@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1696699982,
+  "updateTime": 1696743187,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 226994325,
-            "pid": "1090H",
-            "name": "Linearization",
-            "verdict": "OK",
-            "creationTime": 1696675122
-          },
-          {
-            "platform": "codeforces",
-            "id": 226993761,
-            "pid": "1090H",
-            "name": "Linearization",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1696674851
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "f0d7ad568bdb0492a5b6e3c367d9171baad386af"
+  "ref": "993d25428234a970506f12395b233910de3aacce"
 }
