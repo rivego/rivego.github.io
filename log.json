@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1696829590,
+  "updateTime": 1696872783,
   "history": {
     "user": [
       {
@@ -8,27 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 227270487,
-            "pid": "1876G",
-            "name": "Clubstep",
+            "id": 227397695,
+            "pid": "1886F",
+            "name": "Diamond Theft",
             "verdict": "OK",
-            "creationTime": 1696824368
+            "creationTime": 1696866761
           },
           {
             "platform": "codeforces",
-            "id": 227269990,
-            "pid": "1876G",
-            "name": "Clubstep",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1696823832
+            "id": 227362679,
+            "pid": "1886E",
+            "name": "I Wanna be the Team Leader",
+            "verdict": "OK",
+            "creationTime": 1696863762
           },
           {
             "platform": "codeforces",
-            "id": 227269885,
-            "pid": "1876G",
-            "name": "Clubstep",
+            "id": 227358537,
+            "pid": "1886E",
+            "name": "I Wanna be the Team Leader",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1696823674
+            "creationTime": 1696863449
+          },
+          {
+            "platform": "codeforces",
+            "id": 227353655,
+            "pid": "1886D",
+            "name": "Monocarp and the Set",
+            "verdict": "OK",
+            "creationTime": 1696863105
+          },
+          {
+            "platform": "codeforces",
+            "id": 227350420,
+            "pid": "1886C",
+            "name": "Decreasing String",
+            "verdict": "OK",
+            "creationTime": 1696862888
+          },
+          {
+            "platform": "codeforces",
+            "id": 227345467,
+            "pid": "1886B",
+            "name": "Fear of the Dark",
+            "verdict": "OK",
+            "creationTime": 1696862607
+          },
+          {
+            "platform": "codeforces",
+            "id": 227342113,
+            "pid": "1886A",
+            "name": "Sum of Three",
+            "verdict": "OK",
+            "creationTime": 1696862396
+          },
+          {
+            "platform": "codeforces",
+            "id": 227283776,
+            "pid": "1877C",
+            "name": "Joyboard",
+            "verdict": "OK",
+            "creationTime": 1696834996
+          },
+          {
+            "platform": "codeforces",
+            "id": 227283183,
+            "pid": "1877C",
+            "name": "Joyboard",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1696834621
+          },
+          {
+            "platform": "codeforces",
+            "id": 227276389,
+            "pid": "1877A",
+            "name": "Goals of Victory",
+            "verdict": "OK",
+            "creationTime": 1696829845
           }
         ],
         "newContests": []
@@ -36,5 +92,5 @@
     ],
     "contest": []
   },
-  "ref": "7b63d69cb0c1df6a44a69e59354d7bdfde052764"
+  "ref": "426cfc2977d2740024afa2c05a8efa2cb1e056c6"
 }
