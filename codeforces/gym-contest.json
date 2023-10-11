@@ -17772,6 +17772,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Replay of Ostad Presents Intra KUET Programming Contest 2023",
+    "startTime": 1696942800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104663,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104663",
+    "standingsUrl": "https://codeforces.com/gym/104663/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "UTPC Contest 10-06-23 Div. 1 (Advanced)",
     "startTime": 1696633800,
     "duration": 7200,
@@ -17852,5 +17863,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104672",
     "standingsUrl": "https://codeforces.com/gym/104672/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Sweet Dreams ❤️",
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 104677,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104677",
+    "standingsUrl": "https://codeforces.com/gym/104677/standings"
   }
 ]
