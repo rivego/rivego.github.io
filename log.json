@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1697132000,
+  "updateTime": 1697175196,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 227879999,
-            "pid": "1881G",
-            "name": "Anya and the Mysterious String",
-            "verdict": "OK",
-            "creationTime": 1697125031
-          },
-          {
-            "platform": "codeforces",
-            "id": 227874170,
-            "pid": "1881F",
-            "name": "Minimum Maximum Distance",
-            "verdict": "OK",
-            "creationTime": 1697124562
-          },
-          {
-            "platform": "codeforces",
-            "id": 227871164,
-            "pid": "1881E",
-            "name": "Block Sequence",
-            "verdict": "OK",
-            "creationTime": 1697124329
-          },
-          {
-            "platform": "codeforces",
-            "id": 227869532,
-            "pid": "1881D",
-            "name": "Divide and Equalize",
-            "verdict": "OK",
-            "creationTime": 1697124207
-          },
-          {
-            "platform": "codeforces",
-            "id": 227867893,
-            "pid": "1881C",
-            "name": "Perfect Square",
-            "verdict": "OK",
-            "creationTime": 1697124090
-          },
-          {
-            "platform": "codeforces",
-            "id": 227866002,
-            "pid": "1881B",
-            "name": "Three Threadlets",
-            "verdict": "OK",
-            "creationTime": 1697123954
-          },
-          {
-            "platform": "codeforces",
-            "id": 227864162,
-            "pid": "1881A",
-            "name": "Don't Try to Count",
-            "verdict": "OK",
-            "creationTime": 1697123824
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "ffb99608d9af00caacae2056314b16ddf0d5dc82"
+  "ref": "a2c293b731c61c27a27c500aea996afd2e37e167"
 }
