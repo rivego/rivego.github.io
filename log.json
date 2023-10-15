@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1697347976,
+  "updateTime": 1697391174,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 228301416,
+            "pid": "1107G",
+            "name": "Vasya and Maximum Profit",
+            "verdict": "OK",
+            "creationTime": 1697375971
+          },
+          {
+            "platform": "codeforces",
+            "id": 228297248,
+            "pid": "293D",
+            "name": "Ksusha and Square",
+            "verdict": "OK",
+            "creationTime": 1697374059
+          },
+          {
+            "platform": "codeforces",
+            "id": 228297150,
+            "pid": "293D",
+            "name": "Ksusha and Square",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1697374015
+          },
+          {
+            "platform": "codeforces",
+            "id": 228290008,
+            "pid": "875F",
+            "name": "Royal Questions",
+            "verdict": "OK",
+            "creationTime": 1697370567
+          },
+          {
+            "platform": "codeforces",
+            "id": 228282040,
+            "pid": "1139E",
+            "name": "Maximize Mex",
+            "verdict": "OK",
+            "creationTime": 1697366654
+          },
+          {
+            "platform": "codeforces",
+            "id": 228279600,
+            "pid": "963C",
+            "name": "Cutting Rectangle",
+            "verdict": "OK",
+            "creationTime": 1697365234
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "8b5d598de2ddae75590fb8384ffa89ec0ea48946"
+  "ref": "a5ad90744fd5bbcf2126d57627183b974e2b7a28"
 }
