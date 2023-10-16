@@ -17650,6 +17650,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Мисис 2023 осень - базовая математика, условия, циклы",
+    "startTime": 1694855880,
+    "duration": 2546100,
+    "participantNumber": 0,
+    "id": 104637,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104637",
+    "standingsUrl": "https://codeforces.com/gym/104637/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2023 ICPC Asia EC Regionals Online Contest (I)",
     "startTime": 1694923200,
     "duration": 18000,
@@ -17835,6 +17846,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2023 ICPC Columbia University Local Contest",
+    "startTime": 1697389200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104671,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104671",
+    "standingsUrl": "https://codeforces.com/gym/104671/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2021-2022 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2021)",
     "duration": 18000,
     "participantNumber": 0,
@@ -17987,5 +18009,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104692",
     "standingsUrl": "https://codeforces.com/gym/104692/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2023-2024, Вторая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104699,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104699",
+    "standingsUrl": "https://codeforces.com/gym/104699/standings"
   }
 ]
