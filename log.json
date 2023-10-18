@@ -1,56 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1697563993,
+  "updateTime": 1697607192,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 228579192,
-            "pid": "1594E1",
-            "name": "Rubik's Cube Coloring (easy version)",
-            "verdict": "OK",
-            "creationTime": 1697560033
-          },
-          {
-            "platform": "codeforces",
-            "id": 228577493,
-            "pid": "1594D",
-            "name": "The Number of Imposters",
-            "verdict": "OK",
-            "creationTime": 1697559327
-          },
-          {
-            "platform": "codeforces",
-            "id": 228575341,
-            "pid": "1594C",
-            "name": "Make Them Equal",
-            "verdict": "OK",
-            "creationTime": 1697558414
-          },
-          {
-            "platform": "codeforces",
-            "id": 228567987,
-            "pid": "1594B",
-            "name": "Special Numbers",
-            "verdict": "OK",
-            "creationTime": 1697555276
-          },
-          {
-            "platform": "codeforces",
-            "id": 228567101,
-            "pid": "1594A",
-            "name": "Consecutive Sum Riddle",
-            "verdict": "OK",
-            "creationTime": 1697554893
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "b2238ea0a52f4fc1ae3e281466fe4197cc973fa8"
+  "ref": "62263bfaee92b4029a42e585d4532be70bb7427a"
 }
