@@ -1,96 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1697823186,
+  "updateTime": 1697866392,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 228888374,
-            "pid": "1592F2",
-            "name": "Alice and Recoloring 2",
-            "verdict": "OK",
-            "creationTime": 1697786441
-          },
-          {
-            "platform": "codeforces",
-            "id": 228887532,
-            "pid": "1592F1",
-            "name": "Alice and Recoloring 1",
-            "verdict": "OK",
-            "creationTime": 1697785916
-          },
-          {
-            "platform": "codeforces",
-            "id": 228886294,
-            "pid": "1592E",
-            "name": "Bored Bakry",
-            "verdict": "OK",
-            "creationTime": 1697785184
-          },
-          {
-            "platform": "codeforces",
-            "id": 228885432,
-            "pid": "1592D",
-            "name": "Hemose in ICPC ?",
-            "verdict": "OK",
-            "creationTime": 1697784682
-          },
-          {
-            "platform": "codeforces",
-            "id": 228882711,
-            "pid": "1592C",
-            "name": "Bakry and Partitioning",
-            "verdict": "OK",
-            "creationTime": 1697783006
-          },
-          {
-            "platform": "codeforces",
-            "id": 228881946,
-            "pid": "1592B",
-            "name": "Hemose Shopping",
-            "verdict": "OK",
-            "creationTime": 1697782531
-          },
-          {
-            "platform": "codeforces",
-            "id": 228881432,
-            "pid": "1592A",
-            "name": "Gamer Hemose",
-            "verdict": "OK",
-            "creationTime": 1697782219
-          },
-          {
-            "platform": "codeforces",
-            "id": 228880950,
-            "pid": "1594F",
-            "name": "Ideal Farm",
-            "verdict": "OK",
-            "creationTime": 1697781905
-          },
-          {
-            "platform": "codeforces",
-            "id": 228880790,
-            "pid": "1594F",
-            "name": "Ideal Farm",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1697781791
-          },
-          {
-            "platform": "codeforces",
-            "id": 228879268,
-            "pid": "1594E2",
-            "name": "Rubik's Cube Coloring (hard version)",
-            "verdict": "OK",
-            "creationTime": 1697780730
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "a89550f67f4a35346127d70633df97c18eac7d75"
+  "ref": "68b5813c8ac2ec936d775973d9154c7a87a613e6"
 }
