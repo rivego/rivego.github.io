@@ -1,9 +1,120 @@
 {
   "version": "0.1.29",
-  "updateTime": 1697952795,
+  "updateTime": 1698039179,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 229268085,
+            "pid": "1887F",
+            "name": "Minimum Segments",
+            "verdict": "OK",
+            "creationTime": 1697978007
+          },
+          {
+            "platform": "codeforces",
+            "id": 229253684,
+            "pid": "1887E",
+            "name": "Good Colorings",
+            "verdict": "OK",
+            "creationTime": 1697976645
+          },
+          {
+            "platform": "codeforces",
+            "id": 229252286,
+            "pid": "1887E",
+            "name": "Good Colorings",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1697976512
+          },
+          {
+            "platform": "codeforces",
+            "id": 229234655,
+            "pid": "1887D",
+            "name": "Split",
+            "verdict": "OK",
+            "creationTime": 1697974942
+          },
+          {
+            "platform": "codeforces",
+            "id": 229225852,
+            "pid": "1887C",
+            "name": "Minimum Array",
+            "verdict": "OK",
+            "creationTime": 1697974256
+          },
+          {
+            "platform": "codeforces",
+            "id": 229219341,
+            "pid": "1887B",
+            "name": "Time Travel",
+            "verdict": "OK",
+            "creationTime": 1697973800
+          },
+          {
+            "platform": "codeforces",
+            "id": 229211901,
+            "pid": "1887A2",
+            "name": "Dances (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1697973350
+          },
+          {
+            "platform": "codeforces",
+            "id": 229207683,
+            "pid": "1887A1",
+            "name": "Dances (Easy version)",
+            "verdict": "OK",
+            "creationTime": 1697973101
+          },
+          {
+            "platform": "codeforces",
+            "id": 229164513,
+            "pid": "1884E",
+            "name": "Hard Design",
+            "verdict": "OK",
+            "creationTime": 1697960550
+          },
+          {
+            "platform": "codeforces",
+            "id": 229156319,
+            "pid": "1884D",
+            "name": "Counting Rhyme",
+            "verdict": "OK",
+            "creationTime": 1697959376
+          },
+          {
+            "platform": "codeforces",
+            "id": 229154860,
+            "pid": "1884C",
+            "name": "Medium Design",
+            "verdict": "OK",
+            "creationTime": 1697959195
+          },
+          {
+            "platform": "codeforces",
+            "id": 229150965,
+            "pid": "1884B",
+            "name": "Haunted House",
+            "verdict": "OK",
+            "creationTime": 1697958754
+          },
+          {
+            "platform": "codeforces",
+            "id": 229147614,
+            "pid": "1884A",
+            "name": "Simple Design",
+            "verdict": "OK",
+            "creationTime": 1697958463
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "1b20bda58b4002822cf8c94723a3e0999ce5d61c"
+  "ref": "6d6c7e9776f21570789990dbd8acd3ca5ac2f94a"
 }
