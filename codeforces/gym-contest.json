@@ -17661,6 +17661,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Мисис 2023 осень - массивы, строки",
+    "startTime": 1696065300,
+    "duration": 2427300,
+    "participantNumber": 0,
+    "id": 104636,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104636",
+    "standingsUrl": "https://codeforces.com/gym/104636/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2023 ICPC Asia EC Regionals Online Contest (I)",
     "startTime": 1694923200,
     "duration": 18000,
@@ -18164,16 +18175,6 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104728",
     "standingsUrl": "https://codeforces.com/gym/104728/standings"
-  },
-  {
-    "type": "codeforces/gym/icpc",
-    "name": "Moscow team school olympiad (MKOSHP) 2023",
-    "duration": 18000,
-    "participantNumber": 0,
-    "id": 104730,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/104730",
-    "standingsUrl": "https://codeforces.com/gym/104730/standings"
   },
   {
     "type": "codeforces/gym/icpc",
