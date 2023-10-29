@@ -47,8 +47,11 @@
         "id": "1889C1",
         "name": "Doremy's Drying Plan (Easy Version)",
         "tags": [
+          "brute force",
           "data structures",
-          "dp"
+          "dp",
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1889/problem/C1"
       },
@@ -114933,7 +114936,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3775,
+    "rating": 3557,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
