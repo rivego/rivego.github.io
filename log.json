@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1698946374,
+  "updateTime": 1698989571,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 230976624,
-            "pid": "1891F",
-            "name": "A Growing Tree",
-            "verdict": "OK",
-            "creationTime": 1698930706
-          },
-          {
-            "platform": "codeforces",
-            "id": 230975829,
-            "pid": "1891E",
-            "name": "Brukhovich and Exams",
-            "verdict": "OK",
-            "creationTime": 1698930399
-          },
-          {
-            "platform": "codeforces",
-            "id": 230973767,
-            "pid": "1891D",
-            "name": "Suspicious logarithms",
-            "verdict": "OK",
-            "creationTime": 1698929569
-          },
-          {
-            "platform": "codeforces",
-            "id": 230972683,
-            "pid": "1891C",
-            "name": "Smilo and Monsters",
-            "verdict": "OK",
-            "creationTime": 1698929105
-          },
-          {
-            "platform": "codeforces",
-            "id": 230971868,
-            "pid": "1891B",
-            "name": "Deja Vu",
-            "verdict": "OK",
-            "creationTime": 1698928752
-          },
-          {
-            "platform": "codeforces",
-            "id": 230971074,
-            "pid": "1891A",
-            "name": "Sorting with Twos",
-            "verdict": "OK",
-            "creationTime": 1698928397
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "d57bbdfabafe4fe92585720a14a22b22db056e25"
+  "ref": "4e0e278b0bd05b1b3cade19d8c277e05bda840b6"
 }
