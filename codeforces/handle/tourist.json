@@ -22,12 +22,8 @@
         "id": "1889C2",
         "name": "Doremy's Drying Plan (Hard Version)",
         "tags": [
-          "2-sat",
           "data structures",
-          "dp",
-          "hashing",
-          "interactive",
-          "matrices"
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1889/problem/C2"
       },
