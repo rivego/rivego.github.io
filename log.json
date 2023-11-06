@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1699248811,
+  "updateTime": 1699291988,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 231571612,
+            "pid": "1895F",
+            "name": "Fancy Arrays",
+            "verdict": "OK",
+            "creationTime": 1699268211
+          },
+          {
+            "platform": "codeforces",
+            "id": 231569128,
+            "pid": "1895E",
+            "name": "Infinite Card Game",
+            "verdict": "OK",
+            "creationTime": 1699266684
+          },
+          {
+            "platform": "codeforces",
+            "id": 231566439,
+            "pid": "1895D",
+            "name": "XOR Construction",
+            "verdict": "OK",
+            "creationTime": 1699264927
+          },
+          {
+            "platform": "codeforces",
+            "id": 231564501,
+            "pid": "1895C",
+            "name": "Torn Lucky Ticket",
+            "verdict": "OK",
+            "creationTime": 1699263896
+          },
+          {
+            "platform": "codeforces",
+            "id": 231563819,
+            "pid": "1895B",
+            "name": "Points and Minimum Distance",
+            "verdict": "OK",
+            "creationTime": 1699263479
+          },
+          {
+            "platform": "codeforces",
+            "id": 231563663,
+            "pid": "1895A",
+            "name": "Treasure Chest",
+            "verdict": "OK",
+            "creationTime": 1699263381
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "ff0a7474052bf468aa59191b79533d63cb4066cc"
+  "ref": "8eea5d05eae206fa02c1335df17aba9404dd229b"
 }
