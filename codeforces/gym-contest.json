@@ -18346,6 +18346,16 @@
     "standingsUrl": "https://codeforces.com/gym/104770/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВСОШ по информатике 9-11 класс 2023 (1 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104773,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104773",
+    "standingsUrl": "https://codeforces.com/gym/104773/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "2023-2024 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)",
     "duration": 18000,
@@ -18354,5 +18364,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104772",
     "standingsUrl": "https://codeforces.com/gym/104772/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВСОШ по информатике 9-11 класс 2023 (3 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104775,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104775",
+    "standingsUrl": "https://codeforces.com/gym/104775/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВСОШ по информатике 9-11 класс 2023 (2 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104774,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104774",
+    "standingsUrl": "https://codeforces.com/gym/104774/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВСОШ по информатике 9-11 класс 2023 (4 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104776,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104776",
+    "standingsUrl": "https://codeforces.com/gym/104776/standings"
   }
 ]
