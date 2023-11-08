@@ -23,6 +23,7 @@
         "name": "Cacti Symphony",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "dp",
           "graphs"
         ],
@@ -151,7 +152,7 @@
         "id": "1893A",
         "name": "Anonymous Informant",
         "tags": [
-          "graphs",
+          "brute force",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1893/problem/A"
