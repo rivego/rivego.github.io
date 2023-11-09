@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1878F",
         "name": "Vasilije Loves Number Theory",
+        "rating": 1900,
         "tags": [
           "brute force",
           "math",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1878F",
         "name": "Vasilije Loves Number Theory",
+        "rating": 1900,
         "tags": [
           "brute force",
           "math",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "1878F",
         "name": "Vasilije Loves Number Theory",
+        "rating": 1900,
         "tags": [
           "brute force",
           "math",
@@ -99,6 +102,7 @@
         "type": "codeforces",
         "id": "1878E",
         "name": "Iva & Pav",
+        "rating": 1400,
         "tags": [
           "binary search",
           "bitmasks",
@@ -126,6 +130,7 @@
         "type": "codeforces",
         "id": "1878D",
         "name": "Reverse Madness",
+        "rating": 1600,
         "tags": [
           "data structures",
           "greedy"
@@ -151,6 +156,7 @@
         "type": "codeforces",
         "id": "1878D",
         "name": "Reverse Madness",
+        "rating": 1600,
         "tags": [
           "data structures",
           "greedy"
@@ -176,6 +182,7 @@
         "type": "codeforces",
         "id": "1878C",
         "name": "Vasilije in Cacak",
+        "rating": 900,
         "tags": [
           "math"
         ],
@@ -200,6 +207,7 @@
         "type": "codeforces",
         "id": "1878B",
         "name": "Aleksa and Stack",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -225,6 +233,7 @@
         "type": "codeforces",
         "id": "1878A",
         "name": "How Much Does Daytona Cost?",
+        "rating": 800,
         "tags": [
           "greedy"
         ],
@@ -249,6 +258,7 @@
         "type": "codeforces",
         "id": "1878A",
         "name": "How Much Does Daytona Cost?",
+        "rating": 800,
         "tags": [
           "greedy"
         ],
