@@ -162,6 +162,8 @@
         "rating": 1400,
         "tags": [
           "brute force",
+          "dfs and similar",
+          "graphs",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1893/problem/A"
