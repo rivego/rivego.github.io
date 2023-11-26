@@ -76,7 +76,7 @@
         "name": "Permutation Sorting",
         "tags": [
           "data structures",
-          "divide and conquer",
+          "fft",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/E"
@@ -155,7 +155,8 @@
         "name": "AB Flipping",
         "tags": [
           "greedy",
-          "strings"
+          "strings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/B"
       },
