@@ -22,9 +22,11 @@
         "id": "1896H1",
         "name": "Cyclic Hamming (Easy Version)",
         "tags": [
+          "divide and conquer",
           "dp",
           "fft",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/H1"
       },
@@ -47,7 +49,10 @@
         "type": "codeforces",
         "id": "1896F",
         "name": "Bracket Xoring",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1896/submission/234282511"
@@ -69,7 +74,11 @@
         "type": "codeforces",
         "id": "1896E",
         "name": "Permutation Sorting",
-        "tags": [],
+        "tags": [
+          "data structures",
+          "divide and conquer",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1896/submission/234260178"
@@ -92,7 +101,9 @@
         "id": "1896D",
         "name": "Ones and Twos",
         "tags": [
-          "data structures"
+          "data structures",
+          "math",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/D"
       },
@@ -116,7 +127,10 @@
         "id": "1896C",
         "name": "Matching Arrays",
         "tags": [
-          "greedy"
+          "binary search",
+          "constructive algorithms",
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/C"
       },
@@ -140,7 +154,8 @@
         "id": "1896B",
         "name": "AB Flipping",
         "tags": [
-          "greedy"
+          "greedy",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/B"
       },
@@ -163,7 +178,9 @@
         "type": "codeforces",
         "id": "1896A",
         "name": "Jagged Swaps",
-        "tags": [],
+        "tags": [
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1896/submission/234244771"
@@ -115279,7 +115296,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3585,
+    "rating": 3486,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
