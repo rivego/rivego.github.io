@@ -50,7 +50,9 @@
         "id": "1896F",
         "name": "Bracket Xoring",
         "tags": [
+          "bitmasks",
           "constructive algorithms",
+          "graph matchings",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/F"
@@ -75,9 +77,7 @@
         "id": "1896E",
         "name": "Permutation Sorting",
         "tags": [
-          "data structures",
-          "fft",
-          "sortings"
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/E"
       },
