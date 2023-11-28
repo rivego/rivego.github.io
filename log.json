@@ -1,56 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1701106378,
+  "updateTime": 1701149580,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 234558087,
-            "pid": "1900E",
-            "name": "Transitive Graph",
-            "verdict": "OK",
-            "creationTime": 1701074627
-          },
-          {
-            "platform": "codeforces",
-            "id": 234557093,
-            "pid": "1900D",
-            "name": "Small GCD",
-            "verdict": "OK",
-            "creationTime": 1701074094
-          },
-          {
-            "platform": "codeforces",
-            "id": 234556236,
-            "pid": "1900C",
-            "name": "Anji's Binary Tree",
-            "verdict": "OK",
-            "creationTime": 1701073588
-          },
-          {
-            "platform": "codeforces",
-            "id": 234555804,
-            "pid": "1900B",
-            "name": "Laura and Operations",
-            "verdict": "OK",
-            "creationTime": 1701073320
-          },
-          {
-            "platform": "codeforces",
-            "id": 234555475,
-            "pid": "1900A",
-            "name": "Cover in Water",
-            "verdict": "OK",
-            "creationTime": 1701073105
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5fa639dd0b7c497819d665f70c141639b6f61d1b"
+  "ref": "c7e936533fd7d60766a51cb9ef10a20a8b32a66d"
 }
