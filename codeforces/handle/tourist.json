@@ -51,7 +51,8 @@
         "tags": [
           "bitmasks",
           "divide and conquer",
-          "dp"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/D2"
       },
