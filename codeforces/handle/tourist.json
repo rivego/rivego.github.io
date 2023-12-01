@@ -21,7 +21,12 @@
         "type": "codeforces",
         "id": "1903D1",
         "name": "Maximum And Queries (easy version)",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/D1"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235106849"
@@ -43,7 +48,11 @@
         "type": "codeforces",
         "id": "1903D2",
         "name": "Maximum And Queries (hard version)",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "divide and conquer",
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/D2"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235106690"
@@ -65,7 +74,14 @@
         "type": "codeforces",
         "id": "1903E",
         "name": "Geo Game",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "games",
+          "greedy",
+          "interactive",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235101908"
@@ -87,7 +103,10 @@
         "type": "codeforces",
         "id": "1903A",
         "name": "Halloumi Boxes",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235099278"
@@ -109,7 +128,12 @@
         "type": "codeforces",
         "id": "1903B",
         "name": "StORage room",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "constructive algorithms",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235099059"
@@ -131,7 +155,11 @@
         "type": "codeforces",
         "id": "1903C",
         "name": "Theofanis' Nightmare",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235098179"
@@ -153,7 +181,12 @@
         "type": "codeforces",
         "id": "1903F",
         "name": "Babysitting",
-        "tags": [],
+        "tags": [
+          "2-sat",
+          "binary search",
+          "data structures",
+          "graphs"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235097459"
@@ -175,7 +208,12 @@
         "type": "codeforces",
         "id": "1903F",
         "name": "Babysitting",
-        "tags": [],
+        "tags": [
+          "2-sat",
+          "binary search",
+          "data structures",
+          "graphs"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235094943"
@@ -197,7 +235,12 @@
         "type": "codeforces",
         "id": "1903F",
         "name": "Babysitting",
-        "tags": [],
+        "tags": [
+          "2-sat",
+          "binary search",
+          "data structures",
+          "graphs"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235093407"
@@ -219,7 +262,12 @@
         "type": "codeforces",
         "id": "1903F",
         "name": "Babysitting",
-        "tags": [],
+        "tags": [
+          "2-sat",
+          "binary search",
+          "data structures",
+          "graphs"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235092126"
@@ -241,7 +289,12 @@
         "type": "codeforces",
         "id": "1903F",
         "name": "Babysitting",
-        "tags": [],
+        "tags": [
+          "2-sat",
+          "binary search",
+          "data structures",
+          "graphs"
+        ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1903/submission/235091185"
