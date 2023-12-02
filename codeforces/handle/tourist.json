@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1903D1",
         "name": "Maximum And Queries (easy version)",
+        "rating": 1700,
         "tags": [
           "binary search",
           "bitmasks",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1903D2",
         "name": "Maximum And Queries (hard version)",
+        "rating": 2500,
         "tags": [
           "bitmasks",
           "divide and conquer",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "1903E",
         "name": "Geo Game",
+        "rating": 2000,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -104,6 +107,7 @@
         "type": "codeforces",
         "id": "1903A",
         "name": "Halloumi Boxes",
+        "rating": 800,
         "tags": [
           "brute force",
           "greedy"
@@ -129,6 +133,7 @@
         "type": "codeforces",
         "id": "1903B",
         "name": "StORage room",
+        "rating": 1200,
         "tags": [
           "bitmasks",
           "brute force",
@@ -156,6 +161,7 @@
         "type": "codeforces",
         "id": "1903C",
         "name": "Theofanis' Nightmare",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -182,11 +188,13 @@
         "type": "codeforces",
         "id": "1903F",
         "name": "Babysitting",
+        "rating": 2500,
         "tags": [
           "2-sat",
           "binary search",
           "data structures",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
@@ -209,11 +217,13 @@
         "type": "codeforces",
         "id": "1903F",
         "name": "Babysitting",
+        "rating": 2500,
         "tags": [
           "2-sat",
           "binary search",
           "data structures",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
@@ -236,11 +246,13 @@
         "type": "codeforces",
         "id": "1903F",
         "name": "Babysitting",
+        "rating": 2500,
         "tags": [
           "2-sat",
           "binary search",
           "data structures",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
@@ -263,11 +275,13 @@
         "type": "codeforces",
         "id": "1903F",
         "name": "Babysitting",
+        "rating": 2500,
         "tags": [
           "2-sat",
           "binary search",
           "data structures",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
@@ -290,11 +304,13 @@
         "type": "codeforces",
         "id": "1903F",
         "name": "Babysitting",
+        "rating": 2500,
         "tags": [
           "2-sat",
           "binary search",
           "data structures",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
