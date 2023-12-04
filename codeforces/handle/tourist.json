@@ -51,7 +51,6 @@
         "name": "Maximum And Queries (hard version)",
         "rating": 2500,
         "tags": [
-          "binary search",
           "bitmasks",
           "divide and conquer",
           "dp",
