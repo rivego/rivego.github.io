@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1701624781,
+  "updateTime": 1701667969,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 235594491,
-            "pid": "1902F",
-            "name": "Trees and XOR Queries Again",
-            "verdict": "OK",
-            "creationTime": 1701620192
-          },
-          {
-            "platform": "codeforces",
-            "id": 235593488,
-            "pid": "1902F",
-            "name": "Trees and XOR Queries Again",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1701620061
-          },
-          {
-            "platform": "codeforces",
-            "id": 235592364,
-            "pid": "1902F",
-            "name": "Trees and XOR Queries Again",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1701619916
-          },
-          {
-            "platform": "codeforces",
-            "id": 235588474,
-            "pid": "1902E",
-            "name": "Collapsing Strings",
-            "verdict": "OK",
-            "creationTime": 1701619428
-          },
-          {
-            "platform": "codeforces",
-            "id": 235586033,
-            "pid": "1902D",
-            "name": "Robot Queries",
-            "verdict": "OK",
-            "creationTime": 1701619115
-          },
-          {
-            "platform": "codeforces",
-            "id": 235582605,
-            "pid": "1902C",
-            "name": "Insert and Equalize",
-            "verdict": "OK",
-            "creationTime": 1701618691
-          },
-          {
-            "platform": "codeforces",
-            "id": 235580449,
-            "pid": "1902B",
-            "name": "Getting Points",
-            "verdict": "OK",
-            "creationTime": 1701618429
-          },
-          {
-            "platform": "codeforces",
-            "id": 235578546,
-            "pid": "1902A",
-            "name": "Binary Imbalance",
-            "verdict": "OK",
-            "creationTime": 1701618211
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "2917a8b782c23620d7e747f4899f8db31d0a6b2a"
+  "ref": "a251a57472b6738e5651c1dc715eef1dfd33420d"
 }
