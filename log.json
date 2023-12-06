@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1701840791,
+  "updateTime": 1701883987,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 235968364,
-            "pid": "1906M",
-            "name": "Triangle Construction",
-            "verdict": "OK",
-            "creationTime": 1701804706
-          },
-          {
-            "platform": "codeforces",
-            "id": 235968183,
-            "pid": "1906A",
-            "name": "Easy As ABC",
-            "verdict": "OK",
-            "creationTime": 1701804599
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "e90d9a252877932b4bc70f610ec322f941181aff"
+  "ref": "92b8e6effc7d2824da9a1f0e26fdc83ad00fd328"
 }
