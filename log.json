@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1701927186,
+  "updateTime": 1701970380,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 236143961,
+            "pid": "1900F",
+            "name": "Local Deletions",
+            "verdict": "OK",
+            "creationTime": 1701928272
+          },
+          {
+            "platform": "codeforces",
+            "id": 236143293,
+            "pid": "1900F",
+            "name": "Local Deletions",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1701927659
+          },
+          {
+            "platform": "codeforces",
+            "id": 236143224,
+            "pid": "1900F",
+            "name": "Local Deletions",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1701927611
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "766a2c2d59ca938902612969355333b9bc679513"
+  "ref": "7f2da2c6b16a0ecd30b18983abf96984294defef"
 }
