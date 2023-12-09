@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1702056779,
+  "updateTime": 1702099970,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 236296416,
-            "pid": "1906J",
-            "name": "Count BFS Graph",
-            "verdict": "OK",
-            "creationTime": 1702019448
-          },
-          {
-            "platform": "codeforces",
-            "id": 236295019,
-            "pid": "1906F",
-            "name": "Maximize The Value",
-            "verdict": "OK",
-            "creationTime": 1702018588
-          },
-          {
-            "platform": "codeforces",
-            "id": 236293921,
-            "pid": "1906E",
-            "name": "Merge Not Sort",
-            "verdict": "OK",
-            "creationTime": 1702017911
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "a68a0a5e3ab605e65ea3210e17257d61735b4e06"
+  "ref": "ccbea6cb4a4ac4d62308ae1e4604d8903fafd125"
 }
