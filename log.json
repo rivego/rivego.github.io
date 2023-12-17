@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1702747967,
+  "updateTime": 1702791170,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 237499310,
-            "pid": "1905F",
-            "name": "Field Should Not Be Empty",
-            "verdict": "OK",
-            "creationTime": 1702740166
-          },
-          {
-            "platform": "codeforces",
-            "id": 237490721,
-            "pid": "1905E",
-            "name": "One-X",
-            "verdict": "OK",
-            "creationTime": 1702739064
-          },
-          {
-            "platform": "codeforces",
-            "id": 237485280,
-            "pid": "1905C",
-            "name": "Largest Subsequence",
-            "verdict": "OK",
-            "creationTime": 1702738451
-          },
-          {
-            "platform": "codeforces",
-            "id": 237483071,
-            "pid": "1905D",
-            "name": "Cyclic MEX",
-            "verdict": "OK",
-            "creationTime": 1702738245
-          },
-          {
-            "platform": "codeforces",
-            "id": 237479279,
-            "pid": "1905C",
-            "name": "Largest Subsequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1702737962
-          },
-          {
-            "platform": "codeforces",
-            "id": 237479184,
-            "pid": "1905B",
-            "name": "Begginer's Zelda",
-            "verdict": "OK",
-            "creationTime": 1702737956
-          },
-          {
-            "platform": "codeforces",
-            "id": 237479069,
-            "pid": "1905A",
-            "name": "Constructive Problems",
-            "verdict": "OK",
-            "creationTime": 1702737950
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3a163f747aed4cebd750f8bf9bd178d6b7524ed8"
+  "ref": "ca768ce201bfd1a6ca052a22ef61c0a5d37cf693"
 }
