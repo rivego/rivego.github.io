@@ -25,6 +25,7 @@
           "binary search",
           "data structures",
           "hashing",
+          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1913/problem/F"
@@ -130,6 +131,7 @@
         "tags": [
           "binary search",
           "bitmasks",
+          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1913/problem/C"
