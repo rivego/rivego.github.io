@@ -23,6 +23,7 @@
         "name": "Palindromic Problem",
         "tags": [
           "binary search",
+          "data structures",
           "hashing",
           "strings"
         ],
@@ -102,7 +103,8 @@
         "tags": [
           "data structures",
           "divide and conquer",
-          "dp"
+          "dp",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1913/problem/D"
       },
@@ -126,6 +128,7 @@
         "id": "1913C",
         "name": "Game with Multiset",
         "tags": [
+          "binary search",
           "bitmasks",
           "greedy"
         ],
