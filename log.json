@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1703093580,
+  "updateTime": 1703136776,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 238213639,
+            "pid": "1912J",
+            "name": "Joy of Pokémon Observation",
+            "verdict": "OK",
+            "creationTime": 1703136093
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c0f3960ea677a79c99612d7906b2809c069c5bc6"
+  "ref": "98a6b80c25b31cc073d742253b5a5986d2e19a65"
 }
