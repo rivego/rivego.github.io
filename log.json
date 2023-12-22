@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1703179976,
+  "updateTime": 1703223163,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 238216800,
-            "pid": "1912H",
-            "name": "Hypercatapult Commute",
-            "verdict": "OK",
-            "creationTime": 1703138299
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "92b8f588e484d010fb9dca8960a2aebb985cccf3"
+  "ref": "a1c4d7246d87fc211e4ee45fc0d7b039f4b4e9b1"
 }
