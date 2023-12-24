@@ -1,18 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1703395986,
+  "updateTime": 1703439162,
   "history": {
     "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 238702895,
+            "pid": "1917F",
+            "name": "Construct Tree",
+            "verdict": "OK",
+            "creationTime": 1703430640
+          },
+          {
+            "platform": "codeforces",
+            "id": 238698863,
+            "pid": "1917E",
+            "name": "Construct Matrix",
+            "verdict": "OK",
+            "creationTime": 1703430207
+          },
+          {
+            "platform": "codeforces",
+            "id": 238693207,
+            "pid": "1917D",
+            "name": "Yet Another Inversions Problem",
+            "verdict": "OK",
+            "creationTime": 1703429662
+          },
+          {
+            "platform": "codeforces",
+            "id": 238680690,
+            "pid": "1917C",
+            "name": "Watering an Array",
+            "verdict": "OK",
+            "creationTime": 1703428898
+          },
+          {
+            "platform": "codeforces",
+            "id": 238676561,
+            "pid": "1917B",
+            "name": "Erase First or Second Letter",
+            "verdict": "OK",
+            "creationTime": 1703428642
+          },
+          {
+            "platform": "codeforces",
+            "id": 238676366,
+            "pid": "1917A",
+            "name": "Least Product",
+            "verdict": "OK",
+            "creationTime": 1703428582
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 238589602,
-            "pid": "1909H",
-            "name": "Parallel Swaps Sort",
+            "id": 238742065,
+            "pid": "1917A",
+            "name": "Least Product",
             "verdict": "OK",
-            "creationTime": 1703355118
+            "creationTime": 1703438968
           }
         ],
         "newContests": []
@@ -20,5 +74,5 @@
     ],
     "contest": []
   },
-  "ref": "b2f6db5a8d618ecc419707b3e81432554d09ee96"
+  "ref": "69aa02254d4ee2a0dfe7b1761e9a0dc921af9375"
 }
