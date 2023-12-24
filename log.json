@@ -1,152 +1,18 @@
 {
   "version": "0.1.29",
-  "updateTime": 1703352771,
+  "updateTime": 1703395986,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 238567745,
-            "pid": "1909G",
-            "name": "Pumping Lemma",
-            "verdict": "OK",
-            "creationTime": 1703349017
-          },
-          {
-            "platform": "codeforces",
-            "id": 238549530,
-            "pid": "1909E",
-            "name": "Multiple Lamps",
-            "verdict": "OK",
-            "creationTime": 1703346325
-          },
-          {
-            "platform": "codeforces",
-            "id": 238533209,
-            "pid": "1909F1",
-            "name": "Small Permutation Problem (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1703344510
-          },
-          {
-            "platform": "codeforces",
-            "id": 238513131,
-            "pid": "1909D",
-            "name": "Split Plus K",
-            "verdict": "OK",
-            "creationTime": 1703342824
-          },
-          {
-            "platform": "codeforces",
-            "id": 238507749,
-            "pid": "1909C",
-            "name": "Heavy Intervals",
-            "verdict": "OK",
-            "creationTime": 1703342458
-          },
-          {
-            "platform": "codeforces",
-            "id": 238504797,
-            "pid": "1909B",
-            "name": "Make Almost Equal With Mod",
-            "verdict": "OK",
-            "creationTime": 1703342268
-          },
-          {
-            "platform": "codeforces",
-            "id": 238504449,
-            "pid": "1909A",
-            "name": "Distinct Buttons",
-            "verdict": "OK",
-            "creationTime": 1703342193
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 238550526,
-            "pid": "1909G",
-            "name": "Pumping Lemma",
+            "id": 238589602,
+            "pid": "1909H",
+            "name": "Parallel Swaps Sort",
             "verdict": "OK",
-            "creationTime": 1703346448
-          },
-          {
-            "platform": "codeforces",
-            "id": 238534294,
-            "pid": "1909F2",
-            "name": "Small Permutation Problem (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1703344616
-          },
-          {
-            "platform": "codeforces",
-            "id": 238534241,
-            "pid": "1909F1",
-            "name": "Small Permutation Problem (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1703344609
-          },
-          {
-            "platform": "codeforces",
-            "id": 238527503,
-            "pid": "1909E",
-            "name": "Multiple Lamps",
-            "verdict": "OK",
-            "creationTime": 1703343994
-          },
-          {
-            "platform": "codeforces",
-            "id": 238527134,
-            "pid": "1909E",
-            "name": "Multiple Lamps",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1703343965
-          },
-          {
-            "platform": "codeforces",
-            "id": 238526255,
-            "pid": "1909E",
-            "name": "Multiple Lamps",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1703343883
-          },
-          {
-            "platform": "codeforces",
-            "id": 238515473,
-            "pid": "1909D",
-            "name": "Split Plus K",
-            "verdict": "OK",
-            "creationTime": 1703343005
-          },
-          {
-            "platform": "codeforces",
-            "id": 238508905,
-            "pid": "1909C",
-            "name": "Heavy Intervals",
-            "verdict": "OK",
-            "creationTime": 1703342534
-          },
-          {
-            "platform": "codeforces",
-            "id": 238505616,
-            "pid": "1909B",
-            "name": "Make Almost Equal With Mod",
-            "verdict": "OK",
-            "creationTime": 1703342330
-          },
-          {
-            "platform": "codeforces",
-            "id": 238504553,
-            "pid": "1909A",
-            "name": "Distinct Buttons",
-            "verdict": "OK",
-            "creationTime": 1703342230
+            "creationTime": 1703355118
           }
         ],
         "newContests": []
@@ -154,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "7a7adb8fad3222e2c15aeae8bc2b5d4a9306d4ac"
+  "ref": "b2f6db5a8d618ecc419707b3e81432554d09ee96"
 }

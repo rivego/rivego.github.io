@@ -21,7 +21,10 @@
         "type": "codeforces",
         "id": "1909G",
         "name": "Pumping Lemma",
-        "tags": [],
+        "tags": [
+          "hashing",
+          "strings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1909/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1909/submission/238567745"
@@ -43,7 +46,11 @@
         "type": "codeforces",
         "id": "1909E",
         "name": "Multiple Lamps",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/1909/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1909/submission/238549530"
@@ -65,7 +72,11 @@
         "type": "codeforces",
         "id": "1909F1",
         "name": "Small Permutation Problem (Easy Version)",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1909/problem/F1"
       },
       "submissionUrl": "https://codeforces.com/contest/1909/submission/238533209"
@@ -87,7 +98,11 @@
         "type": "codeforces",
         "id": "1909D",
         "name": "Split Plus K",
-        "tags": [],
+        "tags": [
+          "greedy",
+          "math",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/1909/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/1909/submission/238513131"
@@ -109,7 +124,14 @@
         "type": "codeforces",
         "id": "1909C",
         "name": "Heavy Intervals",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "dsu",
+          "greedy",
+          "math",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1909/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1909/submission/238507749"
@@ -131,7 +153,10 @@
         "type": "codeforces",
         "id": "1909B",
         "name": "Make Almost Equal With Mod",
-        "tags": [],
+        "tags": [
+          "math",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/1909/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1909/submission/238504797"
@@ -153,7 +178,10 @@
         "type": "codeforces",
         "id": "1909A",
         "name": "Distinct Buttons",
-        "tags": [],
+        "tags": [
+          "implementation",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1909/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1909/submission/238504449"
@@ -116369,7 +116397,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3485,
+    "rating": 3374,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
