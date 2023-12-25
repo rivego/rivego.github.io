@@ -22,8 +22,10 @@
         "id": "1917F",
         "name": "Construct Tree",
         "tags": [
+          "bitmasks",
           "constructive algorithms",
-          "dp"
+          "dp",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1917/problem/F"
       },
@@ -72,7 +74,10 @@
         "id": "1917D",
         "name": "Yet Another Inversions Problem",
         "tags": [
-          "data structures"
+          "bitmasks",
+          "combinatorics",
+          "data structures",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1917/problem/D"
       },
@@ -97,7 +102,9 @@
         "name": "Watering an Array",
         "tags": [
           "brute force",
-          "greedy"
+          "greedy",
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1917/problem/C"
       },
@@ -122,6 +129,7 @@
         "name": "Erase First or Second Letter",
         "tags": [
           "brute force",
+          "combinatorics",
           "dp",
           "strings"
         ],

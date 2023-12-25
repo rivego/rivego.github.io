@@ -1,72 +1,66 @@
 {
   "version": "0.1.29",
-  "updateTime": 1703439162,
+  "updateTime": 1703482365,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 238702895,
-            "pid": "1917F",
-            "name": "Construct Tree",
-            "verdict": "OK",
-            "creationTime": 1703430640
-          },
-          {
-            "platform": "codeforces",
-            "id": 238698863,
-            "pid": "1917E",
-            "name": "Construct Matrix",
-            "verdict": "OK",
-            "creationTime": 1703430207
-          },
-          {
-            "platform": "codeforces",
-            "id": 238693207,
-            "pid": "1917D",
-            "name": "Yet Another Inversions Problem",
-            "verdict": "OK",
-            "creationTime": 1703429662
-          },
-          {
-            "platform": "codeforces",
-            "id": 238680690,
-            "pid": "1917C",
-            "name": "Watering an Array",
-            "verdict": "OK",
-            "creationTime": 1703428898
-          },
-          {
-            "platform": "codeforces",
-            "id": 238676561,
-            "pid": "1917B",
-            "name": "Erase First or Second Letter",
-            "verdict": "OK",
-            "creationTime": 1703428642
-          },
-          {
-            "platform": "codeforces",
-            "id": 238676366,
-            "pid": "1917A",
-            "name": "Least Product",
-            "verdict": "OK",
-            "creationTime": 1703428582
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 238742065,
-            "pid": "1917A",
-            "name": "Least Product",
+            "id": 238745617,
+            "pid": "1917D",
+            "name": "Yet Another Inversions Problem",
             "verdict": "OK",
-            "creationTime": 1703438968
+            "creationTime": 1703439914
+          },
+          {
+            "platform": "codeforces",
+            "id": 238745523,
+            "pid": "1917D",
+            "name": "Yet Another Inversions Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1703439880
+          },
+          {
+            "platform": "codeforces",
+            "id": 238743814,
+            "pid": "1917F",
+            "name": "Construct Tree",
+            "verdict": "OK",
+            "creationTime": 1703439414
+          },
+          {
+            "platform": "codeforces",
+            "id": 238743787,
+            "pid": "1917E",
+            "name": "Construct Matrix",
+            "verdict": "OK",
+            "creationTime": 1703439408
+          },
+          {
+            "platform": "codeforces",
+            "id": 238743763,
+            "pid": "1917D",
+            "name": "Yet Another Inversions Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1703439403
+          },
+          {
+            "platform": "codeforces",
+            "id": 238742990,
+            "pid": "1917C",
+            "name": "Watering an Array",
+            "verdict": "OK",
+            "creationTime": 1703439219
+          },
+          {
+            "platform": "codeforces",
+            "id": 238742962,
+            "pid": "1917B",
+            "name": "Erase First or Second Letter",
+            "verdict": "OK",
+            "creationTime": 1703439212
           }
         ],
         "newContests": []
@@ -74,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "69aa02254d4ee2a0dfe7b1761e9a0dc921af9375"
+  "ref": "685bedbbe10cc66559182138ebad5154f0603f0d"
 }
