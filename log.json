@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1703482365,
+  "updateTime": 1703525570,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 238745617,
-            "pid": "1917D",
-            "name": "Yet Another Inversions Problem",
-            "verdict": "OK",
-            "creationTime": 1703439914
-          },
-          {
-            "platform": "codeforces",
-            "id": 238745523,
-            "pid": "1917D",
-            "name": "Yet Another Inversions Problem",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1703439880
-          },
-          {
-            "platform": "codeforces",
-            "id": 238743814,
-            "pid": "1917F",
-            "name": "Construct Tree",
-            "verdict": "OK",
-            "creationTime": 1703439414
-          },
-          {
-            "platform": "codeforces",
-            "id": 238743787,
-            "pid": "1917E",
-            "name": "Construct Matrix",
-            "verdict": "OK",
-            "creationTime": 1703439408
-          },
-          {
-            "platform": "codeforces",
-            "id": 238743763,
-            "pid": "1917D",
-            "name": "Yet Another Inversions Problem",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1703439403
-          },
-          {
-            "platform": "codeforces",
-            "id": 238742990,
-            "pid": "1917C",
-            "name": "Watering an Array",
-            "verdict": "OK",
-            "creationTime": 1703439219
-          },
-          {
-            "platform": "codeforces",
-            "id": 238742962,
-            "pid": "1917B",
-            "name": "Erase First or Second Letter",
-            "verdict": "OK",
-            "creationTime": 1703439212
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "685bedbbe10cc66559182138ebad5154f0603f0d"
+  "ref": "d097fa83c178d8eb253e2043db8e28cc4b76dac7"
 }
