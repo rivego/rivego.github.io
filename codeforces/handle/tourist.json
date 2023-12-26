@@ -81,7 +81,9 @@
           "combinatorics",
           "data structures",
           "divide and conquer",
-          "math"
+          "implementation",
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1917/problem/D"
       },
@@ -244,6 +246,7 @@
         "name": "Small Permutation Problem (Easy Version)",
         "rating": 2200,
         "tags": [
+          "brute force",
           "combinatorics",
           "dp",
           "math"
