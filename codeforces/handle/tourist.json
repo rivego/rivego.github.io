@@ -130,6 +130,7 @@
         "id": "1915C",
         "name": "Can I Square?",
         "tags": [
+          "binary search",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1915/problem/C"
@@ -262,10 +263,7 @@
         "tags": [
           "combinatorics",
           "data structures",
-          "divide and conquer",
-          "hashing",
           "implementation",
-          "interactive",
           "math",
           "number theory"
         ],
