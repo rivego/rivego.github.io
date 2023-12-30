@@ -181,7 +181,8 @@
         "name": "Odd One Out",
         "tags": [
           "bitmasks",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1915/problem/A"
       },
