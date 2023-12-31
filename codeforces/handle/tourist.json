@@ -22,7 +22,11 @@
         "id": "1916H2",
         "name": "Matrix Rank (Hard Version)",
         "tags": [
-          "math"
+          "combinatorics",
+          "dp",
+          "fft",
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/H2"
       },
@@ -46,7 +50,11 @@
         "id": "1916H1",
         "name": "Matrix Rank (Easy Version)",
         "tags": [
-          "math"
+          "brute force",
+          "combinatorics",
+          "dp",
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/H1"
       },
@@ -70,7 +78,11 @@
         "id": "1916H1",
         "name": "Matrix Rank (Easy Version)",
         "tags": [
-          "math"
+          "brute force",
+          "combinatorics",
+          "dp",
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/H1"
       },
@@ -94,7 +106,12 @@
         "id": "1916E",
         "name": "Happy Life in University",
         "tags": [
-          "data structures"
+          "brute force",
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "implementation",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/E"
       },
@@ -119,6 +136,7 @@
         "name": "Mathematical Problem",
         "tags": [
           "constructive algorithms",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/D"
@@ -144,6 +162,7 @@
         "name": "Mathematical Problem",
         "tags": [
           "constructive algorithms",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/D"
@@ -168,7 +187,10 @@
         "id": "1916C",
         "name": "Training Before the Olympiad",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "games",
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/C"
       },
@@ -192,7 +214,9 @@
         "id": "1916B",
         "name": "Two Divisors",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/B"
       },
@@ -216,7 +240,10 @@
         "id": "1916A",
         "name": "2023",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/A"
       },
@@ -320,7 +347,6 @@
         "id": "1915D",
         "name": "Unnatural Language Processing",
         "tags": [
-          "dp",
           "greedy",
           "implementation",
           "strings"
@@ -452,7 +478,6 @@
         "rating": 2500,
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1917/problem/E"
@@ -480,6 +505,7 @@
         "tags": [
           "combinatorics",
           "data structures",
+          "dp",
           "implementation",
           "math",
           "number theory"
@@ -116983,7 +117009,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3375,
+    "rating": 3330,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
