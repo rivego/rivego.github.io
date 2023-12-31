@@ -20,11 +20,11 @@
       "problem": {
         "type": "codeforces",
         "id": "1916H2",
-        "name": "Matrix Rank (Hard Version)",
+        "name": "wMatrix Rank (Hard Version)",
+        "rating": 2700,
         "tags": [
           "combinatorics",
           "dp",
-          "fft",
           "math",
           "matrices"
         ],
@@ -49,6 +49,7 @@
         "type": "codeforces",
         "id": "1916H1",
         "name": "Matrix Rank (Easy Version)",
+        "rating": 2700,
         "tags": [
           "brute force",
           "combinatorics",
@@ -77,6 +78,7 @@
         "type": "codeforces",
         "id": "1916H1",
         "name": "Matrix Rank (Easy Version)",
+        "rating": 2700,
         "tags": [
           "brute force",
           "combinatorics",
@@ -105,11 +107,11 @@
         "type": "codeforces",
         "id": "1916E",
         "name": "Happy Life in University",
+        "rating": 2300,
         "tags": [
-          "brute force",
           "data structures",
           "dfs and similar",
-          "dp",
+          "greedy",
           "implementation",
           "trees"
         ],
@@ -134,7 +136,9 @@
         "type": "codeforces",
         "id": "1916D",
         "name": "Mathematical Problem",
+        "rating": 1700,
         "tags": [
+          "brute force",
           "constructive algorithms",
           "implementation",
           "math"
@@ -160,7 +164,9 @@
         "type": "codeforces",
         "id": "1916D",
         "name": "Mathematical Problem",
+        "rating": 1700,
         "tags": [
+          "brute force",
           "constructive algorithms",
           "implementation",
           "math"
@@ -186,9 +192,11 @@
         "type": "codeforces",
         "id": "1916C",
         "name": "Training Before the Olympiad",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "games",
+          "greedy",
           "implementation",
           "math"
         ],
@@ -213,6 +221,7 @@
         "type": "codeforces",
         "id": "1916B",
         "name": "Two Divisors",
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "math",
@@ -239,6 +248,7 @@
         "type": "codeforces",
         "id": "1916A",
         "name": "2023",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "implementation",
