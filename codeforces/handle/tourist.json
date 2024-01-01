@@ -20,7 +20,7 @@
       "problem": {
         "type": "codeforces",
         "id": "1916H2",
-        "name": "wMatrix Rank (Hard Version)",
+        "name": "Matrix Rank (Hard Version)",
         "rating": 2700,
         "tags": [
           "combinatorics",
