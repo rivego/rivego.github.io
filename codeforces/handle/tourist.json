@@ -140,7 +140,6 @@
         "tags": [
           "brute force",
           "constructive algorithms",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/D"
@@ -168,7 +167,6 @@
         "tags": [
           "brute force",
           "constructive algorithms",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/D"
@@ -276,6 +274,7 @@
         "type": "codeforces",
         "id": "1915G",
         "name": "Bicycles",
+        "rating": 1800,
         "tags": [
           "graphs",
           "greedy",
@@ -304,6 +303,7 @@
         "type": "codeforces",
         "id": "1915F",
         "name": "Greetings",
+        "rating": 1500,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -330,6 +330,7 @@
         "type": "codeforces",
         "id": "1915E",
         "name": "Romantic Glasses",
+        "rating": 1300,
         "tags": [
           "data structures",
           "greedy",
@@ -356,6 +357,7 @@
         "type": "codeforces",
         "id": "1915D",
         "name": "Unnatural Language Processing",
+        "rating": 900,
         "tags": [
           "greedy",
           "implementation",
@@ -382,6 +384,7 @@
         "type": "codeforces",
         "id": "1915C",
         "name": "Can I Square?",
+        "rating": 800,
         "tags": [
           "binary search",
           "implementation"
@@ -407,6 +410,7 @@
         "type": "codeforces",
         "id": "1915B",
         "name": "Not Quite Latin Square",
+        "rating": 800,
         "tags": [
           "brute force",
           "implementation"
@@ -432,6 +436,7 @@
         "type": "codeforces",
         "id": "1915A",
         "name": "Odd One Out",
+        "rating": 800,
         "tags": [
           "bitmasks",
           "implementation"
