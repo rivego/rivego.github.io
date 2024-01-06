@@ -26,7 +26,8 @@
           "combinatorics",
           "dp",
           "math",
-          "matrices"
+          "matrices",
+          "string suffix structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/H2"
       },
