@@ -213,7 +213,9 @@
         "rating": 2800,
         "tags": [
           "data structures",
-          "flows"
+          "dp",
+          "flows",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/1919/problem/F2"
       },
@@ -238,10 +240,7 @@
         "name": "Wine Factory (Easy Version)",
         "rating": 2300,
         "tags": [
-          "data structures",
-          "flows",
-          "schedules",
-          "trees"
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1919/problem/F1"
       },
@@ -293,8 +292,10 @@
         "name": "01 Tree",
         "rating": 2100,
         "tags": [
+          "constructive algorithms",
           "data structures",
           "divide and conquer",
+          "dp",
           "greedy",
           "implementation",
           "sortings",
@@ -323,8 +324,10 @@
         "name": "01 Tree",
         "rating": 2100,
         "tags": [
+          "constructive algorithms",
           "data structures",
           "divide and conquer",
+          "dp",
           "greedy",
           "implementation",
           "sortings",
