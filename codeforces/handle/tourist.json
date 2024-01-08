@@ -267,6 +267,7 @@
         "tags": [
           "combinatorics",
           "dp",
+          "geometry",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1919/problem/E"
@@ -292,7 +293,6 @@
         "name": "01 Tree",
         "rating": 2100,
         "tags": [
-          "constructive algorithms",
           "data structures",
           "divide and conquer",
           "dp",
@@ -324,7 +324,6 @@
         "name": "01 Tree",
         "rating": 2100,
         "tags": [
-          "constructive algorithms",
           "data structures",
           "divide and conquer",
           "dp",
