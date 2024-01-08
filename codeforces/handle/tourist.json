@@ -240,7 +240,8 @@
         "name": "Wine Factory (Easy Version)",
         "rating": 2300,
         "tags": [
-          "data structures"
+          "data structures",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1919/problem/F1"
       },
@@ -267,7 +268,6 @@
         "tags": [
           "combinatorics",
           "dp",
-          "geometry",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1919/problem/E"
@@ -293,6 +293,7 @@
         "name": "01 Tree",
         "rating": 2100,
         "tags": [
+          "constructive algorithms",
           "data structures",
           "divide and conquer",
           "dp",
@@ -324,6 +325,7 @@
         "name": "01 Tree",
         "rating": 2100,
         "tags": [
+          "constructive algorithms",
           "data structures",
           "divide and conquer",
           "dp",
@@ -407,7 +409,7 @@
         "name": "Wallet Exchange",
         "rating": 800,
         "tags": [
-          "games",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1919/problem/A"
