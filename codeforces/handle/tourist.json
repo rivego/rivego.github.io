@@ -248,7 +248,8 @@
         "name": "Wine Factory (Easy Version)",
         "rating": 2300,
         "tags": [
-          "data structures"
+          "data structures",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1919/problem/F1"
       },
@@ -304,10 +305,8 @@
           "constructive algorithms",
           "data structures",
           "divide and conquer",
-          "dp",
           "dsu",
           "greedy",
-          "implementation",
           "sortings",
           "trees"
         ],
@@ -337,10 +336,8 @@
           "constructive algorithms",
           "data structures",
           "divide and conquer",
-          "dp",
           "dsu",
           "greedy",
-          "implementation",
           "sortings",
           "trees"
         ],
