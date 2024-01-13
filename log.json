@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1705123965,
+  "updateTime": 1705167162,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 241451777,
+            "pid": "1920F1",
+            "name": "Smooth Sailing (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1705159362
+          },
+          {
+            "platform": "codeforces",
+            "id": 241451604,
+            "pid": "1920F2",
+            "name": "Smooth Sailing (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1705159341
+          },
+          {
+            "platform": "codeforces",
+            "id": 241441542,
+            "pid": "1920E",
+            "name": "Counting Binary Strings",
+            "verdict": "OK",
+            "creationTime": 1705158356
+          },
+          {
+            "platform": "codeforces",
+            "id": 241437586,
+            "pid": "1920D",
+            "name": "Array Repetition",
+            "verdict": "OK",
+            "creationTime": 1705158020
+          },
+          {
+            "platform": "codeforces",
+            "id": 241428885,
+            "pid": "1920C",
+            "name": "Partitioning the Array",
+            "verdict": "OK",
+            "creationTime": 1705157382
+          },
+          {
+            "platform": "codeforces",
+            "id": 241426572,
+            "pid": "1920B",
+            "name": "Summation Game",
+            "verdict": "OK",
+            "creationTime": 1705157232
+          },
+          {
+            "platform": "codeforces",
+            "id": 241420087,
+            "pid": "1920A",
+            "name": "Satisfying Constraints",
+            "verdict": "OK",
+            "creationTime": 1705156825
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "5f96975f5e6866e21ae9c4c6961e2f98742cc0c0"
+  "ref": "8ee800e5c75b12006d769c393e34e3167c7c21af"
 }
