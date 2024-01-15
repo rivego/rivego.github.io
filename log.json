@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1705296836,
+  "updateTime": 1705339968,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 241765370,
+            "pid": "1921G",
+            "name": "Mischievous Shooter",
+            "verdict": "OK",
+            "creationTime": 1705331962
+          },
+          {
+            "platform": "codeforces",
+            "id": 241756865,
+            "pid": "1921F",
+            "name": "Sum of Progression",
+            "verdict": "OK",
+            "creationTime": 1705331495
+          },
+          {
+            "platform": "codeforces",
+            "id": 241755217,
+            "pid": "1921F",
+            "name": "Sum of Progression",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1705331409
+          },
+          {
+            "platform": "codeforces",
+            "id": 241748059,
+            "pid": "1921E",
+            "name": "Eat the Chip",
+            "verdict": "OK",
+            "creationTime": 1705331048
+          },
+          {
+            "platform": "codeforces",
+            "id": 241736910,
+            "pid": "1921D",
+            "name": "Very Different Array",
+            "verdict": "OK",
+            "creationTime": 1705330552
+          },
+          {
+            "platform": "codeforces",
+            "id": 241731829,
+            "pid": "1921C",
+            "name": "Sending Messages",
+            "verdict": "OK",
+            "creationTime": 1705330340
+          },
+          {
+            "platform": "codeforces",
+            "id": 241728673,
+            "pid": "1921B",
+            "name": "Arranging Cats",
+            "verdict": "OK",
+            "creationTime": 1705330219
+          },
+          {
+            "platform": "codeforces",
+            "id": 241726028,
+            "pid": "1921A",
+            "name": "Square",
+            "verdict": "OK",
+            "creationTime": 1705330124
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b6b71b47e94ba86c310fb9bbe2ab1a65a70dc704"
+  "ref": "bd618f7c5b1b48c57feedbbbb0df820cd5634cda"
 }
