@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1705599174,
+  "updateTime": 1705642392,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 242299886,
-            "pid": "1922F",
-            "name": "Replace on Segment",
-            "verdict": "OK",
-            "creationTime": 1705594122
-          },
-          {
-            "platform": "codeforces",
-            "id": 242275064,
-            "pid": "1922E",
-            "name": "Increasing Subsequences",
-            "verdict": "OK",
-            "creationTime": 1705592137
-          },
-          {
-            "platform": "codeforces",
-            "id": 242271532,
-            "pid": "1922C",
-            "name": "Closest Cities",
-            "verdict": "OK",
-            "creationTime": 1705591878
-          },
-          {
-            "platform": "codeforces",
-            "id": 242269674,
-            "pid": "1922D",
-            "name": "Berserk Monsters",
-            "verdict": "OK",
-            "creationTime": 1705591751
-          },
-          {
-            "platform": "codeforces",
-            "id": 242265108,
-            "pid": "1922C",
-            "name": "Closest Cities",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1705591443
-          },
-          {
-            "platform": "codeforces",
-            "id": 242262119,
-            "pid": "1922B",
-            "name": "Forming Triangles",
-            "verdict": "OK",
-            "creationTime": 1705591243
-          },
-          {
-            "platform": "codeforces",
-            "id": 242260154,
-            "pid": "1922A",
-            "name": "Tricky Template",
-            "verdict": "OK",
-            "creationTime": 1705591115
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "1058285c99f4c3254fab6f653e288d8693b7e380"
+  "ref": "33007224de0f6d865193f15520acdcce82ce51f9"
 }
