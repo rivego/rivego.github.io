@@ -1,61 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1706376790,
+  "updateTime": 1706419959,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 243655426,
-            "pid": "1924F",
-            "name": "Anti-Proxy Attendance",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1706373793
-          },
-          {
-            "platform": "codeforces",
-            "id": 243630255,
-            "pid": "1924E",
-            "name": "Paper Cutting Again",
-            "creationTime": 1706371282
-          },
-          {
-            "platform": "codeforces",
-            "id": 243610539,
-            "pid": "1924D",
-            "name": "Balanced Subsequences",
-            "creationTime": 1706369674
-          },
-          {
-            "platform": "codeforces",
-            "id": 243600996,
-            "pid": "1924C",
-            "name": "Fractal Origami",
-            "creationTime": 1706369022
-          },
-          {
-            "platform": "codeforces",
-            "id": 243576284,
-            "pid": "1924B",
-            "name": "Space Harbour",
-            "verdict": "OK",
-            "creationTime": 1706367689
-          },
-          {
-            "platform": "codeforces",
-            "id": 243557786,
-            "pid": "1924A",
-            "name": "Did We Get Everything Covered?",
-            "verdict": "OK",
-            "creationTime": 1706366945
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "460ff636427b6c9bcfb278e72d6622efc1369779"
+  "ref": "2bdab712f609bd683edfb6e8f33f2a413149f6b2"
 }
