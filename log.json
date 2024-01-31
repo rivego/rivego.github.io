@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1706679168,
+  "updateTime": 1706722375,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 244296073,
+            "pid": "1918E",
+            "name": "ace5 and Task Order",
+            "verdict": "OK",
+            "creationTime": 1706720322
+          },
+          {
+            "platform": "codeforces",
+            "id": 244293465,
+            "pid": "1918F",
+            "name": "Caterpillar on a Tree",
+            "verdict": "OK",
+            "creationTime": 1706719164
+          },
+          {
+            "platform": "codeforces",
+            "id": 244292877,
+            "pid": "1918G",
+            "name": "Permutation of Given",
+            "verdict": "OK",
+            "creationTime": 1706718907
+          },
+          {
+            "platform": "codeforces",
+            "id": 244292841,
+            "pid": "1918G",
+            "name": "Permutation of Given",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1706718892
+          },
+          {
+            "platform": "codeforces",
+            "id": 244281447,
+            "pid": "1918D",
+            "name": "Blocking Elements",
+            "verdict": "OK",
+            "creationTime": 1706714021
+          },
+          {
+            "platform": "codeforces",
+            "id": 244252018,
+            "pid": "1918C",
+            "name": "XOR-distance",
+            "verdict": "OK",
+            "creationTime": 1706701720
+          },
+          {
+            "platform": "codeforces",
+            "id": 244250760,
+            "pid": "1918B",
+            "name": "Minimize Inversions",
+            "verdict": "OK",
+            "creationTime": 1706701152
+          },
+          {
+            "platform": "codeforces",
+            "id": 244249272,
+            "pid": "1918A",
+            "name": "Brick Wall",
+            "verdict": "OK",
+            "creationTime": 1706700459
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "dba7d9a298c1286e8681f592c6aae423a6130279"
+  "ref": "6781b8b90fc809f791d8d00b83092a35bb3a8748"
 }
