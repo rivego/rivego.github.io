@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1707283964,
+  "updateTime": 1707327186,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 245138372,
-            "pid": "1927G",
-            "name": "Paint Charges",
-            "verdict": "OK",
-            "creationTime": 1707232871
-          },
-          {
-            "platform": "codeforces",
-            "id": 245133815,
-            "pid": "1927G",
-            "name": "Paint Charges",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1707232656
-          },
-          {
-            "platform": "codeforces",
-            "id": 245116759,
-            "pid": "1927F",
-            "name": "Microcycle",
-            "verdict": "OK",
-            "creationTime": 1707231930
-          },
-          {
-            "platform": "codeforces",
-            "id": 245107510,
-            "pid": "1927E",
-            "name": "Klever Permutation",
-            "verdict": "OK",
-            "creationTime": 1707231586
-          },
-          {
-            "platform": "codeforces",
-            "id": 245098299,
-            "pid": "1927D",
-            "name": "Find the Different Ones!",
-            "verdict": "OK",
-            "creationTime": 1707231307
-          },
-          {
-            "platform": "codeforces",
-            "id": 245094323,
-            "pid": "1927C",
-            "name": "Choose the Different Ones!",
-            "verdict": "OK",
-            "creationTime": 1707231206
-          },
-          {
-            "platform": "codeforces",
-            "id": 245085018,
-            "pid": "1927B",
-            "name": "Following the String",
-            "verdict": "OK",
-            "creationTime": 1707231004
-          },
-          {
-            "platform": "codeforces",
-            "id": 245081461,
-            "pid": "1927A",
-            "name": "Make it White",
-            "verdict": "OK",
-            "creationTime": 1707230910
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "278b1b61ad44c0d13294c616a115f9e1fb60ab4e"
+  "ref": "62fe24d73fe2e48ed1f0814e822e9fdd29656fea"
 }
