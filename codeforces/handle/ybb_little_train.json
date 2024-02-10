@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 245694943,
+      "creationTime": 1707557583,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -439926064
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1927A",
+        "name": "Make it White",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1927/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1927/submission/245694943"
+    },
+    {
+      "type": "codeforces",
       "id": 223578012,
       "creationTime": 1694848940,
       "language": "GNU C++20 (64)",
