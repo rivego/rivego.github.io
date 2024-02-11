@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1707586374,
+  "updateTime": 1707629565,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 245694943,
-            "pid": "1927A",
-            "name": "Make it White",
-            "verdict": "OK",
-            "creationTime": 1707557583
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "d2c1a885c9b6762bdbbf3a94da7b339eb0c78c68"
+  "ref": "76bf91e6975d506afbbf3269a3c0ffb45c843be3"
 }
