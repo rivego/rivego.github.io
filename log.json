@@ -1,80 +1,18 @@
 {
   "version": "0.1.29",
-  "updateTime": 1707716002,
+  "updateTime": 1707759187,
   "history": {
     "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 245934542,
-            "pid": "1927B",
-            "name": "Following the String",
-            "verdict": "OK",
-            "creationTime": 1707709006
-          },
-          {
-            "platform": "codeforces",
-            "id": 245934424,
-            "pid": "1927B",
-            "name": "Following the String",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1707708890
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 245940107,
-            "pid": "1928E",
-            "name": "Modular Sequence",
+            "id": 245941870,
+            "pid": "1928F",
+            "name": "Digital Patterns",
             "verdict": "OK",
-            "creationTime": 1707714987
-          },
-          {
-            "platform": "codeforces",
-            "id": 245939911,
-            "pid": "1928E",
-            "name": "Modular Sequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1707714806
-          },
-          {
-            "platform": "codeforces",
-            "id": 245939311,
-            "pid": "1928D",
-            "name": "Lonely Mountain Dungeons",
-            "verdict": "OK",
-            "creationTime": 1707714257
-          },
-          {
-            "platform": "codeforces",
-            "id": 245938724,
-            "pid": "1928C",
-            "name": "Physical Education Lesson",
-            "verdict": "OK",
-            "creationTime": 1707713690
-          },
-          {
-            "platform": "codeforces",
-            "id": 245937316,
-            "pid": "1928B",
-            "name": "Equalize",
-            "verdict": "OK",
-            "creationTime": 1707712205
-          },
-          {
-            "platform": "codeforces",
-            "id": 245937085,
-            "pid": "1928A",
-            "name": "Rectangle Cutting",
-            "verdict": "OK",
-            "creationTime": 1707711963
+            "creationTime": 1707716580
           }
         ],
         "newContests": []
@@ -82,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "b90dee3d24a4a8c6c0bd878f2c39225e8683085d"
+  "ref": "6aa3de93c7e2d6e97cd0553f0f24d70e6d3f6279"
 }
