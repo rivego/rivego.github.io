@@ -6,6 +6,58 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 245934542,
+      "creationTime": 1707709006,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -439774641
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1927B",
+        "name": "Following the String",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1927/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1927/submission/245934542"
+    },
+    {
+      "type": "codeforces",
+      "id": 245934424,
+      "creationTime": 1707708890,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -439774757
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1927B",
+        "name": "Following the String",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1927/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1927/submission/245934424"
+    },
+    {
+      "type": "codeforces",
       "id": 245694943,
       "creationTime": 1707557583,
       "language": "GNU C++20 (64)",
