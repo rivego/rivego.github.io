@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1707759187,
+  "updateTime": 1707802359,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 245941870,
-            "pid": "1928F",
-            "name": "Digital Patterns",
-            "verdict": "OK",
-            "creationTime": 1707716580
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6aa3de93c7e2d6e97cd0553f0f24d70e6d3f6279"
+  "ref": "e59e06468405d89b1899dd9e034bab649a8e35ab"
 }
