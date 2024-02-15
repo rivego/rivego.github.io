@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1707975236,
+  "updateTime": 1708018386,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 246540082,
+            "pid": "1929F",
+            "name": "Sasha and the Wedding Binary Search Tree",
+            "verdict": "OK",
+            "creationTime": 1708011435
+          },
+          {
+            "platform": "codeforces",
+            "id": 246539534,
+            "pid": "1929F",
+            "name": "Sasha and the Wedding Binary Search Tree",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1708011363
+          },
+          {
+            "platform": "codeforces",
+            "id": 246536460,
+            "pid": "1929E",
+            "name": "Sasha and the Happy Tree Cutting",
+            "verdict": "OK",
+            "creationTime": 1708010977
+          },
+          {
+            "platform": "codeforces",
+            "id": 246535915,
+            "pid": "1929E",
+            "name": "Sasha and the Happy Tree Cutting",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1708010908
+          },
+          {
+            "platform": "codeforces",
+            "id": 246531635,
+            "pid": "1929D",
+            "name": "Sasha and a Walk in the City",
+            "verdict": "OK",
+            "creationTime": 1708010407
+          },
+          {
+            "platform": "codeforces",
+            "id": 246527865,
+            "pid": "1929C",
+            "name": "Sasha and the Casino",
+            "verdict": "OK",
+            "creationTime": 1708010017
+          },
+          {
+            "platform": "codeforces",
+            "id": 246521881,
+            "pid": "1929B",
+            "name": "Sasha and the Drawing",
+            "verdict": "OK",
+            "creationTime": 1708009493
+          },
+          {
+            "platform": "codeforces",
+            "id": 246519030,
+            "pid": "1929A",
+            "name": "Sasha and the Beautiful Array",
+            "verdict": "OK",
+            "creationTime": 1708009281
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "8e172c63bdbee8eb253b24ed294b874af84839bb"
+  "ref": "ca07507478956e0c73c72e971ead8a509142079f"
 }
