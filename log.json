@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1708018386,
+  "updateTime": 1708061575,
   "history": {
     "user": [
       {
@@ -8,67 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 246540082,
-            "pid": "1929F",
-            "name": "Sasha and the Wedding Binary Search Tree",
+            "id": 246620103,
+            "pid": "1931A",
+            "name": "Recovering a Small String",
             "verdict": "OK",
-            "creationTime": 1708011435
-          },
-          {
-            "platform": "codeforces",
-            "id": 246539534,
-            "pid": "1929F",
-            "name": "Sasha and the Wedding Binary Search Tree",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1708011363
-          },
-          {
-            "platform": "codeforces",
-            "id": 246536460,
-            "pid": "1929E",
-            "name": "Sasha and the Happy Tree Cutting",
-            "verdict": "OK",
-            "creationTime": 1708010977
-          },
-          {
-            "platform": "codeforces",
-            "id": 246535915,
-            "pid": "1929E",
-            "name": "Sasha and the Happy Tree Cutting",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1708010908
-          },
-          {
-            "platform": "codeforces",
-            "id": 246531635,
-            "pid": "1929D",
-            "name": "Sasha and a Walk in the City",
-            "verdict": "OK",
-            "creationTime": 1708010407
-          },
-          {
-            "platform": "codeforces",
-            "id": 246527865,
-            "pid": "1929C",
-            "name": "Sasha and the Casino",
-            "verdict": "OK",
-            "creationTime": 1708010017
-          },
-          {
-            "platform": "codeforces",
-            "id": 246521881,
-            "pid": "1929B",
-            "name": "Sasha and the Drawing",
-            "verdict": "OK",
-            "creationTime": 1708009493
-          },
-          {
-            "platform": "codeforces",
-            "id": 246519030,
-            "pid": "1929A",
-            "name": "Sasha and the Beautiful Array",
-            "verdict": "OK",
-            "creationTime": 1708009281
+            "creationTime": 1708061319
           }
         ],
         "newContests": []
@@ -76,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "ca07507478956e0c73c72e971ead8a509142079f"
+  "ref": "b51ea55a9525cb22c3c7f0c92d374b057efb2c20"
 }
