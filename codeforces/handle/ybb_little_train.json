@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1927B",
         "name": "Following the String",
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1927B",
         "name": "Following the String",
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "1927A",
         "name": "Make it White",
+        "rating": 800,
         "tags": [
           "greedy",
           "strings"

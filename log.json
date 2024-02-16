@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1708061575,
+  "updateTime": 1708104767,
   "history": {
     "user": [
       {
@@ -8,11 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 246620103,
-            "pid": "1931A",
-            "name": "Recovering a Small String",
+            "id": 246623264,
+            "pid": "1931G",
+            "name": "One-Dimensional Puzzle",
             "verdict": "OK",
-            "creationTime": 1708061319
+            "creationTime": 1708063676
+          },
+          {
+            "platform": "codeforces",
+            "id": 246622610,
+            "pid": "1931F",
+            "name": "Chat Screenshots",
+            "verdict": "OK",
+            "creationTime": 1708063169
+          },
+          {
+            "platform": "codeforces",
+            "id": 246621729,
+            "pid": "1931E",
+            "name": "Anna and the Valentine's Day Gift",
+            "verdict": "OK",
+            "creationTime": 1708062550
+          },
+          {
+            "platform": "codeforces",
+            "id": 246621321,
+            "pid": "1931D",
+            "name": "Divisible Pairs",
+            "verdict": "OK",
+            "creationTime": 1708062229
+          },
+          {
+            "platform": "codeforces",
+            "id": 246621186,
+            "pid": "1931C",
+            "name": "Make Equal Again",
+            "verdict": "OK",
+            "creationTime": 1708062127
+          },
+          {
+            "platform": "codeforces",
+            "id": 246620918,
+            "pid": "1931B",
+            "name": "Make Equal",
+            "verdict": "OK",
+            "creationTime": 1708061935
           }
         ],
         "newContests": []
@@ -20,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "b51ea55a9525cb22c3c7f0c92d374b057efb2c20"
+  "ref": "87ea6d2c97558025039e5d061fc826dc9c461a04"
 }
