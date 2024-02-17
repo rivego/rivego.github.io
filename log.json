@@ -1,9 +1,182 @@
 {
   "version": "0.1.29",
-  "updateTime": 1708147962,
+  "updateTime": 1708191162,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 246867010,
+            "pid": "1930G",
+            "name": "Prefix Max Set Counting",
+            "verdict": "OK",
+            "creationTime": 1708184663
+          },
+          {
+            "platform": "codeforces",
+            "id": 246851106,
+            "pid": "1930F",
+            "name": "Maximize the Difference",
+            "verdict": "OK",
+            "creationTime": 1708182473
+          },
+          {
+            "platform": "codeforces",
+            "id": 246847093,
+            "pid": "1930E",
+            "name": "2..3...4.... Wonderful! Wonderful!",
+            "verdict": "OK",
+            "creationTime": 1708182068
+          },
+          {
+            "platform": "codeforces",
+            "id": 246841402,
+            "pid": "1930D2",
+            "name": "Sum over all Substrings (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1708181587
+          },
+          {
+            "platform": "codeforces",
+            "id": 246839130,
+            "pid": "1930D1",
+            "name": "Sum over all Substrings (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1708181429
+          },
+          {
+            "platform": "codeforces",
+            "id": 246831660,
+            "pid": "1930C",
+            "name": "Lexicographically Largest",
+            "verdict": "OK",
+            "creationTime": 1708180997
+          },
+          {
+            "platform": "codeforces",
+            "id": 246824744,
+            "pid": "1930B",
+            "name": "Permutation Printing",
+            "verdict": "OK",
+            "creationTime": 1708180697
+          },
+          {
+            "platform": "codeforces",
+            "id": 246820744,
+            "pid": "1930A",
+            "name": "Maximise The Score",
+            "verdict": "OK",
+            "creationTime": 1708180558
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 246894953,
+            "pid": "1930H",
+            "name": "Interactive Mex Tree",
+            "verdict": "OK",
+            "creationTime": 1708190794
+          },
+          {
+            "platform": "codeforces",
+            "id": 246894312,
+            "pid": "1930H",
+            "name": "Interactive Mex Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1708190631
+          },
+          {
+            "platform": "codeforces",
+            "id": 246893668,
+            "pid": "1930H",
+            "name": "Interactive Mex Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1708190469
+          },
+          {
+            "platform": "codeforces",
+            "id": 246885457,
+            "pid": "1930G",
+            "name": "Prefix Max Set Counting",
+            "verdict": "OK",
+            "creationTime": 1708188386
+          },
+          {
+            "platform": "codeforces",
+            "id": 246881108,
+            "pid": "1930G",
+            "name": "Prefix Max Set Counting",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1708187367
+          },
+          {
+            "platform": "codeforces",
+            "id": 246867593,
+            "pid": "1930F",
+            "name": "Maximize the Difference",
+            "verdict": "OK",
+            "creationTime": 1708184763
+          },
+          {
+            "platform": "codeforces",
+            "id": 246863124,
+            "pid": "1930E",
+            "name": "2..3...4.... Wonderful! Wonderful!",
+            "verdict": "OK",
+            "creationTime": 1708184033
+          },
+          {
+            "platform": "codeforces",
+            "id": 246850157,
+            "pid": "1930D1",
+            "name": "Sum over all Substrings (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1708182371
+          },
+          {
+            "platform": "codeforces",
+            "id": 246850018,
+            "pid": "1930D2",
+            "name": "Sum over all Substrings (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1708182355
+          },
+          {
+            "platform": "codeforces",
+            "id": 246836170,
+            "pid": "1930C",
+            "name": "Lexicographically Largest",
+            "verdict": "OK",
+            "creationTime": 1708181250
+          },
+          {
+            "platform": "codeforces",
+            "id": 246826686,
+            "pid": "1930B",
+            "name": "Permutation Printing",
+            "verdict": "OK",
+            "creationTime": 1708180765
+          },
+          {
+            "platform": "codeforces",
+            "id": 246821233,
+            "pid": "1930A",
+            "name": "Maximise The Score",
+            "verdict": "OK",
+            "creationTime": 1708180593
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "1b461c06b63e3d2a424750c467edbd09df4caa8e"
+  "ref": "d90ad297db8daf91393aeb78f437de253405237f"
 }
