@@ -21,7 +21,10 @@
         "type": "codeforces",
         "id": "1930G",
         "name": "Prefix Max Set Counting",
-        "tags": [],
+        "tags": [
+          "data structures",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1930/submission/246867010"
@@ -43,7 +46,11 @@
         "type": "codeforces",
         "id": "1930F",
         "name": "Maximize the Difference",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dfs and similar"
+        ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1930/submission/246851106"
@@ -65,7 +72,10 @@
         "type": "codeforces",
         "id": "1930E",
         "name": "2..3...4.... Wonderful! Wonderful!",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1930/submission/246847093"
@@ -87,7 +97,11 @@
         "type": "codeforces",
         "id": "1930D2",
         "name": "Sum over all Substrings (Hard Version)",
-        "tags": [],
+        "tags": [
+          "dp",
+          "greedy",
+          "strings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/D2"
       },
       "submissionUrl": "https://codeforces.com/contest/1930/submission/246841402"
@@ -109,7 +123,12 @@
         "type": "codeforces",
         "id": "1930D1",
         "name": "Sum over all Substrings (Easy Version)",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy",
+          "strings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/D1"
       },
       "submissionUrl": "https://codeforces.com/contest/1930/submission/246839130"
@@ -131,7 +150,12 @@
         "type": "codeforces",
         "id": "1930C",
         "name": "Lexicographically Largest",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1930/submission/246831660"
@@ -153,7 +177,11 @@
         "type": "codeforces",
         "id": "1930B",
         "name": "Permutation Printing",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1930/submission/246824744"
@@ -175,7 +203,10 @@
         "type": "codeforces",
         "id": "1930A",
         "name": "Maximise The Score",
-        "tags": [],
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1930/submission/246820744"
@@ -117621,7 +117652,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3375,
+    "rating": 3396,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
