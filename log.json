@@ -1,34 +1,200 @@
 {
   "version": "0.1.29",
-  "updateTime": 1708320783,
+  "updateTime": 1708363966,
   "history": {
     "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 247259965,
+            "pid": "1926G",
+            "name": "Vlad and Trouble at MIT",
+            "verdict": "OK",
+            "creationTime": 1708354370
+          },
+          {
+            "platform": "codeforces",
+            "id": 247249782,
+            "pid": "1926F",
+            "name": "Vlad and Avoiding X",
+            "verdict": "OK",
+            "creationTime": 1708354019
+          },
+          {
+            "platform": "codeforces",
+            "id": 247241693,
+            "pid": "1926E",
+            "name": "Vlad and an Odd Ordering",
+            "verdict": "OK",
+            "creationTime": 1708353756
+          },
+          {
+            "platform": "codeforces",
+            "id": 247238123,
+            "pid": "1926D",
+            "name": "Vlad and Division",
+            "verdict": "OK",
+            "creationTime": 1708353654
+          },
+          {
+            "platform": "codeforces",
+            "id": 247231806,
+            "pid": "1926C",
+            "name": "Vlad and a Sum of Sum of Digits",
+            "verdict": "OK",
+            "creationTime": 1708353513
+          },
+          {
+            "platform": "codeforces",
+            "id": 247226892,
+            "pid": "1926B",
+            "name": "Vlad and Shapes",
+            "verdict": "OK",
+            "creationTime": 1708353445
+          },
+          {
+            "platform": "codeforces",
+            "id": 247220757,
+            "pid": "1926A",
+            "name": "Vlad and the Best of Five",
+            "verdict": "OK",
+            "creationTime": 1708353365
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 247159711,
-            "pid": "1925D",
-            "name": "Good Trip",
+            "id": 247353360,
+            "pid": "1926G",
+            "name": "Vlad and Trouble at MIT",
             "verdict": "OK",
-            "creationTime": 1708320583
+            "creationTime": 1708360263
           },
           {
             "platform": "codeforces",
-            "id": 247159358,
-            "pid": "1925B",
-            "name": "A Balanced Problemset?",
+            "id": 247350533,
+            "pid": "1926F",
+            "name": "Vlad and Avoiding X",
             "verdict": "OK",
-            "creationTime": 1708320253
+            "creationTime": 1708360004
           },
           {
             "platform": "codeforces",
-            "id": 247159101,
-            "pid": "1925A",
-            "name": "We Got Everything Covered!",
+            "id": 247345001,
+            "pid": "1926F",
+            "name": "Vlad and Avoiding X",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1708359523
+          },
+          {
+            "platform": "codeforces",
+            "id": 247335091,
+            "pid": "1926E",
+            "name": "Vlad and an Odd Ordering",
             "verdict": "OK",
-            "creationTime": 1708320096
+            "creationTime": 1708358698
+          },
+          {
+            "platform": "codeforces",
+            "id": 247333045,
+            "pid": "1926D",
+            "name": "Vlad and Division",
+            "verdict": "OK",
+            "creationTime": 1708358541
+          },
+          {
+            "platform": "codeforces",
+            "id": 247330718,
+            "pid": "1926C",
+            "name": "Vlad and a Sum of Sum of Digits",
+            "verdict": "OK",
+            "creationTime": 1708358362
+          },
+          {
+            "platform": "codeforces",
+            "id": 247327187,
+            "pid": "1926B",
+            "name": "Vlad and Shapes",
+            "verdict": "OK",
+            "creationTime": 1708358105
+          },
+          {
+            "platform": "codeforces",
+            "id": 247247011,
+            "pid": "1926A",
+            "name": "Vlad and the Best of Five",
+            "verdict": "OK",
+            "creationTime": 1708353927
+          },
+          {
+            "platform": "codeforces",
+            "id": 247210022,
+            "pid": "1910B",
+            "name": "Security Guard",
+            "verdict": "OK",
+            "creationTime": 1708348824
+          },
+          {
+            "platform": "codeforces",
+            "id": 247202444,
+            "pid": "1910A",
+            "name": "Username",
+            "verdict": "OK",
+            "creationTime": 1708345497
+          },
+          {
+            "platform": "codeforces",
+            "id": 247175767,
+            "pid": "1904D2",
+            "name": "Set To Max (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1708331952
+          },
+          {
+            "platform": "codeforces",
+            "id": 247175668,
+            "pid": "1904D1",
+            "name": "Set To Max (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1708331897
+          },
+          {
+            "platform": "codeforces",
+            "id": 247174577,
+            "pid": "1904D1",
+            "name": "Set To Max (Easy Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1708331382
+          },
+          {
+            "platform": "codeforces",
+            "id": 247174024,
+            "pid": "1904C",
+            "name": "Array Game",
+            "verdict": "OK",
+            "creationTime": 1708331130
+          },
+          {
+            "platform": "codeforces",
+            "id": 247161564,
+            "pid": "1904B",
+            "name": "Collecting Game",
+            "verdict": "OK",
+            "creationTime": 1708322027
+          },
+          {
+            "platform": "codeforces",
+            "id": 247161190,
+            "pid": "1904A",
+            "name": "Forked!",
+            "verdict": "OK",
+            "creationTime": 1708321693
           }
         ],
         "newContests": []
@@ -36,5 +202,5 @@
     ],
     "contest": []
   },
-  "ref": "f016594f7099900a3765b93a96a12eb92c92ef3c"
+  "ref": "b4f9c19608dcd391d3d9c05e685c25d0eea0368a"
 }
