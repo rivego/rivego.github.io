@@ -1,144 +1,34 @@
 {
   "version": "0.1.29",
-  "updateTime": 1708277566,
+  "updateTime": 1708320783,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 247022562,
-            "pid": "1932G",
-            "name": "Moving Platforms",
-            "verdict": "OK",
-            "creationTime": 1708259617
-          },
-          {
-            "platform": "codeforces",
-            "id": 247012703,
-            "pid": "1932F",
-            "name": "Feed Cats",
-            "verdict": "OK",
-            "creationTime": 1708259046
-          },
-          {
-            "platform": "codeforces",
-            "id": 247004855,
-            "pid": "1932E",
-            "name": "Final Countdown",
-            "verdict": "OK",
-            "creationTime": 1708258645
-          },
-          {
-            "platform": "codeforces",
-            "id": 247001764,
-            "pid": "1932D",
-            "name": "Card Game",
-            "verdict": "OK",
-            "creationTime": 1708258510
-          },
-          {
-            "platform": "codeforces",
-            "id": 246994609,
-            "pid": "1932C",
-            "name": "LR-remainders",
-            "verdict": "OK",
-            "creationTime": 1708258230
-          },
-          {
-            "platform": "codeforces",
-            "id": 246990951,
-            "pid": "1932A",
-            "name": "Thorns and Coins",
-            "verdict": "OK",
-            "creationTime": 1708258107
-          },
-          {
-            "platform": "codeforces",
-            "id": 246989651,
-            "pid": "1932B",
-            "name": "Chaya Calendar",
-            "verdict": "OK",
-            "creationTime": 1708258050
-          },
-          {
-            "platform": "codeforces",
-            "id": 246989216,
-            "pid": "1932A",
-            "name": "Thorns and Coins",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1708257991
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 247099907,
-            "pid": "1932G",
-            "name": "Moving Platforms",
+            "id": 247159711,
+            "pid": "1925D",
+            "name": "Good Trip",
             "verdict": "OK",
-            "creationTime": 1708266914
+            "creationTime": 1708320583
           },
           {
             "platform": "codeforces",
-            "id": 247099766,
-            "pid": "1932G",
-            "name": "Moving Platforms",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1708266881
+            "id": 247159358,
+            "pid": "1925B",
+            "name": "A Balanced Problemset?",
+            "verdict": "OK",
+            "creationTime": 1708320253
           },
           {
             "platform": "codeforces",
-            "id": 247097743,
-            "pid": "1932F",
-            "name": "Feed Cats",
+            "id": 247159101,
+            "pid": "1925A",
+            "name": "We Got Everything Covered!",
             "verdict": "OK",
-            "creationTime": 1708266384
-          },
-          {
-            "platform": "codeforces",
-            "id": 247096157,
-            "pid": "1932E",
-            "name": "Final Countdown",
-            "verdict": "OK",
-            "creationTime": 1708266089
-          },
-          {
-            "platform": "codeforces",
-            "id": 247093731,
-            "pid": "1932D",
-            "name": "Card Game",
-            "verdict": "OK",
-            "creationTime": 1708265848
-          },
-          {
-            "platform": "codeforces",
-            "id": 247086134,
-            "pid": "1932C",
-            "name": "LR-remainders",
-            "verdict": "OK",
-            "creationTime": 1708265119
-          },
-          {
-            "platform": "codeforces",
-            "id": 247084599,
-            "pid": "1932B",
-            "name": "Chaya Calendar",
-            "verdict": "OK",
-            "creationTime": 1708264963
-          },
-          {
-            "platform": "codeforces",
-            "id": 247083927,
-            "pid": "1932A",
-            "name": "Thorns and Coins",
-            "verdict": "OK",
-            "creationTime": 1708264895
+            "creationTime": 1708320096
           }
         ],
         "newContests": []
@@ -146,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "8404ff7e47c9a448031d67c813e0fe2c81cd5671"
+  "ref": "f016594f7099900a3765b93a96a12eb92c92ef3c"
 }

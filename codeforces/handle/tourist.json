@@ -126,6 +126,7 @@
         "id": "1932C",
         "name": "LR-remainders",
         "tags": [
+          "brute force",
           "data structures",
           "implementation",
           "math"
