@@ -24,7 +24,6 @@
         "tags": [
           "dfs and similar",
           "dp",
-          "flows",
           "graphs",
           "greedy",
           "implementation",
@@ -54,7 +53,7 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "constructive algorithms",
+          "combinatorics",
           "dfs and similar",
           "dp",
           "implementation"
@@ -161,6 +160,7 @@
         "id": "1926B",
         "name": "Vlad and Shapes",
         "tags": [
+          "geometry",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1926/problem/B"

@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1708407234,
+  "updateTime": 1708450371,
   "history": {
     "user": [
       {
@@ -8,51 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 247422192,
-            "pid": "1910H",
-            "name": "Sum of Digits of Sums",
+            "id": 247480226,
+            "pid": "1910J",
+            "name": "Two Colors",
             "verdict": "OK",
-            "creationTime": 1708402136
+            "creationTime": 1708434908
           },
           {
             "platform": "codeforces",
-            "id": 247420783,
-            "pid": "1910G",
-            "name": "Pool Records",
+            "id": 247478291,
+            "pid": "1910I",
+            "name": "Inverse Problem",
             "verdict": "OK",
-            "creationTime": 1708401021
-          },
-          {
-            "platform": "codeforces",
-            "id": 247418932,
-            "pid": "1910F",
-            "name": "Build Railway Stations",
-            "verdict": "OK",
-            "creationTime": 1708399581
-          },
-          {
-            "platform": "codeforces",
-            "id": 247417396,
-            "pid": "1910E",
-            "name": "Maximum Sum Subarrays",
-            "verdict": "OK",
-            "creationTime": 1708398457
-          },
-          {
-            "platform": "codeforces",
-            "id": 247416763,
-            "pid": "1910D",
-            "name": "Remove and Add",
-            "verdict": "OK",
-            "creationTime": 1708397911
-          },
-          {
-            "platform": "codeforces",
-            "id": 247415089,
-            "pid": "1910C",
-            "name": "Poisonous Swamp",
-            "verdict": "OK",
-            "creationTime": 1708396480
+            "creationTime": 1708434074
           }
         ],
         "newContests": []
@@ -60,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "1781d3eb04a955d91b62666c2612e7c75e9f3fe1"
+  "ref": "984f8a84b279d6d056d12f6dc7a48e442da253a3"
 }
