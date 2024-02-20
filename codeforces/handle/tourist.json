@@ -24,7 +24,9 @@
         "tags": [
           "dfs and similar",
           "dp",
+          "flows",
           "graphs",
+          "greedy",
           "implementation",
           "trees"
         ],
@@ -52,7 +54,9 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "brute force",
+          "constructive algorithms",
+          "dfs and similar",
+          "dp",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1926/problem/F"
@@ -82,7 +86,8 @@
           "data structures",
           "dp",
           "implementation",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1926/problem/E"
       },
@@ -311,7 +316,8 @@
           "brute force",
           "data structures",
           "implementation",
-          "math"
+          "math",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1932/problem/C"
       },
@@ -463,6 +469,7 @@
         "id": "1930E",
         "name": "2..3...4.... Wonderful! Wonderful!",
         "tags": [
+          "brute force",
           "combinatorics",
           "math"
         ],
@@ -546,7 +553,6 @@
           "binary search",
           "constructive algorithms",
           "data structures",
-          "dsu",
           "greedy",
           "sortings"
         ],
