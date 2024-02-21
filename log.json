@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1708450371,
+  "updateTime": 1708493560,
   "history": {
     "user": [
       {
@@ -8,19 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 247480226,
-            "pid": "1910J",
-            "name": "Two Colors",
+            "id": 247553042,
+            "pid": "1883F",
+            "name": "You Are So Beautiful",
             "verdict": "OK",
-            "creationTime": 1708434908
+            "creationTime": 1708479684
           },
           {
             "platform": "codeforces",
-            "id": 247478291,
-            "pid": "1910I",
-            "name": "Inverse Problem",
+            "id": 247552911,
+            "pid": "1883E",
+            "name": "Look Back",
             "verdict": "OK",
-            "creationTime": 1708434074
+            "creationTime": 1708479526
+          },
+          {
+            "platform": "codeforces",
+            "id": 247552680,
+            "pid": "1883D",
+            "name": "In Love",
+            "verdict": "OK",
+            "creationTime": 1708479247
+          },
+          {
+            "platform": "codeforces",
+            "id": 247552534,
+            "pid": "1883C",
+            "name": "Raspberries",
+            "verdict": "OK",
+            "creationTime": 1708479043
+          },
+          {
+            "platform": "codeforces",
+            "id": 247552369,
+            "pid": "1883B",
+            "name": "Chemistry",
+            "verdict": "OK",
+            "creationTime": 1708478863
+          },
+          {
+            "platform": "codeforces",
+            "id": 247552241,
+            "pid": "1883A",
+            "name": "Morning",
+            "verdict": "OK",
+            "creationTime": 1708478716
           }
         ],
         "newContests": []
@@ -28,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "984f8a84b279d6d056d12f6dc7a48e442da253a3"
+  "ref": "0f96d6f5fb8c59511f801303187c9c3a39716802"
 }
