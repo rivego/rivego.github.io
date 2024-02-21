@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1708493560,
+  "updateTime": 1708536796,
   "history": {
     "user": [
       {
@@ -8,51 +8,27 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 247553042,
-            "pid": "1883F",
-            "name": "You Are So Beautiful",
+            "id": 247646963,
+            "pid": "1868F",
+            "name": "LIS?",
             "verdict": "OK",
-            "creationTime": 1708479684
+            "creationTime": 1708536064
           },
           {
             "platform": "codeforces",
-            "id": 247552911,
-            "pid": "1883E",
-            "name": "Look Back",
-            "verdict": "OK",
-            "creationTime": 1708479526
+            "id": 247646824,
+            "pid": "1868F",
+            "name": "LIS?",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1708535986
           },
           {
             "platform": "codeforces",
-            "id": 247552680,
-            "pid": "1883D",
-            "name": "In Love",
-            "verdict": "OK",
-            "creationTime": 1708479247
-          },
-          {
-            "platform": "codeforces",
-            "id": 247552534,
-            "pid": "1883C",
-            "name": "Raspberries",
-            "verdict": "OK",
-            "creationTime": 1708479043
-          },
-          {
-            "platform": "codeforces",
-            "id": 247552369,
-            "pid": "1883B",
-            "name": "Chemistry",
-            "verdict": "OK",
-            "creationTime": 1708478863
-          },
-          {
-            "platform": "codeforces",
-            "id": 247552241,
-            "pid": "1883A",
-            "name": "Morning",
-            "verdict": "OK",
-            "creationTime": 1708478716
+            "id": 247643880,
+            "pid": "1868F",
+            "name": "LIS?",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1708534512
           }
         ],
         "newContests": []
@@ -60,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "0f96d6f5fb8c59511f801303187c9c3a39716802"
+  "ref": "ecdb1843003ec8d8695ab94bf0533ac5f6990bfd"
 }
