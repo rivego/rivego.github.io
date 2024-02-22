@@ -24,7 +24,6 @@
         "tags": [
           "dfs and similar",
           "dp",
-          "flows",
           "graphs",
           "greedy",
           "implementation",
@@ -471,6 +470,7 @@
         "name": "2..3...4.... Wonderful! Wonderful!",
         "tags": [
           "combinatorics",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/E"
