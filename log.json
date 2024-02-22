@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1708536796,
+  "updateTime": 1708579960,
   "history": {
     "user": [
       {
@@ -8,27 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 247646963,
-            "pid": "1868F",
-            "name": "LIS?",
+            "id": 247680582,
+            "pid": "1608A",
+            "name": "Find Array",
             "verdict": "OK",
-            "creationTime": 1708536064
+            "creationTime": 1708563996
           },
           {
             "platform": "codeforces",
-            "id": 247646824,
-            "pid": "1868F",
-            "name": "LIS?",
+            "id": 247680558,
+            "pid": "1608A",
+            "name": "Find Array",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1708535986
-          },
-          {
-            "platform": "codeforces",
-            "id": 247643880,
-            "pid": "1868F",
-            "name": "LIS?",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1708534512
+            "creationTime": 1708563950
           }
         ],
         "newContests": []
@@ -36,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "ecdb1843003ec8d8695ab94bf0533ac5f6990bfd"
+  "ref": "d207df4a01dddd083d5f3bd46aab40289e76b32b"
 }
