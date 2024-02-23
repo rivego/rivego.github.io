@@ -24,6 +24,7 @@
         "tags": [
           "dfs and similar",
           "dp",
+          "flows",
           "graphs",
           "greedy",
           "implementation",
@@ -495,6 +496,7 @@
         "id": "1930D2",
         "name": "Sum over all Substrings (Hard Version)",
         "tags": [
+          "bitmasks",
           "divide and conquer",
           "dp",
           "dsu",
