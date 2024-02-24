@@ -52,7 +52,8 @@
           "data structures",
           "dfs and similar",
           "divide and conquer",
-          "dsu",
+          "dp",
+          "graphs",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/E"
@@ -78,8 +79,10 @@
         "name": "Slimes",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/D"
       },
@@ -104,8 +107,10 @@
         "name": "Slimes",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/D"
       },
@@ -264,7 +269,6 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "combinatorics",
           "dfs and similar",
           "dp",
           "implementation"
