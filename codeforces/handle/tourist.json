@@ -25,7 +25,8 @@
           "binary search",
           "greedy",
           "string suffix structures",
-          "strings"
+          "strings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/F"
       },
