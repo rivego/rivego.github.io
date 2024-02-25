@@ -24,6 +24,8 @@
         "tags": [
           "binary search",
           "greedy",
+          "hashing",
+          "implementation",
           "string suffix structures",
           "strings",
           "two pointers"
@@ -52,8 +54,8 @@
         "tags": [
           "data structures",
           "dfs and similar",
-          "divide and conquer",
           "dp",
+          "dsu",
           "graphs",
           "trees"
         ],
