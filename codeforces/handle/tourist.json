@@ -23,6 +23,7 @@
         "name": "Shrink-Reverse",
         "tags": [
           "binary search",
+          "brute force",
           "greedy",
           "hashing",
           "implementation",
