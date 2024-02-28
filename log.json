@@ -1,23 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1709098362,
+  "updateTime": 1709141579,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 248641651,
-            "pid": "1933A",
-            "name": "Turtle Puzzle: Rearrange and Negate",
-            "creationTime": 1709055255
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "74802bdb46f48b45714207229b5cf5895746cf99"
+  "ref": "7d8566702bd1eea671aa2b0ba159aae33c94206f"
 }
