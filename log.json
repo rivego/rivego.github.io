@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1709055156,
+  "updateTime": 1709098362,
   "history": {
     "user": [
       {
@@ -8,59 +8,10 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 248549111,
-            "pid": "1933G",
-            "name": "Turtle Magic: Royal Turtle Shell Pattern",
-            "verdict": "OK",
-            "creationTime": 1709046612
-          },
-          {
-            "platform": "codeforces",
-            "id": 248539865,
-            "pid": "1933F",
-            "name": "Turtle Mission: Robot and the Earthquake",
-            "verdict": "OK",
-            "creationTime": 1709046147
-          },
-          {
-            "platform": "codeforces",
-            "id": 248527450,
-            "pid": "1933E",
-            "name": "Turtle vs. Rabbit Race: Optimal Trainings",
-            "verdict": "OK",
-            "creationTime": 1709045572
-          },
-          {
-            "platform": "codeforces",
-            "id": 248512706,
-            "pid": "1933D",
-            "name": "Turtle Tenacity: Continual Mods",
-            "verdict": "OK",
-            "creationTime": 1709045019
-          },
-          {
-            "platform": "codeforces",
-            "id": 248508041,
-            "pid": "1933C",
-            "name": "Turtle Fingers: Count the Values of k",
-            "verdict": "OK",
-            "creationTime": 1709044865
-          },
-          {
-            "platform": "codeforces",
-            "id": 248502920,
-            "pid": "1933B",
-            "name": "Turtle Math: Fast Three Task",
-            "verdict": "OK",
-            "creationTime": 1709044737
-          },
-          {
-            "platform": "codeforces",
-            "id": 248496718,
+            "id": 248641651,
             "pid": "1933A",
             "name": "Turtle Puzzle: Rearrange and Negate",
-            "verdict": "OK",
-            "creationTime": 1709044630
+            "creationTime": 1709055255
           }
         ],
         "newContests": []
@@ -68,5 +19,5 @@
     ],
     "contest": []
   },
-  "ref": "48e7902ddfabeb1239c49857cc9d3a6e02f66f86"
+  "ref": "74802bdb46f48b45714207229b5cf5895746cf99"
 }
