@@ -1,9 +1,122 @@
 {
   "version": "0.1.29",
-  "updateTime": 1709184762,
+  "updateTime": 1709227963,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 248969707,
+            "pid": "1936E",
+            "name": "Yet Yet Another Permutation Problem",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1709224252
+          },
+          {
+            "platform": "codeforces",
+            "id": 248948695,
+            "pid": "1936D",
+            "name": "Bitwise Paradox",
+            "creationTime": 1709221798
+          },
+          {
+            "platform": "codeforces",
+            "id": 248941116,
+            "pid": "1936D",
+            "name": "Bitwise Paradox",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709220937
+          },
+          {
+            "platform": "codeforces",
+            "id": 248939310,
+            "pid": "1936D",
+            "name": "Bitwise Paradox",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709220737
+          },
+          {
+            "platform": "codeforces",
+            "id": 248923821,
+            "pid": "1936C",
+            "name": "Pokémon Arena",
+            "creationTime": 1709219121
+          },
+          {
+            "platform": "codeforces",
+            "id": 248923147,
+            "pid": "1936C",
+            "name": "Pokémon Arena",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709219056
+          },
+          {
+            "platform": "codeforces",
+            "id": 248914647,
+            "pid": "1936A",
+            "name": "Bitwise Operation Wizard",
+            "verdict": "OK",
+            "creationTime": 1709218255
+          },
+          {
+            "platform": "codeforces",
+            "id": 248909886,
+            "pid": "1936B",
+            "name": "Pinball",
+            "verdict": "OK",
+            "creationTime": 1709217884
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 248956184,
+            "pid": "1936D",
+            "name": "Bitwise Paradox",
+            "creationTime": 1709222643
+          },
+          {
+            "platform": "codeforces",
+            "id": 248950659,
+            "pid": "1936D",
+            "name": "Bitwise Paradox",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1709222030
+          },
+          {
+            "platform": "codeforces",
+            "id": 248925527,
+            "pid": "1936C",
+            "name": "Pokémon Arena",
+            "creationTime": 1709219302
+          },
+          {
+            "platform": "codeforces",
+            "id": 248915106,
+            "pid": "1936B",
+            "name": "Pinball",
+            "verdict": "OK",
+            "creationTime": 1709218296
+          },
+          {
+            "platform": "codeforces",
+            "id": 248906362,
+            "pid": "1936A",
+            "name": "Bitwise Operation Wizard",
+            "verdict": "OK",
+            "creationTime": 1709217633
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "53dc7c3b6818b6db1cd7bdbd9c215fab8b759dba"
+  "ref": "0c351f937b9ee3f8735f3f37d1ad4cef27a261f5"
 }
