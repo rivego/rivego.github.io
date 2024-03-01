@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1709271231,
+  "updateTime": 1709314803,
   "history": {
     "user": [
       {
@@ -8,11 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 248981250,
-            "pid": "1936E",
-            "name": "Yet Yet Another Permutation Problem",
+            "id": 249123429,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
             "verdict": "OK",
-            "creationTime": 1709231995
+            "creationTime": 1709305694
+          },
+          {
+            "platform": "codeforces",
+            "id": 249123121,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709305659
+          },
+          {
+            "platform": "codeforces",
+            "id": 249121823,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1709305525
+          },
+          {
+            "platform": "codeforces",
+            "id": 249119151,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1709305238
+          },
+          {
+            "platform": "codeforces",
+            "id": 249117757,
+            "pid": "1934D1",
+            "name": "XOR Break --- Solo Version",
+            "verdict": "OK",
+            "creationTime": 1709305089
+          },
+          {
+            "platform": "codeforces",
+            "id": 249110998,
+            "pid": "1934C",
+            "name": "Find a Mine",
+            "verdict": "OK",
+            "creationTime": 1709304493
+          },
+          {
+            "platform": "codeforces",
+            "id": 249109280,
+            "pid": "1934C",
+            "name": "Find a Mine",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709304382
+          },
+          {
+            "platform": "codeforces",
+            "id": 249103140,
+            "pid": "1934A",
+            "name": "Too Min Too Max",
+            "verdict": "OK",
+            "creationTime": 1709304048
+          },
+          {
+            "platform": "codeforces",
+            "id": 249100728,
+            "pid": "1934B",
+            "name": "Yet Another Coin Problem",
+            "verdict": "OK",
+            "creationTime": 1709303911
+          },
+          {
+            "platform": "codeforces",
+            "id": 249099932,
+            "pid": "1934A",
+            "name": "Too Min Too Max",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709303814
           }
         ],
         "newContests": []
@@ -22,11 +94,107 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 249019529,
-            "pid": "1936E",
-            "name": "Yet Yet Another Permutation Problem",
+            "id": 249176328,
+            "pid": "1934E",
+            "name": "Weird LCM Operations",
             "verdict": "OK",
-            "creationTime": 1709263996
+            "creationTime": 1709313044
+          },
+          {
+            "platform": "codeforces",
+            "id": 249172485,
+            "pid": "1934E",
+            "name": "Weird LCM Operations",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709310893
+          },
+          {
+            "platform": "codeforces",
+            "id": 249169134,
+            "pid": "1934E",
+            "name": "Weird LCM Operations",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709310654
+          },
+          {
+            "platform": "codeforces",
+            "id": 249168740,
+            "pid": "1934E",
+            "name": "Weird LCM Operations",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709310622
+          },
+          {
+            "platform": "codeforces",
+            "id": 249134189,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
+            "verdict": "OK",
+            "creationTime": 1709306941
+          },
+          {
+            "platform": "codeforces",
+            "id": 249133944,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
+            "verdict": "IDLENESS_LIMIT_EXCEEDED",
+            "creationTime": 1709306913
+          },
+          {
+            "platform": "codeforces",
+            "id": 249132850,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
+            "verdict": "IDLENESS_LIMIT_EXCEEDED",
+            "creationTime": 1709306784
+          },
+          {
+            "platform": "codeforces",
+            "id": 249129580,
+            "pid": "1934D1",
+            "name": "XOR Break --- Solo Version",
+            "verdict": "OK",
+            "creationTime": 1709306396
+          },
+          {
+            "platform": "codeforces",
+            "id": 249123058,
+            "pid": "1934D1",
+            "name": "XOR Break --- Solo Version",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709305653
+          },
+          {
+            "platform": "codeforces",
+            "id": 249120578,
+            "pid": "1934D1",
+            "name": "XOR Break --- Solo Version",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709305395
+          },
+          {
+            "platform": "codeforces",
+            "id": 249109946,
+            "pid": "1934C",
+            "name": "Find a Mine",
+            "verdict": "OK",
+            "creationTime": 1709304424
+          },
+          {
+            "platform": "codeforces",
+            "id": 249109805,
+            "pid": "1934B",
+            "name": "Yet Another Coin Problem",
+            "verdict": "OK",
+            "creationTime": 1709304415
+          },
+          {
+            "platform": "codeforces",
+            "id": 249109702,
+            "pid": "1934A",
+            "name": "Too Min Too Max",
+            "verdict": "OK",
+            "creationTime": 1709304408
           }
         ],
         "newContests": []
@@ -34,5 +202,5 @@
     ],
     "contest": []
   },
-  "ref": "92412e779d4e2158c57ae63b9a2bab00639bcebb"
+  "ref": "1989312f4d07ed4180ce0b8ef43804d162816bd7"
 }
