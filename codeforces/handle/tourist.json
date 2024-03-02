@@ -24,6 +24,7 @@
         "tags": [
           "bitmasks",
           "games",
+          "greedy",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/1934/problem/D2"
@@ -50,6 +51,7 @@
         "tags": [
           "bitmasks",
           "games",
+          "greedy",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/1934/problem/D2"
@@ -76,6 +78,7 @@
         "tags": [
           "bitmasks",
           "games",
+          "greedy",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/1934/problem/D2"
@@ -102,6 +105,7 @@
         "tags": [
           "bitmasks",
           "games",
+          "greedy",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/1934/problem/D2"
@@ -127,6 +131,7 @@
         "name": "XOR Break --- Solo Version",
         "tags": [
           "bitmasks",
+          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1934/problem/D1"
@@ -152,7 +157,10 @@
         "name": "Find a Mine",
         "tags": [
           "constructive algorithms",
-          "interactive"
+          "geometry",
+          "greedy",
+          "interactive",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1934/problem/C"
       },
@@ -177,7 +185,10 @@
         "name": "Find a Mine",
         "tags": [
           "constructive algorithms",
-          "interactive"
+          "geometry",
+          "greedy",
+          "interactive",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1934/problem/C"
       },
@@ -229,7 +240,8 @@
         "tags": [
           "brute force",
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1934/problem/B"
       },
@@ -494,10 +506,8 @@
         "id": "1936B",
         "name": "Pinball",
         "tags": [
-          "2-sat",
           "binary search",
           "data structures",
-          "fft",
           "math",
           "two pointers"
         ],
