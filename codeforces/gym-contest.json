@@ -19411,5 +19411,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105009",
     "standingsUrl": "https://codeforces.com/gym/105009/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2023-2024, Третья личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105011,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105011",
+    "standingsUrl": "https://codeforces.com/gym/105011/standings"
   }
 ]
