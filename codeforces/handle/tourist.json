@@ -781,6 +781,7 @@
         "id": "1934C",
         "name": "Find a Mine",
         "tags": [
+          "binary search",
           "constructive algorithms",
           "geometry",
           "greedy",
@@ -809,6 +810,7 @@
         "id": "1934C",
         "name": "Find a Mine",
         "tags": [
+          "binary search",
           "constructive algorithms",
           "geometry",
           "greedy",
@@ -1049,6 +1051,7 @@
         "id": "1936C",
         "name": "Pokémon Arena",
         "tags": [
+          "data structures",
           "graphs",
           "greedy",
           "implementation",
@@ -1077,6 +1080,7 @@
         "id": "1936C",
         "name": "Pokémon Arena",
         "tags": [
+          "data structures",
           "graphs",
           "greedy",
           "implementation",
