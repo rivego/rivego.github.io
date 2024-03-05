@@ -6,9 +6,115 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 249746742,
+      "creationTime": 1709649541,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -437834106
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1933C",
+        "name": "Turtle Fingers: Count the Values of k",
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1933/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1933/submission/249746742"
+    },
+    {
+      "type": "codeforces",
+      "id": 249745346,
+      "creationTime": 1709649319,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -437834328
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1933C",
+        "name": "Turtle Fingers: Count the Values of k",
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1933/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1933/submission/249745346"
+    },
+    {
+      "type": "codeforces",
+      "id": 249741946,
+      "creationTime": 1709647651,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -437835996
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1933B",
+        "name": "Turtle Math: Fast Three Task",
+        "tags": [
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1933/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1933/submission/249741946"
+    },
+    {
+      "type": "codeforces",
+      "id": 249740649,
+      "creationTime": 1709647035,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Xiong_Qian"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -437836612
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1933A",
+        "name": "Turtle Puzzle: Rearrange and Negate",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1933/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1933/submission/249740649"
+    },
+    {
+      "type": "codeforces",
       "id": 197340016,
       "creationTime": 1678781561,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -30,7 +136,7 @@
       "type": "codeforces",
       "id": 197335900,
       "creationTime": 1678778901,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -52,7 +158,7 @@
       "type": "codeforces",
       "id": 197335801,
       "creationTime": 1678778849,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -74,7 +180,7 @@
       "type": "codeforces",
       "id": 197333812,
       "creationTime": 1678777615,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -96,7 +202,7 @@
       "type": "codeforces",
       "id": 197333013,
       "creationTime": 1678777164,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -118,7 +224,7 @@
       "type": "codeforces",
       "id": 197332788,
       "creationTime": 1678777035,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -140,7 +246,7 @@
       "type": "codeforces",
       "id": 197332313,
       "creationTime": 1678776758,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -162,7 +268,7 @@
       "type": "codeforces",
       "id": 196650728,
       "creationTime": 1678363933,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -189,7 +295,7 @@
       "type": "codeforces",
       "id": 196649909,
       "creationTime": 1678363779,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -216,7 +322,7 @@
       "type": "codeforces",
       "id": 196649150,
       "creationTime": 1678363638,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -243,7 +349,7 @@
       "type": "codeforces",
       "id": 196346393,
       "creationTime": 1678172873,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -265,7 +371,7 @@
       "type": "codeforces",
       "id": 194583153,
       "creationTime": 1677078754,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -291,7 +397,7 @@
       "type": "codeforces",
       "id": 193885349,
       "creationTime": 1676562350,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -318,7 +424,7 @@
       "type": "codeforces",
       "id": 193858486,
       "creationTime": 1676559653,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -345,7 +451,7 @@
       "type": "codeforces",
       "id": 193851909,
       "creationTime": 1676559176,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -372,7 +478,7 @@
       "type": "codeforces",
       "id": 193717392,
       "creationTime": 1676467129,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -426,7 +532,7 @@
       "type": "codeforces",
       "id": 193717256,
       "creationTime": 1676467069,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
@@ -453,7 +559,7 @@
       "type": "codeforces",
       "id": 193717149,
       "creationTime": 1676467006,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
@@ -480,7 +586,7 @@
       "type": "codeforces",
       "id": 193713908,
       "creationTime": 1676465279,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -714,7 +820,7 @@
       "type": "codeforces",
       "id": 193342304,
       "creationTime": 1676204096,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -740,7 +846,7 @@
       "type": "codeforces",
       "id": 193341258,
       "creationTime": 1676203520,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -766,7 +872,7 @@
       "type": "codeforces",
       "id": 193340818,
       "creationTime": 1676203284,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -792,7 +898,7 @@
       "type": "codeforces",
       "id": 193340727,
       "creationTime": 1676203223,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -818,7 +924,7 @@
       "type": "codeforces",
       "id": 193339739,
       "creationTime": 1676202724,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -844,7 +950,7 @@
       "type": "codeforces",
       "id": 193339307,
       "creationTime": 1676202514,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -870,7 +976,7 @@
       "type": "codeforces",
       "id": 193338292,
       "creationTime": 1676201990,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -896,7 +1002,7 @@
       "type": "codeforces",
       "id": 193198985,
       "creationTime": 1676124819,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -921,7 +1027,7 @@
       "type": "codeforces",
       "id": 193192321,
       "creationTime": 1676121234,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -946,7 +1052,7 @@
       "type": "codeforces",
       "id": 192945721,
       "creationTime": 1675958491,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -973,7 +1079,7 @@
       "type": "codeforces",
       "id": 192923843,
       "creationTime": 1675956321,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1002,7 +1108,7 @@
       "type": "codeforces",
       "id": 192921050,
       "creationTime": 1675956090,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1031,7 +1137,7 @@
       "type": "codeforces",
       "id": 192881611,
       "creationTime": 1675953799,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1058,7 +1164,7 @@
       "type": "codeforces",
       "id": 186578427,
       "creationTime": 1671889453,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1088,7 +1194,7 @@
       "type": "codeforces",
       "id": 186577506,
       "creationTime": 1671888872,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -1118,7 +1224,7 @@
       "type": "codeforces",
       "id": 186577336,
       "creationTime": 1671888762,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1148,7 +1254,7 @@
       "type": "codeforces",
       "id": 186573285,
       "creationTime": 1671886022,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1176,7 +1282,7 @@
       "type": "codeforces",
       "id": 177560677,
       "creationTime": 1666513222,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1198,7 +1304,7 @@
       "type": "codeforces",
       "id": 177556984,
       "creationTime": 1666512942,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1220,7 +1326,7 @@
       "type": "codeforces",
       "id": 177556250,
       "creationTime": 1666512883,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1242,7 +1348,7 @@
       "type": "codeforces",
       "id": 177551020,
       "creationTime": 1666512520,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1264,7 +1370,7 @@
       "type": "codeforces",
       "id": 177548976,
       "creationTime": 1666512395,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1286,7 +1392,7 @@
       "type": "codeforces",
       "id": 177543568,
       "creationTime": 1666512092,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1308,7 +1414,7 @@
       "type": "codeforces",
       "id": 177539246,
       "creationTime": 1666511879,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1330,7 +1436,7 @@
       "type": "codeforces",
       "id": 177535908,
       "creationTime": 1666511732,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1352,7 +1458,7 @@
       "type": "codeforces",
       "id": 175558773,
       "creationTime": 1665496746,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1378,7 +1484,7 @@
       "type": "codeforces",
       "id": 175557549,
       "creationTime": 1665496178,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1404,7 +1510,7 @@
       "type": "codeforces",
       "id": 175206986,
       "creationTime": 1665296182,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1426,7 +1532,7 @@
       "type": "codeforces",
       "id": 175206853,
       "creationTime": 1665296068,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1448,7 +1554,7 @@
       "type": "codeforces",
       "id": 172033158,
       "creationTime": 1663072215,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1473,7 +1579,7 @@
       "type": "codeforces",
       "id": 172032951,
       "creationTime": 1663072075,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1498,7 +1604,7 @@
       "type": "codeforces",
       "id": 172031806,
       "creationTime": 1663071409,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1524,7 +1630,7 @@
       "type": "codeforces",
       "id": 171020757,
       "creationTime": 1662446695,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1550,7 +1656,7 @@
       "type": "codeforces",
       "id": 171020653,
       "creationTime": 1662446606,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1576,7 +1682,7 @@
       "type": "codeforces",
       "id": 171011883,
       "creationTime": 1662437249,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1601,7 +1707,7 @@
       "type": "codeforces",
       "id": 171009263,
       "creationTime": 1662433414,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1627,7 +1733,7 @@
       "type": "codeforces",
       "id": 170811042,
       "creationTime": 1662276338,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1652,7 +1758,7 @@
       "type": "codeforces",
       "id": 170810340,
       "creationTime": 1662275872,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1677,7 +1783,7 @@
       "type": "codeforces",
       "id": 170809439,
       "creationTime": 1662275200,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1703,7 +1809,7 @@
       "type": "codeforces",
       "id": 170807119,
       "creationTime": 1662273434,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1729,7 +1835,7 @@
       "type": "codeforces",
       "id": 169029650,
       "creationTime": 1660963967,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1755,7 +1861,7 @@
       "type": "codeforces",
       "id": 169029573,
       "creationTime": 1660963874,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1781,7 +1887,7 @@
       "type": "codeforces",
       "id": 169027005,
       "creationTime": 1660961015,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1810,7 +1916,7 @@
       "type": "codeforces",
       "id": 169025640,
       "creationTime": 1660959048,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1836,7 +1942,7 @@
       "type": "codeforces",
       "id": 168703033,
       "creationTime": 1660742859,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1864,7 +1970,7 @@
       "type": "codeforces",
       "id": 168702043,
       "creationTime": 1660742368,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -1892,7 +1998,7 @@
       "type": "codeforces",
       "id": 168640779,
       "creationTime": 1660703303,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1918,7 +2024,7 @@
       "type": "codeforces",
       "id": 168638846,
       "creationTime": 1660701715,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1944,7 +2050,7 @@
       "type": "codeforces",
       "id": 168388461,
       "creationTime": 1660570812,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1974,7 +2080,7 @@
       "type": "codeforces",
       "id": 168388372,
       "creationTime": 1660570777,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2003,7 +2109,7 @@
       "type": "codeforces",
       "id": 168330936,
       "creationTime": 1660532381,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2032,7 +2138,7 @@
       "type": "codeforces",
       "id": 168330447,
       "creationTime": 1660531810,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2061,7 +2167,7 @@
       "type": "codeforces",
       "id": 168330421,
       "creationTime": 1660531774,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2090,7 +2196,7 @@
       "type": "codeforces",
       "id": 168218461,
       "creationTime": 1660446505,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2116,7 +2222,7 @@
       "type": "codeforces",
       "id": 168215104,
       "creationTime": 1660442267,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2143,7 +2249,7 @@
       "type": "codeforces",
       "id": 168215047,
       "creationTime": 1660442201,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2170,7 +2276,7 @@
       "type": "codeforces",
       "id": 168214725,
       "creationTime": 1660441823,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2197,7 +2303,7 @@
       "type": "codeforces",
       "id": 168214565,
       "creationTime": 1660441616,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2223,7 +2329,7 @@
       "type": "codeforces",
       "id": 168214507,
       "creationTime": 1660441536,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2249,7 +2355,7 @@
       "type": "codeforces",
       "id": 168214444,
       "creationTime": 1660441420,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2275,7 +2381,7 @@
       "type": "codeforces",
       "id": 168214353,
       "creationTime": 1660441284,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2301,7 +2407,7 @@
       "type": "codeforces",
       "id": 167953786,
       "creationTime": 1660295416,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2328,7 +2434,7 @@
       "type": "codeforces",
       "id": 167946784,
       "creationTime": 1660290717,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2356,7 +2462,7 @@
       "type": "codeforces",
       "id": 167946713,
       "creationTime": 1660290664,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -2384,7 +2490,7 @@
       "type": "codeforces",
       "id": 167942464,
       "creationTime": 1660287549,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2410,7 +2516,7 @@
       "type": "codeforces",
       "id": 167941949,
       "creationTime": 1660287157,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2436,7 +2542,7 @@
       "type": "codeforces",
       "id": 167634999,
       "creationTime": 1660049034,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2464,7 +2570,7 @@
       "type": "codeforces",
       "id": 167634660,
       "creationTime": 1660048883,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
@@ -2492,7 +2598,7 @@
       "type": "codeforces",
       "id": 167634549,
       "creationTime": 1660048826,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
@@ -2520,7 +2626,7 @@
       "type": "codeforces",
       "id": 167577856,
       "creationTime": 1660013031,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2548,7 +2654,7 @@
       "type": "codeforces",
       "id": 167575648,
       "creationTime": 1660010281,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2574,7 +2680,7 @@
       "type": "codeforces",
       "id": 167520946,
       "creationTime": 1659965804,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2601,7 +2707,7 @@
       "type": "codeforces",
       "id": 167517358,
       "creationTime": 1659963953,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2627,7 +2733,7 @@
       "type": "codeforces",
       "id": 167514258,
       "creationTime": 1659962298,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2652,7 +2758,7 @@
       "type": "codeforces",
       "id": 167513157,
       "creationTime": 1659961747,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2678,7 +2784,7 @@
       "type": "codeforces",
       "id": 167512046,
       "creationTime": 1659961205,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2703,7 +2809,7 @@
       "type": "codeforces",
       "id": 167511525,
       "creationTime": 1659960918,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2730,7 +2836,7 @@
       "type": "codeforces",
       "id": 167466108,
       "creationTime": 1659927320,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2756,7 +2862,7 @@
       "type": "codeforces",
       "id": 167466018,
       "creationTime": 1659927225,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2782,7 +2888,7 @@
       "type": "codeforces",
       "id": 167465625,
       "creationTime": 1659926775,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2809,7 +2915,7 @@
       "type": "codeforces",
       "id": 167465420,
       "creationTime": 1659926530,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2836,7 +2942,7 @@
       "type": "codeforces",
       "id": 167465312,
       "creationTime": 1659926415,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2863,7 +2969,7 @@
       "type": "codeforces",
       "id": 167002074,
       "creationTime": 1659630060,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2892,7 +2998,7 @@
       "type": "codeforces",
       "id": 166992407,
       "creationTime": 1659628464,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2921,7 +3027,7 @@
       "type": "codeforces",
       "id": 166960023,
       "creationTime": 1659625035,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2947,7 +3053,7 @@
       "type": "codeforces",
       "id": 166957081,
       "creationTime": 1659624878,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -2973,7 +3079,7 @@
       "type": "codeforces",
       "id": 166932898,
       "creationTime": 1659623930,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -2999,7 +3105,7 @@
       "type": "codeforces",
       "id": 166920278,
       "creationTime": 1659618088,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3026,7 +3132,7 @@
       "type": "codeforces",
       "id": 166919957,
       "creationTime": 1659617919,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3053,7 +3159,7 @@
       "type": "codeforces",
       "id": 166919857,
       "creationTime": 1659617860,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3080,7 +3186,7 @@
       "type": "codeforces",
       "id": 166914433,
       "creationTime": 1659614770,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3105,7 +3211,7 @@
       "type": "codeforces",
       "id": 166914318,
       "creationTime": 1659614695,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3130,7 +3236,7 @@
       "type": "codeforces",
       "id": 166913989,
       "creationTime": 1659614482,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3157,7 +3263,7 @@
       "type": "codeforces",
       "id": 166913163,
       "creationTime": 1659614022,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3183,7 +3289,7 @@
       "type": "codeforces",
       "id": 166912809,
       "creationTime": 1659613812,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3209,7 +3315,7 @@
       "type": "codeforces",
       "id": 166637336,
       "creationTime": 1659404161,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3237,7 +3343,7 @@
       "type": "codeforces",
       "id": 166499344,
       "creationTime": 1659360440,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3264,7 +3370,7 @@
       "type": "codeforces",
       "id": 166433474,
       "creationTime": 1659322261,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3291,7 +3397,7 @@
       "type": "codeforces",
       "id": 166432086,
       "creationTime": 1659320986,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3317,7 +3423,7 @@
       "type": "codeforces",
       "id": 166301375,
       "creationTime": 1659238106,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3345,7 +3451,7 @@
       "type": "codeforces",
       "id": 166301341,
       "creationTime": 1659238069,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3373,7 +3479,7 @@
       "type": "codeforces",
       "id": 166300863,
       "creationTime": 1659237503,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3401,7 +3507,7 @@
       "type": "codeforces",
       "id": 166295845,
       "creationTime": 1659230530,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3426,7 +3532,7 @@
       "type": "codeforces",
       "id": 166124420,
       "creationTime": 1659102942,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3456,7 +3562,7 @@
       "type": "codeforces",
       "id": 166122377,
       "creationTime": 1659102086,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3486,7 +3592,7 @@
       "type": "codeforces",
       "id": 166096419,
       "creationTime": 1659087098,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3516,7 +3622,7 @@
       "type": "codeforces",
       "id": 166096076,
       "creationTime": 1659086900,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3546,7 +3652,7 @@
       "type": "codeforces",
       "id": 165896239,
       "creationTime": 1658928066,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3574,7 +3680,7 @@
       "type": "codeforces",
       "id": 165896001,
       "creationTime": 1658927931,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -3602,7 +3708,7 @@
       "type": "codeforces",
       "id": 165885561,
       "creationTime": 1658922700,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3629,7 +3735,7 @@
       "type": "codeforces",
       "id": 165881363,
       "creationTime": 1658920612,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3656,7 +3762,7 @@
       "type": "codeforces",
       "id": 165881137,
       "creationTime": 1658920480,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3683,7 +3789,7 @@
       "type": "codeforces",
       "id": 165871765,
       "creationTime": 1658914897,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3710,7 +3816,7 @@
       "type": "codeforces",
       "id": 165871737,
       "creationTime": 1658914882,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3737,7 +3843,7 @@
       "type": "codeforces",
       "id": 165871201,
       "creationTime": 1658914579,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3764,7 +3870,7 @@
       "type": "codeforces",
       "id": 165868387,
       "creationTime": 1658912979,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3791,7 +3897,7 @@
       "type": "codeforces",
       "id": 165865850,
       "creationTime": 1658911449,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3817,7 +3923,7 @@
       "type": "codeforces",
       "id": 165865231,
       "creationTime": 1658911085,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -3843,7 +3949,7 @@
       "type": "codeforces",
       "id": 165622931,
       "creationTime": 1658718232,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3869,7 +3975,7 @@
       "type": "codeforces",
       "id": 165622646,
       "creationTime": 1658717959,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3895,7 +4001,7 @@
       "type": "codeforces",
       "id": 165620953,
       "creationTime": 1658716385,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -3921,7 +4027,7 @@
       "type": "codeforces",
       "id": 165616109,
       "creationTime": 1658711260,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3946,7 +4052,7 @@
       "type": "codeforces",
       "id": 165421324,
       "creationTime": 1658577270,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -3968,7 +4074,7 @@
       "type": "codeforces",
       "id": 165420715,
       "creationTime": 1658576905,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -3990,7 +4096,7 @@
       "type": "codeforces",
       "id": 165404036,
       "creationTime": 1658566157,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4015,7 +4121,7 @@
       "type": "codeforces",
       "id": 165402910,
       "creationTime": 1658565330,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4040,7 +4146,7 @@
       "type": "codeforces",
       "id": 165402319,
       "creationTime": 1658564935,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4065,7 +4171,7 @@
       "type": "codeforces",
       "id": 165397615,
       "creationTime": 1658561887,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4090,7 +4196,7 @@
       "type": "codeforces",
       "id": 165396766,
       "creationTime": 1658561350,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4115,7 +4221,7 @@
       "type": "codeforces",
       "id": 165396029,
       "creationTime": 1658560877,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4140,7 +4246,7 @@
       "type": "codeforces",
       "id": 165390864,
       "creationTime": 1658557371,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4165,7 +4271,7 @@
       "type": "codeforces",
       "id": 165374183,
       "creationTime": 1658538641,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4193,7 +4299,7 @@
       "type": "codeforces",
       "id": 165374075,
       "creationTime": 1658538487,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4221,7 +4327,7 @@
       "type": "codeforces",
       "id": 165321610,
       "creationTime": 1658498528,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4249,7 +4355,7 @@
       "type": "codeforces",
       "id": 165321446,
       "creationTime": 1658498452,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4277,7 +4383,7 @@
       "type": "codeforces",
       "id": 165321179,
       "creationTime": 1658498339,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4305,7 +4411,7 @@
       "type": "codeforces",
       "id": 165320763,
       "creationTime": 1658498162,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4333,7 +4439,7 @@
       "type": "codeforces",
       "id": 165320466,
       "creationTime": 1658498042,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4361,7 +4467,7 @@
       "type": "codeforces",
       "id": 165315382,
       "creationTime": 1658496088,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4389,7 +4495,7 @@
       "type": "codeforces",
       "id": 165312815,
       "creationTime": 1658495243,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4417,7 +4523,7 @@
       "type": "codeforces",
       "id": 165309283,
       "creationTime": 1658493786,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4444,7 +4550,7 @@
       "type": "codeforces",
       "id": 165307805,
       "creationTime": 1658493038,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4472,7 +4578,7 @@
       "type": "codeforces",
       "id": 165120664,
       "creationTime": 1658406636,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4498,7 +4604,7 @@
       "type": "codeforces",
       "id": 165119431,
       "creationTime": 1658406055,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4524,7 +4630,7 @@
       "type": "codeforces",
       "id": 165118728,
       "creationTime": 1658405777,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4550,7 +4656,7 @@
       "type": "codeforces",
       "id": 165118108,
       "creationTime": 1658405459,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4576,7 +4682,7 @@
       "type": "codeforces",
       "id": 165117718,
       "creationTime": 1658405238,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4602,7 +4708,7 @@
       "type": "codeforces",
       "id": 165115032,
       "creationTime": 1658403774,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4628,7 +4734,7 @@
       "type": "codeforces",
       "id": 165114672,
       "creationTime": 1658403602,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4654,7 +4760,7 @@
       "type": "codeforces",
       "id": 165096758,
       "creationTime": 1658392927,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4680,7 +4786,7 @@
       "type": "codeforces",
       "id": 165096349,
       "creationTime": 1658392705,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4706,7 +4812,7 @@
       "type": "codeforces",
       "id": 165068137,
       "creationTime": 1658368879,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4736,7 +4842,7 @@
       "type": "codeforces",
       "id": 165014105,
       "creationTime": 1658323095,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4764,7 +4870,7 @@
       "type": "codeforces",
       "id": 165012608,
       "creationTime": 1658322314,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4792,7 +4898,7 @@
       "type": "codeforces",
       "id": 165012522,
       "creationTime": 1658322256,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4820,7 +4926,7 @@
       "type": "codeforces",
       "id": 165011870,
       "creationTime": 1658321886,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "MEMORY_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -4848,7 +4954,7 @@
       "type": "codeforces",
       "id": 165011217,
       "creationTime": 1658321535,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4876,7 +4982,7 @@
       "type": "codeforces",
       "id": 165010482,
       "creationTime": 1658321125,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4904,7 +5010,7 @@
       "type": "codeforces",
       "id": 164990896,
       "creationTime": 1658309925,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -4930,7 +5036,7 @@
       "type": "codeforces",
       "id": 164990378,
       "creationTime": 1658309626,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -4956,7 +5062,7 @@
       "type": "codeforces",
       "id": 164990204,
       "creationTime": 1658309529,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -4982,7 +5088,7 @@
       "type": "codeforces",
       "id": 164989912,
       "creationTime": 1658309359,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -5008,7 +5114,7 @@
       "type": "codeforces",
       "id": 164982936,
       "creationTime": 1658305216,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5035,7 +5141,7 @@
       "type": "codeforces",
       "id": 164957867,
       "creationTime": 1658284599,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5062,7 +5168,7 @@
       "type": "codeforces",
       "id": 164901404,
       "creationTime": 1658237802,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5084,7 +5190,7 @@
       "type": "codeforces",
       "id": 164901187,
       "creationTime": 1658237719,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -5106,7 +5212,7 @@
       "type": "codeforces",
       "id": 164866475,
       "creationTime": 1658218746,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5131,7 +5237,7 @@
       "type": "codeforces",
       "id": 164863724,
       "creationTime": 1658217662,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5156,7 +5262,7 @@
       "type": "codeforces",
       "id": 164863469,
       "creationTime": 1658217544,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5181,7 +5287,7 @@
       "type": "codeforces",
       "id": 164858219,
       "creationTime": 1658214771,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5206,7 +5312,7 @@
       "type": "codeforces",
       "id": 164858150,
       "creationTime": 1658214729,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5231,7 +5337,7 @@
       "type": "codeforces",
       "id": 164858097,
       "creationTime": 1658214693,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5256,7 +5362,7 @@
       "type": "codeforces",
       "id": 164857917,
       "creationTime": 1658214592,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5281,7 +5387,7 @@
       "type": "codeforces",
       "id": 164857527,
       "creationTime": 1658214351,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5306,7 +5412,7 @@
       "type": "codeforces",
       "id": 164857518,
       "creationTime": 1658214340,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5331,7 +5437,7 @@
       "type": "codeforces",
       "id": 164857187,
       "creationTime": 1658214123,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5356,7 +5462,7 @@
       "type": "codeforces",
       "id": 164855516,
       "creationTime": 1658213097,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5381,7 +5487,7 @@
       "type": "codeforces",
       "id": 164833061,
       "creationTime": 1658195294,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5410,7 +5516,7 @@
       "type": "codeforces",
       "id": 164779887,
       "creationTime": 1658160096,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "SKIPPED",
       "author": {
         "members": [
@@ -5438,7 +5544,7 @@
       "type": "codeforces",
       "id": 164779619,
       "creationTime": 1658160053,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "SKIPPED",
       "author": {
         "members": [
@@ -5466,7 +5572,7 @@
       "type": "codeforces",
       "id": 164779196,
       "creationTime": 1658159992,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "SKIPPED",
       "author": {
         "members": [
@@ -5494,7 +5600,7 @@
       "type": "codeforces",
       "id": 164778664,
       "creationTime": 1658159914,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "SKIPPED",
       "author": {
         "members": [
@@ -5522,7 +5628,7 @@
       "type": "codeforces",
       "id": 164778317,
       "creationTime": 1658159864,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "SKIPPED",
       "author": {
         "members": [
@@ -5550,7 +5656,7 @@
       "type": "codeforces",
       "id": 164754986,
       "creationTime": 1658156837,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "SKIPPED",
       "author": {
         "members": [
@@ -5577,7 +5683,7 @@
       "type": "codeforces",
       "id": 164738772,
       "creationTime": 1658155384,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "SKIPPED",
       "author": {
         "members": [
@@ -5606,7 +5712,7 @@
       "type": "codeforces",
       "id": 164725024,
       "creationTime": 1658149460,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5638,7 +5744,7 @@
       "type": "codeforces",
       "id": 164668634,
       "creationTime": 1658110128,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5666,7 +5772,7 @@
       "type": "codeforces",
       "id": 164665448,
       "creationTime": 1658106881,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5692,7 +5798,7 @@
       "type": "codeforces",
       "id": 164563392,
       "creationTime": 1658025502,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5718,7 +5824,7 @@
       "type": "codeforces",
       "id": 164560065,
       "creationTime": 1658022578,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5744,7 +5850,7 @@
       "type": "codeforces",
       "id": 164560017,
       "creationTime": 1658022528,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5770,7 +5876,7 @@
       "type": "codeforces",
       "id": 164498137,
       "creationTime": 1657985381,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5796,7 +5902,7 @@
       "type": "codeforces",
       "id": 164485374,
       "creationTime": 1657984172,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5822,7 +5928,7 @@
       "type": "codeforces",
       "id": 164467847,
       "creationTime": 1657982940,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5848,7 +5954,7 @@
       "type": "codeforces",
       "id": 164459031,
       "creationTime": 1657982440,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5874,7 +5980,7 @@
       "type": "codeforces",
       "id": 164450316,
       "creationTime": 1657978564,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -5901,7 +6007,7 @@
       "type": "codeforces",
       "id": 164450232,
       "creationTime": 1657978514,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5928,7 +6034,7 @@
       "type": "codeforces",
       "id": 164449751,
       "creationTime": 1657978221,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5955,7 +6061,7 @@
       "type": "codeforces",
       "id": 164449436,
       "creationTime": 1657978031,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -5982,7 +6088,7 @@
       "type": "codeforces",
       "id": 164442096,
       "creationTime": 1657973765,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6012,7 +6118,7 @@
       "type": "codeforces",
       "id": 164431927,
       "creationTime": 1657967914,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6042,7 +6148,7 @@
       "type": "codeforces",
       "id": 164431733,
       "creationTime": 1657967787,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6072,7 +6178,7 @@
       "type": "codeforces",
       "id": 164389727,
       "creationTime": 1657942472,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6101,7 +6207,7 @@
       "type": "codeforces",
       "id": 164389628,
       "creationTime": 1657942397,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6130,7 +6236,7 @@
       "type": "codeforces",
       "id": 164388662,
       "creationTime": 1657941749,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6159,7 +6265,7 @@
       "type": "codeforces",
       "id": 164387764,
       "creationTime": 1657941163,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6188,7 +6294,7 @@
       "type": "codeforces",
       "id": 164382623,
       "creationTime": 1657937128,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6214,7 +6320,7 @@
       "type": "codeforces",
       "id": 164382069,
       "creationTime": 1657936666,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6240,7 +6346,7 @@
       "type": "codeforces",
       "id": 164381294,
       "creationTime": 1657935935,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -6266,7 +6372,7 @@
       "type": "codeforces",
       "id": 164381258,
       "creationTime": 1657935893,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6292,7 +6398,7 @@
       "type": "codeforces",
       "id": 164379929,
       "creationTime": 1657934512,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -6318,7 +6424,7 @@
       "type": "codeforces",
       "id": 164379676,
       "creationTime": 1657934230,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -6344,7 +6450,7 @@
       "type": "codeforces",
       "id": 164379361,
       "creationTime": 1657933860,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -6370,7 +6476,7 @@
       "type": "codeforces",
       "id": 164379329,
       "creationTime": 1657933821,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6396,7 +6502,7 @@
       "type": "codeforces",
       "id": 164335149,
       "creationTime": 1657899533,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6422,7 +6528,7 @@
       "type": "codeforces",
       "id": 164326737,
       "creationTime": 1657898153,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -6448,7 +6554,7 @@
       "type": "codeforces",
       "id": 164324064,
       "creationTime": 1657897745,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -6474,7 +6580,7 @@
       "type": "codeforces",
       "id": 164313169,
       "creationTime": 1657896237,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -6500,7 +6606,7 @@
       "type": "codeforces",
       "id": 164312650,
       "creationTime": 1657896173,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6526,7 +6632,7 @@
       "type": "codeforces",
       "id": 164310303,
       "creationTime": 1657895891,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -6552,7 +6658,7 @@
       "type": "codeforces",
       "id": 164309559,
       "creationTime": 1657895807,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -6578,7 +6684,7 @@
       "type": "codeforces",
       "id": 164277735,
       "creationTime": 1657892863,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6605,7 +6711,7 @@
       "type": "codeforces",
       "id": 164276893,
       "creationTime": 1657892813,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6632,7 +6738,7 @@
       "type": "codeforces",
       "id": 164268285,
       "creationTime": 1657892339,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6658,7 +6764,7 @@
       "type": "codeforces",
       "id": 164125341,
       "creationTime": 1657790014,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6686,7 +6792,7 @@
       "type": "codeforces",
       "id": 164124856,
       "creationTime": 1657789736,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6714,7 +6820,7 @@
       "type": "codeforces",
       "id": 164124504,
       "creationTime": 1657789564,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6742,7 +6848,7 @@
       "type": "codeforces",
       "id": 164124337,
       "creationTime": 1657789463,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -6770,7 +6876,7 @@
       "type": "codeforces",
       "id": 164043660,
       "creationTime": 1657721302,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6800,7 +6906,7 @@
       "type": "codeforces",
       "id": 164043181,
       "creationTime": 1657721030,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6830,7 +6936,7 @@
       "type": "codeforces",
       "id": 164042389,
       "creationTime": 1657720597,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -6860,7 +6966,7 @@
       "type": "codeforces",
       "id": 164040176,
       "creationTime": 1657719412,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -6890,7 +6996,7 @@
       "type": "codeforces",
       "id": 164035242,
       "creationTime": 1657716926,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6920,7 +7026,7 @@
       "type": "codeforces",
       "id": 164034584,
       "creationTime": 1657716603,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6950,7 +7056,7 @@
       "type": "codeforces",
       "id": 164032149,
       "creationTime": 1657715385,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -6980,7 +7086,7 @@
       "type": "codeforces",
       "id": 164027438,
       "creationTime": 1657713068,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7006,7 +7112,7 @@
       "type": "codeforces",
       "id": 164027369,
       "creationTime": 1657713029,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7033,7 +7139,7 @@
       "type": "codeforces",
       "id": 164027139,
       "creationTime": 1657712918,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7059,7 +7165,7 @@
       "type": "codeforces",
       "id": 164010638,
       "creationTime": 1657703534,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7088,7 +7194,7 @@
       "type": "codeforces",
       "id": 164001739,
       "creationTime": 1657698654,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7115,7 +7221,7 @@
       "type": "codeforces",
       "id": 163998211,
       "creationTime": 1657697118,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7142,7 +7248,7 @@
       "type": "codeforces",
       "id": 163998064,
       "creationTime": 1657697058,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7169,7 +7275,7 @@
       "type": "codeforces",
       "id": 163997451,
       "creationTime": 1657696783,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7196,7 +7302,7 @@
       "type": "codeforces",
       "id": 163995190,
       "creationTime": 1657695753,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7221,7 +7327,7 @@
       "type": "codeforces",
       "id": 163993281,
       "creationTime": 1657694878,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7247,7 +7353,7 @@
       "type": "codeforces",
       "id": 163990863,
       "creationTime": 1657693706,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7272,7 +7378,7 @@
       "type": "codeforces",
       "id": 163988788,
       "creationTime": 1657692654,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7297,7 +7403,7 @@
       "type": "codeforces",
       "id": 163978613,
       "creationTime": 1657685111,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7326,7 +7432,7 @@
       "type": "codeforces",
       "id": 163978072,
       "creationTime": 1657684616,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7355,7 +7461,7 @@
       "type": "codeforces",
       "id": 163977937,
       "creationTime": 1657684488,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -7384,7 +7490,7 @@
       "type": "codeforces",
       "id": 163977628,
       "creationTime": 1657684201,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7413,7 +7519,7 @@
       "type": "codeforces",
       "id": 163977363,
       "creationTime": 1657683943,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7442,7 +7548,7 @@
       "type": "codeforces",
       "id": 163977298,
       "creationTime": 1657683885,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7471,7 +7577,7 @@
       "type": "codeforces",
       "id": 163977267,
       "creationTime": 1657683855,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7500,7 +7606,7 @@
       "type": "codeforces",
       "id": 163977014,
       "creationTime": 1657683625,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7529,7 +7635,7 @@
       "type": "codeforces",
       "id": 163974516,
       "creationTime": 1657681482,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7558,7 +7664,7 @@
       "type": "codeforces",
       "id": 163974495,
       "creationTime": 1657681457,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7587,7 +7693,7 @@
       "type": "codeforces",
       "id": 163974410,
       "creationTime": 1657681388,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7616,7 +7722,7 @@
       "type": "codeforces",
       "id": 163972797,
       "creationTime": 1657679932,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7641,7 +7747,7 @@
       "type": "codeforces",
       "id": 163969841,
       "creationTime": 1657677156,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7668,7 +7774,7 @@
       "type": "codeforces",
       "id": 163968291,
       "creationTime": 1657675674,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7695,7 +7801,7 @@
       "type": "codeforces",
       "id": 163967834,
       "creationTime": 1657675207,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7721,7 +7827,7 @@
       "type": "codeforces",
       "id": 163967547,
       "creationTime": 1657674922,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7748,7 +7854,7 @@
       "type": "codeforces",
       "id": 163288587,
       "creationTime": 1657296613,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7776,7 +7882,7 @@
       "type": "codeforces",
       "id": 163234631,
       "creationTime": 1657291660,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7801,7 +7907,7 @@
       "type": "codeforces",
       "id": 163219782,
       "creationTime": 1657291141,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7826,7 +7932,7 @@
       "type": "codeforces",
       "id": 163062614,
       "creationTime": 1657169320,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "MEMORY_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -7848,7 +7954,7 @@
       "type": "codeforces",
       "id": 163062573,
       "creationTime": 1657169286,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7870,7 +7976,7 @@
       "type": "codeforces",
       "id": 163061924,
       "creationTime": 1657168474,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -7892,7 +7998,7 @@
       "type": "codeforces",
       "id": 163061858,
       "creationTime": 1657168401,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -7914,7 +8020,7 @@
       "type": "codeforces",
       "id": 163049938,
       "creationTime": 1657154817,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7945,7 +8051,7 @@
       "type": "codeforces",
       "id": 163004448,
       "creationTime": 1657112151,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -7971,7 +8077,7 @@
       "type": "codeforces",
       "id": 163003120,
       "creationTime": 1657111419,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -7997,7 +8103,7 @@
       "type": "codeforces",
       "id": 163003010,
       "creationTime": 1657111367,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8023,7 +8129,7 @@
       "type": "codeforces",
       "id": 163002414,
       "creationTime": 1657111065,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8049,7 +8155,7 @@
       "type": "codeforces",
       "id": 162981756,
       "creationTime": 1657098330,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8074,7 +8180,7 @@
       "type": "codeforces",
       "id": 162981069,
       "creationTime": 1657097920,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8099,7 +8205,7 @@
       "type": "codeforces",
       "id": 162971418,
       "creationTime": 1657092217,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8125,7 +8231,7 @@
       "type": "codeforces",
       "id": 162971360,
       "creationTime": 1657092179,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
@@ -8151,7 +8257,7 @@
       "type": "codeforces",
       "id": 162970484,
       "creationTime": 1657091599,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8177,7 +8283,7 @@
       "type": "codeforces",
       "id": 162968982,
       "creationTime": 1657090640,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8203,7 +8309,7 @@
       "type": "codeforces",
       "id": 158531157,
       "creationTime": 1653571208,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8232,7 +8338,7 @@
       "type": "codeforces",
       "id": 158524124,
       "creationTime": 1653566700,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8259,7 +8365,7 @@
       "type": "codeforces",
       "id": 158523110,
       "creationTime": 1653566002,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8284,7 +8390,7 @@
       "type": "codeforces",
       "id": 158522429,
       "creationTime": 1653565549,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8310,7 +8416,7 @@
       "type": "codeforces",
       "id": 158483496,
       "creationTime": 1653532722,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8339,7 +8445,7 @@
       "type": "codeforces",
       "id": 158301323,
       "creationTime": 1653398303,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8368,7 +8474,7 @@
       "type": "codeforces",
       "id": 158301259,
       "creationTime": 1653398257,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8397,7 +8503,7 @@
       "type": "codeforces",
       "id": 158290910,
       "creationTime": 1653390907,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8423,7 +8529,7 @@
       "type": "codeforces",
       "id": 158276486,
       "creationTime": 1653379359,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8445,7 +8551,7 @@
       "type": "codeforces",
       "id": 158276425,
       "creationTime": 1653379311,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8467,7 +8573,7 @@
       "type": "codeforces",
       "id": 158275462,
       "creationTime": 1653378526,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8489,7 +8595,7 @@
       "type": "codeforces",
       "id": 158270610,
       "creationTime": 1653374233,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8511,7 +8617,7 @@
       "type": "codeforces",
       "id": 157307194,
       "creationTime": 1652618332,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8537,7 +8643,7 @@
       "type": "codeforces",
       "id": 157307163,
       "creationTime": 1652618320,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8563,7 +8669,7 @@
       "type": "codeforces",
       "id": 157307085,
       "creationTime": 1652618281,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8589,7 +8695,7 @@
       "type": "codeforces",
       "id": 157306903,
       "creationTime": 1652618189,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8615,7 +8721,7 @@
       "type": "codeforces",
       "id": 157306752,
       "creationTime": 1652618112,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8641,7 +8747,7 @@
       "type": "codeforces",
       "id": 157306599,
       "creationTime": 1652618030,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8667,7 +8773,7 @@
       "type": "codeforces",
       "id": 157306343,
       "creationTime": 1652617919,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8693,7 +8799,7 @@
       "type": "codeforces",
       "id": 157306114,
       "creationTime": 1652617804,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8719,7 +8825,7 @@
       "type": "codeforces",
       "id": 156916811,
       "creationTime": 1652357310,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8749,7 +8855,7 @@
       "type": "codeforces",
       "id": 156916098,
       "creationTime": 1652356888,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8776,7 +8882,7 @@
       "type": "codeforces",
       "id": 156915208,
       "creationTime": 1652356351,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8801,7 +8907,7 @@
       "type": "codeforces",
       "id": 156837018,
       "creationTime": 1652276350,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8827,7 +8933,7 @@
       "type": "codeforces",
       "id": 156835394,
       "creationTime": 1652275340,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8855,7 +8961,7 @@
       "type": "codeforces",
       "id": 156666348,
       "creationTime": 1652195402,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -8881,7 +8987,7 @@
       "type": "codeforces",
       "id": 156664518,
       "creationTime": 1652195307,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8907,7 +9013,7 @@
       "type": "codeforces",
       "id": 156621750,
       "creationTime": 1652194028,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8933,7 +9039,7 @@
       "type": "codeforces",
       "id": 156618382,
       "creationTime": 1652193931,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -8959,7 +9065,7 @@
       "type": "codeforces",
       "id": 156615114,
       "creationTime": 1652191200,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -8986,7 +9092,7 @@
       "type": "codeforces",
       "id": 156283524,
       "creationTime": 1652010558,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9012,7 +9118,7 @@
       "type": "codeforces",
       "id": 155916122,
       "creationTime": 1651753507,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9037,7 +9143,7 @@
       "type": "codeforces",
       "id": 155846145,
       "creationTime": 1651668845,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9066,7 +9172,7 @@
       "type": "codeforces",
       "id": 155839607,
       "creationTime": 1651664276,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9094,7 +9200,7 @@
       "type": "codeforces",
       "id": 155762753,
       "creationTime": 1651582226,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9121,7 +9227,7 @@
       "type": "codeforces",
       "id": 155761965,
       "creationTime": 1651581702,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9149,7 +9255,7 @@
       "type": "codeforces",
       "id": 155761076,
       "creationTime": 1651581072,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9177,7 +9283,7 @@
       "type": "codeforces",
       "id": 155760059,
       "creationTime": 1651580430,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9202,7 +9308,7 @@
       "type": "codeforces",
       "id": 155759934,
       "creationTime": 1651580339,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9227,7 +9333,7 @@
       "type": "codeforces",
       "id": 155759274,
       "creationTime": 1651579878,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9254,7 +9360,7 @@
       "type": "codeforces",
       "id": 155758616,
       "creationTime": 1651579430,
-      "language": "GNU C++20 (64)",
+      "language": "C++20 (GCC 11-64)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9281,7 +9387,7 @@
       "type": "codeforces",
       "id": 155208489,
       "creationTime": 1651151947,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9307,7 +9413,7 @@
       "type": "codeforces",
       "id": 155207798,
       "creationTime": 1651151463,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9333,7 +9439,7 @@
       "type": "codeforces",
       "id": 155207328,
       "creationTime": 1651151161,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9359,7 +9465,7 @@
       "type": "codeforces",
       "id": 155118881,
       "creationTime": 1651062031,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9385,7 +9491,7 @@
       "type": "codeforces",
       "id": 155118735,
       "creationTime": 1651061930,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9411,7 +9517,7 @@
       "type": "codeforces",
       "id": 155013288,
       "creationTime": 1650962316,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9439,7 +9545,7 @@
       "type": "codeforces",
       "id": 155009535,
       "creationTime": 1650960147,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9464,7 +9570,7 @@
       "type": "codeforces",
       "id": 155009201,
       "creationTime": 1650959843,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9489,7 +9595,7 @@
       "type": "codeforces",
       "id": 155009077,
       "creationTime": 1650959739,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9514,7 +9620,7 @@
       "type": "codeforces",
       "id": 154999936,
       "creationTime": 1650951157,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9539,7 +9645,7 @@
       "type": "codeforces",
       "id": 154999911,
       "creationTime": 1650951135,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9563,7 +9669,7 @@
       "type": "codeforces",
       "id": 154942476,
       "creationTime": 1650892725,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9588,7 +9694,7 @@
       "type": "codeforces",
       "id": 154941159,
       "creationTime": 1650891966,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9613,7 +9719,7 @@
       "type": "codeforces",
       "id": 154940945,
       "creationTime": 1650891834,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9638,7 +9744,7 @@
       "type": "codeforces",
       "id": 154940504,
       "creationTime": 1650891545,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9663,7 +9769,7 @@
       "type": "codeforces",
       "id": 154828381,
       "creationTime": 1650790021,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9689,7 +9795,7 @@
       "type": "codeforces",
       "id": 154198122,
       "creationTime": 1650458916,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9718,7 +9824,7 @@
       "type": "codeforces",
       "id": 154198067,
       "creationTime": 1650458871,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
@@ -9747,7 +9853,7 @@
       "type": "codeforces",
       "id": 154197950,
       "creationTime": 1650458788,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9776,7 +9882,7 @@
       "type": "codeforces",
       "id": 154075304,
       "creationTime": 1650376115,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9801,7 +9907,7 @@
       "type": "codeforces",
       "id": 154075181,
       "creationTime": 1650376012,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9826,7 +9932,7 @@
       "type": "codeforces",
       "id": 154075069,
       "creationTime": 1650375937,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9851,7 +9957,7 @@
       "type": "codeforces",
       "id": 154074971,
       "creationTime": 1650375857,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9876,7 +9982,7 @@
       "type": "codeforces",
       "id": 154074777,
       "creationTime": 1650375722,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9901,7 +10007,7 @@
       "type": "codeforces",
       "id": 154073117,
       "creationTime": 1650374429,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -9930,7 +10036,7 @@
       "type": "codeforces",
       "id": 154072880,
       "creationTime": 1650374246,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9959,7 +10065,7 @@
       "type": "codeforces",
       "id": 154072843,
       "creationTime": 1650374212,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -9988,7 +10094,7 @@
       "type": "codeforces",
       "id": 153645776,
       "creationTime": 1649943560,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10013,7 +10119,7 @@
       "type": "codeforces",
       "id": 153645691,
       "creationTime": 1649943501,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10038,7 +10144,7 @@
       "type": "codeforces",
       "id": 153645617,
       "creationTime": 1649943450,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -10063,7 +10169,7 @@
       "type": "codeforces",
       "id": 153643501,
       "creationTime": 1649941830,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10088,7 +10194,7 @@
       "type": "codeforces",
       "id": 153643199,
       "creationTime": 1649941612,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10113,7 +10219,7 @@
       "type": "codeforces",
       "id": 153640611,
       "creationTime": 1649940304,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10138,7 +10244,7 @@
       "type": "codeforces",
       "id": 153639780,
       "creationTime": 1649940253,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10163,7 +10269,7 @@
       "type": "codeforces",
       "id": 153639667,
       "creationTime": 1649940175,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10188,7 +10294,7 @@
       "type": "codeforces",
       "id": 153554145,
       "creationTime": 1649850080,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10214,7 +10320,7 @@
       "type": "codeforces",
       "id": 153553996,
       "creationTime": 1649849986,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10240,7 +10346,7 @@
       "type": "codeforces",
       "id": 153458316,
       "creationTime": 1649766925,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10266,7 +10372,7 @@
       "type": "codeforces",
       "id": 153457185,
       "creationTime": 1649766176,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10292,7 +10398,7 @@
       "type": "codeforces",
       "id": 153455594,
       "creationTime": 1649764973,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10317,7 +10423,7 @@
       "type": "codeforces",
       "id": 153454697,
       "creationTime": 1649764292,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10343,7 +10449,7 @@
       "type": "codeforces",
       "id": 153454626,
       "creationTime": 1649764244,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10369,7 +10475,7 @@
       "type": "codeforces",
       "id": 153454537,
       "creationTime": 1649764185,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10395,7 +10501,7 @@
       "type": "codeforces",
       "id": 153453990,
       "creationTime": 1649763825,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10421,7 +10527,7 @@
       "type": "codeforces",
       "id": 153453922,
       "creationTime": 1649763782,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10447,7 +10553,7 @@
       "type": "codeforces",
       "id": 153453633,
       "creationTime": 1649763564,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10473,7 +10579,7 @@
       "type": "codeforces",
       "id": 153386180,
       "creationTime": 1649684970,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10499,7 +10605,7 @@
       "type": "codeforces",
       "id": 153385926,
       "creationTime": 1649684800,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10525,7 +10631,7 @@
       "type": "codeforces",
       "id": 153385801,
       "creationTime": 1649684719,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10551,7 +10657,7 @@
       "type": "codeforces",
       "id": 153385511,
       "creationTime": 1649684547,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10577,7 +10683,7 @@
       "type": "codeforces",
       "id": 153385043,
       "creationTime": 1649684255,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10603,7 +10709,7 @@
       "type": "codeforces",
       "id": 153380984,
       "creationTime": 1649681775,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10630,7 +10736,7 @@
       "type": "codeforces",
       "id": 153380861,
       "creationTime": 1649681703,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10657,7 +10763,7 @@
       "type": "codeforces",
       "id": 153380535,
       "creationTime": 1649681498,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10684,7 +10790,7 @@
       "type": "codeforces",
       "id": 153380353,
       "creationTime": 1649681384,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10711,7 +10817,7 @@
       "type": "codeforces",
       "id": 153299222,
       "creationTime": 1649595471,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10736,7 +10842,7 @@
       "type": "codeforces",
       "id": 153297920,
       "creationTime": 1649594528,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10761,7 +10867,7 @@
       "type": "codeforces",
       "id": 153297812,
       "creationTime": 1649594435,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10786,7 +10892,7 @@
       "type": "codeforces",
       "id": 153297448,
       "creationTime": 1649594146,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10811,7 +10917,7 @@
       "type": "codeforces",
       "id": 153297315,
       "creationTime": 1649594043,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10836,7 +10942,7 @@
       "type": "codeforces",
       "id": 153297278,
       "creationTime": 1649594013,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10861,7 +10967,7 @@
       "type": "codeforces",
       "id": 153296792,
       "creationTime": 1649593659,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -10886,7 +10992,7 @@
       "type": "codeforces",
       "id": 153296571,
       "creationTime": 1649593521,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -10911,7 +11017,7 @@
       "type": "codeforces",
       "id": 153296320,
       "creationTime": 1649593333,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -10936,7 +11042,7 @@
       "type": "codeforces",
       "id": 153295313,
       "creationTime": 1649592586,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -10961,7 +11067,7 @@
       "type": "codeforces",
       "id": 152926854,
       "creationTime": 1649334728,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10986,7 +11092,7 @@
       "type": "codeforces",
       "id": 152926789,
       "creationTime": 1649334682,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11011,7 +11117,7 @@
       "type": "codeforces",
       "id": 152922317,
       "creationTime": 1649331384,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11034,7 +11140,7 @@
       "type": "codeforces",
       "id": 152768088,
       "creationTime": 1649167130,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11061,7 +11167,7 @@
       "type": "codeforces",
       "id": 152736980,
       "creationTime": 1649146341,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11083,7 +11189,7 @@
       "type": "codeforces",
       "id": 152736899,
       "creationTime": 1649146267,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11105,7 +11211,7 @@
       "type": "codeforces",
       "id": 152736388,
       "creationTime": 1649145846,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11127,7 +11233,7 @@
       "type": "codeforces",
       "id": 152667308,
       "creationTime": 1649075907,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11153,7 +11259,7 @@
       "type": "codeforces",
       "id": 152667129,
       "creationTime": 1649075776,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11179,7 +11285,7 @@
       "type": "codeforces",
       "id": 152666645,
       "creationTime": 1649075417,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11206,7 +11312,7 @@
       "type": "codeforces",
       "id": 152666084,
       "creationTime": 1649075044,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11233,7 +11339,7 @@
       "type": "codeforces",
       "id": 152665971,
       "creationTime": 1649074973,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11260,7 +11366,7 @@
       "type": "codeforces",
       "id": 151497090,
       "creationTime": 1648729939,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11282,7 +11388,7 @@
       "type": "codeforces",
       "id": 151491463,
       "creationTime": 1648725730,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -11304,7 +11410,7 @@
       "type": "codeforces",
       "id": 151418632,
       "creationTime": 1648646294,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11332,7 +11438,7 @@
       "type": "codeforces",
       "id": 151417125,
       "creationTime": 1648645392,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11360,7 +11466,7 @@
       "type": "codeforces",
       "id": 151416487,
       "creationTime": 1648645007,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11388,7 +11494,7 @@
       "type": "codeforces",
       "id": 151416288,
       "creationTime": 1648644885,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11416,7 +11522,7 @@
       "type": "codeforces",
       "id": 151415762,
       "creationTime": 1648644525,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11444,7 +11550,7 @@
       "type": "codeforces",
       "id": 151244624,
       "creationTime": 1648475328,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11466,7 +11572,7 @@
       "type": "codeforces",
       "id": 151241565,
       "creationTime": 1648473479,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11492,7 +11598,7 @@
       "type": "codeforces",
       "id": 151241490,
       "creationTime": 1648473432,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -11518,7 +11624,7 @@
       "type": "codeforces",
       "id": 151240933,
       "creationTime": 1648473151,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11544,7 +11650,7 @@
       "type": "codeforces",
       "id": 151238239,
       "creationTime": 1648471140,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11570,7 +11676,7 @@
       "type": "codeforces",
       "id": 151237865,
       "creationTime": 1648470856,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11597,7 +11703,7 @@
       "type": "codeforces",
       "id": 151236838,
       "creationTime": 1648470057,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11623,7 +11729,7 @@
       "type": "codeforces",
       "id": 151097261,
       "creationTime": 1648384695,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -11649,7 +11755,7 @@
       "type": "codeforces",
       "id": 151089714,
       "creationTime": 1648379719,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11671,7 +11777,7 @@
       "type": "codeforces",
       "id": 151088698,
       "creationTime": 1648379111,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11693,7 +11799,7 @@
       "type": "codeforces",
       "id": 151088622,
       "creationTime": 1648379066,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -11715,7 +11821,7 @@
       "type": "codeforces",
       "id": 150967558,
       "creationTime": 1648277992,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "MEMORY_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -11743,7 +11849,7 @@
       "type": "codeforces",
       "id": 150966343,
       "creationTime": 1648277197,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "MEMORY_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -11771,7 +11877,7 @@
       "type": "codeforces",
       "id": 150966187,
       "creationTime": 1648277145,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "MEMORY_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -11799,7 +11905,7 @@
       "type": "codeforces",
       "id": 150965958,
       "creationTime": 1648276976,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "MEMORY_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -11827,7 +11933,7 @@
       "type": "codeforces",
       "id": 150965762,
       "creationTime": 1648276858,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -11855,7 +11961,7 @@
       "type": "codeforces",
       "id": 150965486,
       "creationTime": 1648276698,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "MEMORY_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -11883,7 +11989,7 @@
       "type": "codeforces",
       "id": 150963065,
       "creationTime": 1648275047,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -11911,7 +12017,7 @@
       "type": "codeforces",
       "id": 150961819,
       "creationTime": 1648274097,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -11939,7 +12045,7 @@
       "type": "codeforces",
       "id": 150954599,
       "creationTime": 1648266595,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -11967,7 +12073,7 @@
       "type": "codeforces",
       "id": 150719383,
       "creationTime": 1648129232,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11993,7 +12099,7 @@
       "type": "codeforces",
       "id": 150699317,
       "creationTime": 1648119077,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12018,7 +12124,7 @@
       "type": "codeforces",
       "id": 150673122,
       "creationTime": 1648103289,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12044,7 +12150,7 @@
       "type": "codeforces",
       "id": 150672883,
       "creationTime": 1648103062,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12073,7 +12179,7 @@
       "type": "codeforces",
       "id": 150672452,
       "creationTime": 1648102644,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12102,7 +12208,7 @@
       "type": "codeforces",
       "id": 150620368,
       "creationTime": 1648045817,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12131,7 +12237,7 @@
       "type": "codeforces",
       "id": 150619986,
       "creationTime": 1648045624,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12160,7 +12266,7 @@
       "type": "codeforces",
       "id": 150618155,
       "creationTime": 1648044685,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12189,7 +12295,7 @@
       "type": "codeforces",
       "id": 150614680,
       "creationTime": 1648042899,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12216,7 +12322,7 @@
       "type": "codeforces",
       "id": 150613647,
       "creationTime": 1648042429,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12244,7 +12350,7 @@
       "type": "codeforces",
       "id": 150611147,
       "creationTime": 1648040988,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -12272,7 +12378,7 @@
       "type": "codeforces",
       "id": 150459950,
       "creationTime": 1647957050,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12299,7 +12405,7 @@
       "type": "codeforces",
       "id": 150459795,
       "creationTime": 1647956961,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -12326,7 +12432,7 @@
       "type": "codeforces",
       "id": 150458442,
       "creationTime": 1647956128,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12351,7 +12457,7 @@
       "type": "codeforces",
       "id": 150457495,
       "creationTime": 1647955535,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12378,7 +12484,7 @@
       "type": "codeforces",
       "id": 150454413,
       "creationTime": 1647953687,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12405,7 +12511,7 @@
       "type": "codeforces",
       "id": 150454203,
       "creationTime": 1647953549,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12432,7 +12538,7 @@
       "type": "codeforces",
       "id": 150445543,
       "creationTime": 1647947732,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12458,7 +12564,7 @@
       "type": "codeforces",
       "id": 150445263,
       "creationTime": 1647947525,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12486,7 +12592,7 @@
       "type": "codeforces",
       "id": 150438907,
       "creationTime": 1647943120,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12512,7 +12618,7 @@
       "type": "codeforces",
       "id": 150355704,
       "creationTime": 1647864729,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12538,7 +12644,7 @@
       "type": "codeforces",
       "id": 150355443,
       "creationTime": 1647864570,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12564,7 +12670,7 @@
       "type": "codeforces",
       "id": 150355287,
       "creationTime": 1647864486,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12590,7 +12696,7 @@
       "type": "codeforces",
       "id": 150355177,
       "creationTime": 1647864419,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12616,7 +12722,7 @@
       "type": "codeforces",
       "id": 150355057,
       "creationTime": 1647864351,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12642,7 +12748,7 @@
       "type": "codeforces",
       "id": 150352073,
       "creationTime": 1647862623,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12670,7 +12776,7 @@
       "type": "codeforces",
       "id": 150269621,
       "creationTime": 1647783818,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12698,7 +12804,7 @@
       "type": "codeforces",
       "id": 150260716,
       "creationTime": 1647781333,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12726,7 +12832,7 @@
       "type": "codeforces",
       "id": 150254509,
       "creationTime": 1647779622,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -12754,7 +12860,7 @@
       "type": "codeforces",
       "id": 150238505,
       "creationTime": 1647776804,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12779,7 +12885,7 @@
       "type": "codeforces",
       "id": 150230507,
       "creationTime": 1647776270,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12807,7 +12913,7 @@
       "type": "codeforces",
       "id": 150228703,
       "creationTime": 1647776207,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12835,7 +12941,7 @@
       "type": "codeforces",
       "id": 149914442,
       "creationTime": 1647519820,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12861,7 +12967,7 @@
       "type": "codeforces",
       "id": 149914337,
       "creationTime": 1647519765,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12887,7 +12993,7 @@
       "type": "codeforces",
       "id": 149914012,
       "creationTime": 1647519579,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12913,7 +13019,7 @@
       "type": "codeforces",
       "id": 149913705,
       "creationTime": 1647519417,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12939,7 +13045,7 @@
       "type": "codeforces",
       "id": 149615270,
       "creationTime": 1647263024,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -12964,7 +13070,7 @@
       "type": "codeforces",
       "id": 149615087,
       "creationTime": 1647262927,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -12989,7 +13095,7 @@
       "type": "codeforces",
       "id": 149614929,
       "creationTime": 1647262829,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13014,7 +13120,7 @@
       "type": "codeforces",
       "id": 149614562,
       "creationTime": 1647262610,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13039,7 +13145,7 @@
       "type": "codeforces",
       "id": 149614051,
       "creationTime": 1647262284,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13064,7 +13170,7 @@
       "type": "codeforces",
       "id": 149087025,
       "creationTime": 1646920068,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13090,7 +13196,7 @@
       "type": "codeforces",
       "id": 149086863,
       "creationTime": 1646919961,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13116,7 +13222,7 @@
       "type": "codeforces",
       "id": 149086611,
       "creationTime": 1646919804,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13142,7 +13248,7 @@
       "type": "codeforces",
       "id": 149085225,
       "creationTime": 1646918919,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13168,7 +13274,7 @@
       "type": "codeforces",
       "id": 149084971,
       "creationTime": 1646918732,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13194,7 +13300,7 @@
       "type": "codeforces",
       "id": 149079628,
       "creationTime": 1646915425,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13220,7 +13326,7 @@
       "type": "codeforces",
       "id": 149079089,
       "creationTime": 1646915113,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13246,7 +13352,7 @@
       "type": "codeforces",
       "id": 148984906,
       "creationTime": 1646828417,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13274,7 +13380,7 @@
       "type": "codeforces",
       "id": 148984294,
       "creationTime": 1646828060,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -13302,7 +13408,7 @@
       "type": "codeforces",
       "id": 148117131,
       "creationTime": 1646226753,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13330,7 +13436,7 @@
       "type": "codeforces",
       "id": 148114900,
       "creationTime": 1646225352,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13358,7 +13464,7 @@
       "type": "codeforces",
       "id": 148114485,
       "creationTime": 1646225083,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13386,7 +13492,7 @@
       "type": "codeforces",
       "id": 147182151,
       "creationTime": 1645451416,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13416,7 +13522,7 @@
       "type": "codeforces",
       "id": 147176213,
       "creationTime": 1645447717,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13442,7 +13548,7 @@
       "type": "codeforces",
       "id": 147176087,
       "creationTime": 1645447669,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13468,7 +13574,7 @@
       "type": "codeforces",
       "id": 147175806,
       "creationTime": 1645447462,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13494,7 +13600,7 @@
       "type": "codeforces",
       "id": 147175052,
       "creationTime": 1645447025,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13520,7 +13626,7 @@
       "type": "codeforces",
       "id": 147174953,
       "creationTime": 1645446968,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13546,7 +13652,7 @@
       "type": "codeforces",
       "id": 147172710,
       "creationTime": 1645445560,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13571,7 +13677,7 @@
       "type": "codeforces",
       "id": 147171956,
       "creationTime": 1645445075,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13597,7 +13703,7 @@
       "type": "codeforces",
       "id": 146913218,
       "creationTime": 1645261919,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13623,7 +13729,7 @@
       "type": "codeforces",
       "id": 146913111,
       "creationTime": 1645261849,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -13649,7 +13755,7 @@
       "type": "codeforces",
       "id": 146912922,
       "creationTime": 1645261730,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -13675,7 +13781,7 @@
       "type": "codeforces",
       "id": 146912639,
       "creationTime": 1645261532,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -13701,7 +13807,7 @@
       "type": "codeforces",
       "id": 146912387,
       "creationTime": 1645261363,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13727,7 +13833,7 @@
       "type": "codeforces",
       "id": 146904805,
       "creationTime": 1645256043,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13753,7 +13859,7 @@
       "type": "codeforces",
       "id": 146904525,
       "creationTime": 1645255867,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13779,7 +13885,7 @@
       "type": "codeforces",
       "id": 146904406,
       "creationTime": 1645255789,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13805,7 +13911,7 @@
       "type": "codeforces",
       "id": 146904179,
       "creationTime": 1645255652,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13831,7 +13937,7 @@
       "type": "codeforces",
       "id": 146898970,
       "creationTime": 1645252066,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13856,7 +13962,7 @@
       "type": "codeforces",
       "id": 146898531,
       "creationTime": 1645251742,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13881,7 +13987,7 @@
       "type": "codeforces",
       "id": 146898064,
       "creationTime": 1645251408,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13906,7 +14012,7 @@
       "type": "codeforces",
       "id": 146747297,
       "creationTime": 1645108739,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13931,7 +14037,7 @@
       "type": "codeforces",
       "id": 146704774,
       "creationTime": 1645085290,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -13957,7 +14063,7 @@
       "type": "codeforces",
       "id": 146704395,
       "creationTime": 1645085009,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -13983,7 +14089,7 @@
       "type": "codeforces",
       "id": 146702145,
       "creationTime": 1645083387,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14009,7 +14115,7 @@
       "type": "codeforces",
       "id": 146647760,
       "creationTime": 1645025744,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14037,7 +14143,7 @@
       "type": "codeforces",
       "id": 146643498,
       "creationTime": 1645023167,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14065,7 +14171,7 @@
       "type": "codeforces",
       "id": 146643245,
       "creationTime": 1645023003,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -14093,7 +14199,7 @@
       "type": "codeforces",
       "id": 146581142,
       "creationTime": 1644985300,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14120,7 +14226,7 @@
       "type": "codeforces",
       "id": 146495139,
       "creationTime": 1644915480,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14147,7 +14253,7 @@
       "type": "codeforces",
       "id": 144562689,
       "creationTime": 1643557682,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14173,7 +14279,7 @@
       "type": "codeforces",
       "id": 144531707,
       "creationTime": 1643554361,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14198,7 +14304,7 @@
       "type": "codeforces",
       "id": 144444464,
       "creationTime": 1643475838,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14226,7 +14332,7 @@
       "type": "codeforces",
       "id": 144341817,
       "creationTime": 1643385571,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14252,7 +14358,7 @@
       "type": "codeforces",
       "id": 144201618,
       "creationTime": 1643296271,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14278,7 +14384,7 @@
       "type": "codeforces",
       "id": 144193815,
       "creationTime": 1643295688,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14304,7 +14410,7 @@
       "type": "codeforces",
       "id": 144181154,
       "creationTime": 1643294914,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14329,7 +14435,7 @@
       "type": "codeforces",
       "id": 143891705,
       "creationTime": 1643038929,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14357,7 +14463,7 @@
       "type": "codeforces",
       "id": 143830729,
       "creationTime": 1642995299,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14383,7 +14489,7 @@
       "type": "codeforces",
       "id": 143696907,
       "creationTime": 1642868939,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14412,7 +14518,7 @@
       "type": "codeforces",
       "id": 143661780,
       "creationTime": 1642864469,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14439,7 +14545,7 @@
       "type": "codeforces",
       "id": 143633871,
       "creationTime": 1642862457,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14466,7 +14572,7 @@
       "type": "codeforces",
       "id": 139140928,
       "creationTime": 1639487018,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14492,7 +14598,7 @@
       "type": "codeforces",
       "id": 139140898,
       "creationTime": 1639486990,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14518,7 +14624,7 @@
       "type": "codeforces",
       "id": 139140842,
       "creationTime": 1639486949,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14544,7 +14650,7 @@
       "type": "codeforces",
       "id": 139140755,
       "creationTime": 1639486903,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14570,7 +14676,7 @@
       "type": "codeforces",
       "id": 139140330,
       "creationTime": 1639486600,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14596,7 +14702,7 @@
       "type": "codeforces",
       "id": 139140180,
       "creationTime": 1639486505,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14622,7 +14728,7 @@
       "type": "codeforces",
       "id": 139140120,
       "creationTime": 1639486470,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14648,7 +14754,7 @@
       "type": "codeforces",
       "id": 139139401,
       "creationTime": 1639486044,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14674,7 +14780,7 @@
       "type": "codeforces",
       "id": 139138889,
       "creationTime": 1639485728,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14700,7 +14806,7 @@
       "type": "codeforces",
       "id": 138363480,
       "creationTime": 1638892610,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14722,7 +14828,7 @@
       "type": "codeforces",
       "id": 138333152,
       "creationTime": 1638873277,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14744,7 +14850,7 @@
       "type": "codeforces",
       "id": 138332929,
       "creationTime": 1638873120,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14766,7 +14872,7 @@
       "type": "codeforces",
       "id": 138331313,
       "creationTime": 1638871969,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14788,7 +14894,7 @@
       "type": "codeforces",
       "id": 138330833,
       "creationTime": 1638871630,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14810,7 +14916,7 @@
       "type": "codeforces",
       "id": 138329096,
       "creationTime": 1638870257,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14832,7 +14938,7 @@
       "type": "codeforces",
       "id": 138321794,
       "creationTime": 1638864140,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -14854,7 +14960,7 @@
       "type": "codeforces",
       "id": 138321686,
       "creationTime": 1638864037,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14876,7 +14982,7 @@
       "type": "codeforces",
       "id": 138321421,
       "creationTime": 1638863809,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14898,7 +15004,7 @@
       "type": "codeforces",
       "id": 138320824,
       "creationTime": 1638863267,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14920,7 +15026,7 @@
       "type": "codeforces",
       "id": 138320595,
       "creationTime": 1638863002,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14942,7 +15048,7 @@
       "type": "codeforces",
       "id": 138319009,
       "creationTime": 1638861613,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14964,7 +15070,7 @@
       "type": "codeforces",
       "id": 137597069,
       "creationTime": 1638357535,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -14986,7 +15092,7 @@
       "type": "codeforces",
       "id": 137465153,
       "creationTime": 1638271626,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15012,7 +15118,7 @@
       "type": "codeforces",
       "id": 136807544,
       "creationTime": 1637824778,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15040,7 +15146,7 @@
       "type": "codeforces",
       "id": 136807292,
       "creationTime": 1637824566,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15068,7 +15174,7 @@
       "type": "codeforces",
       "id": 136795612,
       "creationTime": 1637818890,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15094,7 +15200,7 @@
       "type": "codeforces",
       "id": 136742661,
       "creationTime": 1637759443,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15120,7 +15226,7 @@
       "type": "codeforces",
       "id": 136742130,
       "creationTime": 1637759090,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15146,7 +15252,7 @@
       "type": "codeforces",
       "id": 134739358,
       "creationTime": 1636449159,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15171,7 +15277,7 @@
       "type": "codeforces",
       "id": 134736088,
       "creationTime": 1636446675,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15197,7 +15303,7 @@
       "type": "codeforces",
       "id": 134025050,
       "creationTime": 1635839423,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15223,7 +15329,7 @@
       "type": "codeforces",
       "id": 134023975,
       "creationTime": 1635838683,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15249,7 +15355,7 @@
       "type": "codeforces",
       "id": 134021862,
       "creationTime": 1635837130,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15277,7 +15383,7 @@
       "type": "codeforces",
       "id": 134018976,
       "creationTime": 1635834797,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15305,7 +15411,7 @@
       "type": "codeforces",
       "id": 133947705,
       "creationTime": 1635770733,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15328,7 +15434,7 @@
       "type": "codeforces",
       "id": 133943570,
       "creationTime": 1635769885,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15351,7 +15457,7 @@
       "type": "codeforces",
       "id": 133935938,
       "creationTime": 1635768592,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15376,7 +15482,7 @@
       "type": "codeforces",
       "id": 132909504,
       "creationTime": 1635076391,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15402,7 +15508,7 @@
       "type": "codeforces",
       "id": 132895389,
       "creationTime": 1635074241,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15431,7 +15537,7 @@
       "type": "codeforces",
       "id": 132889290,
       "creationTime": 1635073451,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15456,7 +15562,7 @@
       "type": "codeforces",
       "id": 132885096,
       "creationTime": 1635072946,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15482,7 +15588,7 @@
       "type": "codeforces",
       "id": 132884859,
       "creationTime": 1635072920,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15508,7 +15614,7 @@
       "type": "codeforces",
       "id": 132882558,
       "creationTime": 1635072653,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15534,7 +15640,7 @@
       "type": "codeforces",
       "id": 132879393,
       "creationTime": 1635072318,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15560,7 +15666,7 @@
       "type": "codeforces",
       "id": 132877734,
       "creationTime": 1635072148,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15586,7 +15692,7 @@
       "type": "codeforces",
       "id": 132868132,
       "creationTime": 1635071248,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15611,7 +15717,7 @@
       "type": "codeforces",
       "id": 132694460,
       "creationTime": 1634905575,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15638,7 +15744,7 @@
       "type": "codeforces",
       "id": 132693808,
       "creationTime": 1634905043,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15665,7 +15771,7 @@
       "type": "codeforces",
       "id": 132692704,
       "creationTime": 1634904192,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15692,7 +15798,7 @@
       "type": "codeforces",
       "id": 132680735,
       "creationTime": 1634894645,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15721,7 +15827,7 @@
       "type": "codeforces",
       "id": 132536685,
       "creationTime": 1634738868,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15747,7 +15853,7 @@
       "type": "codeforces",
       "id": 132527665,
       "creationTime": 1634733391,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -15774,7 +15880,7 @@
       "type": "codeforces",
       "id": 132527456,
       "creationTime": 1634733232,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -15801,7 +15907,7 @@
       "type": "codeforces",
       "id": 132421182,
       "creationTime": 1634636024,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15831,7 +15937,7 @@
       "type": "codeforces",
       "id": 132414547,
       "creationTime": 1634631003,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15857,7 +15963,7 @@
       "type": "codeforces",
       "id": 132411115,
       "creationTime": 1634628478,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -15884,7 +15990,7 @@
       "type": "codeforces",
       "id": 132411010,
       "creationTime": 1634628390,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15911,7 +16017,7 @@
       "type": "codeforces",
       "id": 132410911,
       "creationTime": 1634628316,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -15938,7 +16044,7 @@
       "type": "codeforces",
       "id": 132410771,
       "creationTime": 1634628198,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15965,7 +16071,7 @@
       "type": "codeforces",
       "id": 132410288,
       "creationTime": 1634627840,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -15992,7 +16098,7 @@
       "type": "codeforces",
       "id": 132409554,
       "creationTime": 1634627326,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16019,7 +16125,7 @@
       "type": "codeforces",
       "id": 132409492,
       "creationTime": 1634627281,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16046,7 +16152,7 @@
       "type": "codeforces",
       "id": 132346356,
       "creationTime": 1634560620,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16075,7 +16181,7 @@
       "type": "codeforces",
       "id": 132345684,
       "creationTime": 1634560262,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -16104,7 +16210,7 @@
       "type": "codeforces",
       "id": 132345153,
       "creationTime": 1634559993,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -16133,7 +16239,7 @@
       "type": "codeforces",
       "id": 132342360,
       "creationTime": 1634558534,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16162,7 +16268,7 @@
       "type": "codeforces",
       "id": 132261809,
       "creationTime": 1634477334,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16187,7 +16293,7 @@
       "type": "codeforces",
       "id": 131742458,
       "creationTime": 1634132117,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16212,7 +16318,7 @@
       "type": "codeforces",
       "id": 131742140,
       "creationTime": 1634131903,
-      "language": "GNU C++17",
+      "language": "C++17 (GCC 7-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16237,7 +16343,7 @@
       "type": "codeforces",
       "id": 131627120,
       "creationTime": 1634030646,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16263,7 +16369,7 @@
       "type": "codeforces",
       "id": 131626424,
       "creationTime": 1634030155,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16289,7 +16395,7 @@
       "type": "codeforces",
       "id": 131625855,
       "creationTime": 1634029702,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16315,7 +16421,7 @@
       "type": "codeforces",
       "id": 131565642,
       "creationTime": 1633964256,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16344,7 +16450,7 @@
       "type": "codeforces",
       "id": 131565367,
       "creationTime": 1633964108,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16373,7 +16479,7 @@
       "type": "codeforces",
       "id": 131443409,
       "creationTime": 1633862272,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16402,7 +16508,7 @@
       "type": "codeforces",
       "id": 131442988,
       "creationTime": 1633862204,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16431,7 +16537,7 @@
       "type": "codeforces",
       "id": 131442127,
       "creationTime": 1633862058,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16460,7 +16566,7 @@
       "type": "codeforces",
       "id": 131440369,
       "creationTime": 1633861778,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16489,7 +16595,7 @@
       "type": "codeforces",
       "id": 131424924,
       "creationTime": 1633859558,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16515,7 +16621,7 @@
       "type": "codeforces",
       "id": 131416851,
       "creationTime": 1633858631,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16541,7 +16647,7 @@
       "type": "codeforces",
       "id": 131400559,
       "creationTime": 1633856992,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16569,7 +16675,7 @@
       "type": "codeforces",
       "id": 131151026,
       "creationTime": 1633696340,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16597,7 +16703,7 @@
       "type": "codeforces",
       "id": 131149654,
       "creationTime": 1633695457,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16625,7 +16731,7 @@
       "type": "codeforces",
       "id": 131147937,
       "creationTime": 1633694314,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16652,7 +16758,7 @@
       "type": "codeforces",
       "id": 131146205,
       "creationTime": 1633693104,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16682,7 +16788,7 @@
       "type": "codeforces",
       "id": 130994149,
       "creationTime": 1633535581,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16710,7 +16816,7 @@
       "type": "codeforces",
       "id": 130991244,
       "creationTime": 1633533521,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16738,7 +16844,7 @@
       "type": "codeforces",
       "id": 130987256,
       "creationTime": 1633530947,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16766,7 +16872,7 @@
       "type": "codeforces",
       "id": 130987188,
       "creationTime": 1633530914,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16794,7 +16900,7 @@
       "type": "codeforces",
       "id": 130986958,
       "creationTime": 1633530770,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16822,7 +16928,7 @@
       "type": "codeforces",
       "id": 130986878,
       "creationTime": 1633530714,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16850,7 +16956,7 @@
       "type": "codeforces",
       "id": 130986596,
       "creationTime": 1633530543,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -16878,7 +16984,7 @@
       "type": "codeforces",
       "id": 130986045,
       "creationTime": 1633530164,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16906,7 +17012,7 @@
       "type": "codeforces",
       "id": 130985765,
       "creationTime": 1633529984,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16934,7 +17040,7 @@
       "type": "codeforces",
       "id": 130984892,
       "creationTime": 1633529428,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16962,7 +17068,7 @@
       "type": "codeforces",
       "id": 130984488,
       "creationTime": 1633529168,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -16990,7 +17096,7 @@
       "type": "codeforces",
       "id": 130725396,
       "creationTime": 1633281289,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17018,7 +17124,7 @@
       "type": "codeforces",
       "id": 130725173,
       "creationTime": 1633281191,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17046,7 +17152,7 @@
       "type": "codeforces",
       "id": 130724019,
       "creationTime": 1633280750,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17074,7 +17180,7 @@
       "type": "codeforces",
       "id": 130723732,
       "creationTime": 1633280369,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17102,7 +17208,7 @@
       "type": "codeforces",
       "id": 130486634,
       "creationTime": 1633106312,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17129,7 +17235,7 @@
       "type": "codeforces",
       "id": 130483844,
       "creationTime": 1633104555,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17155,7 +17261,7 @@
       "type": "codeforces",
       "id": 130463211,
       "creationTime": 1633092758,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17181,7 +17287,7 @@
       "type": "codeforces",
       "id": 130446272,
       "creationTime": 1633078362,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17208,7 +17314,7 @@
       "type": "codeforces",
       "id": 130446088,
       "creationTime": 1633078200,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17235,7 +17341,7 @@
       "type": "codeforces",
       "id": 130445053,
       "creationTime": 1633077416,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17262,7 +17368,7 @@
       "type": "codeforces",
       "id": 130441674,
       "creationTime": 1633074685,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17288,7 +17394,7 @@
       "type": "codeforces",
       "id": 130367685,
       "creationTime": 1633003460,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17314,7 +17420,7 @@
       "type": "codeforces",
       "id": 130258591,
       "creationTime": 1632915402,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17340,7 +17446,7 @@
       "type": "codeforces",
       "id": 130200205,
       "creationTime": 1632852757,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17368,7 +17474,7 @@
       "type": "codeforces",
       "id": 130199379,
       "creationTime": 1632852240,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17396,7 +17502,7 @@
       "type": "codeforces",
       "id": 130198730,
       "creationTime": 1632851844,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17424,7 +17530,7 @@
       "type": "codeforces",
       "id": 130179450,
       "creationTime": 1632846597,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17451,7 +17557,7 @@
       "type": "codeforces",
       "id": 130091063,
       "creationTime": 1632834555,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17478,7 +17584,7 @@
       "type": "codeforces",
       "id": 130090742,
       "creationTime": 1632834332,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17505,7 +17611,7 @@
       "type": "codeforces",
       "id": 130090448,
       "creationTime": 1632834128,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -17532,7 +17638,7 @@
       "type": "codeforces",
       "id": 130089312,
       "creationTime": 1632833367,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17559,7 +17665,7 @@
       "type": "codeforces",
       "id": 130088812,
       "creationTime": 1632833032,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17586,7 +17692,7 @@
       "type": "codeforces",
       "id": 130067679,
       "creationTime": 1632815762,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17614,7 +17720,7 @@
       "type": "codeforces",
       "id": 130067506,
       "creationTime": 1632815621,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "MEMORY_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -17642,7 +17748,7 @@
       "type": "codeforces",
       "id": 130065638,
       "creationTime": 1632814006,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -17670,7 +17776,7 @@
       "type": "codeforces",
       "id": 130065508,
       "creationTime": 1632813907,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -17698,7 +17804,7 @@
       "type": "codeforces",
       "id": 129941001,
       "creationTime": 1632672082,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17724,7 +17830,7 @@
       "type": "codeforces",
       "id": 129940509,
       "creationTime": 1632671705,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -17750,7 +17856,7 @@
       "type": "codeforces",
       "id": 129940254,
       "creationTime": 1632671511,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -17776,7 +17882,7 @@
       "type": "codeforces",
       "id": 129584266,
       "creationTime": 1632313921,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17802,7 +17908,7 @@
       "type": "codeforces",
       "id": 128966134,
       "creationTime": 1631780280,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17828,7 +17934,7 @@
       "type": "codeforces",
       "id": 128965572,
       "creationTime": 1631779738,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17854,7 +17960,7 @@
       "type": "codeforces",
       "id": 128964692,
       "creationTime": 1631778978,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17880,7 +17986,7 @@
       "type": "codeforces",
       "id": 128961353,
       "creationTime": 1631776018,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -17906,7 +18012,7 @@
       "type": "codeforces",
       "id": 128960203,
       "creationTime": 1631775042,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17932,7 +18038,7 @@
       "type": "codeforces",
       "id": 128958991,
       "creationTime": 1631773904,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17958,7 +18064,7 @@
       "type": "codeforces",
       "id": 128919058,
       "creationTime": 1631720351,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -17984,7 +18090,7 @@
       "type": "codeforces",
       "id": 128899963,
       "creationTime": 1631707633,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18010,7 +18116,7 @@
       "type": "codeforces",
       "id": 128899891,
       "creationTime": 1631707588,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18036,7 +18142,7 @@
       "type": "codeforces",
       "id": 128899789,
       "creationTime": 1631707520,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18062,7 +18168,7 @@
       "type": "codeforces",
       "id": 128744174,
       "creationTime": 1631546883,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18087,7 +18193,7 @@
       "type": "codeforces",
       "id": 128743593,
       "creationTime": 1631546572,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -18112,7 +18218,7 @@
       "type": "codeforces",
       "id": 128691989,
       "creationTime": 1631506891,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18139,7 +18245,7 @@
       "type": "codeforces",
       "id": 128346922,
       "creationTime": 1631192894,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18165,7 +18271,7 @@
       "type": "codeforces",
       "id": 128342608,
       "creationTime": 1631189727,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18192,7 +18298,7 @@
       "type": "codeforces",
       "id": 128326960,
       "creationTime": 1631176752,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18218,7 +18324,7 @@
       "type": "codeforces",
       "id": 128326708,
       "creationTime": 1631176560,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18244,7 +18350,7 @@
       "type": "codeforces",
       "id": 128325839,
       "creationTime": 1631175825,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18270,7 +18376,7 @@
       "type": "codeforces",
       "id": 128325189,
       "creationTime": 1631175235,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18296,7 +18402,7 @@
       "type": "codeforces",
       "id": 128305710,
       "creationTime": 1631154075,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18322,7 +18428,7 @@
       "type": "codeforces",
       "id": 128257272,
       "creationTime": 1631115598,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18347,7 +18453,7 @@
       "type": "codeforces",
       "id": 128113020,
       "creationTime": 1631008616,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18375,7 +18481,7 @@
       "type": "codeforces",
       "id": 128088910,
       "creationTime": 1630981024,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18401,7 +18507,7 @@
       "type": "codeforces",
       "id": 128088844,
       "creationTime": 1630980889,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18427,7 +18533,7 @@
       "type": "codeforces",
       "id": 128088742,
       "creationTime": 1630980674,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18453,7 +18559,7 @@
       "type": "codeforces",
       "id": 128088678,
       "creationTime": 1630980509,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18479,7 +18585,7 @@
       "type": "codeforces",
       "id": 128088247,
       "creationTime": 1630979596,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18505,7 +18611,7 @@
       "type": "codeforces",
       "id": 127630489,
       "creationTime": 1630514867,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18533,7 +18639,7 @@
       "type": "codeforces",
       "id": 127466765,
       "creationTime": 1630342763,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18559,7 +18665,7 @@
       "type": "codeforces",
       "id": 127465833,
       "creationTime": 1630341898,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18585,7 +18691,7 @@
       "type": "codeforces",
       "id": 127462735,
       "creationTime": 1630339329,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18611,7 +18717,7 @@
       "type": "codeforces",
       "id": 127460780,
       "creationTime": 1630337834,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18637,7 +18743,7 @@
       "type": "codeforces",
       "id": 127460635,
       "creationTime": 1630337741,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18663,7 +18769,7 @@
       "type": "codeforces",
       "id": 127425491,
       "creationTime": 1630308090,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18688,7 +18794,7 @@
       "type": "codeforces",
       "id": 127420902,
       "creationTime": 1630303753,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18713,7 +18819,7 @@
       "type": "codeforces",
       "id": 127328279,
       "creationTime": 1630241180,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18740,7 +18846,7 @@
       "type": "codeforces",
       "id": 127113759,
       "creationTime": 1629994705,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18769,7 +18875,7 @@
       "type": "codeforces",
       "id": 127113412,
       "creationTime": 1629994648,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
@@ -18798,7 +18904,7 @@
       "type": "codeforces",
       "id": 127096394,
       "creationTime": 1629992349,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18827,7 +18933,7 @@
       "type": "codeforces",
       "id": 127068107,
       "creationTime": 1629989468,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18853,7 +18959,7 @@
       "type": "codeforces",
       "id": 126350519,
       "creationTime": 1629303512,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18883,7 +18989,7 @@
       "type": "codeforces",
       "id": 126348215,
       "creationTime": 1629303222,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18913,7 +19019,7 @@
       "type": "codeforces",
       "id": 126345651,
       "creationTime": 1629302903,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -18943,7 +19049,7 @@
       "type": "codeforces",
       "id": 126321335,
       "creationTime": 1629300285,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18969,7 +19075,7 @@
       "type": "codeforces",
       "id": 126300906,
       "creationTime": 1629298681,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -18994,7 +19100,7 @@
       "type": "codeforces",
       "id": 126278020,
       "creationTime": 1629297484,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19019,7 +19125,7 @@
       "type": "codeforces",
       "id": 126183685,
       "creationTime": 1629207731,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19045,7 +19151,7 @@
       "type": "codeforces",
       "id": 126182268,
       "creationTime": 1629206832,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19071,7 +19177,7 @@
       "type": "codeforces",
       "id": 126180487,
       "creationTime": 1629205680,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19098,7 +19204,7 @@
       "type": "codeforces",
       "id": 126179611,
       "creationTime": 1629205063,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19125,7 +19231,7 @@
       "type": "codeforces",
       "id": 126179326,
       "creationTime": 1629204873,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19152,7 +19258,7 @@
       "type": "codeforces",
       "id": 125489644,
       "creationTime": 1628604127,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19180,7 +19286,7 @@
       "type": "codeforces",
       "id": 125478536,
       "creationTime": 1628597541,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19206,7 +19312,7 @@
       "type": "codeforces",
       "id": 125477548,
       "creationTime": 1628596937,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -19232,7 +19338,7 @@
       "type": "codeforces",
       "id": 125476572,
       "creationTime": 1628596312,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -19258,7 +19364,7 @@
       "type": "codeforces",
       "id": 125455995,
       "creationTime": 1628582095,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19289,7 +19395,7 @@
       "type": "codeforces",
       "id": 125449149,
       "creationTime": 1628577171,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19315,7 +19421,7 @@
       "type": "codeforces",
       "id": 125443889,
       "creationTime": 1628572684,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19341,7 +19447,7 @@
       "type": "codeforces",
       "id": 125437539,
       "creationTime": 1628566556,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19368,7 +19474,7 @@
       "type": "codeforces",
       "id": 125437473,
       "creationTime": 1628566480,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19395,7 +19501,7 @@
       "type": "codeforces",
       "id": 125432892,
       "creationTime": 1628561989,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19422,7 +19528,7 @@
       "type": "codeforces",
       "id": 125372979,
       "creationTime": 1628523161,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19448,7 +19554,7 @@
       "type": "codeforces",
       "id": 125372476,
       "creationTime": 1628523110,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19474,7 +19580,7 @@
       "type": "codeforces",
       "id": 125372138,
       "creationTime": 1628523075,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19500,7 +19606,7 @@
       "type": "codeforces",
       "id": 125348896,
       "creationTime": 1628521296,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19527,7 +19633,7 @@
       "type": "codeforces",
       "id": 125341075,
       "creationTime": 1628520876,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19554,7 +19660,7 @@
       "type": "codeforces",
       "id": 125338878,
       "creationTime": 1628520767,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19581,7 +19687,7 @@
       "type": "codeforces",
       "id": 125332303,
       "creationTime": 1628520447,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19608,7 +19714,7 @@
       "type": "codeforces",
       "id": 125324828,
       "creationTime": 1628520113,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -19635,7 +19741,7 @@
       "type": "codeforces",
       "id": 124338712,
       "creationTime": 1627662425,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19663,7 +19769,7 @@
       "type": "codeforces",
       "id": 124337775,
       "creationTime": 1627662287,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19691,7 +19797,7 @@
       "type": "codeforces",
       "id": 124306988,
       "creationTime": 1627658361,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19717,7 +19823,7 @@
       "type": "codeforces",
       "id": 124300556,
       "creationTime": 1627657751,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19743,7 +19849,7 @@
       "type": "codeforces",
       "id": 124288956,
       "creationTime": 1627656772,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19769,7 +19875,7 @@
       "type": "codeforces",
       "id": 124286613,
       "creationTime": 1627656576,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19795,7 +19901,7 @@
       "type": "codeforces",
       "id": 124147659,
       "creationTime": 1627571223,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19823,7 +19929,7 @@
       "type": "codeforces",
       "id": 124146228,
       "creationTime": 1627571063,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19851,7 +19957,7 @@
       "type": "codeforces",
       "id": 124135763,
       "creationTime": 1627570002,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19876,7 +19982,7 @@
       "type": "codeforces",
       "id": 123558335,
       "creationTime": 1627089942,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19902,7 +20008,7 @@
       "type": "codeforces",
       "id": 123558266,
       "creationTime": 1627089844,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19928,7 +20034,7 @@
       "type": "codeforces",
       "id": 123557457,
       "creationTime": 1627088579,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -19954,7 +20060,7 @@
       "type": "codeforces",
       "id": 123500292,
       "creationTime": 1627054988,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -19982,7 +20088,7 @@
       "type": "codeforces",
       "id": 123499283,
       "creationTime": 1627054882,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
@@ -20010,7 +20116,7 @@
       "type": "codeforces",
       "id": 123498816,
       "creationTime": 1627054830,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
@@ -20038,7 +20144,7 @@
       "type": "codeforces",
       "id": 123495671,
       "creationTime": 1627054493,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -20066,7 +20172,7 @@
       "type": "codeforces",
       "id": 123480994,
       "creationTime": 1627053106,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
@@ -20094,7 +20200,7 @@
       "type": "codeforces",
       "id": 123469966,
       "creationTime": 1627052277,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -20120,7 +20226,7 @@
       "type": "codeforces",
       "id": 123445970,
       "creationTime": 1627051121,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "OK",
       "author": {
         "members": [
@@ -20146,7 +20252,7 @@
       "type": "codeforces",
       "id": 123416889,
       "creationTime": 1627032537,
-      "language": "GNU C++14",
+      "language": "C++14 (GCC 6-32)",
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
