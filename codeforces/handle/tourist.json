@@ -26,6 +26,7 @@
           "constructive algorithms",
           "dsu",
           "greedy",
+          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1935/problem/F"
@@ -54,6 +55,7 @@
           "constructive algorithms",
           "dsu",
           "greedy",
+          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1935/problem/F"
@@ -82,6 +84,7 @@
           "constructive algorithms",
           "dsu",
           "greedy",
+          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1935/problem/F"
@@ -110,6 +113,7 @@
           "constructive algorithms",
           "dsu",
           "greedy",
+          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1935/problem/F"
@@ -138,6 +142,7 @@
           "constructive algorithms",
           "dsu",
           "greedy",
+          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1935/problem/F"
@@ -162,6 +167,7 @@
         "id": "1935E",
         "name": "Distance Learning Courses in MAC",
         "tags": [
+          "binary search",
           "bitmasks",
           "data structures",
           "greedy",
@@ -190,6 +196,7 @@
         "id": "1935E",
         "name": "Distance Learning Courses in MAC",
         "tags": [
+          "binary search",
           "bitmasks",
           "data structures",
           "greedy",
@@ -219,7 +226,9 @@
         "name": "Exam in MAC",
         "tags": [
           "binary search",
+          "bitmasks",
           "combinatorics",
+          "geometry",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1935/problem/D"
@@ -244,6 +253,7 @@
         "id": "1935C",
         "name": "Messenger in MAC",
         "tags": [
+          "binary search",
           "brute force",
           "constructive algorithms",
           "data structures",
