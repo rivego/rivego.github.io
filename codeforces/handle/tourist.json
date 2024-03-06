@@ -170,8 +170,8 @@
           "binary search",
           "bitmasks",
           "data structures",
+          "dp",
           "greedy",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1935/problem/E"
@@ -199,8 +199,8 @@
           "binary search",
           "bitmasks",
           "data structures",
+          "dp",
           "greedy",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1935/problem/E"
@@ -226,9 +226,8 @@
         "name": "Exam in MAC",
         "tags": [
           "binary search",
-          "bitmasks",
           "combinatorics",
-          "geometry",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1935/problem/D"
@@ -258,6 +257,7 @@
           "constructive algorithms",
           "data structures",
           "dp",
+          "greedy",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1935/problem/C"
