@@ -26,7 +26,6 @@
           "constructive algorithms",
           "dfs and similar",
           "dsu",
-          "geometry",
           "greedy",
           "implementation",
           "trees"
@@ -57,7 +56,6 @@
           "constructive algorithms",
           "dfs and similar",
           "dsu",
-          "geometry",
           "greedy",
           "implementation",
           "trees"
@@ -88,7 +86,6 @@
           "constructive algorithms",
           "dfs and similar",
           "dsu",
-          "geometry",
           "greedy",
           "implementation",
           "trees"
@@ -119,7 +116,6 @@
           "constructive algorithms",
           "dfs and similar",
           "dsu",
-          "geometry",
           "greedy",
           "implementation",
           "trees"
@@ -150,7 +146,6 @@
           "constructive algorithms",
           "dfs and similar",
           "dsu",
-          "geometry",
           "greedy",
           "implementation",
           "trees"
@@ -177,10 +172,9 @@
         "id": "1935E",
         "name": "Distance Learning Courses in MAC",
         "tags": [
-          "binary search",
           "bitmasks",
+          "brute force",
           "data structures",
-          "dp",
           "greedy",
           "math"
         ],
@@ -206,10 +200,9 @@
         "id": "1935E",
         "name": "Distance Learning Courses in MAC",
         "tags": [
-          "binary search",
           "bitmasks",
+          "brute force",
           "data structures",
-          "dp",
           "greedy",
           "math"
         ],
