@@ -50,6 +50,7 @@
         "tags": [
           "binary search",
           "greedy",
+          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1941/problem/F"
@@ -74,8 +75,10 @@
         "id": "1941E",
         "name": "Rudolf and k Bridges",
         "tags": [
+          "binary search",
           "data structures",
-          "dp"
+          "dp",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1941/problem/E"
       },
@@ -175,9 +178,7 @@
         "name": "Rudolf and the Ticket",
         "tags": [
           "brute force",
-          "math",
-          "sortings",
-          "two pointers"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1941/problem/A"
       },
