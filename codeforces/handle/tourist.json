@@ -23,6 +23,7 @@
         "name": "Rudolf and Subway",
         "tags": [
           "dfs and similar",
+          "graphs",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1941/problem/G"
@@ -123,6 +124,7 @@
         "id": "1941C",
         "name": "Rudolf and the Ugly String",
         "tags": [
+          "dp",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1941/problem/C"
@@ -172,6 +174,7 @@
         "id": "1941A",
         "name": "Rudolf and the Ticket",
         "tags": [
+          "brute force",
           "math",
           "sortings",
           "two pointers"
