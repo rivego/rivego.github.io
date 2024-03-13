@@ -152,6 +152,8 @@
         "id": "1941B",
         "name": "Rudolf and 121",
         "tags": [
+          "brute force",
+          "dp",
           "greedy",
           "math"
         ],
