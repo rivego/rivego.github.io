@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1933C",
         "name": "Turtle Fingers: Count the Values of k",
+        "rating": 1100,
         "tags": [
           "brute force",
           "implementation",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1933C",
         "name": "Turtle Fingers: Count the Values of k",
+        "rating": 1100,
         "tags": [
           "brute force",
           "implementation",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "1933B",
         "name": "Turtle Math: Fast Three Task",
+        "rating": 800,
         "tags": [
           "implementation",
           "math",
@@ -101,6 +104,7 @@
         "type": "codeforces",
         "id": "1933A",
         "name": "Turtle Puzzle: Rearrange and Negate",
+        "rating": 800,
         "tags": [
           "greedy",
           "math",
