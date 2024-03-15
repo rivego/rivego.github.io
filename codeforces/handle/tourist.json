@@ -107,6 +107,7 @@
         "name": "Rudolf and the Ball Game",
         "rating": 1200,
         "tags": [
+          "dfs and similar",
           "dp",
           "implementation"
         ],
@@ -134,6 +135,7 @@
         "rating": 900,
         "tags": [
           "dp",
+          "greedy",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1941/problem/C"
