@@ -23,7 +23,8 @@
         "name": "MST with Matching",
         "tags": [
           "bitmasks",
-          "brute force"
+          "brute force",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/G"
       },
@@ -47,7 +48,6 @@
         "id": "1948E",
         "name": "Clique Partition",
         "tags": [
-          "binary search",
           "constructive algorithms",
           "graphs",
           "greedy"
@@ -100,6 +100,7 @@
         "id": "1948D",
         "name": "Tandem Repeats?",
         "tags": [
+          "brute force",
           "dp",
           "strings",
           "two pointers"
@@ -127,9 +128,7 @@
         "name": "Arrow Path",
         "tags": [
           "dfs and similar",
-          "dp",
           "graphs",
-          "shortest paths",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/C"
@@ -154,8 +153,10 @@
         "id": "1948B",
         "name": "Array Fix",
         "tags": [
+          "brute force",
           "dp",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/B"
       },
@@ -179,7 +180,7 @@
         "id": "1948A",
         "name": "Special Characters",
         "tags": [
-          "constructive algorithms",
+          "brute force",
           "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/A"
