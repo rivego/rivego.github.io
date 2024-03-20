@@ -99,6 +99,7 @@
         "id": "1943D1",
         "name": "Counting Is Fun (Easy Version)",
         "tags": [
+          "brute force",
           "combinatorics",
           "dp",
           "math"
