@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1710955967,
+  "updateTime": 1710999176,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 252536707,
+            "pid": "104854D",
+            "name": "District 42",
+            "verdict": "TESTING",
+            "creationTime": 1710999156
+          },
+          {
+            "platform": "codeforces",
+            "id": 252536460,
+            "pid": "104854F",
+            "name": "Factorial Prime",
+            "verdict": "OK",
+            "creationTime": 1710998997
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "197998ba3633067737e6d225fdab298f236c6dfd"
+  "ref": "a12125b644383b1b4ad5bc7c6770ac838c4b4a8c"
 }
