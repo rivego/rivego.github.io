@@ -207,7 +207,8 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "dsu"
+          "dsu",
+          "graph matchings"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/G"
       },
