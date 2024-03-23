@@ -22,9 +22,11 @@
         "id": "1946F",
         "name": "Nobody is needed",
         "tags": [
+          "brute force",
           "data structures",
           "dp",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1946/problem/F"
       },
@@ -49,6 +51,7 @@
         "name": "Girl Permutation",
         "tags": [
           "combinatorics",
+          "dp",
           "math",
           "number theory"
         ],
@@ -75,6 +78,7 @@
         "name": "Birthday Gift",
         "tags": [
           "bitmasks",
+          "brute force",
           "constructive algorithms",
           "greedy",
           "implementation"
@@ -154,6 +158,7 @@
         "id": "1946A",
         "name": "Median of an Array",
         "tags": [
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1946/problem/A"
