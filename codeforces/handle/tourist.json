@@ -53,6 +53,7 @@
         "rating": 2200,
         "tags": [
           "combinatorics",
+          "dp",
           "math",
           "number theory"
         ],
@@ -82,6 +83,7 @@
           "bitmasks",
           "brute force",
           "constructive algorithms",
+          "dsu",
           "greedy",
           "implementation"
         ],
