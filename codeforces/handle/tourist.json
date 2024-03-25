@@ -489,6 +489,7 @@
         "id": "1949B",
         "name": "Charming Meals",
         "tags": [
+          "binary search",
           "brute force",
           "greedy",
           "sortings"
