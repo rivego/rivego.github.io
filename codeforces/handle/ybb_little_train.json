@@ -6,6 +6,62 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 253451572,
+      "creationTime": 1711523427,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -435960220
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1525D",
+        "name": "Armchairs",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "flows",
+          "graph matchings",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1525/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1525/submission/253451572"
+    },
+    {
+      "type": "codeforces",
+      "id": 253451547,
+      "creationTime": 1711523411,
+      "language": "GNU C11",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -435960236
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1525D",
+        "name": "Armchairs",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "flows",
+          "graph matchings",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1525/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1525/submission/253451547"
+    },
+    {
+      "type": "codeforces",
       "id": 245934542,
       "creationTime": 1707709006,
       "language": "C++20 (GCC 11-64)",
