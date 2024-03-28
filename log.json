@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1711560777,
+  "updateTime": 1711604031,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 253451572,
-            "pid": "1525D",
-            "name": "Armchairs",
-            "verdict": "OK",
-            "creationTime": 1711523427
-          },
-          {
-            "platform": "codeforces",
-            "id": 253451547,
-            "pid": "1525D",
-            "name": "Armchairs",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1711523411
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "aa08faf6a4b17a0e253951b8ba2fe36e816fdb0d"
+  "ref": "e0c8d5bd01c8163f2b058aa6c01027c039794a46"
 }
