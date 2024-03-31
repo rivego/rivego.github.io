@@ -20975,50 +20975,6 @@
     },
     {
       "type": "codeforces",
-      "id": 126141031,
-      "creationTime": 1629174655,
-      "language": "C++14 (GCC 6-32)",
-      "verdict": "IDLENESS_LIMIT_EXCEEDED",
-      "author": {
-        "members": [
-          "ybb_little_train"
-        ],
-        "participantType": "PRACTICE",
-        "participantTime": -518308992
-      },
-      "problem": {
-        "type": "codeforces",
-        "id": "101775A",
-        "name": "Chat Group",
-        "tags": [],
-        "problemUrl": "https://codeforces.com/gym/101775/problem/A"
-      },
-      "submissionUrl": "https://codeforces.com/gym/101775/submission/126141031"
-    },
-    {
-      "type": "codeforces",
-      "id": 126140993,
-      "creationTime": 1629174613,
-      "language": "GNU C11",
-      "verdict": "COMPILATION_ERROR",
-      "author": {
-        "members": [
-          "ybb_little_train"
-        ],
-        "participantType": "PRACTICE",
-        "participantTime": -518309034
-      },
-      "problem": {
-        "type": "codeforces",
-        "id": "101775A",
-        "name": "Chat Group",
-        "tags": [],
-        "problemUrl": "https://codeforces.com/gym/101775/problem/A"
-      },
-      "submissionUrl": "https://codeforces.com/gym/101775/submission/126140993"
-    },
-    {
-      "type": "codeforces",
       "id": 124427184,
       "creationTime": 1627736666,
       "language": "GNU C++11",

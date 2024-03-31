@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1711863163,
+  "updateTime": 1711906360,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 254202464,
-            "pid": "1942H",
-            "name": "Farmer John's Favorite Intern",
-            "verdict": "OK",
-            "creationTime": 1711823189
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "4d16580b6c2f39e3b17190dbcf3c39d38b56e869"
+  "ref": "92b0dade7cc0c617b8db3776d5f3940f46cb45ca"
 }
