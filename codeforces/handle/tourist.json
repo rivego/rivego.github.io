@@ -21,7 +21,9 @@
         "type": "codeforces",
         "id": "1942F",
         "name": "Farmer John's Favorite Function",
-        "tags": [],
+        "tags": [
+          "data structures"
+        ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1942/submission/254161327"
@@ -43,7 +45,10 @@
         "type": "codeforces",
         "id": "1942G",
         "name": "Bessie and Cards",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1942/submission/254147291"
@@ -65,7 +70,12 @@
         "type": "codeforces",
         "id": "1942D",
         "name": "Learning to Paint",
-        "tags": [],
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "shortest paths"
+        ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/1942/submission/254139068"
@@ -87,7 +97,10 @@
         "type": "codeforces",
         "id": "1942E",
         "name": "Farm Game",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "games"
+        ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1942/submission/254131679"
@@ -109,7 +122,11 @@
         "type": "codeforces",
         "id": "1942C2",
         "name": "Bessie's Birthday Cake (Hard Version)",
-        "tags": [],
+        "tags": [
+          "geometry",
+          "greedy",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/C2"
       },
       "submissionUrl": "https://codeforces.com/contest/1942/submission/254126373"
@@ -131,7 +148,10 @@
         "type": "codeforces",
         "id": "1942C1",
         "name": "Bessie's Birthday Cake (Easy Version)",
-        "tags": [],
+        "tags": [
+          "geometry",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/C1"
       },
       "submissionUrl": "https://codeforces.com/contest/1942/submission/254123140"
@@ -153,7 +173,10 @@
         "type": "codeforces",
         "id": "1942B",
         "name": "Bessie and MEX",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1942/submission/254120381"
@@ -175,7 +198,9 @@
         "type": "codeforces",
         "id": "1942A",
         "name": "Farmer John's Challenge",
-        "tags": [],
+        "tags": [
+          "constructive algorithms"
+        ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1942/submission/254117266"
@@ -121502,7 +121527,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3572,
+    "rating": 3565,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
