@@ -74,6 +74,7 @@
         "id": "1942D",
         "name": "Learning to Paint",
         "tags": [
+          "binary search",
           "data structures",
           "dp",
           "greedy",
@@ -102,7 +103,6 @@
         "name": "Farm Game",
         "tags": [
           "combinatorics",
-          "dp",
           "games",
           "math"
         ],
