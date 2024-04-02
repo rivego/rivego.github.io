@@ -24,6 +24,7 @@
         "tags": [
           "expression parsing",
           "graphs",
+          "matrices",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -50,6 +51,7 @@
         "tags": [
           "expression parsing",
           "graphs",
+          "matrices",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -76,6 +78,7 @@
         "tags": [
           "expression parsing",
           "graphs",
+          "matrices",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -128,7 +131,7 @@
         "name": "Bessie and Cards",
         "tags": [
           "combinatorics",
-          "fft",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/G"
