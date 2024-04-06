@@ -1,9 +1,112 @@
 {
   "version": "0.1.29",
-  "updateTime": 1712381569,
+  "updateTime": 1712424796,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 255357373,
+            "pid": "1951H",
+            "name": "Thanos Snap",
+            "verdict": "OK",
+            "creationTime": 1712424516
+          },
+          {
+            "platform": "codeforces",
+            "id": 255320862,
+            "pid": "1951F",
+            "name": "Inversion Composition",
+            "verdict": "OK",
+            "creationTime": 1712419225
+          },
+          {
+            "platform": "codeforces",
+            "id": 255318458,
+            "pid": "1951F",
+            "name": "Inversion Composition",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1712418939
+          },
+          {
+            "platform": "codeforces",
+            "id": 255311963,
+            "pid": "1951E",
+            "name": "No Palindromes",
+            "verdict": "OK",
+            "creationTime": 1712418228
+          },
+          {
+            "platform": "codeforces",
+            "id": 255297724,
+            "pid": "1951D",
+            "name": "Buying Jewels",
+            "verdict": "OK",
+            "creationTime": 1712416867
+          },
+          {
+            "platform": "codeforces",
+            "id": 255296065,
+            "pid": "1951D",
+            "name": "Buying Jewels",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1712416721
+          },
+          {
+            "platform": "codeforces",
+            "id": 255295436,
+            "pid": "1951D",
+            "name": "Buying Jewels",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1712416667
+          },
+          {
+            "platform": "codeforces",
+            "id": 255278993,
+            "pid": "1951B",
+            "name": "Battle Cows",
+            "verdict": "OK",
+            "creationTime": 1712415455
+          },
+          {
+            "platform": "codeforces",
+            "id": 255271925,
+            "pid": "1951C",
+            "name": "Ticket Hoarding",
+            "verdict": "OK",
+            "creationTime": 1712415032
+          },
+          {
+            "platform": "codeforces",
+            "id": 255267259,
+            "pid": "1951B",
+            "name": "Battle Cows",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1712414785
+          },
+          {
+            "platform": "codeforces",
+            "id": 255264812,
+            "pid": "1951B",
+            "name": "Battle Cows",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1712414669
+          },
+          {
+            "platform": "codeforces",
+            "id": 255254609,
+            "pid": "1951A",
+            "name": "Dual Trigger",
+            "verdict": "OK",
+            "creationTime": 1712414224
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "7e6a29e2c899e1d86ee10779a0fe1fbbc49c46a9"
+  "ref": "c9623be8515775c7f22daba321e70e7fcd6866f9"
 }
