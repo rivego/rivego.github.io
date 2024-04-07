@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1712467958,
+  "updateTime": 1712511156,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 255363616,
-            "pid": "1951H",
-            "name": "Thanos Snap",
-            "verdict": "OK",
-            "creationTime": 1712427545
-          },
-          {
-            "platform": "codeforces",
-            "id": 255363236,
-            "pid": "1951G",
-            "name": "Clacking Balls",
-            "verdict": "OK",
-            "creationTime": 1712427408
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "593090c774826af068dc6bca858de3f031b3ecf0"
+  "ref": "74a675929ce0518b74f012bd8d00190f5ece437c"
 }
