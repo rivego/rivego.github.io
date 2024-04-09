@@ -79,7 +79,8 @@
           "constructive algorithms",
           "dp",
           "flows",
-          "graph matchings"
+          "graph matchings",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1955/problem/H"
       },
@@ -90,7 +91,7 @@
       "id": 255662591,
       "creationTime": 1712588068,
       "language": "C++20 (GCC 13-64)",
-      "verdict": "CHALLENGED",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
