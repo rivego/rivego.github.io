@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1712683988,
+  "updateTime": 1712727172,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 255848986,
-            "pid": "1955G",
-            "name": "GCD on a grid",
-            "verdict": "OK",
-            "creationTime": 1712654112
-          },
-          {
-            "platform": "codeforces",
-            "id": 255848904,
-            "pid": "1955G",
-            "name": "GCD on a grid",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1712654076
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6fda454c6379c8ba3a1e829bca6d054bcc5a893a"
+  "ref": "137fac824ce01ea4aa1d5be267d4bf22ceb79df0"
 }
