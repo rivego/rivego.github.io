@@ -1,9 +1,48 @@
 {
   "version": "0.1.29",
-  "updateTime": 1713029575,
+  "updateTime": 1713075752,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 256549852,
+            "pid": "1956D",
+            "name": "Nene and the Mex Operator",
+            "verdict": "OK",
+            "creationTime": 1713032235
+          },
+          {
+            "platform": "codeforces",
+            "id": 256548742,
+            "pid": "1956C",
+            "name": "Nene's Magical Matrix",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1713031772
+          },
+          {
+            "platform": "codeforces",
+            "id": 256548416,
+            "pid": "1956B",
+            "name": "Nene and the Card Game",
+            "verdict": "OK",
+            "creationTime": 1713031621
+          },
+          {
+            "platform": "codeforces",
+            "id": 256547934,
+            "pid": "1956A",
+            "name": "Nene's Game",
+            "verdict": "OK",
+            "creationTime": 1713031399
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "f63ffcfd93c0c00ba675f8ecb078b1b9a2a22e14"
+  "ref": "90373568bbb87f4859980ecc59c94a2fe26782a2"
 }
