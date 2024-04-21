@@ -19833,5 +19833,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105118",
     "standingsUrl": "https://codeforces.com/gym/105118/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "XXVI Interregional Programming Olympiad, Vologda SU, 2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105122,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105122",
+    "standingsUrl": "https://codeforces.com/gym/105122/standings"
   }
 ]
