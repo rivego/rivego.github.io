@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1713936751,
+  "updateTime": 1713979992,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 126145920,
-            "pid": "101775K",
-            "name": "Downgrade",
-            "verdict": "OK",
-            "creationTime": 1629179897
-          },
-          {
-            "platform": "codeforces",
-            "id": 126145706,
-            "pid": "101775K",
-            "name": "Downgrade",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1629179729
-          },
-          {
-            "platform": "codeforces",
-            "id": 126145588,
-            "pid": "101775K",
-            "name": "Downgrade",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1629179634
-          },
-          {
-            "platform": "codeforces",
-            "id": 126145521,
-            "pid": "101775K",
-            "name": "Downgrade",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1629179570
-          },
-          {
-            "platform": "codeforces",
-            "id": 126145412,
-            "pid": "101775K",
-            "name": "Downgrade",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1629179474
-          },
-          {
-            "platform": "codeforces",
-            "id": 126145317,
-            "pid": "101775K",
-            "name": "Downgrade",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1629179397
-          },
-          {
-            "platform": "codeforces",
-            "id": 126141031,
-            "pid": "101775M",
-            "name": "Chat Group",
-            "verdict": "IDLENESS_LIMIT_EXCEEDED",
-            "creationTime": 1629174655
-          },
-          {
-            "platform": "codeforces",
-            "id": 126140993,
-            "pid": "101775M",
-            "name": "Chat Group",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1629174613
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5d7ec24528d18918ec5e635b762ebfefb6213e2f"
+  "ref": "d98587edd1210f07b73b4525799815086a911859"
 }
