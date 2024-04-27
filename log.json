@@ -1,9 +1,54 @@
 {
   "version": "0.1.29",
-  "updateTime": 1714195957,
+  "updateTime": 1714239176,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 258465624,
+            "pid": "1965F",
+            "name": "Conference",
+            "creationTime": 1714235316
+          },
+          {
+            "platform": "codeforces",
+            "id": 258447727,
+            "pid": "1965D",
+            "name": "Missing Subarray Sum",
+            "creationTime": 1714232277
+          },
+          {
+            "platform": "codeforces",
+            "id": 258425895,
+            "pid": "1965C",
+            "name": "Folding Strip",
+            "verdict": "OK",
+            "creationTime": 1714229468
+          },
+          {
+            "platform": "codeforces",
+            "id": 258420424,
+            "pid": "1965B",
+            "name": "Missing Subsequence Sum",
+            "verdict": "OK",
+            "creationTime": 1714228952
+          },
+          {
+            "platform": "codeforces",
+            "id": 258418141,
+            "pid": "1965A",
+            "name": "Everything Nim",
+            "verdict": "OK",
+            "creationTime": 1714228730
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "1ec910a72f78d7cc8204235a9ae3465233dbb5e9"
+  "ref": "95acf811bd9de8b63d0b2ca21f15216851d30989"
 }
