@@ -21,7 +21,9 @@
         "type": "codeforces",
         "id": "1969F",
         "name": "Card Pairing",
-        "tags": [],
+        "tags": [
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1969/submission/258740820"
@@ -43,7 +45,9 @@
         "type": "codeforces",
         "id": "1969F",
         "name": "Card Pairing",
-        "tags": [],
+        "tags": [
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1969/submission/258739925"
@@ -67,6 +71,7 @@
         "name": "Unique Array",
         "tags": [
           "data structures",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/E"
@@ -140,7 +145,6 @@
         "name": "Shop Game",
         "tags": [
           "data structures",
-          "games",
           "greedy",
           "sortings"
         ],
