@@ -9,7 +9,7 @@
       "id": 258916135,
       "creationTime": 1714495297,
       "language": "C++20 (GCC 13-64)",
-      "verdict": "TESTING",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -47,6 +47,7 @@
         "id": "1967E1",
         "name": "Again Counting Arrays (Easy Version)",
         "tags": [
+          "combinatorics",
           "dp",
           "fft",
           "math"
@@ -74,7 +75,8 @@
         "name": "Long Way to be Non-decreasing",
         "tags": [
           "binary search",
-          "implementation"
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1967/problem/D"
       },
@@ -99,7 +101,9 @@
         "name": "Fenwick Tree",
         "tags": [
           "combinatorics",
-          "math"
+          "fft",
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/1967/problem/C"
       },
@@ -123,6 +127,7 @@
         "id": "1967B2",
         "name": "Reverse Card (Hard Version)",
         "tags": [
+          "brute force",
           "math",
           "number theory"
         ],
