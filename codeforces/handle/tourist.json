@@ -76,6 +76,7 @@
         "tags": [
           "binary search",
           "dfs and similar",
+          "graphs",
           "implementation",
           "two pointers"
         ],
@@ -182,7 +183,6 @@
         "id": "1967A",
         "name": "Permutation Counting",
         "tags": [
-          "binary search",
           "implementation",
           "math",
           "sortings"
@@ -210,7 +210,8 @@
         "name": "Card Pairing",
         "tags": [
           "dp",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/F"
       },
@@ -235,7 +236,8 @@
         "name": "Card Pairing",
         "tags": [
           "dp",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/F"
       },
