@@ -102,6 +102,7 @@
         "id": "1967C",
         "name": "Fenwick Tree",
         "tags": [
+          "brute force",
           "combinatorics",
           "data structures",
           "dp",
@@ -339,6 +340,7 @@
         "id": "1969D",
         "name": "Shop Game",
         "tags": [
+          "data structures",
           "greedy",
           "math",
           "sortings"
@@ -1286,6 +1288,7 @@
         "type": "codeforces",
         "id": "1949H",
         "name": "Division Avoidance",
+        "rating": 3100,
         "tags": [
           "greedy",
           "math"
@@ -1313,6 +1316,7 @@
         "type": "codeforces",
         "id": "1949H",
         "name": "Division Avoidance",
+        "rating": 3100,
         "tags": [
           "greedy",
           "math"
@@ -1340,6 +1344,7 @@
         "type": "codeforces",
         "id": "1949H",
         "name": "Division Avoidance",
+        "rating": 3100,
         "tags": [
           "greedy",
           "math"
@@ -1367,6 +1372,7 @@
         "type": "codeforces",
         "id": "1949H",
         "name": "Division Avoidance",
+        "rating": 3100,
         "tags": [
           "greedy",
           "math"
@@ -1394,6 +1400,7 @@
         "type": "codeforces",
         "id": "1949H",
         "name": "Division Avoidance",
+        "rating": 3100,
         "tags": [
           "greedy",
           "math"
@@ -1421,6 +1428,7 @@
         "type": "codeforces",
         "id": "1949H",
         "name": "Division Avoidance",
+        "rating": 3100,
         "tags": [
           "greedy",
           "math"
@@ -1448,6 +1456,7 @@
         "type": "codeforces",
         "id": "1949E",
         "name": "Damage per Second",
+        "rating": 2900,
         "tags": [
           "brute force",
           "math"
@@ -1475,6 +1484,7 @@
         "type": "codeforces",
         "id": "1949E",
         "name": "Damage per Second",
+        "rating": 2900,
         "tags": [
           "brute force",
           "math"
@@ -1502,6 +1512,7 @@
         "type": "codeforces",
         "id": "1949H",
         "name": "Division Avoidance",
+        "rating": 3100,
         "tags": [
           "greedy",
           "math"
@@ -1529,6 +1540,7 @@
         "type": "codeforces",
         "id": "1949D",
         "name": "Funny or Scary?",
+        "rating": 2600,
         "tags": [
           "constructive algorithms"
         ],
@@ -1555,6 +1567,7 @@
         "type": "codeforces",
         "id": "1949K",
         "name": "Make Triangle",
+        "rating": 2800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -1582,6 +1595,7 @@
         "type": "codeforces",
         "id": "1949K",
         "name": "Make Triangle",
+        "rating": 2800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -1609,6 +1623,7 @@
         "type": "codeforces",
         "id": "1949J",
         "name": "Amanda the Amoeba",
+        "rating": 2600,
         "tags": [
           "graphs",
           "implementation",
@@ -1638,6 +1653,7 @@
         "type": "codeforces",
         "id": "1949A",
         "name": "Grove",
+        "rating": 3300,
         "tags": [
           "brute force",
           "dfs and similar",
@@ -1668,6 +1684,7 @@
         "type": "codeforces",
         "id": "1949G",
         "name": "Scooter",
+        "rating": 2300,
         "tags": [
           "graphs",
           "greedy"
@@ -1695,6 +1712,7 @@
         "type": "codeforces",
         "id": "1949F",
         "name": "Dating",
+        "rating": 2200,
         "tags": [
           "greedy",
           "sortings",
@@ -1723,6 +1741,7 @@
         "type": "codeforces",
         "id": "1949C",
         "name": "Annual Ants' Gathering",
+        "rating": 1900,
         "tags": [
           "dfs and similar",
           "dp",
@@ -1752,6 +1771,7 @@
         "type": "codeforces",
         "id": "1949I",
         "name": "Disks",
+        "rating": 1800,
         "tags": [
           "dfs and similar",
           "geometry",
@@ -1781,6 +1801,7 @@
         "type": "codeforces",
         "id": "1949B",
         "name": "Charming Meals",
+        "rating": 1500,
         "tags": [
           "binary search",
           "brute force",
