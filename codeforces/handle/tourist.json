@@ -289,7 +289,8 @@
         "id": "1969C",
         "name": "Minimizing the Sum",
         "tags": [
-          "dp"
+          "dp",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/C"
       },
@@ -313,7 +314,8 @@
         "id": "1969C",
         "name": "Minimizing the Sum",
         "tags": [
-          "dp"
+          "dp",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/C"
       },
@@ -337,8 +339,8 @@
         "id": "1969D",
         "name": "Shop Game",
         "tags": [
-          "data structures",
           "greedy",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/D"
@@ -363,7 +365,8 @@
         "id": "1969C",
         "name": "Minimizing the Sum",
         "tags": [
-          "dp"
+          "dp",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/C"
       },
@@ -412,7 +415,7 @@
         "id": "1969A",
         "name": "Two Friends",
         "tags": [
-          "graphs",
+          "constructive algorithms",
           "implementation",
           "math"
         ],
