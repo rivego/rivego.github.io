@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1714757576,
+  "updateTime": 1714800755,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 259385991,
-            "pid": "1968G2",
-            "name": "Division + LCP (hard version)",
-            "verdict": "OK",
-            "creationTime": 1714752659
-          },
-          {
-            "platform": "codeforces",
-            "id": 259385988,
-            "pid": "1968G1",
-            "name": "Division + LCP (easy version)",
-            "verdict": "OK",
-            "creationTime": 1714752653
-          },
-          {
-            "platform": "codeforces",
-            "id": 259385461,
-            "pid": "1968F",
-            "name": "Equal XOR Segments",
-            "verdict": "OK",
-            "creationTime": 1714752426
-          },
-          {
-            "platform": "codeforces",
-            "id": 259384823,
-            "pid": "1968E",
-            "name": "Cells Arrangement",
-            "verdict": "OK",
-            "creationTime": 1714752125
-          },
-          {
-            "platform": "codeforces",
-            "id": 259383672,
-            "pid": "1968D",
-            "name": "Permutation Game",
-            "verdict": "OK",
-            "creationTime": 1714751547
-          },
-          {
-            "platform": "codeforces",
-            "id": 259381667,
-            "pid": "1968C",
-            "name": "Assembly via Remainders",
-            "verdict": "OK",
-            "creationTime": 1714750600
-          },
-          {
-            "platform": "codeforces",
-            "id": 259381443,
-            "pid": "1968B",
-            "name": "Prefiquence",
-            "verdict": "OK",
-            "creationTime": 1714750479
-          },
-          {
-            "platform": "codeforces",
-            "id": 259381247,
-            "pid": "1968A",
-            "name": "Maximize?",
-            "verdict": "OK",
-            "creationTime": 1714750393
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "01cdab91c2e2882791f67a26e6d47f26fd163510"
+  "ref": "b17b51fc8cf1eee5df063c0450c3be7cedde4ae8"
 }
