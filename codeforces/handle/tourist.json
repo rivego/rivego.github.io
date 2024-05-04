@@ -185,6 +185,8 @@
         "id": "1967A",
         "name": "Permutation Counting",
         "tags": [
+          "binary search",
+          "greedy",
           "implementation",
           "math",
           "sortings"

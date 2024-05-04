@@ -1,9 +1,208 @@
 {
   "version": "0.1.29",
-  "updateTime": 1714800755,
+  "updateTime": 1714843999,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 259500285,
+            "pid": "1970D3",
+            "name": "Arithmancy (Hard)",
+            "verdict": "OK",
+            "creationTime": 1714822035
+          },
+          {
+            "platform": "codeforces",
+            "id": 259500270,
+            "pid": "1970D2",
+            "name": "Arithmancy (Medium)",
+            "verdict": "OK",
+            "creationTime": 1714822028
+          },
+          {
+            "platform": "codeforces",
+            "id": 259500253,
+            "pid": "1970D1",
+            "name": "Arithmancy (Easy)",
+            "verdict": "OK",
+            "creationTime": 1714822017
+          },
+          {
+            "platform": "codeforces",
+            "id": 259498712,
+            "pid": "1970D1",
+            "name": "Arithmancy (Easy)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1714821283
+          },
+          {
+            "platform": "codeforces",
+            "id": 259490343,
+            "pid": "1970F3",
+            "name": "Playing Quidditch (Hard)",
+            "verdict": "OK",
+            "creationTime": 1714817277
+          },
+          {
+            "platform": "codeforces",
+            "id": 259490059,
+            "pid": "1970F2",
+            "name": "Playing Quidditch (Medium)",
+            "verdict": "OK",
+            "creationTime": 1714817141
+          },
+          {
+            "platform": "codeforces",
+            "id": 259489981,
+            "pid": "1970F2",
+            "name": "Playing Quidditch (Medium)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1714817101
+          },
+          {
+            "platform": "codeforces",
+            "id": 259489521,
+            "pid": "1970F1",
+            "name": "Playing Quidditch (Easy)",
+            "verdict": "OK",
+            "creationTime": 1714816869
+          },
+          {
+            "platform": "codeforces",
+            "id": 259487150,
+            "pid": "1970G3",
+            "name": "Min-Fund Prison (Hard)",
+            "verdict": "OK",
+            "creationTime": 1714815822
+          },
+          {
+            "platform": "codeforces",
+            "id": 259487126,
+            "pid": "1970G2",
+            "name": "Min-Fund Prison (Medium)",
+            "verdict": "OK",
+            "creationTime": 1714815810
+          },
+          {
+            "platform": "codeforces",
+            "id": 259487072,
+            "pid": "1970G1",
+            "name": "Min-Fund Prison (Easy)",
+            "verdict": "OK",
+            "creationTime": 1714815793
+          },
+          {
+            "platform": "codeforces",
+            "id": 259482210,
+            "pid": "1970B3",
+            "name": "Exact Neighbours (Hard)",
+            "verdict": "OK",
+            "creationTime": 1714813735
+          },
+          {
+            "platform": "codeforces",
+            "id": 259482189,
+            "pid": "1970B2",
+            "name": "Exact Neighbours (Medium)",
+            "verdict": "OK",
+            "creationTime": 1714813726
+          },
+          {
+            "platform": "codeforces",
+            "id": 259482157,
+            "pid": "1970B1",
+            "name": "Exact Neighbours (Easy)",
+            "verdict": "OK",
+            "creationTime": 1714813713
+          },
+          {
+            "platform": "codeforces",
+            "id": 259479510,
+            "pid": "1970E1",
+            "name": "Trails (Easy)",
+            "verdict": "OK",
+            "creationTime": 1714812649
+          },
+          {
+            "platform": "codeforces",
+            "id": 259479506,
+            "pid": "1970E2",
+            "name": "Trails (Medium)",
+            "verdict": "OK",
+            "creationTime": 1714812647
+          },
+          {
+            "platform": "codeforces",
+            "id": 259479468,
+            "pid": "1970E3",
+            "name": "Trails (Hard)",
+            "verdict": "OK",
+            "creationTime": 1714812636
+          },
+          {
+            "platform": "codeforces",
+            "id": 259478578,
+            "pid": "1970E3",
+            "name": "Trails (Hard)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1714812280
+          },
+          {
+            "platform": "codeforces",
+            "id": 259477599,
+            "pid": "1970C3",
+            "name": "Game on Tree (Hard)",
+            "verdict": "OK",
+            "creationTime": 1714811875
+          },
+          {
+            "platform": "codeforces",
+            "id": 259477594,
+            "pid": "1970C2",
+            "name": "Game on Tree (Medium)",
+            "verdict": "OK",
+            "creationTime": 1714811872
+          },
+          {
+            "platform": "codeforces",
+            "id": 259477591,
+            "pid": "1970C1",
+            "name": "Game on Tree (Easy)",
+            "verdict": "OK",
+            "creationTime": 1714811870
+          },
+          {
+            "platform": "codeforces",
+            "id": 259476686,
+            "pid": "1970A2",
+            "name": "Balanced Unshuffle (Medium)",
+            "verdict": "OK",
+            "creationTime": 1714811470
+          },
+          {
+            "platform": "codeforces",
+            "id": 259476637,
+            "pid": "1970A3",
+            "name": "Balanced Unshuffle (Hard)",
+            "verdict": "OK",
+            "creationTime": 1714811450
+          },
+          {
+            "platform": "codeforces",
+            "id": 259472751,
+            "pid": "1970A1",
+            "name": "Balanced Shuffle (Easy)",
+            "verdict": "OK",
+            "creationTime": 1714809878
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b17b51fc8cf1eee5df063c0450c3be7cedde4ae8"
+  "ref": "3b6b674163a3dc34d57854a55904aec46a117d94"
 }
