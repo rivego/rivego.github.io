@@ -19918,5 +19918,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105143",
     "standingsUrl": "https://codeforces.com/gym/105143/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Всероссийская олимпиада по информатике им. Мстислава Келдыша - 2023",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105145,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105145",
+    "standingsUrl": "https://codeforces.com/gym/105145/standings"
   }
 ]
