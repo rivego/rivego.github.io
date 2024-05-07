@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1715059999,
+  "updateTime": 1715103174,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 259900598,
+            "pid": "1959F",
+            "name": "Sending a Sequence Over the Network",
+            "verdict": "OK",
+            "creationTime": 1715097790
+          },
+          {
+            "platform": "codeforces",
+            "id": 259900101,
+            "pid": "1959E",
+            "name": "Jumping on Tiles",
+            "verdict": "OK",
+            "creationTime": 1715097538
+          },
+          {
+            "platform": "codeforces",
+            "id": 259898508,
+            "pid": "1959D",
+            "name": "Traffic Light",
+            "verdict": "OK",
+            "creationTime": 1715096779
+          },
+          {
+            "platform": "codeforces",
+            "id": 259897965,
+            "pid": "1959C",
+            "name": "Count the Number of Pairs",
+            "verdict": "OK",
+            "creationTime": 1715096529
+          },
+          {
+            "platform": "codeforces",
+            "id": 259897610,
+            "pid": "1959B",
+            "name": "Compare T-Shirt Sizes",
+            "verdict": "OK",
+            "creationTime": 1715096344
+          },
+          {
+            "platform": "codeforces",
+            "id": 259897307,
+            "pid": "1959A",
+            "name": "Spy Detected!",
+            "verdict": "OK",
+            "creationTime": 1715096206
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "42ad55bab29f5c4ac827a188ea538e1972f17bbf"
+  "ref": "4b06b30a1ae38698c5e4f6b7a2469065cb314ce6"
 }

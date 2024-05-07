@@ -6,6 +6,138 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 259900598,
+      "creationTime": 1715097790,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1715096100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1959F",
+        "name": "Sending a Sequence Over the Network",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1959/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1959/submission/259900598"
+    },
+    {
+      "type": "codeforces",
+      "id": 259900101,
+      "creationTime": 1715097538,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1715096100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1959E",
+        "name": "Jumping on Tiles",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1959/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1959/submission/259900101"
+    },
+    {
+      "type": "codeforces",
+      "id": 259898508,
+      "creationTime": 1715096779,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1715096100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1959D",
+        "name": "Traffic Light",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1959/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1959/submission/259898508"
+    },
+    {
+      "type": "codeforces",
+      "id": 259897965,
+      "creationTime": 1715096529,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1715096100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1959C",
+        "name": "Count the Number of Pairs",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1959/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1959/submission/259897965"
+    },
+    {
+      "type": "codeforces",
+      "id": 259897610,
+      "creationTime": 1715096344,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1715096100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1959B",
+        "name": "Compare T-Shirt Sizes",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1959/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1959/submission/259897610"
+    },
+    {
+      "type": "codeforces",
+      "id": 259897307,
+      "creationTime": 1715096206,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1715096100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1959A",
+        "name": "Spy Detected!",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1959/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1959/submission/259897307"
+    },
+    {
+      "type": "codeforces",
       "id": 258916135,
       "creationTime": 1714495297,
       "language": "C++20 (GCC 13-64)",
@@ -23,7 +155,8 @@
         "name": "Again Counting Arrays (Hard Version)",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1967/problem/E2"
       },
