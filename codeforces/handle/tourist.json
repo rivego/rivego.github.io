@@ -263,6 +263,7 @@
         "type": "codeforces",
         "id": "1967E2",
         "name": "Again Counting Arrays (Hard Version)",
+        "rating": 3500,
         "tags": [
           "combinatorics",
           "dp",
@@ -289,6 +290,7 @@
         "type": "codeforces",
         "id": "1967E1",
         "name": "Again Counting Arrays (Easy Version)",
+        "rating": 3100,
         "tags": [
           "combinatorics",
           "dp",
@@ -316,6 +318,7 @@
         "type": "codeforces",
         "id": "1967D",
         "name": "Long Way to be Non-decreasing",
+        "rating": 2800,
         "tags": [
           "binary search",
           "dfs and similar",
@@ -345,6 +348,7 @@
         "type": "codeforces",
         "id": "1967C",
         "name": "Fenwick Tree",
+        "rating": 2300,
         "tags": [
           "bitmasks",
           "brute force",
@@ -375,6 +379,7 @@
         "type": "codeforces",
         "id": "1967B2",
         "name": "Reverse Card (Hard Version)",
+        "rating": 2200,
         "tags": [
           "brute force",
           "math",
@@ -401,6 +406,7 @@
         "type": "codeforces",
         "id": "1967B1",
         "name": "Reverse Card (Easy Version)",
+        "rating": 1400,
         "tags": [
           "brute force",
           "math",
@@ -427,6 +433,7 @@
         "type": "codeforces",
         "id": "1967A",
         "name": "Permutation Counting",
+        "rating": 1400,
         "tags": [
           "binary search",
           "greedy",
