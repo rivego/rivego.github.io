@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1715103174,
+  "updateTime": 1715146362,
   "history": {
     "user": [
       {
@@ -8,51 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 259900598,
-            "pid": "1959F",
-            "name": "Sending a Sequence Over the Network",
+            "id": 259918877,
+            "pid": "1959H",
+            "name": "Count the Trains",
             "verdict": "OK",
-            "creationTime": 1715097790
+            "creationTime": 1715108158
           },
           {
             "platform": "codeforces",
-            "id": 259900101,
-            "pid": "1959E",
-            "name": "Jumping on Tiles",
-            "verdict": "OK",
-            "creationTime": 1715097538
+            "id": 259917579,
+            "pid": "1959H",
+            "name": "Count the Trains",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1715107274
           },
           {
             "platform": "codeforces",
-            "id": 259898508,
-            "pid": "1959D",
-            "name": "Traffic Light",
-            "verdict": "OK",
-            "creationTime": 1715096779
+            "id": 259916750,
+            "pid": "1959H",
+            "name": "Count the Trains",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1715106762
           },
           {
             "platform": "codeforces",
-            "id": 259897965,
-            "pid": "1959C",
-            "name": "Count the Number of Pairs",
-            "verdict": "OK",
-            "creationTime": 1715096529
+            "id": 259915326,
+            "pid": "1959H",
+            "name": "Count the Trains",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1715105918
           },
           {
             "platform": "codeforces",
-            "id": 259897610,
-            "pid": "1959B",
-            "name": "Compare T-Shirt Sizes",
+            "id": 259913982,
+            "pid": "1959G",
+            "name": "The Humanoid",
             "verdict": "OK",
-            "creationTime": 1715096344
-          },
-          {
-            "platform": "codeforces",
-            "id": 259897307,
-            "pid": "1959A",
-            "name": "Spy Detected!",
-            "verdict": "OK",
-            "creationTime": 1715096206
+            "creationTime": 1715105175
           }
         ],
         "newContests": []
@@ -60,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "4b06b30a1ae38698c5e4f6b7a2469065cb314ce6"
+  "ref": "b14e3afaafa7e88db674d7459770c5d082308b20"
 }
