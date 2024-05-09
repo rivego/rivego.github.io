@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1715232803,
+  "updateTime": 1715275975,
   "history": {
     "user": [
       {
@@ -8,75 +8,115 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 260073034,
-            "pid": "105112F",
-            "name": "Fixing Fractions",
+            "id": 260126896,
+            "pid": "105112I",
+            "name": "Isolated Island",
+            "verdict": "OK",
+            "creationTime": 1715261064
+          },
+          {
+            "platform": "codeforces",
+            "id": 260116393,
+            "pid": "105112B",
+            "name": "Brickwork",
+            "verdict": "OK",
+            "creationTime": 1715255846
+          },
+          {
+            "platform": "codeforces",
+            "id": 260115798,
+            "pid": "105112B",
+            "name": "Brickwork",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1715255582
+          },
+          {
+            "platform": "codeforces",
+            "id": 260114830,
+            "pid": "105112B",
+            "name": "Brickwork",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1715232678
+            "creationTime": 1715255172
           },
           {
             "platform": "codeforces",
-            "id": 260073007,
-            "pid": "105112F",
-            "name": "Fixing Fractions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1715232657
+            "id": 260109137,
+            "pid": "105112E",
+            "name": "Exponentiation",
+            "verdict": "OK",
+            "creationTime": 1715252672
           },
           {
             "platform": "codeforces",
-            "id": 260071979,
-            "pid": "105112F",
-            "name": "Fixing Fractions",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1715231772
+            "id": 260107185,
+            "pid": "105112C",
+            "name": "Chair Dance",
+            "verdict": "OK",
+            "creationTime": 1715251700
           },
           {
             "platform": "codeforces",
-            "id": 260071000,
+            "id": 260104506,
+            "pid": "105112G",
+            "name": "Galaxy Quest",
+            "verdict": "OK",
+            "creationTime": 1715250367
+          },
+          {
+            "platform": "codeforces",
+            "id": 260102092,
+            "pid": "105112J",
+            "name": "Jogging Tour",
+            "verdict": "OK",
+            "creationTime": 1715248922
+          },
+          {
+            "platform": "codeforces",
+            "id": 260074115,
             "pid": "105112H",
             "name": "Higher Arithmetic",
             "verdict": "OK",
-            "creationTime": 1715230960
+            "creationTime": 1715233526
           },
           {
             "platform": "codeforces",
-            "id": 260070883,
-            "pid": "105112H",
-            "name": "Higher Arithmetic",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1715230857
-          },
-          {
-            "platform": "codeforces",
-            "id": 260068875,
+            "id": 260074106,
             "pid": "105112L",
             "name": "Lateral Damage",
             "verdict": "OK",
-            "creationTime": 1715228927
+            "creationTime": 1715233521
           },
           {
             "platform": "codeforces",
-            "id": 260068565,
+            "id": 260074104,
             "pid": "105112K",
             "name": "Klompendans",
             "verdict": "OK",
-            "creationTime": 1715228619
+            "creationTime": 1715233516
           },
           {
             "platform": "codeforces",
-            "id": 260068124,
+            "id": 260074101,
             "pid": "105112A",
             "name": "Arranging Adapters",
             "verdict": "OK",
-            "creationTime": 1715228210
+            "creationTime": 1715233512
           },
           {
             "platform": "codeforces",
-            "id": 260067681,
+            "id": 260074094,
             "pid": "105112D",
             "name": "Date Picker",
             "verdict": "OK",
-            "creationTime": 1715227786
+            "creationTime": 1715233507
+          },
+          {
+            "platform": "codeforces",
+            "id": 260074037,
+            "pid": "105112F",
+            "name": "Fixing Fractions",
+            "verdict": "OK",
+            "creationTime": 1715233468
           }
         ],
         "newContests": []
@@ -84,5 +124,5 @@
     ],
     "contest": []
   },
-  "ref": "cf67a13862ee1d441a6f0c0118080fa2a41d74c3"
+  "ref": "cf89efb7cdf986baa96e4cda1b971edbe2564812"
 }
