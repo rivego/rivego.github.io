@@ -1,9 +1,88 @@
 {
   "version": "0.1.29",
-  "updateTime": 1715189569,
+  "updateTime": 1715232803,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 260073034,
+            "pid": "105112F",
+            "name": "Fixing Fractions",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1715232678
+          },
+          {
+            "platform": "codeforces",
+            "id": 260073007,
+            "pid": "105112F",
+            "name": "Fixing Fractions",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1715232657
+          },
+          {
+            "platform": "codeforces",
+            "id": 260071979,
+            "pid": "105112F",
+            "name": "Fixing Fractions",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1715231772
+          },
+          {
+            "platform": "codeforces",
+            "id": 260071000,
+            "pid": "105112H",
+            "name": "Higher Arithmetic",
+            "verdict": "OK",
+            "creationTime": 1715230960
+          },
+          {
+            "platform": "codeforces",
+            "id": 260070883,
+            "pid": "105112H",
+            "name": "Higher Arithmetic",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1715230857
+          },
+          {
+            "platform": "codeforces",
+            "id": 260068875,
+            "pid": "105112L",
+            "name": "Lateral Damage",
+            "verdict": "OK",
+            "creationTime": 1715228927
+          },
+          {
+            "platform": "codeforces",
+            "id": 260068565,
+            "pid": "105112K",
+            "name": "Klompendans",
+            "verdict": "OK",
+            "creationTime": 1715228619
+          },
+          {
+            "platform": "codeforces",
+            "id": 260068124,
+            "pid": "105112A",
+            "name": "Arranging Adapters",
+            "verdict": "OK",
+            "creationTime": 1715228210
+          },
+          {
+            "platform": "codeforces",
+            "id": 260067681,
+            "pid": "105112D",
+            "name": "Date Picker",
+            "verdict": "OK",
+            "creationTime": 1715227786
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "83e67417797f5257b0bfbb7ab12a1383f2577afb"
+  "ref": "cf67a13862ee1d441a6f0c0118080fa2a41d74c3"
 }
