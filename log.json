@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1715448765,
+  "updateTime": 1715491981,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 260603301,
+            "pid": "1971A",
+            "name": "My First Sorting Problem",
+            "verdict": "OK",
+            "creationTime": 1715485162
+          },
+          {
+            "platform": "codeforces",
+            "id": 260603267,
+            "pid": "1971B",
+            "name": "Different String",
+            "verdict": "OK",
+            "creationTime": 1715485128
+          },
+          {
+            "platform": "codeforces",
+            "id": 260603211,
+            "pid": "1971C",
+            "name": "Clock and Strings",
+            "verdict": "OK",
+            "creationTime": 1715485063
+          },
+          {
+            "platform": "codeforces",
+            "id": 260603119,
+            "pid": "1971D",
+            "name": "Binary Cut",
+            "verdict": "OK",
+            "creationTime": 1715484976
+          },
+          {
+            "platform": "codeforces",
+            "id": 260602973,
+            "pid": "1971E",
+            "name": "Find the Car",
+            "verdict": "OK",
+            "creationTime": 1715484826
+          },
+          {
+            "platform": "codeforces",
+            "id": 260602689,
+            "pid": "1971F",
+            "name": "Circle Perimeter",
+            "verdict": "OK",
+            "creationTime": 1715484547
+          },
+          {
+            "platform": "codeforces",
+            "id": 260602354,
+            "pid": "1971G",
+            "name": "XOUR",
+            "verdict": "OK",
+            "creationTime": 1715484195
+          },
+          {
+            "platform": "codeforces",
+            "id": 260602108,
+            "pid": "1971H",
+            "name": "±1",
+            "verdict": "OK",
+            "creationTime": 1715483936
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "89ab73b870174d94183548180116e63fcbc31945"
+  "ref": "4c9a56770cb1bfbb8515c7422eca789f1e0fb41f"
 }
