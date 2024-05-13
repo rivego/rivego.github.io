@@ -1,5 +1,16 @@
 [
   {
+    "type": "codeforces/icpc",
+    "name": "Kotlin Heroes: Episode 10",
+    "startTime": 1715610900,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 1958,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1958",
+    "standingsUrl": "https://codeforces.com/contest/1958/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "Codeforces Round 944 (Div. 4)",
     "startTime": 1715351700,
@@ -9,6 +20,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1971",
     "standingsUrl": "https://codeforces.com/contest/1971/standings"
+  },
+  {
+    "type": "codeforces/icpc",
+    "name": "Kotlin Heroes: Practice 10",
+    "startTime": 1715096100,
+    "duration": 511200,
+    "participantNumber": 0,
+    "id": 1959,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1959",
+    "standingsUrl": "https://codeforces.com/contest/1959/standings"
   },
   {
     "type": "codeforces/icpc",
