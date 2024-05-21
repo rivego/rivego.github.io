@@ -1,75 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1716269621,
+  "updateTime": 1716312763,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 261843561,
-            "pid": "1974E",
-            "name": "Money Buys Happiness",
-            "creationTime": 1716218433
-          },
-          {
-            "platform": "codeforces",
-            "id": 261842224,
-            "pid": "1974G",
-            "name": "Money Buys Less Happiness Now ",
-            "creationTime": 1716218343
-          },
-          {
-            "platform": "codeforces",
-            "id": 261840005,
-            "pid": "1974F",
-            "name": "Cutting Game",
-            "creationTime": 1716218201
-          },
-          {
-            "platform": "codeforces",
-            "id": 261835260,
-            "pid": "1974E",
-            "name": "Money Buys Happiness",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1716217914
-          },
-          {
-            "platform": "codeforces",
-            "id": 261830461,
-            "pid": "1974D",
-            "name": "Ingenuity-2",
-            "creationTime": 1716217645
-          },
-          {
-            "platform": "codeforces",
-            "id": 261821754,
-            "pid": "1974C",
-            "name": "Beautiful Triple Pairs",
-            "creationTime": 1716217184
-          },
-          {
-            "platform": "codeforces",
-            "id": 261818644,
-            "pid": "1974B",
-            "name": "Symmetric Encoding",
-            "verdict": "TESTING",
-            "creationTime": 1716217027
-          },
-          {
-            "platform": "codeforces",
-            "id": 261815736,
-            "pid": "1974A",
-            "name": "Phone Desktop",
-            "verdict": "OK",
-            "creationTime": 1716216888
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "8d7f888013656d8c1c91ab2286e5f3c9d13771a4"
+  "ref": "15b502e9e023a872ea9db4395bede7427f049c3e"
 }
