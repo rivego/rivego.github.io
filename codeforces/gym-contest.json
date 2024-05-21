@@ -20035,5 +20035,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105173",
     "standingsUrl": "https://codeforces.com/gym/105173/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 22nd Sichuan University Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105174,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105174",
+    "standingsUrl": "https://codeforces.com/gym/105174/standings"
   }
 ]
