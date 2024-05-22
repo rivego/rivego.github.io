@@ -20045,5 +20045,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105174",
     "standingsUrl": "https://codeforces.com/gym/105174/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 Xian Jiaotong University Programming Contest",
+    "startTime": 1716094800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105176,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105176",
+    "standingsUrl": "https://codeforces.com/gym/105176/standings"
   }
 ]
