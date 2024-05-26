@@ -6,10 +6,86 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 262631844,
+      "creationTime": 1716681182,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -430802465
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975H",
+        "name": "378QAQ and Core",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262631844"
+    },
+    {
+      "type": "codeforces",
+      "id": 262631654,
+      "creationTime": 1716680743,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -430802904
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975H",
+        "name": "378QAQ and Core",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262631654"
+    },
+    {
+      "type": "codeforces",
+      "id": 262620370,
+      "creationTime": 1716666667,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -430816980
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975G",
+        "name": "Zimpha Fan Club",
+        "tags": [
+          "fft",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262620370"
+    },
+    {
+      "type": "codeforces",
       "id": 262612241,
       "creationTime": 1716658332,
       "language": "C++20 (GCC 13-64)",
-      "verdict": "TESTING",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -21,7 +97,10 @@
         "type": "codeforces",
         "id": "1975H",
         "name": "378QAQ and Core",
-        "tags": [],
+        "tags": [
+          "greedy",
+          "strings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/H"
       },
       "submissionUrl": "https://codeforces.com/contest/1975/submission/262612241"
@@ -43,7 +122,10 @@
         "type": "codeforces",
         "id": "1975H",
         "name": "378QAQ and Core",
-        "tags": [],
+        "tags": [
+          "greedy",
+          "strings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/H"
       },
       "submissionUrl": "https://codeforces.com/contest/1975/submission/262603334"
@@ -65,7 +147,11 @@
         "type": "codeforces",
         "id": "1975G",
         "name": "Zimpha Fan Club",
-        "tags": [],
+        "tags": [
+          "fft",
+          "math",
+          "strings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1975/submission/262584629"
@@ -87,7 +173,11 @@
         "type": "codeforces",
         "id": "1975E",
         "name": "Chain Queries",
-        "tags": [],
+        "tags": [
+          "data structures",
+          "implementation",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1975/submission/262558741"
@@ -109,7 +199,14 @@
         "type": "codeforces",
         "id": "1975F",
         "name": "Set",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "combinatorics",
+          "dfs and similar",
+          "divide and conquer",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1975/submission/262544594"
@@ -131,7 +228,12 @@
         "type": "codeforces",
         "id": "1975D",
         "name": "Paint the Tree",
-        "tags": [],
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/1975/submission/262526751"
@@ -153,7 +255,10 @@
         "type": "codeforces",
         "id": "1975A",
         "name": "Bazoka and Mocha's Array",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1975/submission/262522755"
@@ -175,7 +280,11 @@
         "type": "codeforces",
         "id": "1975C",
         "name": "Chamo and Mocha's Array",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1975/submission/262522159"
@@ -197,7 +306,11 @@
         "type": "codeforces",
         "id": "1975B",
         "name": "378QAQ and Mocha's Array",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "math",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1975/submission/262521205"
@@ -123178,7 +123291,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3690,
+    "rating": 3757,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
