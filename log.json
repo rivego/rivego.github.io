@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1716701567,
+  "updateTime": 1716744782,
   "history": {
     "user": [
       {
@@ -8,27 +8,185 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 262631844,
-            "pid": "1975H",
-            "name": "378QAQ and Core",
+            "id": 262754165,
+            "pid": "1977E",
+            "name": "Tensor",
             "verdict": "OK",
-            "creationTime": 1716681182
+            "creationTime": 1716736930
           },
           {
             "platform": "codeforces",
-            "id": 262631654,
-            "pid": "1975H",
-            "name": "378QAQ and Core",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1716680743
+            "id": 262742727,
+            "pid": "1977E",
+            "name": "Tensor",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1716735494
           },
           {
             "platform": "codeforces",
-            "id": 262620370,
-            "pid": "1975G",
-            "name": "Zimpha Fan Club",
+            "id": 262735956,
+            "pid": "1977D",
+            "name": "XORificator",
             "verdict": "OK",
-            "creationTime": 1716666667
+            "creationTime": 1716735027
+          },
+          {
+            "platform": "codeforces",
+            "id": 262731600,
+            "pid": "1977C",
+            "name": "Nikita and LCM",
+            "verdict": "OK",
+            "creationTime": 1716734755
+          },
+          {
+            "platform": "codeforces",
+            "id": 262719839,
+            "pid": "1977B",
+            "name": "Binary Colouring",
+            "verdict": "OK",
+            "creationTime": 1716734237
+          },
+          {
+            "platform": "codeforces",
+            "id": 262717136,
+            "pid": "1977A",
+            "name": "Little Nikita",
+            "verdict": "OK",
+            "creationTime": 1716734140
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 262770273,
+            "pid": "1977A",
+            "name": "Little Nikita",
+            "verdict": "OK",
+            "creationTime": 1716739745
+          },
+          {
+            "platform": "codeforces",
+            "id": 262770013,
+            "pid": "1977B",
+            "name": "Binary Colouring",
+            "verdict": "OK",
+            "creationTime": 1716739694
+          },
+          {
+            "platform": "codeforces",
+            "id": 262769449,
+            "pid": "1977C",
+            "name": "Nikita and LCM",
+            "verdict": "OK",
+            "creationTime": 1716739583
+          },
+          {
+            "platform": "codeforces",
+            "id": 262767681,
+            "pid": "1977D",
+            "name": "XORificator",
+            "verdict": "OK",
+            "creationTime": 1716739230
+          },
+          {
+            "platform": "codeforces",
+            "id": 262763346,
+            "pid": "1977E",
+            "name": "Tensor",
+            "verdict": "OK",
+            "creationTime": 1716738411
+          },
+          {
+            "platform": "codeforces",
+            "id": 262740251,
+            "pid": "1977E",
+            "name": "Tensor",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1716735273
+          },
+          {
+            "platform": "codeforces",
+            "id": 262669446,
+            "pid": "1973F",
+            "name": "Maximum GCD Sum Queries",
+            "verdict": "OK",
+            "creationTime": 1716710048
+          },
+          {
+            "platform": "codeforces",
+            "id": 262669242,
+            "pid": "1973F",
+            "name": "Maximum GCD Sum Queries",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1716709941
+          },
+          {
+            "platform": "codeforces",
+            "id": 262665713,
+            "pid": "1973E",
+            "name": "Cat, Fox and Swaps ",
+            "verdict": "OK",
+            "creationTime": 1716708307
+          },
+          {
+            "platform": "codeforces",
+            "id": 262663296,
+            "pid": "1973D",
+            "name": "Cat, Fox and Maximum Array Split",
+            "verdict": "OK",
+            "creationTime": 1716707217
+          },
+          {
+            "platform": "codeforces",
+            "id": 262663114,
+            "pid": "1973D",
+            "name": "Cat, Fox and Maximum Array Split",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1716707136
+          },
+          {
+            "platform": "codeforces",
+            "id": 262662833,
+            "pid": "1973D",
+            "name": "Cat, Fox and Maximum Array Split",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1716707000
+          },
+          {
+            "platform": "codeforces",
+            "id": 262662776,
+            "pid": "1973D",
+            "name": "Cat, Fox and Maximum Array Split",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1716706972
+          },
+          {
+            "platform": "codeforces",
+            "id": 262662090,
+            "pid": "1973C",
+            "name": "Cat, Fox and Double Maximum",
+            "verdict": "OK",
+            "creationTime": 1716706661
+          },
+          {
+            "platform": "codeforces",
+            "id": 262660790,
+            "pid": "1973B",
+            "name": "Cat, Fox and the Lonely Array",
+            "verdict": "OK",
+            "creationTime": 1716706043
+          },
+          {
+            "platform": "codeforces",
+            "id": 262660232,
+            "pid": "1973A",
+            "name": "Chess For Three",
+            "verdict": "OK",
+            "creationTime": 1716705760
           }
         ],
         "newContests": []
@@ -36,5 +194,5 @@
     ],
     "contest": []
   },
-  "ref": "0ea6449f49ef68e7bfe75816d6f86616939d6bdb"
+  "ref": "d5dfa8d958ae033a45f4bb4ec97f1698c5758b5b"
 }

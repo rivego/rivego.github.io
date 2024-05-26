@@ -6,6 +6,163 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 262754165,
+      "creationTime": 1716736930,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1716734100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1977E",
+        "name": "Tensor",
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1977/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1977/submission/262754165"
+    },
+    {
+      "type": "codeforces",
+      "id": 262742727,
+      "creationTime": 1716735494,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1716734100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1977E",
+        "name": "Tensor",
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1977/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1977/submission/262742727"
+    },
+    {
+      "type": "codeforces",
+      "id": 262735956,
+      "creationTime": 1716735027,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1716734100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1977D",
+        "name": "XORificator",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "hashing"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1977/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1977/submission/262735956"
+    },
+    {
+      "type": "codeforces",
+      "id": 262731600,
+      "creationTime": 1716734755,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1716734100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1977C",
+        "name": "Nikita and LCM",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1977/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1977/submission/262731600"
+    },
+    {
+      "type": "codeforces",
+      "id": 262719839,
+      "creationTime": 1716734237,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1716734100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1977B",
+        "name": "Binary Colouring",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1977/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1977/submission/262719839"
+    },
+    {
+      "type": "codeforces",
+      "id": 262717136,
+      "creationTime": 1716734140,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1716734100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1977A",
+        "name": "Little Nikita",
+        "tags": [
+          "dfs and similar",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1977/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1977/submission/262717136"
+    },
+    {
+      "type": "codeforces",
       "id": 262631844,
       "creationTime": 1716681182,
       "language": "C++20 (GCC 13-64)",
@@ -174,7 +331,9 @@
         "id": "1975E",
         "name": "Chain Queries",
         "tags": [
+          "binary search",
           "data structures",
+          "dfs and similar",
           "implementation",
           "trees"
         ],
@@ -202,9 +361,9 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "combinatorics",
           "dfs and similar",
           "divide and conquer",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/F"
