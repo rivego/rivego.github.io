@@ -1,48 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1716787994,
+  "updateTime": 1716831181,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 262792132,
-            "pid": "105160D",
-            "name": "方块游戏",
-            "verdict": "OK",
-            "creationTime": 1716749183
-          },
-          {
-            "platform": "codeforces",
-            "id": 262791737,
-            "pid": "105160C",
-            "name": "小学题",
-            "verdict": "OK",
-            "creationTime": 1716748861
-          },
-          {
-            "platform": "codeforces",
-            "id": 262791611,
-            "pid": "105160B",
-            "name": "俄罗斯方块",
-            "verdict": "OK",
-            "creationTime": 1716748765
-          },
-          {
-            "platform": "codeforces",
-            "id": 262790997,
-            "pid": "105160A",
-            "name": "我是组题人",
-            "verdict": "OK",
-            "creationTime": 1716748374
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "8cd8b8c487d60fd632ab80a553ea35a5c282273f"
+  "ref": "f8757fe0baf59e82ff6970f99d0e3171ff8b6abe"
 }
