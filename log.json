@@ -1,192 +1,42 @@
 {
   "version": "0.1.29",
-  "updateTime": 1716744782,
+  "updateTime": 1716787994,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 262754165,
-            "pid": "1977E",
-            "name": "Tensor",
-            "verdict": "OK",
-            "creationTime": 1716736930
-          },
-          {
-            "platform": "codeforces",
-            "id": 262742727,
-            "pid": "1977E",
-            "name": "Tensor",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1716735494
-          },
-          {
-            "platform": "codeforces",
-            "id": 262735956,
-            "pid": "1977D",
-            "name": "XORificator",
-            "verdict": "OK",
-            "creationTime": 1716735027
-          },
-          {
-            "platform": "codeforces",
-            "id": 262731600,
-            "pid": "1977C",
-            "name": "Nikita and LCM",
-            "verdict": "OK",
-            "creationTime": 1716734755
-          },
-          {
-            "platform": "codeforces",
-            "id": 262719839,
-            "pid": "1977B",
-            "name": "Binary Colouring",
-            "verdict": "OK",
-            "creationTime": 1716734237
-          },
-          {
-            "platform": "codeforces",
-            "id": 262717136,
-            "pid": "1977A",
-            "name": "Little Nikita",
-            "verdict": "OK",
-            "creationTime": 1716734140
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 262770273,
-            "pid": "1977A",
-            "name": "Little Nikita",
+            "id": 262792132,
+            "pid": "105160D",
+            "name": "方块游戏",
             "verdict": "OK",
-            "creationTime": 1716739745
+            "creationTime": 1716749183
           },
           {
             "platform": "codeforces",
-            "id": 262770013,
-            "pid": "1977B",
-            "name": "Binary Colouring",
+            "id": 262791737,
+            "pid": "105160C",
+            "name": "小学题",
             "verdict": "OK",
-            "creationTime": 1716739694
+            "creationTime": 1716748861
           },
           {
             "platform": "codeforces",
-            "id": 262769449,
-            "pid": "1977C",
-            "name": "Nikita and LCM",
+            "id": 262791611,
+            "pid": "105160B",
+            "name": "俄罗斯方块",
             "verdict": "OK",
-            "creationTime": 1716739583
+            "creationTime": 1716748765
           },
           {
             "platform": "codeforces",
-            "id": 262767681,
-            "pid": "1977D",
-            "name": "XORificator",
+            "id": 262790997,
+            "pid": "105160A",
+            "name": "我是组题人",
             "verdict": "OK",
-            "creationTime": 1716739230
-          },
-          {
-            "platform": "codeforces",
-            "id": 262763346,
-            "pid": "1977E",
-            "name": "Tensor",
-            "verdict": "OK",
-            "creationTime": 1716738411
-          },
-          {
-            "platform": "codeforces",
-            "id": 262740251,
-            "pid": "1977E",
-            "name": "Tensor",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1716735273
-          },
-          {
-            "platform": "codeforces",
-            "id": 262669446,
-            "pid": "1973F",
-            "name": "Maximum GCD Sum Queries",
-            "verdict": "OK",
-            "creationTime": 1716710048
-          },
-          {
-            "platform": "codeforces",
-            "id": 262669242,
-            "pid": "1973F",
-            "name": "Maximum GCD Sum Queries",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1716709941
-          },
-          {
-            "platform": "codeforces",
-            "id": 262665713,
-            "pid": "1973E",
-            "name": "Cat, Fox and Swaps ",
-            "verdict": "OK",
-            "creationTime": 1716708307
-          },
-          {
-            "platform": "codeforces",
-            "id": 262663296,
-            "pid": "1973D",
-            "name": "Cat, Fox and Maximum Array Split",
-            "verdict": "OK",
-            "creationTime": 1716707217
-          },
-          {
-            "platform": "codeforces",
-            "id": 262663114,
-            "pid": "1973D",
-            "name": "Cat, Fox and Maximum Array Split",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1716707136
-          },
-          {
-            "platform": "codeforces",
-            "id": 262662833,
-            "pid": "1973D",
-            "name": "Cat, Fox and Maximum Array Split",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1716707000
-          },
-          {
-            "platform": "codeforces",
-            "id": 262662776,
-            "pid": "1973D",
-            "name": "Cat, Fox and Maximum Array Split",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1716706972
-          },
-          {
-            "platform": "codeforces",
-            "id": 262662090,
-            "pid": "1973C",
-            "name": "Cat, Fox and Double Maximum",
-            "verdict": "OK",
-            "creationTime": 1716706661
-          },
-          {
-            "platform": "codeforces",
-            "id": 262660790,
-            "pid": "1973B",
-            "name": "Cat, Fox and the Lonely Array",
-            "verdict": "OK",
-            "creationTime": 1716706043
-          },
-          {
-            "platform": "codeforces",
-            "id": 262660232,
-            "pid": "1973A",
-            "name": "Chess For Three",
-            "verdict": "OK",
-            "creationTime": 1716705760
+            "creationTime": 1716748374
           }
         ],
         "newContests": []
@@ -194,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "d5dfa8d958ae033a45f4bb4ec97f1698c5758b5b"
+  "ref": "8cd8b8c487d60fd632ab80a553ea35a5c282273f"
 }

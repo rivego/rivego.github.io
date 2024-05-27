@@ -23,6 +23,7 @@
         "name": "Tensor",
         "tags": [
           "constructive algorithms",
+          "graphs",
           "implementation",
           "interactive"
         ],
@@ -49,6 +50,7 @@
         "name": "Tensor",
         "tags": [
           "constructive algorithms",
+          "graphs",
           "implementation",
           "interactive"
         ],
@@ -104,7 +106,8 @@
           "data structures",
           "dp",
           "math",
-          "number theory"
+          "number theory",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1977/problem/C"
       },
@@ -155,6 +158,7 @@
         "name": "Little Nikita",
         "tags": [
           "dfs and similar",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1977/problem/A"
@@ -391,6 +395,7 @@
           "dfs and similar",
           "dp",
           "greedy",
+          "shortest paths",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/D"
@@ -416,7 +421,8 @@
         "name": "Bazoka and Mocha's Array",
         "tags": [
           "brute force",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/A"
       },
