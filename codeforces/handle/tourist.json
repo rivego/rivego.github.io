@@ -103,6 +103,7 @@
           "brute force",
           "data structures",
           "dp",
+          "greedy",
           "math",
           "number theory",
           "sortings"
@@ -131,6 +132,7 @@
         "tags": [
           "bitmasks",
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1977/problem/B"
@@ -123458,7 +123460,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3690,
+    "rating": 3757,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
