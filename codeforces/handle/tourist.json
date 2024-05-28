@@ -339,7 +339,6 @@
           "data structures",
           "dfs and similar",
           "implementation",
-          "shortest paths",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/E"
@@ -366,6 +365,7 @@
         "tags": [
           "bitmasks",
           "brute force",
+          "combinatorics",
           "dfs and similar",
           "divide and conquer",
           "dp",
