@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1717047173,
+  "updateTime": 1717133706,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 263314410,
+            "pid": "1976F",
+            "name": "Remove Bridges",
+            "verdict": "OK",
+            "creationTime": 1717082331
+          },
+          {
+            "platform": "codeforces",
+            "id": 263305882,
+            "pid": "1976E",
+            "name": "Splittable Permutations",
+            "verdict": "OK",
+            "creationTime": 1717081746
+          },
+          {
+            "platform": "codeforces",
+            "id": 263292519,
+            "pid": "1976C",
+            "name": "Job Interview",
+            "verdict": "OK",
+            "creationTime": 1717080977
+          },
+          {
+            "platform": "codeforces",
+            "id": 263292311,
+            "pid": "1976D",
+            "name": "Invertible Bracket Sequences",
+            "verdict": "OK",
+            "creationTime": 1717080967
+          },
+          {
+            "platform": "codeforces",
+            "id": 263272017,
+            "pid": "1976B",
+            "name": "Increase/Decrease/Copy",
+            "verdict": "OK",
+            "creationTime": 1717079984
+          },
+          {
+            "platform": "codeforces",
+            "id": 263268782,
+            "pid": "1976A",
+            "name": "Verify Password",
+            "verdict": "OK",
+            "creationTime": 1717079807
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "09f93952459729f6d45dd284cf957b288f8d597d"
+  "ref": "727501d00d1d64b2cfef9ed475a6ec1c23725a02"
 }
