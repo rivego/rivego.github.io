@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1717133706,
+  "updateTime": 1717176824,
   "history": {
     "user": [
       {
@@ -8,51 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 263314410,
-            "pid": "1976F",
-            "name": "Remove Bridges",
+            "id": 263507630,
+            "pid": "1981F",
+            "name": "Turtle and Paths on a Tree",
             "verdict": "OK",
-            "creationTime": 1717082331
+            "creationTime": 1717163528
           },
           {
             "platform": "codeforces",
-            "id": 263305882,
-            "pid": "1976E",
-            "name": "Splittable Permutations",
+            "id": 263502702,
+            "pid": "1981E",
+            "name": "Turtle and Intersected Segments",
             "verdict": "OK",
-            "creationTime": 1717081746
+            "creationTime": 1717160968
           },
           {
             "platform": "codeforces",
-            "id": 263292519,
-            "pid": "1976C",
-            "name": "Job Interview",
+            "id": 263501915,
+            "pid": "1981D",
+            "name": "Turtle and Multiplication",
             "verdict": "OK",
-            "creationTime": 1717080977
+            "creationTime": 1717160586
           },
           {
             "platform": "codeforces",
-            "id": 263292311,
-            "pid": "1976D",
-            "name": "Invertible Bracket Sequences",
+            "id": 263500214,
+            "pid": "1981C",
+            "name": "Turtle and an Incomplete Sequence",
             "verdict": "OK",
-            "creationTime": 1717080967
+            "creationTime": 1717159806
           },
           {
             "platform": "codeforces",
-            "id": 263272017,
-            "pid": "1976B",
-            "name": "Increase/Decrease/Copy",
+            "id": 263499432,
+            "pid": "1981B",
+            "name": "Turtle and an Infinite Sequence",
             "verdict": "OK",
-            "creationTime": 1717079984
+            "creationTime": 1717159468
           },
           {
             "platform": "codeforces",
-            "id": 263268782,
-            "pid": "1976A",
-            "name": "Verify Password",
+            "id": 263499126,
+            "pid": "1981A",
+            "name": "Turtle and Piggy Are Playing a Game",
             "verdict": "OK",
-            "creationTime": 1717079807
+            "creationTime": 1717159334
           }
         ],
         "newContests": []
@@ -60,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "727501d00d1d64b2cfef9ed475a6ec1c23725a02"
+  "ref": "bf508831a9e2bf89c1f6ee452fb1102a729bbab4"
 }
