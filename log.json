@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1717176824,
+  "updateTime": 1717220085,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 263507630,
-            "pid": "1981F",
-            "name": "Turtle and Paths on a Tree",
-            "verdict": "OK",
-            "creationTime": 1717163528
-          },
-          {
-            "platform": "codeforces",
-            "id": 263502702,
-            "pid": "1981E",
-            "name": "Turtle and Intersected Segments",
-            "verdict": "OK",
-            "creationTime": 1717160968
-          },
-          {
-            "platform": "codeforces",
-            "id": 263501915,
-            "pid": "1981D",
-            "name": "Turtle and Multiplication",
-            "verdict": "OK",
-            "creationTime": 1717160586
-          },
-          {
-            "platform": "codeforces",
-            "id": 263500214,
-            "pid": "1981C",
-            "name": "Turtle and an Incomplete Sequence",
-            "verdict": "OK",
-            "creationTime": 1717159806
-          },
-          {
-            "platform": "codeforces",
-            "id": 263499432,
-            "pid": "1981B",
-            "name": "Turtle and an Infinite Sequence",
-            "verdict": "OK",
-            "creationTime": 1717159468
-          },
-          {
-            "platform": "codeforces",
-            "id": 263499126,
-            "pid": "1981A",
-            "name": "Turtle and Piggy Are Playing a Game",
-            "verdict": "OK",
-            "creationTime": 1717159334
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "bf508831a9e2bf89c1f6ee452fb1102a729bbab4"
+  "ref": "0f4e92959b310f8c6c5b47c31e3440e5aa259285"
 }
