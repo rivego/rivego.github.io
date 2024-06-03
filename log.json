@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1717392872,
+  "updateTime": 1717435992,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 263960334,
+            "pid": "1980G",
+            "name": "Yasya and the Mysterious Tree",
+            "verdict": "OK",
+            "creationTime": 1717428181
+          },
+          {
+            "platform": "codeforces",
+            "id": 263946995,
+            "pid": "1980F1",
+            "name": "Field Division (easy version)",
+            "verdict": "OK",
+            "creationTime": 1717427459
+          },
+          {
+            "platform": "codeforces",
+            "id": 263946858,
+            "pid": "1980F2",
+            "name": "Field Division (hard version)",
+            "verdict": "OK",
+            "creationTime": 1717427451
+          },
+          {
+            "platform": "codeforces",
+            "id": 263926053,
+            "pid": "1980E",
+            "name": "Permutation of Rows and Columns",
+            "verdict": "OK",
+            "creationTime": 1717426504
+          },
+          {
+            "platform": "codeforces",
+            "id": 263919047,
+            "pid": "1980D",
+            "name": "GCD-sequence",
+            "verdict": "OK",
+            "creationTime": 1717426214
+          },
+          {
+            "platform": "codeforces",
+            "id": 263918944,
+            "pid": "1980C",
+            "name": "Sofia and the Lost Operations",
+            "verdict": "OK",
+            "creationTime": 1717426211
+          },
+          {
+            "platform": "codeforces",
+            "id": 263905157,
+            "pid": "1980B",
+            "name": "Choosing Cubes",
+            "verdict": "OK",
+            "creationTime": 1717425709
+          },
+          {
+            "platform": "codeforces",
+            "id": 263900617,
+            "pid": "1980A",
+            "name": "Problem Generator",
+            "verdict": "OK",
+            "creationTime": 1717425586
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "642d61d7154da46dc40eeabf549cf5f628569a90"
+  "ref": "5e2c6001c42c88b502f8ac96163085f2270e2204"
 }
