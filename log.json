@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1717695216,
+  "updateTime": 1717738468,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 264460743,
-            "pid": "1979F",
-            "name": "Kostyanych's Theorem",
-            "verdict": "OK",
-            "creationTime": 1717688436
-          },
-          {
-            "platform": "codeforces",
-            "id": 264441088,
-            "pid": "1979C",
-            "name": "Earning on Bets",
-            "verdict": "OK",
-            "creationTime": 1717686621
-          },
-          {
-            "platform": "codeforces",
-            "id": 264440848,
-            "pid": "1979E",
-            "name": "Manhattan Triangle",
-            "verdict": "OK",
-            "creationTime": 1717686601
-          },
-          {
-            "platform": "codeforces",
-            "id": 264429339,
-            "pid": "1979D",
-            "name": "Fixing a Binary String",
-            "verdict": "OK",
-            "creationTime": 1717685737
-          },
-          {
-            "platform": "codeforces",
-            "id": 264420101,
-            "pid": "1979C",
-            "name": "Earning on Bets",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1717685153
-          },
-          {
-            "platform": "codeforces",
-            "id": 264412912,
-            "pid": "1979B",
-            "name": "XOR Sequences",
-            "verdict": "OK",
-            "creationTime": 1717684815
-          },
-          {
-            "platform": "codeforces",
-            "id": 264408629,
-            "pid": "1979A",
-            "name": "Guess the Maximum",
-            "verdict": "OK",
-            "creationTime": 1717684644
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "24ee3bf40e5af1874b94a2c6973c63ee9dc23a8c"
+  "ref": "e6942d52b6ac9942147a4c7c82e76709aa4fe4e7"
 }
