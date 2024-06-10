@@ -21,7 +21,10 @@
         "type": "codeforces",
         "id": "1984H",
         "name": "Tower Capturing",
-        "tags": [],
+        "tags": [
+          "dp",
+          "geometry"
+        ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/H"
       },
       "submissionUrl": "https://codeforces.com/contest/1984/submission/264938707"
@@ -43,7 +46,11 @@
         "type": "codeforces",
         "id": "1984G",
         "name": "Magic Trick II",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1984/submission/264920861"
@@ -65,7 +72,10 @@
         "type": "codeforces",
         "id": "1984F",
         "name": "Reconstruction",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1984/submission/264906446"
@@ -87,7 +97,12 @@
         "type": "codeforces",
         "id": "1984E",
         "name": "Shuffle",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1984/submission/264901694"
@@ -109,7 +124,13 @@
         "type": "codeforces",
         "id": "1984D",
         "name": "''a'' String Problem",
-        "tags": [],
+        "tags": [
+          "hashing",
+          "implementation",
+          "math",
+          "string suffix structures",
+          "strings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/1984/submission/264893993"
@@ -131,7 +152,11 @@
         "type": "codeforces",
         "id": "1984C2",
         "name": "Magnitude (Hard Version)",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/C2"
       },
       "submissionUrl": "https://codeforces.com/contest/1984/submission/264887262"
@@ -153,7 +178,11 @@
         "type": "codeforces",
         "id": "1984C2",
         "name": "Magnitude (Hard Version)",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/C2"
       },
       "submissionUrl": "https://codeforces.com/contest/1984/submission/264884173"
@@ -175,7 +204,10 @@
         "type": "codeforces",
         "id": "1984C1",
         "name": "Magnitude (Easy Version)",
-        "tags": [],
+        "tags": [
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/C1"
       },
       "submissionUrl": "https://codeforces.com/contest/1984/submission/264874368"
@@ -197,7 +229,11 @@
         "type": "codeforces",
         "id": "1984B",
         "name": "Large Addition",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1984/submission/264865594"
@@ -219,7 +255,9 @@
         "type": "codeforces",
         "id": "1984A",
         "name": "Strange Splitting",
-        "tags": [],
+        "tags": [
+          "constructive algorithms"
+        ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1984/submission/264862909"
@@ -123699,7 +123737,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3757,
+    "rating": 3843,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
