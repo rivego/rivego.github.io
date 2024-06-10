@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1984H",
         "name": "Tower Capturing",
+        "rating": 3300,
         "tags": [
           "dp",
           "geometry"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1984G",
         "name": "Magic Trick II",
+        "rating": 3200,
         "tags": [
           "constructive algorithms",
           "implementation",
@@ -72,9 +74,10 @@
         "type": "codeforces",
         "id": "1984F",
         "name": "Reconstruction",
+        "rating": 2500,
         "tags": [
-          "brute force",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/F"
       },
@@ -97,8 +100,8 @@
         "type": "codeforces",
         "id": "1984E",
         "name": "Shuffle",
+        "rating": 2400,
         "tags": [
-          "constructive algorithms",
           "dp",
           "greedy",
           "trees"
@@ -124,11 +127,12 @@
         "type": "codeforces",
         "id": "1984D",
         "name": "''a'' String Problem",
+        "rating": 2000,
         "tags": [
+          "brute force",
           "hashing",
           "implementation",
           "math",
-          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/D"
@@ -152,6 +156,7 @@
         "type": "codeforces",
         "id": "1984C2",
         "name": "Magnitude (Hard Version)",
+        "rating": 1700,
         "tags": [
           "combinatorics",
           "dp",
@@ -178,6 +183,7 @@
         "type": "codeforces",
         "id": "1984C2",
         "name": "Magnitude (Hard Version)",
+        "rating": 1700,
         "tags": [
           "combinatorics",
           "dp",
@@ -204,9 +210,11 @@
         "type": "codeforces",
         "id": "1984C1",
         "name": "Magnitude (Easy Version)",
+        "rating": 1300,
         "tags": [
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/C1"
       },
@@ -229,8 +237,8 @@
         "type": "codeforces",
         "id": "1984B",
         "name": "Large Addition",
+        "rating": 1100,
         "tags": [
-          "constructive algorithms",
           "implementation",
           "math"
         ],
@@ -255,6 +263,7 @@
         "type": "codeforces",
         "id": "1984A",
         "name": "Strange Splitting",
+        "rating": 800,
         "tags": [
           "constructive algorithms"
         ],
