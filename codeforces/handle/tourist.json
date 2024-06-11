@@ -133,6 +133,7 @@
           "hashing",
           "implementation",
           "math",
+          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/D"

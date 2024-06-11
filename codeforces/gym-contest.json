@@ -20243,5 +20243,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105214",
     "standingsUrl": "https://codeforces.com/gym/105214/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 ICPC Gran Premio de Mexico 2da Fecha",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105216,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105216",
+    "standingsUrl": "https://codeforces.com/gym/105216/standings"
   }
 ]
