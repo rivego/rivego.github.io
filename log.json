@@ -1,9 +1,88 @@
 {
   "version": "0.1.29",
-  "updateTime": 1718170464,
+  "updateTime": 1718256869,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 265535157,
+            "pid": "786B",
+            "name": "Legacy",
+            "verdict": "OK",
+            "creationTime": 1718221912
+          },
+          {
+            "platform": "codeforces",
+            "id": 265535041,
+            "pid": "786B",
+            "name": "Legacy",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1718221822
+          },
+          {
+            "platform": "codeforces",
+            "id": 265534755,
+            "pid": "786B",
+            "name": "Legacy",
+            "verdict": "OK",
+            "creationTime": 1718221611
+          },
+          {
+            "platform": "codeforces",
+            "id": 265534405,
+            "pid": "786B",
+            "name": "Legacy",
+            "verdict": "OK",
+            "creationTime": 1718221351
+          },
+          {
+            "platform": "codeforces",
+            "id": 265516796,
+            "pid": "1208D",
+            "name": "Restore Permutation",
+            "verdict": "OK",
+            "creationTime": 1718211192
+          },
+          {
+            "platform": "codeforces",
+            "id": 265516715,
+            "pid": "1208D",
+            "name": "Restore Permutation",
+            "verdict": "OK",
+            "creationTime": 1718211158
+          },
+          {
+            "platform": "codeforces",
+            "id": 265516365,
+            "pid": "1208D",
+            "name": "Restore Permutation",
+            "verdict": "OK",
+            "creationTime": 1718211009
+          },
+          {
+            "platform": "codeforces",
+            "id": 265509460,
+            "pid": "52C",
+            "name": "Circular RMQ",
+            "verdict": "OK",
+            "creationTime": 1718207700
+          },
+          {
+            "platform": "codeforces",
+            "id": 265506319,
+            "pid": "380C",
+            "name": "Sereja and Brackets",
+            "verdict": "OK",
+            "creationTime": 1718205595
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "6c5e412963a983a3774aa40cfaedf429a4de01fc"
+  "ref": "e424f0edb8fb2b1bfee37d560a287277da7ea58b"
 }
