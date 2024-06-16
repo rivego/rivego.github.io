@@ -1,9 +1,102 @@
 {
   "version": "0.1.29",
-  "updateTime": 1718516104,
+  "updateTime": 1718559161,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 266076940,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718549369
+          },
+          {
+            "platform": "codeforces",
+            "id": 266076553,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718549181
+          },
+          {
+            "platform": "codeforces",
+            "id": 266067064,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1718544872
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 266079233,
+            "pid": "1978A",
+            "name": "Alice and Books",
+            "verdict": "OK",
+            "creationTime": 1718550390
+          },
+          {
+            "platform": "codeforces",
+            "id": 266079068,
+            "pid": "1978B",
+            "name": "New Bakery",
+            "verdict": "OK",
+            "creationTime": 1718550313
+          },
+          {
+            "platform": "codeforces",
+            "id": 266078706,
+            "pid": "1978C",
+            "name": "Manhattan Permutations",
+            "verdict": "OK",
+            "creationTime": 1718550169
+          },
+          {
+            "platform": "codeforces",
+            "id": 266078047,
+            "pid": "1978D",
+            "name": "Elections",
+            "verdict": "OK",
+            "creationTime": 1718549864
+          },
+          {
+            "platform": "codeforces",
+            "id": 266077351,
+            "pid": "1978E",
+            "name": "Computing Machine",
+            "verdict": "OK",
+            "creationTime": 1718549552
+          },
+          {
+            "platform": "codeforces",
+            "id": 266043123,
+            "pid": "1978F",
+            "name": "Large Graph",
+            "verdict": "OK",
+            "creationTime": 1718535519
+          },
+          {
+            "platform": "codeforces",
+            "id": 266042785,
+            "pid": "1978F",
+            "name": "Large Graph",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1718535479
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "670b06faf0fb263763c215aa4ccb1e293785a129"
+  "ref": "55f80047ad4d54dbbdf7998646f8c1643ffd9bac"
 }
