@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1718559161,
+  "updateTime": 1718602634,
   "history": {
     "user": [
       {
@@ -8,89 +8,115 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 266076940,
+            "id": 266115145,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1718575052
+          },
+          {
+            "platform": "codeforces",
+            "id": 266115129,
             "pid": "101B",
             "name": "Buses",
             "verdict": "OK",
-            "creationTime": 1718549369
+            "creationTime": 1718575031
           },
           {
             "platform": "codeforces",
-            "id": 266076553,
+            "id": 266115105,
             "pid": "101B",
             "name": "Buses",
             "verdict": "OK",
-            "creationTime": 1718549181
+            "creationTime": 1718575007
           },
           {
             "platform": "codeforces",
-            "id": 266067064,
+            "id": 266115089,
             "pid": "101B",
             "name": "Buses",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1718544872
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 266079233,
-            "pid": "1978A",
-            "name": "Alice and Books",
-            "verdict": "OK",
-            "creationTime": 1718550390
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1718574987
           },
           {
             "platform": "codeforces",
-            "id": 266079068,
-            "pid": "1978B",
-            "name": "New Bakery",
+            "id": 266112450,
+            "pid": "101B",
+            "name": "Buses",
             "verdict": "OK",
-            "creationTime": 1718550313
+            "creationTime": 1718571393
           },
           {
             "platform": "codeforces",
-            "id": 266078706,
-            "pid": "1978C",
-            "name": "Manhattan Permutations",
+            "id": 266112316,
+            "pid": "101B",
+            "name": "Buses",
             "verdict": "OK",
-            "creationTime": 1718550169
+            "creationTime": 1718571239
           },
           {
             "platform": "codeforces",
-            "id": 266078047,
-            "pid": "1978D",
-            "name": "Elections",
-            "verdict": "OK",
-            "creationTime": 1718549864
+            "id": 266112153,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1718571060
           },
           {
             "platform": "codeforces",
-            "id": 266077351,
-            "pid": "1978E",
-            "name": "Computing Machine",
-            "verdict": "OK",
-            "creationTime": 1718549552
+            "id": 266112138,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1718571042
           },
           {
             "platform": "codeforces",
-            "id": 266043123,
-            "pid": "1978F",
-            "name": "Large Graph",
-            "verdict": "OK",
-            "creationTime": 1718535519
+            "id": 266112088,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1718570978
           },
           {
             "platform": "codeforces",
-            "id": 266042785,
-            "pid": "1978F",
-            "name": "Large Graph",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1718535479
+            "id": 266111765,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718570566
+          },
+          {
+            "platform": "codeforces",
+            "id": 266111547,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718570300
+          },
+          {
+            "platform": "codeforces",
+            "id": 266109990,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718568635
+          },
+          {
+            "platform": "codeforces",
+            "id": 266109183,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718567846
+          },
+          {
+            "platform": "codeforces",
+            "id": 266109015,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718567695
           }
         ],
         "newContests": []
@@ -98,5 +124,5 @@
     ],
     "contest": []
   },
-  "ref": "55f80047ad4d54dbbdf7998646f8c1643ffd9bac"
+  "ref": "3beef6309eae08ef060adba7f9b78125e03d8de7"
 }
