@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1719163976,
+  "updateTime": 1719207216,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 267130690,
+            "pid": "1986B",
+            "name": "Matrix Stabilization",
+            "verdict": "OK",
+            "creationTime": 1719207112
+          },
+          {
+            "platform": "codeforces",
+            "id": 267129469,
+            "pid": "1986A",
+            "name": "X Axis",
+            "verdict": "OK",
+            "creationTime": 1719206254
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "251c27ecd7467a6ea78e4e13f161000ee3910bf0"
+  "ref": "12066ca944a2a384fee5a505e0069f6eaecd7649"
 }
