@@ -23,7 +23,6 @@
         "name": "Number of k-good subarrays",
         "tags": [
           "bitmasks",
-          "bitmasks",
           "combinatorics",
           "divide and conquer",
           "divide and conquer",
@@ -80,7 +79,6 @@
         "tags": [
           "brute force",
           "data structures",
-          "dp",
           "implementation",
           "math",
           "number theory"
@@ -164,7 +162,8 @@
         "tags": [
           "greedy",
           "implementation",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1982/problem/A"
       },
