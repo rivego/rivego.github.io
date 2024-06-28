@@ -6,9 +6,85 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 267807488,
+      "creationTime": 1719554102,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427929545
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "341D",
+        "name": "Iahub and Xors",
+        "rating": 2500,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/341/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/341/submission/267807488"
+    },
+    {
+      "type": "codeforces",
+      "id": 267807419,
+      "creationTime": 1719554063,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427929584
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "341D",
+        "name": "Iahub and Xors",
+        "rating": 2500,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/341/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/341/submission/267807419"
+    },
+    {
+      "type": "codeforces",
+      "id": 267806289,
+      "creationTime": 1719553498,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427930149
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "341D",
+        "name": "Iahub and Xors",
+        "rating": 2500,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/341/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/341/submission/267806289"
+    },
+    {
+      "type": "codeforces",
       "id": 267802735,
       "creationTime": 1719551130,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
           "tourist"
@@ -691,7 +767,8 @@
         "name": "Distance to Different",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1989/problem/E"
       },
