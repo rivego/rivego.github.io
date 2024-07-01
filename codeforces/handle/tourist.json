@@ -6,10 +6,34 @@
   "submissions": [
     {
       "type": "codeforces",
-      "id": 268219505,
-      "creationTime": 1719768743,
+      "id": 268225099,
+      "creationTime": 1719772557,
       "language": "C++20 (GCC 13-64)",
-      "verdict": "TESTING",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427711090
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1987H",
+        "name": "Fumo Temple",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1987/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1987/submission/268225099"
+    },
+    {
+      "type": "codeforces",
+      "id": 268220958,
+      "creationTime": 1719768896,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
           "tourist"
@@ -21,7 +45,57 @@
         "type": "codeforces",
         "id": "1987H",
         "name": "Fumo Temple",
-        "tags": [],
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1987/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1987/submission/268220958"
+    },
+    {
+      "type": "codeforces",
+      "id": 268220425,
+      "creationTime": 1719768856,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719758100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1987H",
+        "name": "Fumo Temple",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1987/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1987/submission/268220425"
+    },
+    {
+      "type": "codeforces",
+      "id": 268219505,
+      "creationTime": 1719768743,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719758100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1987H",
+        "name": "Fumo Temple",
+        "tags": [
+          "interactive"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/H"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268219505"
@@ -43,7 +117,9 @@
         "type": "codeforces",
         "id": "1987G2",
         "name": "Spinning Round (Hard Version)",
-        "tags": [],
+        "tags": [
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/G2"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268209905"
@@ -65,7 +141,10 @@
         "type": "codeforces",
         "id": "1987G1",
         "name": "Spinning Round (Easy Version)",
-        "tags": [],
+        "tags": [
+          "dp",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/G1"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268183559"
@@ -87,7 +166,10 @@
         "type": "codeforces",
         "id": "1987G1",
         "name": "Spinning Round (Easy Version)",
-        "tags": [],
+        "tags": [
+          "dp",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/G1"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268174297"
@@ -109,7 +191,9 @@
         "type": "codeforces",
         "id": "1987F1",
         "name": "Interesting Problem (Easy Version)",
-        "tags": [],
+        "tags": [
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/F1"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268162641"
@@ -131,7 +215,9 @@
         "type": "codeforces",
         "id": "1987F2",
         "name": "Interesting Problem (Hard Version)",
-        "tags": [],
+        "tags": [
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/F2"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268162505"
@@ -153,7 +239,9 @@
         "type": "codeforces",
         "id": "1987F2",
         "name": "Interesting Problem (Hard Version)",
-        "tags": [],
+        "tags": [
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/F2"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268161431"
@@ -175,7 +263,14 @@
         "type": "codeforces",
         "id": "1987E",
         "name": "Wonderful Tree!",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "dp",
+          "flows",
+          "greedy",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268152628"
@@ -197,7 +292,11 @@
         "type": "codeforces",
         "id": "1987D",
         "name": "World is Mine",
-        "tags": [],
+        "tags": [
+          "dp",
+          "games",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268147683"
@@ -219,7 +318,10 @@
         "type": "codeforces",
         "id": "1987C",
         "name": "Basil's Garden",
-        "tags": [],
+        "tags": [
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268143974"
@@ -241,7 +343,9 @@
         "type": "codeforces",
         "id": "1987B",
         "name": "K-Sort",
-        "tags": [],
+        "tags": [
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268136942"
@@ -263,7 +367,10 @@
         "type": "codeforces",
         "id": "1987A",
         "name": "Upload More RAM",
-        "tags": [],
+        "tags": [
+          "greedy",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1987/submission/268135342"
@@ -127018,7 +127125,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3845,
+    "rating": 3803,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
