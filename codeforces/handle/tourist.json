@@ -216,6 +216,8 @@
         "id": "1987F2",
         "name": "Interesting Problem (Hard Version)",
         "tags": [
+          "brute force",
+          "constructive algorithms",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/F2"
@@ -240,6 +242,8 @@
         "id": "1987F2",
         "name": "Interesting Problem (Hard Version)",
         "tags": [
+          "brute force",
+          "constructive algorithms",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/F2"
@@ -267,7 +271,6 @@
           "brute force",
           "dfs and similar",
           "dp",
-          "flows",
           "greedy",
           "trees"
         ],

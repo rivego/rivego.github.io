@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1719812056,
+  "updateTime": 1719855214,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 268225099,
-            "pid": "1987H",
-            "name": "Fumo Temple",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1719772557
-          },
-          {
-            "platform": "codeforces",
-            "id": 268220958,
-            "pid": "1987H",
-            "name": "Fumo Temple",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1719768896
-          },
-          {
-            "platform": "codeforces",
-            "id": 268220425,
-            "pid": "1987H",
-            "name": "Fumo Temple",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1719768856
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5b18311387bf0d7fc21f01f52f824bb7367ad32b"
+  "ref": "00a36823fb75e78d8c61a07d0630721027c236fc"
 }
