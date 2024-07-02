@@ -1,9 +1,48 @@
 {
   "version": "0.1.29",
-  "updateTime": 1719855214,
+  "updateTime": 1719898468,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 268383290,
+            "pid": "1987C",
+            "name": "Basil's Garden",
+            "verdict": "OK",
+            "creationTime": 1719869671
+          },
+          {
+            "platform": "codeforces",
+            "id": 268380288,
+            "pid": "1557A",
+            "name": "Ezzat and Two Subsequences",
+            "verdict": "OK",
+            "creationTime": 1719867084
+          },
+          {
+            "platform": "codeforces",
+            "id": 268380245,
+            "pid": "1557A",
+            "name": "Ezzat and Two Subsequences",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1719867055
+          },
+          {
+            "platform": "codeforces",
+            "id": 268380210,
+            "pid": "1557A",
+            "name": "Ezzat and Two Subsequences",
+            "verdict": "OK",
+            "creationTime": 1719867028
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "00a36823fb75e78d8c61a07d0630721027c236fc"
+  "ref": "537b0ec899584a79e0530b0f2a6ea9cc39aff33b"
 }
