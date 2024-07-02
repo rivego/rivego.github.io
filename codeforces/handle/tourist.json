@@ -375,7 +375,6 @@
           "brute force",
           "dfs and similar",
           "dp",
-          "flows",
           "greedy",
           "trees"
         ],
@@ -402,8 +401,7 @@
         "name": "World is Mine",
         "tags": [
           "dp",
-          "games",
-          "greedy"
+          "games"
         ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/D"
       },
@@ -1334,12 +1332,8 @@
         "rating": 1200,
         "tags": [
           "brute force",
-          "dp",
-          "graphs",
           "greedy",
-          "hashing",
-          "strings",
-          "trees"
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1989/problem/B"
       },
