@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1720330505,
+  "updateTime": 1720373578,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 269275960,
+            "pid": "1983G",
+            "name": "Your Loss",
+            "verdict": "TESTING",
+            "creationTime": 1720368322
+          },
+          {
+            "platform": "codeforces",
+            "id": 269255826,
+            "pid": "1983F",
+            "name": "array-value",
+            "verdict": "OK",
+            "creationTime": 1720365571
+          },
+          {
+            "platform": "codeforces",
+            "id": 269246230,
+            "pid": "1983E",
+            "name": "I Love Balls",
+            "verdict": "OK",
+            "creationTime": 1720364446
+          },
+          {
+            "platform": "codeforces",
+            "id": 269241014,
+            "pid": "1983D",
+            "name": "Swap Dilemma",
+            "verdict": "OK",
+            "creationTime": 1720363900
+          },
+          {
+            "platform": "codeforces",
+            "id": 269237498,
+            "pid": "1983C",
+            "name": "Have Your Cake and Eat It Too",
+            "verdict": "OK",
+            "creationTime": 1720363629
+          },
+          {
+            "platform": "codeforces",
+            "id": 269231971,
+            "pid": "1983B",
+            "name": "Corner Twist",
+            "verdict": "OK",
+            "creationTime": 1720363324
+          },
+          {
+            "platform": "codeforces",
+            "id": 269225839,
+            "pid": "1983A",
+            "name": "Array Divisibility",
+            "verdict": "OK",
+            "creationTime": 1720363089
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "9b4352a89e7e3c5f909ed1bb404b8cd5479901bb"
+  "ref": "fa02678e74328b17b6679aad795a3c77cafdc4e4"
 }
