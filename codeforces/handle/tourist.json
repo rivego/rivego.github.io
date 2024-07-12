@@ -23,7 +23,8 @@
         "name": "Ultra-Meow",
         "tags": [
           "combinatorics",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1992/problem/G"
       },
@@ -49,7 +50,8 @@
         "tags": [
           "dp",
           "greedy",
-          "number theory"
+          "number theory",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1992/problem/F"
       },
@@ -75,7 +77,8 @@
         "tags": [
           "brute force",
           "constructive algorithms",
-          "math"
+          "math",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1992/problem/E"
       },
@@ -101,9 +104,6 @@
         "tags": [
           "dp",
           "greedy",
-          "greedy",
-          "implementation",
-          "implementation",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1992/problem/D"
@@ -129,7 +129,6 @@
         "name": "Gorilla and Permutation",
         "tags": [
           "constructive algorithms",
-          "math",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1992/problem/C"
@@ -154,7 +153,7 @@
         "id": "1992B",
         "name": "Angry Monk",
         "tags": [
-          "math",
+          "greedy",
           "math",
           "sortings"
         ],
@@ -180,11 +179,11 @@
         "id": "1992A",
         "name": "Only Pluses",
         "tags": [
+          "brute force",
           "constructive algorithms",
-          "constructive algorithms",
+          "greedy",
           "math",
-          "sortings",
-          "string suffix structures"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1992/problem/A"
       },
