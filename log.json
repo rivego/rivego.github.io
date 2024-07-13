@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1720848824,
+  "updateTime": 1720891981,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 270287001,
+            "pid": "1992G",
+            "name": "Ultra-Meow",
+            "verdict": "OK",
+            "creationTime": 1720856835
+          },
+          {
+            "platform": "codeforces",
+            "id": 270284290,
+            "pid": "1992F",
+            "name": "Valuable Cards",
+            "verdict": "OK",
+            "creationTime": 1720855539
+          },
+          {
+            "platform": "codeforces",
+            "id": 270283555,
+            "pid": "1992E",
+            "name": "Novice's Mistake",
+            "verdict": "OK",
+            "creationTime": 1720855214
+          },
+          {
+            "platform": "codeforces",
+            "id": 270282548,
+            "pid": "1992D",
+            "name": "Test of Love",
+            "verdict": "OK",
+            "creationTime": 1720854800
+          },
+          {
+            "platform": "codeforces",
+            "id": 270281631,
+            "pid": "1992C",
+            "name": "Gorilla and Permutation",
+            "verdict": "OK",
+            "creationTime": 1720854390
+          },
+          {
+            "platform": "codeforces",
+            "id": 270281378,
+            "pid": "1992C",
+            "name": "Gorilla and Permutation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1720854265
+          },
+          {
+            "platform": "codeforces",
+            "id": 270281046,
+            "pid": "1992B",
+            "name": "Angry Monk",
+            "verdict": "OK",
+            "creationTime": 1720854127
+          },
+          {
+            "platform": "codeforces",
+            "id": 270280781,
+            "pid": "1992A",
+            "name": "Only Pluses",
+            "verdict": "OK",
+            "creationTime": 1720854009
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "790e138625def9b0ee84f578d9e38f7128862504"
+  "ref": "9ed85dbfe92153074719ec4b27d15fb3b90d7a58"
 }
