@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1720935436,
+  "updateTime": 1720979156,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 223802453,
+            "pid": "104459A",
+            "name": "Sekiro",
+            "verdict": "OK",
+            "creationTime": 1695020048
+          },
+          {
+            "platform": "codeforces",
+            "id": 223802444,
+            "pid": "104459B",
+            "name": "Median",
+            "verdict": "OK",
+            "creationTime": 1695020043
+          },
+          {
+            "platform": "codeforces",
+            "id": 213727410,
+            "pid": "104459C",
+            "name": "Tokens on the Segments",
+            "verdict": "OK",
+            "creationTime": 1689315002
+          },
+          {
+            "platform": "codeforces",
+            "id": 213725578,
+            "pid": "104459D",
+            "name": "Stones in the Bucket",
+            "verdict": "OK",
+            "creationTime": 1689313929
+          },
+          {
+            "platform": "codeforces",
+            "id": 213724654,
+            "pid": "104459F",
+            "name": "Game on a Graph",
+            "verdict": "OK",
+            "creationTime": 1689313391
+          },
+          {
+            "platform": "codeforces",
+            "id": 213724405,
+            "pid": "104459H",
+            "name": "Wandering Robot",
+            "verdict": "OK",
+            "creationTime": 1689313233
+          },
+          {
+            "platform": "codeforces",
+            "id": 213723851,
+            "pid": "104459L",
+            "name": "Flipping Game",
+            "verdict": "OK",
+            "creationTime": 1689312912
+          },
+          {
+            "platform": "codeforces",
+            "id": 213606047,
+            "pid": "104459M",
+            "name": "Calandar",
+            "verdict": "OK",
+            "creationTime": 1689231233
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "6e7b8193c5dcc2d7899472b2f54956e541c263c3"
+  "ref": "d9f6502520d09e220a7d6060bd43a0b1a8a7f2cb"
 }
