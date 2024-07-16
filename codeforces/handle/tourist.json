@@ -78,7 +78,6 @@
         "tags": [
           "brute force",
           "dp",
-          "graphs",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1988/problem/D"
@@ -104,7 +103,8 @@
         "name": "Increasing Sequence with Fixed OR",
         "tags": [
           "bitmasks",
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1988/problem/C"
       },
@@ -127,7 +127,9 @@
         "type": "codeforces",
         "id": "1988B",
         "name": "Make Majority",
-        "tags": [],
+        "tags": [
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1988/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1988/submission/270647308"
@@ -150,7 +152,9 @@
         "id": "1988A",
         "name": "Split the Multiset",
         "tags": [
-          "math",
+          "brute force",
+          "dp",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1988/problem/A"
