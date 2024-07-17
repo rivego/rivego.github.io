@@ -20498,5 +20498,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105262",
     "standingsUrl": "https://codeforces.com/gym/105262/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2024 Syrian Virtual University Collegiate Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105264,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105264",
+    "standingsUrl": "https://codeforces.com/gym/105264/standings"
   }
 ]
