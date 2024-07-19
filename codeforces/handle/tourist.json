@@ -99,6 +99,7 @@
         "tags": [
           "bitmasks",
           "brute force",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/G"
@@ -123,6 +124,7 @@
         "id": "1994F",
         "name": "Stardew Valley",
         "tags": [
+          "constructive algorithms",
           "dfs and similar",
           "graphs"
         ],
@@ -148,9 +150,6 @@
         "id": "1994E",
         "name": "Wooden Game",
         "tags": [
-          "bitmasks",
-          "bitmasks",
-          "bitmasks",
           "bitmasks",
           "greedy",
           "math",
@@ -181,6 +180,7 @@
           "constructive algorithms",
           "dsu",
           "graphs",
+          "greedy",
           "math",
           "number theory"
         ],
@@ -235,6 +235,7 @@
         "tags": [
           "bitmasks",
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/B"
@@ -127863,7 +127864,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3803,
+    "rating": 3880,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
