@@ -526,6 +526,7 @@
           "binary search",
           "data structures",
           "dfs and similar",
+          "implementation",
           "interactive",
           "trees"
         ],
@@ -554,6 +555,7 @@
           "binary search",
           "constructive algorithms",
           "data structures",
+          "dfs and similar",
           "interactive",
           "trees"
         ],
@@ -582,6 +584,7 @@
           "binary search",
           "constructive algorithms",
           "data structures",
+          "dfs and similar",
           "interactive",
           "trees"
         ],
@@ -919,6 +922,7 @@
         "tags": [
           "constructive algorithms",
           "dsu",
+          "graph matchings",
           "graphs",
           "greedy",
           "math",
