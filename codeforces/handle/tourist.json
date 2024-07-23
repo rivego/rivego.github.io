@@ -6,6 +6,427 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 272130977,
+      "creationTime": 1721748873,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995E2",
+        "name": "Let Me Teach You a Lesson (Hard Version)",
+        "tags": [
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272130977"
+    },
+    {
+      "type": "codeforces",
+      "id": 272121062,
+      "creationTime": 1721747994,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995B2",
+        "name": "Bouquet (Hard Version)",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/B2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272121062"
+    },
+    {
+      "type": "codeforces",
+      "id": 272118069,
+      "creationTime": 1721747729,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995E1",
+        "name": "Let Me Teach You a Lesson (Easy Version)",
+        "tags": [
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272118069"
+    },
+    {
+      "type": "codeforces",
+      "id": 272116440,
+      "creationTime": 1721747585,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995E1",
+        "name": "Let Me Teach You a Lesson (Easy Version)",
+        "tags": [
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272116440"
+    },
+    {
+      "type": "codeforces",
+      "id": 272113575,
+      "creationTime": 1721747332,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995E1",
+        "name": "Let Me Teach You a Lesson (Easy Version)",
+        "tags": [
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272113575"
+    },
+    {
+      "type": "codeforces",
+      "id": 272104574,
+      "creationTime": 1721746544,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995D",
+        "name": "Cases",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272104574"
+    },
+    {
+      "type": "codeforces",
+      "id": 272099722,
+      "creationTime": 1721746148,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995C",
+        "name": "Squaring",
+        "tags": [
+          "greedy",
+          "implementation",
+          "math",
+          "math",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272099722"
+    },
+    {
+      "type": "codeforces",
+      "id": 272094269,
+      "creationTime": 1721745760,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995B1",
+        "name": "Bouquet (Easy Version)",
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/B1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272094269"
+    },
+    {
+      "type": "codeforces",
+      "id": 272090302,
+      "creationTime": 1721745372,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995A",
+        "name": "Diagonals",
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation",
+          "math",
+          "ternary search",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272090302"
+    },
+    {
+      "type": "codeforces",
+      "id": 272081242,
+      "creationTime": 1721741726,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425741921
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1136E",
+        "name": "Nastya Hasn't Written a Legend",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1136/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1136/submission/272081242"
+    },
+    {
+      "type": "codeforces",
+      "id": 272079995,
+      "creationTime": 1721741136,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425742511
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1136E",
+        "name": "Nastya Hasn't Written a Legend",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1136/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1136/submission/272079995"
+    },
+    {
+      "type": "codeforces",
+      "id": 272078264,
+      "creationTime": 1721740428,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425743219
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1136E",
+        "name": "Nastya Hasn't Written a Legend",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1136/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1136/submission/272078264"
+    },
+    {
+      "type": "codeforces",
+      "id": 272078032,
+      "creationTime": 1721740332,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425743315
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1136E",
+        "name": "Nastya Hasn't Written a Legend",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1136/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1136/submission/272078032"
+    },
+    {
+      "type": "codeforces",
+      "id": 272077918,
+      "creationTime": 1721740285,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425743362
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1136E",
+        "name": "Nastya Hasn't Written a Legend",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1136/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1136/submission/272077918"
+    },
+    {
+      "type": "codeforces",
+      "id": 272077699,
+      "creationTime": 1721740209,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425743438
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1136E",
+        "name": "Nastya Hasn't Written a Legend",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1136/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1136/submission/272077699"
+    },
+    {
+      "type": "codeforces",
+      "id": 272077465,
+      "creationTime": 1721740113,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425743534
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1136E",
+        "name": "Nastya Hasn't Written a Legend",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1136/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1136/submission/272077465"
+    },
+    {
+      "type": "codeforces",
       "id": 271835034,
       "creationTime": 1721600333,
       "language": "C++20 (GCC 13-64)",
@@ -526,7 +947,6 @@
           "binary search",
           "data structures",
           "dfs and similar",
-          "implementation",
           "interactive",
           "trees"
         ],
@@ -553,7 +973,6 @@
         "name": "Catch the Mole(Easy Version)",
         "tags": [
           "binary search",
-          "constructive algorithms",
           "data structures",
           "dfs and similar",
           "interactive",
@@ -582,7 +1001,6 @@
         "name": "Catch the Mole(Easy Version)",
         "tags": [
           "binary search",
-          "constructive algorithms",
           "data structures",
           "dfs and similar",
           "interactive",
@@ -613,6 +1031,7 @@
           "bitmasks",
           "dp",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/D"
@@ -640,6 +1059,7 @@
           "bitmasks",
           "dp",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/D"
@@ -867,7 +1287,6 @@
         "tags": [
           "constructive algorithms",
           "dfs and similar",
-          "dsu",
           "graphs",
           "trees"
         ],
@@ -922,7 +1341,6 @@
         "tags": [
           "constructive algorithms",
           "dsu",
-          "graph matchings",
           "graphs",
           "greedy",
           "math",
@@ -1005,7 +1423,8 @@
         "name": "Diverse Game",
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/A"
       },
