@@ -391,12 +391,7 @@
         "name": "Cases",
         "tags": [
           "bitmasks",
-          "brute force",
-          "combinatorics",
-          "dfs and similar",
           "dp",
-          "graphs",
-          "greedy",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/D"
@@ -423,7 +418,6 @@
         "tags": [
           "brute force",
           "constructive algorithms",
-          "data structures",
           "greedy",
           "implementation",
           "math",
@@ -454,7 +448,6 @@
           "binary search",
           "brute force",
           "greedy",
-          "sortings",
           "sortings",
           "two pointers"
         ],

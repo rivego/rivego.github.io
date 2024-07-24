@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1721799291,
+  "updateTime": 1721842394,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 272220681,
-            "pid": "1995E2",
-            "name": "Let Me Teach You a Lesson (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1721772267
-          },
-          {
-            "platform": "codeforces",
-            "id": 272220662,
-            "pid": "1995E2",
-            "name": "Let Me Teach You a Lesson (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1721772246
-          },
-          {
-            "platform": "codeforces",
-            "id": 272220645,
-            "pid": "1995E2",
-            "name": "Let Me Teach You a Lesson (Hard Version)",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1721772224
-          },
-          {
-            "platform": "codeforces",
-            "id": 272220625,
-            "pid": "1995E2",
-            "name": "Let Me Teach You a Lesson (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1721772200
-          },
-          {
-            "platform": "codeforces",
-            "id": 272201136,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1721758234
-          },
-          {
-            "platform": "codeforces",
-            "id": 272200771,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1721758083
-          },
-          {
-            "platform": "codeforces",
-            "id": 272200682,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1721758049
-          },
-          {
-            "platform": "codeforces",
-            "id": 272200669,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1721758044
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "b8b08755cd8e3ce5abc623cf3056f0e27f81b359"
+  "ref": "75347bded3c044402f014f2ba9d42778fac0386b"
 }
