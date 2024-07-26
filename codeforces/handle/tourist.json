@@ -22,7 +22,6 @@
         "id": "1995E2",
         "name": "Let Me Teach You a Lesson (Hard Version)",
         "tags": [
-          "2-sat",
           "bitmasks",
           "data structures",
           "dp",
@@ -52,7 +51,6 @@
         "id": "1995E2",
         "name": "Let Me Teach You a Lesson (Hard Version)",
         "tags": [
-          "2-sat",
           "bitmasks",
           "data structures",
           "dp",
@@ -82,7 +80,6 @@
         "id": "1995E2",
         "name": "Let Me Teach You a Lesson (Hard Version)",
         "tags": [
-          "2-sat",
           "bitmasks",
           "data structures",
           "dp",
@@ -112,7 +109,6 @@
         "id": "1995E2",
         "name": "Let Me Teach You a Lesson (Hard Version)",
         "tags": [
-          "2-sat",
           "bitmasks",
           "data structures",
           "dp",
@@ -142,9 +138,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
-          "2-sat",
           "data structures",
           "dp",
+          "matrices",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -169,9 +165,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
-          "2-sat",
           "data structures",
           "dp",
+          "matrices",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -196,9 +192,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
-          "2-sat",
           "data structures",
           "dp",
+          "matrices",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -223,9 +219,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
-          "2-sat",
           "data structures",
           "dp",
+          "matrices",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -250,7 +246,6 @@
         "id": "1995E2",
         "name": "Let Me Teach You a Lesson (Hard Version)",
         "tags": [
-          "2-sat",
           "bitmasks",
           "data structures",
           "dp",
@@ -309,9 +304,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
-          "2-sat",
           "data structures",
           "dp",
+          "matrices",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -336,9 +331,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
-          "2-sat",
           "data structures",
           "dp",
+          "matrices",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -363,9 +358,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
-          "2-sat",
           "data structures",
           "dp",
+          "matrices",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -1281,6 +1276,7 @@
         "name": "Grid Puzzle",
         "tags": [
           "bitmasks",
+          "brute force",
           "dp",
           "greedy",
           "implementation",
@@ -1309,6 +1305,7 @@
         "name": "Grid Puzzle",
         "tags": [
           "bitmasks",
+          "brute force",
           "dp",
           "greedy",
           "implementation",
