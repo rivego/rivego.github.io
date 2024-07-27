@@ -1194,6 +1194,7 @@
           "binary search",
           "data structures",
           "dfs and similar",
+          "divide and conquer",
           "interactive",
           "trees"
         ],
@@ -1279,8 +1280,7 @@
           "brute force",
           "dp",
           "greedy",
-          "implementation",
-          "math"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/D"
       },
@@ -1308,8 +1308,7 @@
           "brute force",
           "dp",
           "greedy",
-          "implementation",
-          "math"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/D"
       },
