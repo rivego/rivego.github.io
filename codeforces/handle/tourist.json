@@ -50,7 +50,8 @@
         "name": "Grid Reset",
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/G"
       },
@@ -129,6 +130,7 @@
         "name": "Coloring Game",
         "tags": [
           "constructive algorithms",
+          "dfs and similar",
           "games",
           "graphs",
           "greedy",
