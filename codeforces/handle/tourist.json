@@ -21,7 +21,12 @@
         "type": "codeforces",
         "id": "1991H",
         "name": "Prime Split Game",
-        "tags": [],
+        "tags": [
+          "fft",
+          "games",
+          "math",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/H"
       },
       "submissionUrl": "https://codeforces.com/contest/1991/submission/273210632"
@@ -43,7 +48,10 @@
         "type": "codeforces",
         "id": "1991G",
         "name": "Grid Reset",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1991/submission/273180456"
@@ -65,7 +73,12 @@
         "type": "codeforces",
         "id": "1991F",
         "name": "Triangle Formation",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "greedy",
+          "math",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1991/submission/273160781"
@@ -87,7 +100,12 @@
         "type": "codeforces",
         "id": "1991F",
         "name": "Triangle Formation",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "greedy",
+          "math",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1991/submission/273155879"
@@ -109,7 +127,13 @@
         "type": "codeforces",
         "id": "1991E",
         "name": "Coloring Game",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "graphs",
+          "greedy",
+          "interactive"
+        ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/1991/submission/273150868"
@@ -131,7 +155,14 @@
         "type": "codeforces",
         "id": "1991D",
         "name": "Prime XOR Coloring",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "greedy",
+          "math",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/1991/submission/273143134"
@@ -153,7 +184,11 @@
         "type": "codeforces",
         "id": "1991C",
         "name": "Absolute Zero",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1991/submission/273139495"
@@ -175,7 +210,11 @@
         "type": "codeforces",
         "id": "1991C",
         "name": "Absolute Zero",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1991/submission/273137234"
@@ -197,7 +236,11 @@
         "type": "codeforces",
         "id": "1991B",
         "name": "AND Reconstruction",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/1991/submission/273133106"
@@ -219,7 +262,10 @@
         "type": "codeforces",
         "id": "1991A",
         "name": "Maximize the Last Element",
-        "tags": [],
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1991/submission/273130858"
@@ -355,6 +401,7 @@
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -383,6 +430,7 @@
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -411,6 +459,7 @@
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -439,6 +488,7 @@
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -525,6 +575,7 @@
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -553,6 +604,7 @@
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -581,6 +633,7 @@
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -129532,7 +129585,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3880,
+    "rating": 3947,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
