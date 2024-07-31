@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1722360773,
+  "updateTime": 1722403960,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 273600293,
-            "pid": "1997E",
-            "name": "Level Up",
-            "verdict": "OK",
-            "creationTime": 1722359226
-          },
-          {
-            "platform": "codeforces",
-            "id": 273548095,
-            "pid": "1997F",
-            "name": "Chips on a Line",
-            "verdict": "OK",
-            "creationTime": 1722353303
-          },
-          {
-            "platform": "codeforces",
-            "id": 273525527,
-            "pid": "1997E",
-            "name": "Level Up",
-            "verdict": "CHALLENGED",
-            "creationTime": 1722351933
-          },
-          {
-            "platform": "codeforces",
-            "id": 273515696,
-            "pid": "1997D",
-            "name": "Maximize the Root",
-            "verdict": "OK",
-            "creationTime": 1722351460
-          },
-          {
-            "platform": "codeforces",
-            "id": 273495588,
-            "pid": "1997C",
-            "name": "Even Positions",
-            "verdict": "OK",
-            "creationTime": 1722350651
-          },
-          {
-            "platform": "codeforces",
-            "id": 273490156,
-            "pid": "1997B",
-            "name": "Make Three Regions",
-            "verdict": "OK",
-            "creationTime": 1722350451
-          },
-          {
-            "platform": "codeforces",
-            "id": 273486111,
-            "pid": "1997A",
-            "name": "Strong Password",
-            "verdict": "OK",
-            "creationTime": 1722350254
-          },
-          {
-            "platform": "codeforces",
-            "id": 273429741,
-            "pid": "1991I",
-            "name": "Grid Game",
-            "verdict": "OK",
-            "creationTime": 1722319461
-          },
-          {
-            "platform": "codeforces",
-            "id": 273429342,
-            "pid": "1991I",
-            "name": "Grid Game",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1722319223
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7e1e820ffe55d2e0f02e24137fc0f463bbbe05d7"
+  "ref": "9b69028087c4dae358a2a85928f91162399229a5"
 }
