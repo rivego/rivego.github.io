@@ -1,9 +1,56 @@
 {
   "version": "0.1.29",
-  "updateTime": 1722836181,
+  "updateTime": 1722879340,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 274543588,
+            "pid": "1993E",
+            "name": "Xor-Grid Problem",
+            "verdict": "OK",
+            "creationTime": 1722863836
+          },
+          {
+            "platform": "codeforces",
+            "id": 274541951,
+            "pid": "1993D",
+            "name": "Med-imize",
+            "verdict": "OK",
+            "creationTime": 1722863175
+          },
+          {
+            "platform": "codeforces",
+            "id": 274540604,
+            "pid": "1993C",
+            "name": "Light Switches",
+            "verdict": "OK",
+            "creationTime": 1722862671
+          },
+          {
+            "platform": "codeforces",
+            "id": 274540075,
+            "pid": "1993B",
+            "name": "Parity and Sum",
+            "verdict": "OK",
+            "creationTime": 1722862455
+          },
+          {
+            "platform": "codeforces",
+            "id": 274539546,
+            "pid": "1993A",
+            "name": "Question Marks",
+            "verdict": "OK",
+            "creationTime": 1722862257
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b10ea32ef62ab39d98d98c66c1b24887fd309cb2"
+  "ref": "90aaa399fba456622321223223809f78f45f9dc4"
 }
