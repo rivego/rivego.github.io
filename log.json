@@ -1,9 +1,150 @@
 {
   "version": "0.1.29",
-  "updateTime": 1722922463,
+  "updateTime": 1722965742,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 274755917,
+            "pid": "1999G2",
+            "name": "Ruler (hard version)",
+            "verdict": "OK",
+            "creationTime": 1722955857
+          },
+          {
+            "platform": "codeforces",
+            "id": 274750701,
+            "pid": "1999G1",
+            "name": "Ruler (easy version)",
+            "verdict": "OK",
+            "creationTime": 1722955728
+          },
+          {
+            "platform": "codeforces",
+            "id": 274741514,
+            "pid": "1999F",
+            "name": "Expected Median",
+            "verdict": "OK",
+            "creationTime": 1722955557
+          },
+          {
+            "platform": "codeforces",
+            "id": 274738972,
+            "pid": "1999E",
+            "name": "Triple Operations",
+            "verdict": "OK",
+            "creationTime": 1722955452
+          },
+          {
+            "platform": "codeforces",
+            "id": 274734334,
+            "pid": "1999D",
+            "name": "Slavic's Exam",
+            "verdict": "OK",
+            "creationTime": 1722955302
+          },
+          {
+            "platform": "codeforces",
+            "id": 274727796,
+            "pid": "1999C",
+            "name": "Showering",
+            "verdict": "OK",
+            "creationTime": 1722955164
+          },
+          {
+            "platform": "codeforces",
+            "id": 274723857,
+            "pid": "1999A",
+            "name": "A+B Again?",
+            "verdict": "OK",
+            "creationTime": 1722955098
+          },
+          {
+            "platform": "codeforces",
+            "id": 274723277,
+            "pid": "1999B",
+            "name": "Card Game",
+            "verdict": "OK",
+            "creationTime": 1722955090
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 274762658,
+            "pid": "1999G2",
+            "name": "Ruler (hard version)",
+            "verdict": "OK",
+            "creationTime": 1722956026
+          },
+          {
+            "platform": "codeforces",
+            "id": 274752197,
+            "pid": "1999G1",
+            "name": "Ruler (easy version)",
+            "verdict": "OK",
+            "creationTime": 1722955766
+          },
+          {
+            "platform": "codeforces",
+            "id": 274744751,
+            "pid": "1999F",
+            "name": "Expected Median",
+            "verdict": "OK",
+            "creationTime": 1722955603
+          },
+          {
+            "platform": "codeforces",
+            "id": 274739311,
+            "pid": "1999E",
+            "name": "Triple Operations",
+            "verdict": "OK",
+            "creationTime": 1722955460
+          },
+          {
+            "platform": "codeforces",
+            "id": 274734360,
+            "pid": "1999D",
+            "name": "Slavic's Exam",
+            "verdict": "OK",
+            "creationTime": 1722955303
+          },
+          {
+            "platform": "codeforces",
+            "id": 274729328,
+            "pid": "1999C",
+            "name": "Showering",
+            "verdict": "OK",
+            "creationTime": 1722955194
+          },
+          {
+            "platform": "codeforces",
+            "id": 274724453,
+            "pid": "1999B",
+            "name": "Card Game",
+            "verdict": "OK",
+            "creationTime": 1722955106
+          },
+          {
+            "platform": "codeforces",
+            "id": 274711587,
+            "pid": "1999A",
+            "name": "A+B Again?",
+            "verdict": "OK",
+            "creationTime": 1722954950
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e7eef9a3c5179348574590fa24ee03e8a4d3cf3c"
+  "ref": "bd8478c80b703a3d393136d11003ea2454d78e29"
 }
