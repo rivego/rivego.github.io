@@ -23,7 +23,8 @@
         "name": "Ruler (hard version)",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/1999/problem/G2"
       },
@@ -48,7 +49,8 @@
         "name": "Ruler (easy version)",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/1999/problem/G1"
       },
@@ -149,7 +151,6 @@
         "id": "1999C",
         "name": "Showering",
         "tags": [
-          "implementation",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1999/problem/C"
