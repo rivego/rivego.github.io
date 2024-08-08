@@ -1,48 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1723052094,
+  "updateTime": 1723095322,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 275110715,
-            "pid": "1993F2",
-            "name": "Dyn-scripted Robot (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1723042257
-          },
-          {
-            "platform": "codeforces",
-            "id": 275110693,
-            "pid": "1993F1",
-            "name": "Dyn-scripted Robot (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1723042255
-          },
-          {
-            "platform": "codeforces",
-            "id": 275110230,
-            "pid": "1993F1",
-            "name": "Dyn-scripted Robot (Easy Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1723042060
-          },
-          {
-            "platform": "codeforces",
-            "id": 275110229,
-            "pid": "1993F2",
-            "name": "Dyn-scripted Robot (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1723042057
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "677d009af5c54fabff3a53c757b010b5c9b91f5f"
+  "ref": "5df367de3ac01f496399bd9d8caddd2ad7b98193"
 }
