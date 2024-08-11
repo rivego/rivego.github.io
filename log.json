@@ -1,9 +1,88 @@
 {
   "version": "0.1.29",
-  "updateTime": 1723354395,
+  "updateTime": 1723397652,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 275814532,
+            "pid": "2002G",
+            "name": "Lattice Optimizing",
+            "verdict": "OK",
+            "creationTime": 1723392000
+          },
+          {
+            "platform": "codeforces",
+            "id": 275803261,
+            "pid": "2002F2",
+            "name": "Court Blue (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1723390554
+          },
+          {
+            "platform": "codeforces",
+            "id": 275803106,
+            "pid": "2002F1",
+            "name": "Court Blue (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1723390537
+          },
+          {
+            "platform": "codeforces",
+            "id": 275776266,
+            "pid": "2002E",
+            "name": "Cosmic Rays",
+            "verdict": "OK",
+            "creationTime": 1723388257
+          },
+          {
+            "platform": "codeforces",
+            "id": 275767991,
+            "pid": "2002D2",
+            "name": "DFS Checker (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1723387770
+          },
+          {
+            "platform": "codeforces",
+            "id": 275767248,
+            "pid": "2002D1",
+            "name": "DFS Checker (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1723387729
+          },
+          {
+            "platform": "codeforces",
+            "id": 275759851,
+            "pid": "2002C",
+            "name": "Black Circles",
+            "verdict": "OK",
+            "creationTime": 1723387311
+          },
+          {
+            "platform": "codeforces",
+            "id": 275757139,
+            "pid": "2002B",
+            "name": "Removals Game",
+            "verdict": "OK",
+            "creationTime": 1723387145
+          },
+          {
+            "platform": "codeforces",
+            "id": 275755167,
+            "pid": "2002A",
+            "name": "Distanced Coloring",
+            "verdict": "OK",
+            "creationTime": 1723387004
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "2061868592120c479f0ab686576795c28619dc78"
+  "ref": "77b7f18d079a60538fb6ec33bd93a7f9f7ead22a"
 }
