@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1723440976,
+  "updateTime": 1723484017,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 275883821,
-            "pid": "2002H",
-            "name": "Counting 101",
-            "verdict": "OK",
-            "creationTime": 1723432251
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "438b3ff69c0f3d73d234592db0163c2ca3db7f59"
+  "ref": "d56b661fc3f3cd43a84508828f85b27841091d5b"
 }
