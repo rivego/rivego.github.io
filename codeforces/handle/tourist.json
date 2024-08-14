@@ -23,10 +23,7 @@
         "name": "Ksyusha and the Loaded Set",
         "tags": [
           "binary search",
-          "data structures",
-          "dp",
-          "implementation",
-          "trees"
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/2000/problem/H"
       },
@@ -51,6 +48,7 @@
         "name": "Call During the Journey",
         "tags": [
           "binary search",
+          "brute force",
           "graphs",
           "greedy",
           "shortest paths"
