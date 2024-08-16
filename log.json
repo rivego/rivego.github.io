@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1723743195,
+  "updateTime": 1723786487,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 276630835,
-            "pid": "2004G",
-            "name": "Substring Compression",
-            "verdict": "OK",
-            "creationTime": 1723736121
-          },
-          {
-            "platform": "codeforces",
-            "id": 276603077,
-            "pid": "2004F",
-            "name": "Make a Palindrome",
-            "verdict": "OK",
-            "creationTime": 1723734675
-          },
-          {
-            "platform": "codeforces",
-            "id": 276596867,
-            "pid": "2004E",
-            "name": "Not a Nim Problem",
-            "verdict": "OK",
-            "creationTime": 1723734404
-          },
-          {
-            "platform": "codeforces",
-            "id": 276582738,
-            "pid": "2004D",
-            "name": "Colored Portals",
-            "verdict": "OK",
-            "creationTime": 1723733828
-          },
-          {
-            "platform": "codeforces",
-            "id": 276566732,
-            "pid": "2004C",
-            "name": "Splitting Items",
-            "verdict": "OK",
-            "creationTime": 1723733164
-          },
-          {
-            "platform": "codeforces",
-            "id": 276561786,
-            "pid": "2004B",
-            "name": "Game with Doors",
-            "verdict": "OK",
-            "creationTime": 1723732968
-          },
-          {
-            "platform": "codeforces",
-            "id": 276553218,
-            "pid": "2004A",
-            "name": "Closest Point",
-            "verdict": "OK",
-            "creationTime": 1723732710
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3bd17b13bd8c04ef2c7d7524baa7095619f30677"
+  "ref": "5c77e63952431eb9b6b83385e76ac2426a2789f9"
 }
