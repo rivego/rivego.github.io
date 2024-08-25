@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1724520792,
+  "updateTime": 1724564164,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 277933165,
-            "pid": "2001E2",
-            "name": "Deterministic Heap (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1724512885
-          },
-          {
-            "platform": "codeforces",
-            "id": 277930824,
-            "pid": "2001E1",
-            "name": "Deterministic Heap (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1724511856
-          },
-          {
-            "platform": "codeforces",
-            "id": 277929584,
-            "pid": "2001D",
-            "name": "Longest Max Min Subsequence",
-            "verdict": "OK",
-            "creationTime": 1724511317
-          },
-          {
-            "platform": "codeforces",
-            "id": 277927776,
-            "pid": "2001C",
-            "name": "Guess The Tree",
-            "verdict": "OK",
-            "creationTime": 1724510545
-          },
-          {
-            "platform": "codeforces",
-            "id": 277927294,
-            "pid": "2001B",
-            "name": "Generate Permutation",
-            "verdict": "OK",
-            "creationTime": 1724510351
-          },
-          {
-            "platform": "codeforces",
-            "id": 277926661,
-            "pid": "2001A",
-            "name": "Make All Equal",
-            "verdict": "OK",
-            "creationTime": 1724510090
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "67ff79d3d2dd3ffc760203010f2476206ad68ed2"
+  "ref": "9dc758afc46ecec74875cb50a9f581a0f4b8f0ed"
 }
