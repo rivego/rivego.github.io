@@ -1,56 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1724909768,
+  "updateTime": 1724952860,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 278588906,
-            "pid": "2010C1",
-            "name": "Message Transmission Error (easy version)",
-            "verdict": "OK",
-            "creationTime": 1724907638
-          },
-          {
-            "platform": "codeforces",
-            "id": 278588893,
-            "pid": "2010C2",
-            "name": "Message Transmission Error (hard version)",
-            "verdict": "OK",
-            "creationTime": 1724907629
-          },
-          {
-            "platform": "codeforces",
-            "id": 278588861,
-            "pid": "2010C2",
-            "name": "Message Transmission Error (hard version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1724907604
-          },
-          {
-            "platform": "codeforces",
-            "id": 278588649,
-            "pid": "2010B",
-            "name": "Three Brothers",
-            "verdict": "OK",
-            "creationTime": 1724907401
-          },
-          {
-            "platform": "codeforces",
-            "id": 278588600,
-            "pid": "2010A",
-            "name": "Alternating Sum of Numbers",
-            "verdict": "OK",
-            "creationTime": 1724907347
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "78686f1674595a3334e6877bb25a5a310955e68c"
+  "ref": "4259d275945693214ec2a41343e0f962ad01b662"
 }
