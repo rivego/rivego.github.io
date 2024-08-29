@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1724866538,
+  "updateTime": 1724909768,
   "history": {
     "user": [
       {
@@ -8,67 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 278543839,
-            "pid": "1987F1",
-            "name": "Interesting Problem (Easy Version)",
+            "id": 278588906,
+            "pid": "2010C1",
+            "name": "Message Transmission Error (easy version)",
             "verdict": "OK",
-            "creationTime": 1724866119
+            "creationTime": 1724907638
           },
           {
             "platform": "codeforces",
-            "id": 278543796,
-            "pid": "1987F2",
-            "name": "Interesting Problem (Hard Version)",
+            "id": 278588893,
+            "pid": "2010C2",
+            "name": "Message Transmission Error (hard version)",
             "verdict": "OK",
-            "creationTime": 1724866100
+            "creationTime": 1724907629
           },
           {
             "platform": "codeforces",
-            "id": 278541076,
-            "pid": "1987F2",
-            "name": "Interesting Problem (Hard Version)",
+            "id": 278588861,
+            "pid": "2010C2",
+            "name": "Message Transmission Error (hard version)",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1724864577
+            "creationTime": 1724907604
           },
           {
             "platform": "codeforces",
-            "id": 278520526,
-            "pid": "1987E",
-            "name": "Wonderful Tree!",
+            "id": 278588649,
+            "pid": "2010B",
+            "name": "Three Brothers",
             "verdict": "OK",
-            "creationTime": 1724853877
+            "creationTime": 1724907401
           },
           {
             "platform": "codeforces",
-            "id": 278515560,
-            "pid": "1987D",
-            "name": "World is Mine",
+            "id": 278588600,
+            "pid": "2010A",
+            "name": "Alternating Sum of Numbers",
             "verdict": "OK",
-            "creationTime": 1724851647
-          },
-          {
-            "platform": "codeforces",
-            "id": 278514039,
-            "pid": "1987C",
-            "name": "Basil's Garden",
-            "verdict": "OK",
-            "creationTime": 1724850937
-          },
-          {
-            "platform": "codeforces",
-            "id": 278513807,
-            "pid": "1987B",
-            "name": "K-Sort",
-            "verdict": "OK",
-            "creationTime": 1724850816
-          },
-          {
-            "platform": "codeforces",
-            "id": 278511511,
-            "pid": "1987A",
-            "name": "Upload More RAM",
-            "verdict": "OK",
-            "creationTime": 1724849698
+            "creationTime": 1724907347
           }
         ],
         "newContests": []
@@ -76,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "4d599344ec0981abd1f0a5be778bab0cdb59fc37"
+  "ref": "78686f1674595a3334e6877bb25a5a310955e68c"
 }
