@@ -9,6 +9,7 @@
       "id": 278838627,
       "creationTime": 1725036555,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -72,7 +73,10 @@
         "type": "codeforces",
         "id": "2006D",
         "name": "Iris and Adjacent Products",
-        "tags": [],
+        "tags": [
+          "divide and conquer",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2006/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2006/submission/278802409"
@@ -95,6 +99,8 @@
         "id": "2006C",
         "name": "Eri and Expanded Sets",
         "tags": [
+          "binary search",
+          "data structures",
           "number theory",
           "two pointers"
         ],
@@ -121,8 +127,9 @@
         "name": "Iris and the Tree",
         "tags": [
           "brute force",
-          "brute force",
+          "data structures",
           "dfs and similar",
+          "dsu",
           "math",
           "trees"
         ],
@@ -148,7 +155,10 @@
         "id": "2006A",
         "name": "Iris and Game on the Tree",
         "tags": [
-          "graphs"
+          "games",
+          "graphs",
+          "greedy",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2006/problem/A"
       },
@@ -130180,9 +130190,9 @@
     }
   ],
   "codeforces": {
-    "rank": "legendary grandmaster",
-    "rating": 3947,
-    "maxRank": "legendary grandmaster",
-    "maxRating": 3979
+    "rank": "tourist",
+    "rating": 4009,
+    "maxRank": "tourist",
+    "maxRating": 4009
   }
 }
