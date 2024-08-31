@@ -75,6 +75,7 @@
         "name": "Iris and Adjacent Products",
         "tags": [
           "divide and conquer",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2006/problem/D"
@@ -100,7 +101,10 @@
         "name": "Eri and Expanded Sets",
         "tags": [
           "binary search",
+          "brute force",
           "data structures",
+          "dp",
+          "math",
           "number theory",
           "two pointers"
         ],
@@ -155,6 +159,7 @@
         "id": "2006A",
         "name": "Iris and Game on the Tree",
         "tags": [
+          "dfs and similar",
           "games",
           "graphs",
           "greedy",
