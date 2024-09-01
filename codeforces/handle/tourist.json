@@ -74,7 +74,6 @@
         "id": "2006D",
         "name": "Iris and Adjacent Products",
         "tags": [
-          "divide and conquer",
           "greedy",
           "math"
         ],
@@ -101,7 +100,6 @@
         "name": "Eri and Expanded Sets",
         "tags": [
           "binary search",
-          "brute force",
           "data structures",
           "dp",
           "math",
