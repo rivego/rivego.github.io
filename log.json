@@ -1,9 +1,104 @@
 {
   "version": "0.1.29",
-  "updateTime": 1725255386,
+  "updateTime": 1725298388,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 279357682,
+            "pid": "2008H",
+            "name": "Sakurako's Test",
+            "verdict": "OK",
+            "creationTime": 1725293903
+          },
+          {
+            "platform": "codeforces",
+            "id": 279357035,
+            "pid": "2008G",
+            "name": "Sakurako's Task",
+            "verdict": "OK",
+            "creationTime": 1725293632
+          },
+          {
+            "platform": "codeforces",
+            "id": 279356320,
+            "pid": "2008F",
+            "name": "Sakurako's Box",
+            "verdict": "OK",
+            "creationTime": 1725293365
+          },
+          {
+            "platform": "codeforces",
+            "id": 279356047,
+            "pid": "2008E",
+            "name": "Alternating String",
+            "verdict": "OK",
+            "creationTime": 1725293255
+          },
+          {
+            "platform": "codeforces",
+            "id": 279355332,
+            "pid": "2008D",
+            "name": "Sakurako's Hobby",
+            "verdict": "OK",
+            "creationTime": 1725292969
+          },
+          {
+            "platform": "codeforces",
+            "id": 279354864,
+            "pid": "2008C",
+            "name": "Longest Good Array",
+            "verdict": "OK",
+            "creationTime": 1725292775
+          },
+          {
+            "platform": "codeforces",
+            "id": 279354515,
+            "pid": "2008B",
+            "name": "Square or Not",
+            "verdict": "OK",
+            "creationTime": 1725292638
+          },
+          {
+            "platform": "codeforces",
+            "id": 279354115,
+            "pid": "2008A",
+            "name": "Sakurako's Exam",
+            "verdict": "OK",
+            "creationTime": 1725292473
+          },
+          {
+            "platform": "codeforces",
+            "id": 279335217,
+            "pid": "2007C",
+            "name": "Dora and C++",
+            "verdict": "OK",
+            "creationTime": 1725283774
+          },
+          {
+            "platform": "codeforces",
+            "id": 279334955,
+            "pid": "2007B",
+            "name": "Index and Maximum Value",
+            "verdict": "OK",
+            "creationTime": 1725283657
+          },
+          {
+            "platform": "codeforces",
+            "id": 279334670,
+            "pid": "2007A",
+            "name": "Dora's Set",
+            "verdict": "OK",
+            "creationTime": 1725283510
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "08669a41065ef1119a1ef65411242661fbe18069"
+  "ref": "b15b2cc8ad4070f68f262792f6cafcf2e6b4a5a1"
 }
