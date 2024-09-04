@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1725428242,
+  "updateTime": 1725471453,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 279575115,
-            "pid": "2009G3",
-            "name": "Yunli's Subarray Queries (extreme version)",
-            "verdict": "OK",
-            "creationTime": 1725377288
-          },
-          {
-            "platform": "codeforces",
-            "id": 279574286,
-            "pid": "2009G2",
-            "name": "Yunli's Subarray Queries (hard version)",
-            "verdict": "OK",
-            "creationTime": 1725377229
-          },
-          {
-            "platform": "codeforces",
-            "id": 279538990,
-            "pid": "2009G1",
-            "name": "Yunli's Subarray Queries (easy version)",
-            "verdict": "OK",
-            "creationTime": 1725375376
-          },
-          {
-            "platform": "codeforces",
-            "id": 279532554,
-            "pid": "2009E",
-            "name": "Klee's SUPER DUPER LARGE Array!!!",
-            "verdict": "OK",
-            "creationTime": 1725375167
-          },
-          {
-            "platform": "codeforces",
-            "id": 279530689,
-            "pid": "2009D",
-            "name": "Satyam and Counting",
-            "verdict": "OK",
-            "creationTime": 1725375084
-          },
-          {
-            "platform": "codeforces",
-            "id": 279529308,
-            "pid": "2009C",
-            "name": "The Legend of Freya the Frog",
-            "verdict": "OK",
-            "creationTime": 1725375041
-          },
-          {
-            "platform": "codeforces",
-            "id": 279524012,
-            "pid": "2009F",
-            "name": "Firefly's Queries",
-            "verdict": "OK",
-            "creationTime": 1725374915
-          },
-          {
-            "platform": "codeforces",
-            "id": 279494943,
-            "pid": "2009B",
-            "name": "osu!mania",
-            "verdict": "OK",
-            "creationTime": 1725374253
-          },
-          {
-            "platform": "codeforces",
-            "id": 279487349,
-            "pid": "2009A",
-            "name": "Minimize!",
-            "verdict": "OK",
-            "creationTime": 1725374148
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7c4286200321716b3e7e721ea6791bcaac94b842"
+  "ref": "8c37ba426c5fa10d954ae3d2adfb52dc5be0d6f7"
 }
