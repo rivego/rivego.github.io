@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1725946625,
+  "updateTime": 1725989698,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 280630850,
+            "pid": "2008A",
+            "name": "Sakurako's Exam",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1725983607
+          },
+          {
+            "platform": "codeforces",
+            "id": 280629690,
+            "pid": "2008A",
+            "name": "Sakurako's Exam",
+            "verdict": "OK",
+            "creationTime": 1725983075
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c8671d4557823973487088f44aa9a69d1ca25f81"
+  "ref": "ec6d9b02e045b4f010d5597aa4cf85eef8fdd7f7"
 }

@@ -6,6 +6,60 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 280630850,
+      "creationTime": 1725983607,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -421500040
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2008A",
+        "name": "Sakurako's Exam",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2008/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2008/submission/280630850"
+    },
+    {
+      "type": "codeforces",
+      "id": 280629690,
+      "creationTime": 1725983075,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -421500572
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2008A",
+        "name": "Sakurako's Exam",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2008/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2008/submission/280629690"
+    },
+    {
+      "type": "codeforces",
       "id": 253451572,
       "creationTime": 1711523427,
       "language": "C++20 (GCC 13-64)",
