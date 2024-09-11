@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2008A",
         "name": "Sakurako's Exam",
+        "rating": 800,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "2008A",
         "name": "Sakurako's Exam",
+        "rating": 800,
         "tags": [
           "brute force",
           "constructive algorithms",
