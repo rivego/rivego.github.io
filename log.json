@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1726335279,
+  "updateTime": 1726378581,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 281200546,
-            "pid": "2005E1",
-            "name": "Subtangle Game (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1726327461
-          },
-          {
-            "platform": "codeforces",
-            "id": 281199968,
-            "pid": "2005E2",
-            "name": "Subtangle Game (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1726327427
-          },
-          {
-            "platform": "codeforces",
-            "id": 281179585,
-            "pid": "2005D",
-            "name": "Alter the GCD",
-            "verdict": "OK",
-            "creationTime": 1726326379
-          },
-          {
-            "platform": "codeforces",
-            "id": 281156277,
-            "pid": "2005C",
-            "name": "Lazy Narek",
-            "verdict": "OK",
-            "creationTime": 1726325352
-          },
-          {
-            "platform": "codeforces",
-            "id": 281149200,
-            "pid": "2005B1",
-            "name": "The Strict Teacher (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1726325086
-          },
-          {
-            "platform": "codeforces",
-            "id": 281148763,
-            "pid": "2005B2",
-            "name": "The Strict Teacher (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1726325070
-          },
-          {
-            "platform": "codeforces",
-            "id": 281142777,
-            "pid": "2005A",
-            "name": "Simple Palindrome",
-            "verdict": "OK",
-            "creationTime": 1726324850
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "91ccb6193fe092288f86bde2c735508a45c396ff"
+  "ref": "bcdf528d4013ca971a0177ebdf5903883f741037"
 }
