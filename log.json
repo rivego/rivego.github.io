@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1726551361,
+  "updateTime": 1726594532,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 281561360,
-            "pid": "2017G",
-            "name": "Berserk Monsters",
-            "verdict": "OK",
-            "creationTime": 1726550662
-          },
-          {
-            "platform": "codeforces",
-            "id": 281560744,
-            "pid": "2017F",
-            "name": "Colored Portals",
-            "verdict": "OK",
-            "creationTime": 1726550173
-          },
-          {
-            "platform": "codeforces",
-            "id": 281559972,
-            "pid": "2017E",
-            "name": "Decreasing String",
-            "verdict": "OK",
-            "creationTime": 1726549509
-          },
-          {
-            "platform": "codeforces",
-            "id": 281559494,
-            "pid": "2017D",
-            "name": "Forming Triangles",
-            "verdict": "OK",
-            "creationTime": 1726549081
-          },
-          {
-            "platform": "codeforces",
-            "id": 281559325,
-            "pid": "2017C",
-            "name": "Make Equal Again",
-            "verdict": "OK",
-            "creationTime": 1726548908
-          },
-          {
-            "platform": "codeforces",
-            "id": 281559071,
-            "pid": "2017B",
-            "name": "Square or Not",
-            "verdict": "OK",
-            "creationTime": 1726548655
-          },
-          {
-            "platform": "codeforces",
-            "id": 281558914,
-            "pid": "2017A",
-            "name": "My First Sorting Problem",
-            "verdict": "OK",
-            "creationTime": 1726548496
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "35ec1d73bbed8fb4afa67767d5ae5bc6f7c98b7d"
+  "ref": "6d74f086dd1373ad75130ea67dc11a9765e7c156"
 }
