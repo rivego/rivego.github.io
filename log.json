@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1726637831,
+  "updateTime": 1726680911,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 281771141,
+            "pid": "1179E",
+            "name": "Alesya and Discrete Math",
+            "verdict": "OK",
+            "creationTime": 1726679645
+          },
+          {
+            "platform": "codeforces",
+            "id": 281765898,
+            "pid": "1179E",
+            "name": "Alesya and Discrete Math",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1726677173
+          },
+          {
+            "platform": "codeforces",
+            "id": 281764197,
+            "pid": "1179E",
+            "name": "Alesya and Discrete Math",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1726676358
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "2d151dea2c677a9b7d51ff8c902fabf8d0f3857d"
+  "ref": "6a3ecd37e5b0e93275ed5d0f95d8afb3c0580199"
 }
