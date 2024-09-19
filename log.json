@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1726680911,
+  "updateTime": 1726724234,
   "history": {
     "user": [
       {
@@ -8,27 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 281771141,
-            "pid": "1179E",
-            "name": "Alesya and Discrete Math",
+            "id": 281776003,
+            "pid": "1182A",
+            "name": "Filling Shapes",
             "verdict": "OK",
-            "creationTime": 1726679645
+            "creationTime": 1726681715
           },
           {
             "platform": "codeforces",
-            "id": 281765898,
-            "pid": "1179E",
-            "name": "Alesya and Discrete Math",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1726677173
-          },
-          {
-            "platform": "codeforces",
-            "id": 281764197,
-            "pid": "1179E",
-            "name": "Alesya and Discrete Math",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1726676358
+            "id": 281774983,
+            "pid": "1179D",
+            "name": "Fedor Runs for President",
+            "verdict": "OK",
+            "creationTime": 1726681189
           }
         ],
         "newContests": []
@@ -36,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "6a3ecd37e5b0e93275ed5d0f95d8afb3c0580199"
+  "ref": "72e0914e2a03b756d9cf3ff4ba12a9959e8bee6d"
 }
