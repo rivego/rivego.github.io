@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1726724234,
+  "updateTime": 1726767330,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 281776003,
-            "pid": "1182A",
-            "name": "Filling Shapes",
-            "verdict": "OK",
-            "creationTime": 1726681715
-          },
-          {
-            "platform": "codeforces",
-            "id": 281774983,
-            "pid": "1179D",
-            "name": "Fedor Runs for President",
-            "verdict": "OK",
-            "creationTime": 1726681189
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "72e0914e2a03b756d9cf3ff4ba12a9959e8bee6d"
+  "ref": "9d419962a18a5d847584929f7869c797f86c4419"
 }
