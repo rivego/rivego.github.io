@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1726767330,
+  "updateTime": 1726810647,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 281937653,
+            "pid": "1290F",
+            "name": "Making Shapes",
+            "verdict": "OK",
+            "creationTime": 1726809129
+          },
+          {
+            "platform": "codeforces",
+            "id": 281907688,
+            "pid": "1299E",
+            "name": "So Mean",
+            "verdict": "OK",
+            "creationTime": 1726772691
+          },
+          {
+            "platform": "codeforces",
+            "id": 281906886,
+            "pid": "1299E",
+            "name": "So Mean",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1726772223
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "9d419962a18a5d847584929f7869c797f86c4419"
+  "ref": "5358dd0efd6df337ee595564ae5d425532370a3b"
 }
