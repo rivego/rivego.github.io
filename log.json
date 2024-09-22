@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1726983384,
+  "updateTime": 1727026526,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 282339431,
-            "pid": "2014H",
-            "name": "Robin Hood Archery",
-            "creationTime": 1726935316
-          },
-          {
-            "platform": "codeforces",
-            "id": 282337250,
-            "pid": "2014G",
-            "name": "Milky Days",
-            "creationTime": 1726935151
-          },
-          {
-            "platform": "codeforces",
-            "id": 282328470,
-            "pid": "2014F",
-            "name": "Sheriff's Defense",
-            "creationTime": 1726934514
-          },
-          {
-            "platform": "codeforces",
-            "id": 282324723,
-            "pid": "2014E",
-            "name": "Rendez-vous de Marian et Robin",
-            "creationTime": 1726934256
-          },
-          {
-            "platform": "codeforces",
-            "id": 282318490,
-            "pid": "2014D",
-            "name": "Robert Hood and Mrs Hood",
-            "creationTime": 1726933860
-          },
-          {
-            "platform": "codeforces",
-            "id": 282314634,
-            "pid": "2014C",
-            "name": "Robin Hood in Town",
-            "creationTime": 1726933630
-          },
-          {
-            "platform": "codeforces",
-            "id": 282310732,
-            "pid": "2014B",
-            "name": "Robin Hood and the Major Oak",
-            "creationTime": 1726933399
-          },
-          {
-            "platform": "codeforces",
-            "id": 282309165,
-            "pid": "2014A",
-            "name": "Robin Helps",
-            "creationTime": 1726933308
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9a5b02fcebb298830a4fa7a9c710bcb6b6901728"
+  "ref": "f05746ca4ced4b5557df8e24a0e492cea14e3287"
 }
