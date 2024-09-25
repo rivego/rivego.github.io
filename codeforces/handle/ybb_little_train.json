@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 282934276,
+      "creationTime": 1727277215,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -420206432
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2014H",
+        "name": "Robin Hood Archery",
+        "tags": [
+          "data structures",
+          "divide and conquer",
+          "greedy",
+          "hashing"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2014/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2014/submission/282934276"
+    },
+    {
+      "type": "codeforces",
       "id": 280630850,
       "creationTime": 1725983607,
       "language": "C++20 (GCC 13-64)",
