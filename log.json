@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1727285779,
+  "updateTime": 1727329088,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 282934276,
-            "pid": "2014H",
-            "name": "Robin Hood Archery",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1727277215
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3e2245ee2a356d788f53de9b233d0bd1f03e599f"
+  "ref": "b682e296761edbc0200e90fd8c94914571dfe69e"
 }
