@@ -6,6 +6,50 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 283014667,
+      "creationTime": 1727340507,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -420143140
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "101492C",
+        "name": "Coprimes",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/101492/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/101492/submission/283014667"
+    },
+    {
+      "type": "codeforces",
+      "id": 283014292,
+      "creationTime": 1727340320,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -420143327
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "101492C",
+        "name": "Coprimes",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/101492/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/101492/submission/283014292"
+    },
+    {
+      "type": "codeforces",
       "id": 225390564,
       "creationTime": 1695745541,
       "language": "C++20 (GCC 11-64)",

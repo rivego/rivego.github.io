@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2014H",
         "name": "Robin Hood Archery",
+        "rating": 1900,
         "tags": [
           "data structures",
           "divide and conquer",
