@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1727372337,
+  "updateTime": 1727415502,
   "history": {
-    "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 283014667,
-            "pid": "101492C",
-            "name": "Coprimes",
-            "verdict": "OK",
-            "creationTime": 1727340507
-          },
-          {
-            "platform": "codeforces",
-            "id": 283014292,
-            "pid": "101492C",
-            "name": "Coprimes",
-            "verdict": "OK",
-            "creationTime": 1727340320
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "a4ad7f808f778887df25ad3856bff0a70a7acdea"
+  "ref": "c06036f089497ec50391642fefce6c9ac785bc0d"
 }
