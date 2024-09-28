@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1727458607,
+  "updateTime": 1727501829,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 283240998,
-            "pid": "2018F1",
-            "name": "Speedbreaker Counting (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1727451253
-          },
-          {
-            "platform": "codeforces",
-            "id": 283240981,
-            "pid": "2018F2",
-            "name": "Speedbreaker Counting (Medium Version)",
-            "verdict": "OK",
-            "creationTime": 1727451250
-          },
-          {
-            "platform": "codeforces",
-            "id": 283240882,
-            "pid": "2018F3",
-            "name": "Speedbreaker Counting (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1727451233
-          },
-          {
-            "platform": "codeforces",
-            "id": 283228724,
-            "pid": "2018E2",
-            "name": "Complex Segments (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1727449439
-          },
-          {
-            "platform": "codeforces",
-            "id": 283228436,
-            "pid": "2018E1",
-            "name": "Complex Segments (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1727449399
-          },
-          {
-            "platform": "codeforces",
-            "id": 283195973,
-            "pid": "2018D",
-            "name": "Max Plus Min Plus Size",
-            "verdict": "OK",
-            "creationTime": 1727445354
-          },
-          {
-            "platform": "codeforces",
-            "id": 283191019,
-            "pid": "2018C",
-            "name": "Tree Pruning",
-            "verdict": "OK",
-            "creationTime": 1727444924
-          },
-          {
-            "platform": "codeforces",
-            "id": 283187765,
-            "pid": "2018B",
-            "name": "Speedbreaker",
-            "verdict": "OK",
-            "creationTime": 1727444677
-          },
-          {
-            "platform": "codeforces",
-            "id": 283182907,
-            "pid": "2018A",
-            "name": "Cards Partition",
-            "verdict": "OK",
-            "creationTime": 1727444364
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "c88a29143c4f124997807ebe7df73846f60297ed"
+  "ref": "4bfe2cc7d03664218f708eb7a2d861dd8c036905"
 }
