@@ -20935,6 +20935,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "TSEC Round 1 (Div. 4)",
+    "startTime": 1727602200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105380,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105380",
+    "standingsUrl": "https://codeforces.com/gym/105380/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2024 ICPC Asia Taiwan Online Programming Contest",
     "startTime": 1725670800,
     "duration": 10800,
@@ -20963,6 +20974,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105384",
     "standingsUrl": "https://codeforces.com/gym/105384/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC Central Russia Regional Contest, 2023",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105387,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105387",
+    "standingsUrl": "https://codeforces.com/gym/105387/standings"
   },
   {
     "type": "codeforces/gym/icpc",
