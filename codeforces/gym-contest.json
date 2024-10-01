@@ -20987,16 +20987,6 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "The 2024 ICPC Kunming Invitational Contest",
-    "duration": 18000,
-    "participantNumber": 0,
-    "id": 105386,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/105386",
-    "standingsUrl": "https://codeforces.com/gym/105386/standings"
-  },
-  {
-    "type": "codeforces/gym/icpc",
     "name": "OCPC Potluck Contest 1 (The 3rd Universal Cup. Stage 6: Osijek)",
     "duration": 18000,
     "participantNumber": 0,
@@ -21004,5 +20994,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105388",
     "standingsUrl": "https://codeforces.com/gym/105388/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Public Gym?",
+    "duration": 600,
+    "participantNumber": 0,
+    "id": 105391,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105391",
+    "standingsUrl": "https://codeforces.com/gym/105391/standings"
   }
 ]

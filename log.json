@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1727717798,
+  "updateTime": 1727761084,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 283791895,
-            "pid": "2011G",
-            "name": "Removal of a Permutation",
-            "verdict": "OK",
-            "creationTime": 1727712837
-          },
-          {
-            "platform": "codeforces",
-            "id": 283785777,
-            "pid": "2011H",
-            "name": "Strange Matrix",
-            "verdict": "OK",
-            "creationTime": 1727710617
-          },
-          {
-            "platform": "codeforces",
-            "id": 283782285,
-            "pid": "2011E",
-            "name": "Rock-Paper-Scissors Bot",
-            "verdict": "OK",
-            "creationTime": 1727709359
-          },
-          {
-            "platform": "codeforces",
-            "id": 283779726,
-            "pid": "2011F",
-            "name": "Good Subarray",
-            "verdict": "OK",
-            "creationTime": 1727708461
-          },
-          {
-            "platform": "codeforces",
-            "id": 283777330,
-            "pid": "2011D",
-            "name": "Among Wolves",
-            "verdict": "OK",
-            "creationTime": 1727707649
-          },
-          {
-            "platform": "codeforces",
-            "id": 283775956,
-            "pid": "2011C",
-            "name": "Split the Expression",
-            "verdict": "OK",
-            "creationTime": 1727707240
-          },
-          {
-            "platform": "codeforces",
-            "id": 283775353,
-            "pid": "2011B",
-            "name": "Shuffle",
-            "verdict": "OK",
-            "creationTime": 1727707091
-          },
-          {
-            "platform": "codeforces",
-            "id": 283775097,
-            "pid": "2011A",
-            "name": "Problem Solving",
-            "verdict": "OK",
-            "creationTime": 1727707027
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "ec7b880324d6fe9feca352ff02f045acabcbeb5e"
+  "ref": "ae306b1526c34334b39965b3850e24dac156795f"
 }
