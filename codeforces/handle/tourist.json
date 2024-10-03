@@ -458,7 +458,6 @@
         "id": "2020A",
         "name": "Find Minimum Operations",
         "tags": [
-          "bitmasks",
           "brute force",
           "greedy",
           "math"
