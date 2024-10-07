@@ -25,6 +25,7 @@
           "data structures",
           "dp",
           "graphs",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2021/problem/E3"
@@ -78,7 +79,7 @@
         "id": "2021D",
         "name": "Boss, Thirsty",
         "tags": [
-          "constructive algorithms",
+          "data structures",
           "dp",
           "greedy",
           "math"
@@ -107,13 +108,14 @@
         "tags": [
           "brute force",
           "data structures",
-          "dfs and similar",
           "dp",
           "dsu",
           "graphs",
           "greedy",
+          "implementation",
           "math",
-          "shortest paths"
+          "shortest paths",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2021/problem/E1"
       },
@@ -140,7 +142,6 @@
           "constructive algorithms",
           "data structures",
           "greedy",
-          "hashing",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2021/problem/C2"
