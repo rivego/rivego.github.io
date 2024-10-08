@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1728365863,
+  "updateTime": 1728408959,
   "history": {
-    "user": [
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 284858849,
-            "pid": "1000F",
-            "name": "One Occurrence",
-            "verdict": "OK",
-            "creationTime": 1728356070
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "a4743a0a9ca3b5c644f1ecad95f51ade2118066c"
+  "ref": "6a16ed2ac7e136612586d48c56a3f280e31b88f1"
 }
