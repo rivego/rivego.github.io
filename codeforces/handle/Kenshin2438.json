@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 284858849,
+      "creationTime": 1728356070,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -419127577
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1000F",
+        "name": "One Occurrence",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "divide and conquer"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1000/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1000/submission/284858849"
+    },
+    {
+      "type": "codeforces",
       "id": 284441724,
       "creationTime": 1728125541,
       "language": "C++23 (GCC 14-64, msys2)",
