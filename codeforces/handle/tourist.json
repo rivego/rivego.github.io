@@ -114,8 +114,10 @@
         "tags": [
           "brute force",
           "data structures",
+          "dfs and similar",
           "dp",
           "dsu",
+          "fft",
           "graphs",
           "greedy",
           "implementation",
