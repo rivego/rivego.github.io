@@ -1,96 +1,130 @@
 {
   "version": "0.1.29",
-  "updateTime": 1728884315,
+  "updateTime": 1728927444,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 285717103,
-            "pid": "2022D2",
-            "name": "Asesino (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1728850667
-          },
-          {
-            "platform": "codeforces",
-            "id": 285712904,
-            "pid": "2022D2",
-            "name": "Asesino (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1728849930
-          },
-          {
-            "platform": "codeforces",
-            "id": 285711023,
-            "pid": "2022D2",
-            "name": "Asesino (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1728849627
-          },
-          {
-            "platform": "codeforces",
-            "id": 285709207,
-            "pid": "2022D1",
-            "name": "Asesino (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1728849352
-          },
-          {
-            "platform": "codeforces",
-            "id": 285707097,
-            "pid": "2022E1",
-            "name": "Billetes MX (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1728849060
-          },
-          {
-            "platform": "codeforces",
-            "id": 285707014,
-            "pid": "2022E2",
-            "name": "Billetes MX (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1728849052
-          },
-          {
-            "platform": "codeforces",
-            "id": 285703582,
-            "pid": "2022C",
-            "name": "Gerrymandering",
-            "verdict": "OK",
-            "creationTime": 1728848609
-          },
-          {
-            "platform": "codeforces",
-            "id": 285701527,
-            "pid": "2022B",
-            "name": "Kar Salesman",
-            "verdict": "OK",
-            "creationTime": 1728848318
-          },
-          {
-            "platform": "codeforces",
-            "id": 285701267,
-            "pid": "2022A",
-            "name": "Bus to Pénjamo",
-            "verdict": "OK",
-            "creationTime": 1728848199
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 285768851,
-            "pid": "2022A",
-            "name": "Bus to Pénjamo",
+            "id": 285888128,
+            "pid": "2025G",
+            "name": "Variable Damage",
             "verdict": "OK",
-            "creationTime": 1728884249
+            "creationTime": 1728919604
+          },
+          {
+            "platform": "codeforces",
+            "id": 285868426,
+            "pid": "2025F",
+            "name": "Choose Your Queries",
+            "verdict": "OK",
+            "creationTime": 1728918062
+          },
+          {
+            "platform": "codeforces",
+            "id": 285859957,
+            "pid": "2025E",
+            "name": "Card Game",
+            "verdict": "OK",
+            "creationTime": 1728917524
+          },
+          {
+            "platform": "codeforces",
+            "id": 285855265,
+            "pid": "2025C",
+            "name": "New Game",
+            "verdict": "OK",
+            "creationTime": 1728917254
+          },
+          {
+            "platform": "codeforces",
+            "id": 285854273,
+            "pid": "2025D",
+            "name": "Attribute Checks",
+            "verdict": "OK",
+            "creationTime": 1728917200
+          },
+          {
+            "platform": "codeforces",
+            "id": 285848107,
+            "pid": "2025C",
+            "name": "New Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1728916917
+          },
+          {
+            "platform": "codeforces",
+            "id": 285844312,
+            "pid": "2025B",
+            "name": "Binomial Coefficients, Kind Of",
+            "verdict": "OK",
+            "creationTime": 1728916760
+          },
+          {
+            "platform": "codeforces",
+            "id": 285841954,
+            "pid": "2025A",
+            "name": "Two Screens",
+            "verdict": "OK",
+            "creationTime": 1728916579
+          },
+          {
+            "platform": "codeforces",
+            "id": 285773663,
+            "pid": "2022E2",
+            "name": "Billetes MX (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1728887036
+          },
+          {
+            "platform": "codeforces",
+            "id": 285773661,
+            "pid": "2022E1",
+            "name": "Billetes MX (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1728887034
+          },
+          {
+            "platform": "codeforces",
+            "id": 285772604,
+            "pid": "2022D2",
+            "name": "Asesino (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1728886491
+          },
+          {
+            "platform": "codeforces",
+            "id": 285770672,
+            "pid": "2022D2",
+            "name": "Asesino (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1728885397
+          },
+          {
+            "platform": "codeforces",
+            "id": 285770640,
+            "pid": "2022D1",
+            "name": "Asesino (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1728885381
+          },
+          {
+            "platform": "codeforces",
+            "id": 285769672,
+            "pid": "2022C",
+            "name": "Gerrymandering",
+            "verdict": "OK",
+            "creationTime": 1728884775
+          },
+          {
+            "platform": "codeforces",
+            "id": 285768968,
+            "pid": "2022B",
+            "name": "Kar Salesman",
+            "verdict": "OK",
+            "creationTime": 1728884326
           }
         ],
         "newContests": []
@@ -98,5 +132,5 @@
     ],
     "contest": []
   },
-  "ref": "06025c81e975a1e64a3929286e446c76904ee30c"
+  "ref": "6d162f8a41e5666fbda4de2278352c7579779e4b"
 }
