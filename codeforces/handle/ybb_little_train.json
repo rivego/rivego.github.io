@@ -6,6 +6,202 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 286096838,
+      "creationTime": 1729008368,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -418475279
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2025C",
+        "name": "New Game",
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "implementation",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2025/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2025/submission/286096838"
+    },
+    {
+      "type": "codeforces",
+      "id": 286095804,
+      "creationTime": 1729007975,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -418475672
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2025C",
+        "name": "New Game",
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "implementation",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2025/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2025/submission/286095804"
+    },
+    {
+      "type": "codeforces",
+      "id": 286092798,
+      "creationTime": 1729006828,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -418476819
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2025C",
+        "name": "New Game",
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "implementation",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2025/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2025/submission/286092798"
+    },
+    {
+      "type": "codeforces",
+      "id": 286092516,
+      "creationTime": 1729006724,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -418476923
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2025C",
+        "name": "New Game",
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "implementation",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2025/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2025/submission/286092516"
+    },
+    {
+      "type": "codeforces",
+      "id": 286087051,
+      "creationTime": 1729004591,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -418479056
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2025B",
+        "name": "Binomial Coefficients, Kind Of",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2025/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2025/submission/286087051"
+    },
+    {
+      "type": "codeforces",
+      "id": 286083776,
+      "creationTime": 1729003368,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -418480279
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2025A",
+        "name": "Two Screens",
+        "tags": [
+          "binary search",
+          "greedy",
+          "strings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2025/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2025/submission/286083776"
+    },
+    {
+      "type": "codeforces",
+      "id": 286083645,
+      "creationTime": 1729003324,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -418480323
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2025A",
+        "name": "Two Screens",
+        "tags": [
+          "binary search",
+          "greedy",
+          "strings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2025/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2025/submission/286083645"
+    },
+    {
+      "type": "codeforces",
       "id": 282934276,
       "creationTime": 1727277215,
       "language": "C++20 (GCC 13-64)",

@@ -21113,12 +21113,22 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "Квалификационный тур Уральского регионального чемпионата ICPC 2023",
+    "name": "2023-2024 Квалификационный тур Уральского четвертьфинала ICPC",
     "duration": 18000,
     "participantNumber": 0,
     "id": 105424,
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105424",
     "standingsUrl": "https://codeforces.com/gym/105424/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023-2024 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2023)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105427,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105427",
+    "standingsUrl": "https://codeforces.com/gym/105427/standings"
   }
 ]
