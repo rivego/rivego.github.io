@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1729013856,
+  "updateTime": 1729057100,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 286096838,
-            "pid": "2025C",
-            "name": "New Game",
-            "verdict": "OK",
-            "creationTime": 1729008368
-          },
-          {
-            "platform": "codeforces",
-            "id": 286095804,
-            "pid": "2025C",
-            "name": "New Game",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1729007975
-          },
-          {
-            "platform": "codeforces",
-            "id": 286092798,
-            "pid": "2025C",
-            "name": "New Game",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1729006828
-          },
-          {
-            "platform": "codeforces",
-            "id": 286092516,
-            "pid": "2025C",
-            "name": "New Game",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1729006724
-          },
-          {
-            "platform": "codeforces",
-            "id": 286087051,
-            "pid": "2025B",
-            "name": "Binomial Coefficients, Kind Of",
-            "verdict": "OK",
-            "creationTime": 1729004591
-          },
-          {
-            "platform": "codeforces",
-            "id": 286083776,
-            "pid": "2025A",
-            "name": "Two Screens",
-            "verdict": "OK",
-            "creationTime": 1729003368
-          },
-          {
-            "platform": "codeforces",
-            "id": 286083645,
-            "pid": "2025A",
-            "name": "Two Screens",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1729003324
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "25a7c4915f57e785dca4e8260a0276f898558e31"
+  "ref": "016885814c51066d3b15c66cbe0dcda18790575e"
 }

@@ -208,6 +208,7 @@
         "id": "2022B",
         "name": "Kar Salesman",
         "tags": [
+          "binary search",
           "greedy",
           "math"
         ],
