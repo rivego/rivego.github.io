@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1729359305,
+  "updateTime": 1729402583,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 286805090,
-            "pid": "2030G2",
-            "name": "The Destruction of the Universe (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1729352919
-          },
-          {
-            "platform": "codeforces",
-            "id": 286798293,
-            "pid": "2030G1",
-            "name": "The Destruction of the Universe (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1729352050
-          },
-          {
-            "platform": "codeforces",
-            "id": 286791122,
-            "pid": "2030F",
-            "name": "Orangutan Approved Subarrays",
-            "verdict": "OK",
-            "creationTime": 1729351262
-          },
-          {
-            "platform": "codeforces",
-            "id": 286785367,
-            "pid": "2030E",
-            "name": "MEXimize the Score",
-            "verdict": "OK",
-            "creationTime": 1729350703
-          },
-          {
-            "platform": "codeforces",
-            "id": 286781615,
-            "pid": "2030D",
-            "name": "QED's Favorite Permutation",
-            "verdict": "OK",
-            "creationTime": 1729350377
-          },
-          {
-            "platform": "codeforces",
-            "id": 286778702,
-            "pid": "2030C",
-            "name": "A TRUE Battle",
-            "verdict": "OK",
-            "creationTime": 1729350134
-          },
-          {
-            "platform": "codeforces",
-            "id": 286776935,
-            "pid": "2030B",
-            "name": "Minimise Oneness",
-            "verdict": "OK",
-            "creationTime": 1729350000
-          },
-          {
-            "platform": "codeforces",
-            "id": 286775336,
-            "pid": "2030A",
-            "name": "A Gift From Orangutan",
-            "verdict": "OK",
-            "creationTime": 1729349879
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "54e7254c6bbdff9cc0a33f0a0cf527c5515befcd"
+  "ref": "acf4dd0dae229ffefe337be1708ef8a657365aeb"
 }
