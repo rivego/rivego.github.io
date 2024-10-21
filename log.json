@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1729445753,
+  "updateTime": 1729489119,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 287014608,
-            "pid": "2023F",
-            "name": "Hills and Pits",
-            "verdict": "OK",
-            "creationTime": 1729422121
-          },
-          {
-            "platform": "codeforces",
-            "id": 287013018,
-            "pid": "2023F",
-            "name": "Hills and Pits",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1729421948
-          },
-          {
-            "platform": "codeforces",
-            "id": 286990891,
-            "pid": "2023E",
-            "name": "Tree of Life",
-            "verdict": "OK",
-            "creationTime": 1729419356
-          },
-          {
-            "platform": "codeforces",
-            "id": 286985275,
-            "pid": "2023E",
-            "name": "Tree of Life",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1729418760
-          },
-          {
-            "platform": "codeforces",
-            "id": 286985140,
-            "pid": "2023E",
-            "name": "Tree of Life",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1729418744
-          },
-          {
-            "platform": "codeforces",
-            "id": 286943910,
-            "pid": "2023D",
-            "name": "Many Games",
-            "verdict": "OK",
-            "creationTime": 1729417373
-          },
-          {
-            "platform": "codeforces",
-            "id": 286925333,
-            "pid": "2023C",
-            "name": "C+K+S",
-            "verdict": "OK",
-            "creationTime": 1729416395
-          },
-          {
-            "platform": "codeforces",
-            "id": 286913842,
-            "pid": "2023B",
-            "name": "Skipping",
-            "verdict": "OK",
-            "creationTime": 1729415642
-          },
-          {
-            "platform": "codeforces",
-            "id": 286905356,
-            "pid": "2023A",
-            "name": "Concatenation of Arrays",
-            "verdict": "OK",
-            "creationTime": 1729415238
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "daf3b827fcbebb055d3b8b617f1a8043ecebde11"
+  "ref": "57c05ba917450154b7c61b9c9c72958a279ddcfc"
 }
