@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1729489119,
+  "updateTime": 1729532209,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 287162482,
+            "pid": "2024B",
+            "name": "Buying Lemonade",
+            "verdict": "OK",
+            "creationTime": 1729495842
+          },
+          {
+            "platform": "codeforces",
+            "id": 287161987,
+            "pid": "2024A",
+            "name": "Profitable Interest Rate",
+            "verdict": "OK",
+            "creationTime": 1729495609
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "57c05ba917450154b7c61b9c9c72958a279ddcfc"
+  "ref": "457c8ec3ee92d5f67e1745d48156a481394af739"
 }
