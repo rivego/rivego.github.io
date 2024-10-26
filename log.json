@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1729921007,
+  "updateTime": 1729964196,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 288148553,
+            "pid": "2027E2",
+            "name": "Bit Game (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1729956968
+          },
+          {
+            "platform": "codeforces",
+            "id": 288136417,
+            "pid": "2027E1",
+            "name": "Bit Game (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1729955616
+          },
+          {
+            "platform": "codeforces",
+            "id": 288126709,
+            "pid": "2027D2",
+            "name": "The Endspeaker (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1729954667
+          },
+          {
+            "platform": "codeforces",
+            "id": 288124374,
+            "pid": "2027D1",
+            "name": "The Endspeaker (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1729954459
+          },
+          {
+            "platform": "codeforces",
+            "id": 288119235,
+            "pid": "2027C",
+            "name": "Add Zeros",
+            "verdict": "OK",
+            "creationTime": 1729954034
+          },
+          {
+            "platform": "codeforces",
+            "id": 288114716,
+            "pid": "2027B",
+            "name": "Stalin Sort",
+            "verdict": "OK",
+            "creationTime": 1729953710
+          },
+          {
+            "platform": "codeforces",
+            "id": 288112249,
+            "pid": "2027A",
+            "name": "Rectangle Arrangement",
+            "verdict": "OK",
+            "creationTime": 1729953563
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "3ac718fa7edb7e99a209b69fc7374eee52418840"
+  "ref": "0f00ac890607833d2d68eb9732e6473f7639f15b"
 }
