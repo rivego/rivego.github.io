@@ -21223,5 +21223,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105444",
     "standingsUrl": "https://codeforces.com/gym/105444/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Moscow team school olympiad (MKOSHP) 2024",
+    "startTime": 1729412100,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105449,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105449",
+    "standingsUrl": "https://codeforces.com/gym/105449/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC x WiCS Contest 10-25-24 (UT Internal)",
+    "startTime": 1729897200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105450,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105450",
+    "standingsUrl": "https://codeforces.com/gym/105450/standings"
   }
 ]

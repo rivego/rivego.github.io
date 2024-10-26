@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1729877782,
+  "updateTime": 1729921007,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 287941594,
-            "pid": "2033A",
-            "name": "Sakurako and Kosuke",
-            "verdict": "OK",
-            "creationTime": 1729866799
-          },
-          {
-            "platform": "codeforces",
-            "id": 287941559,
-            "pid": "2033B",
-            "name": "Sakurako and Water",
-            "verdict": "OK",
-            "creationTime": 1729866790
-          },
-          {
-            "platform": "codeforces",
-            "id": 287941539,
-            "pid": "2033C",
-            "name": "Sakurako's Field Trip",
-            "verdict": "OK",
-            "creationTime": 1729866781
-          },
-          {
-            "platform": "codeforces",
-            "id": 287941518,
-            "pid": "2033D",
-            "name": "Kousuke's Assignment",
-            "verdict": "OK",
-            "creationTime": 1729866775
-          },
-          {
-            "platform": "codeforces",
-            "id": 287941506,
-            "pid": "2033E",
-            "name": "Sakurako, Kosuke, and the Permutation",
-            "verdict": "OK",
-            "creationTime": 1729866768
-          },
-          {
-            "platform": "codeforces",
-            "id": 287941490,
-            "pid": "2033F",
-            "name": "Kosuke's Sloth",
-            "verdict": "OK",
-            "creationTime": 1729866763
-          },
-          {
-            "platform": "codeforces",
-            "id": 287941460,
-            "pid": "2033G",
-            "name": "Sakurako and Chefir",
-            "verdict": "OK",
-            "creationTime": 1729866754
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "2957c60bf4a6cbb4c5d28160b6ec144cb738fe39"
+  "ref": "3ac718fa7edb7e99a209b69fc7374eee52418840"
 }
