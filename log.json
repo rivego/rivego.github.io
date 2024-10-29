@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1730137082,
+  "updateTime": 1730180309,
   "history": {
     "user": [
       {
@@ -8,51 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 288555025,
+            "id": 288622486,
             "pid": "2026F",
             "name": "Bermart Ice Cream",
-            "verdict": "CHALLENGED",
-            "creationTime": 1730128657
-          },
-          {
-            "platform": "codeforces",
-            "id": 288536060,
-            "pid": "2026E",
-            "name": "Best Subsequence",
             "verdict": "OK",
-            "creationTime": 1730127522
-          },
-          {
-            "platform": "codeforces",
-            "id": 288532129,
-            "pid": "2026D",
-            "name": "Sums of Segments",
-            "verdict": "OK",
-            "creationTime": 1730127315
-          },
-          {
-            "platform": "codeforces",
-            "id": 288523790,
-            "pid": "2026C",
-            "name": "Action Figures",
-            "verdict": "OK",
-            "creationTime": 1730126881
-          },
-          {
-            "platform": "codeforces",
-            "id": 288514323,
-            "pid": "2026B",
-            "name": "Black Cells",
-            "verdict": "OK",
-            "creationTime": 1730126438
-          },
-          {
-            "platform": "codeforces",
-            "id": 288510659,
-            "pid": "2026A",
-            "name": "Perpendicular Segments",
-            "verdict": "OK",
-            "creationTime": 1730126250
+            "creationTime": 1730138811
           }
         ],
         "newContests": []
@@ -60,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "12c8d39f35e6fa665294959000ac6f97bc10300c"
+  "ref": "88dd0d3ca1bdda48763a661dc5bdddb07ba34987"
 }
