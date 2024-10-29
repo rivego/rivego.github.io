@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1730180309,
+  "updateTime": 1730223474,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 288622486,
-            "pid": "2026F",
-            "name": "Bermart Ice Cream",
-            "verdict": "OK",
-            "creationTime": 1730138811
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "88dd0d3ca1bdda48763a661dc5bdddb07ba34987"
+  "ref": "91fdac3ea6fe1d1958955b0c553d5d771b437e81"
 }
