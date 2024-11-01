@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1730439483,
+  "updateTime": 1730482591,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 289281797,
+            "pid": "2032F",
+            "name": "Peanuts",
+            "verdict": "OK",
+            "creationTime": 1730478544
+          },
+          {
+            "platform": "codeforces",
+            "id": 289260485,
+            "pid": "2032E",
+            "name": "Balanced",
+            "verdict": "OK",
+            "creationTime": 1730476478
+          },
+          {
+            "platform": "codeforces",
+            "id": 289238542,
+            "pid": "2032D",
+            "name": "Genokraken",
+            "verdict": "OK",
+            "creationTime": 1730474711
+          },
+          {
+            "platform": "codeforces",
+            "id": 289233232,
+            "pid": "2032C",
+            "name": "Trinity",
+            "verdict": "OK",
+            "creationTime": 1730474362
+          },
+          {
+            "platform": "codeforces",
+            "id": 289229581,
+            "pid": "2032C",
+            "name": "Trinity",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1730474129
+          },
+          {
+            "platform": "codeforces",
+            "id": 289225930,
+            "pid": "2032A",
+            "name": "Circuit",
+            "verdict": "OK",
+            "creationTime": 1730473912
+          },
+          {
+            "platform": "codeforces",
+            "id": 289225204,
+            "pid": "2032B",
+            "name": "Medians",
+            "verdict": "OK",
+            "creationTime": 1730473869
+          },
+          {
+            "platform": "codeforces",
+            "id": 289220629,
+            "pid": "2032A",
+            "name": "Circuit",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1730473616
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "7e773f8c9332a06d7ebbb6b81dc1dff413b46370"
+  "ref": "3e6e309c7c85e82905efece68c902bbcb6180af4"
 }
