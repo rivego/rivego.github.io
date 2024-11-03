@@ -24,6 +24,7 @@
         "tags": [
           "binary search",
           "bitmasks",
+          "constructive algorithms",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2036/problem/G"
@@ -49,7 +50,8 @@
         "name": "XORificator 3000",
         "tags": [
           "bitmasks",
-          "dp"
+          "dp",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2036/problem/F"
       },
@@ -123,6 +125,7 @@
         "id": "2036D",
         "name": "I Love 1543",
         "tags": [
+          "brute force",
           "implementation",
           "matrices"
         ],
@@ -149,6 +152,7 @@
         "name": "Anya and 1100",
         "tags": [
           "brute force",
+          "data structures",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2036/problem/C"
@@ -173,7 +177,8 @@
         "id": "2036B",
         "name": "Startup",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2036/problem/B"
       },
