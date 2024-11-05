@@ -21461,5 +21461,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105488",
     "standingsUrl": "https://codeforces.com/gym/105488/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Когнитивные технологии. Финал 2024",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105490,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105490",
+    "standingsUrl": "https://codeforces.com/gym/105490/standings"
   }
 ]
