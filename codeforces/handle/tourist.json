@@ -53,7 +53,8 @@
         "tags": [
           "bitmasks",
           "dp",
-          "number theory"
+          "number theory",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2036/problem/F"
       },
