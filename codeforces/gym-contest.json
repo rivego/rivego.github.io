@@ -21485,6 +21485,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2024-2025 ICPC NERC, Kyrgyzstan Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105493,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105493",
+    "standingsUrl": "https://codeforces.com/gym/105493/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2024 Benelux Algorithm Programming Contest (BAPC 24)",
     "duration": 18000,
     "participantNumber": 0,
@@ -21492,5 +21502,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105492",
     "standingsUrl": "https://codeforces.com/gym/105492/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024-2025 ICPC NERC, Kyrgyzstan Qualification Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105494,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105494",
+    "standingsUrl": "https://codeforces.com/gym/105494/standings"
   }
 ]
