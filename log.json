@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1731173568,
+  "updateTime": 1731216908,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 290765761,
-            "pid": "2029H",
-            "name": "Message Spread",
-            "verdict": "OK",
-            "creationTime": 1731173412
-          },
-          {
-            "platform": "codeforces",
-            "id": 290739214,
-            "pid": "2029G",
-            "name": "Balanced Problem",
-            "verdict": "OK",
-            "creationTime": 1731167841
-          },
-          {
-            "platform": "codeforces",
-            "id": 290729706,
-            "pid": "2029F",
-            "name": "Palindrome Everywhere",
-            "verdict": "OK",
-            "creationTime": 1731166052
-          },
-          {
-            "platform": "codeforces",
-            "id": 290722851,
-            "pid": "2029E",
-            "name": "Common Generator",
-            "verdict": "OK",
-            "creationTime": 1731164936
-          },
-          {
-            "platform": "codeforces",
-            "id": 290718808,
-            "pid": "2029D",
-            "name": "Cool Graph",
-            "verdict": "OK",
-            "creationTime": 1731164348
-          },
-          {
-            "platform": "codeforces",
-            "id": 290709870,
-            "pid": "2029C",
-            "name": "New Rating",
-            "verdict": "OK",
-            "creationTime": 1731163392
-          },
-          {
-            "platform": "codeforces",
-            "id": 290707595,
-            "pid": "2029B",
-            "name": "Replacement",
-            "verdict": "OK",
-            "creationTime": 1731163204
-          },
-          {
-            "platform": "codeforces",
-            "id": 290705229,
-            "pid": "2029A",
-            "name": "Set",
-            "verdict": "OK",
-            "creationTime": 1731162986
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5f9df282dc29bbf5222394d293d51adfc9cb60c1"
+  "ref": "c44d35a1fea127c4b56e8db3b51e05eff6bfd1eb"
 }
