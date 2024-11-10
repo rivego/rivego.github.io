@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1731216908,
+  "updateTime": 1731259983,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 290912892,
+            "pid": "2028F",
+            "name": "Alice's Adventures in Addition",
+            "verdict": "OK",
+            "creationTime": 1731255263
+          },
+          {
+            "platform": "codeforces",
+            "id": 290911023,
+            "pid": "2028F",
+            "name": "Alice's Adventures in Addition",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1731255095
+          },
+          {
+            "platform": "codeforces",
+            "id": 290904885,
+            "pid": "2028E",
+            "name": "Alice's Adventures in the Rabbit Hole",
+            "verdict": "OK",
+            "creationTime": 1731254552
+          },
+          {
+            "platform": "codeforces",
+            "id": 290898120,
+            "pid": "2028D",
+            "name": "Alice's Adventures in Cards",
+            "verdict": "OK",
+            "creationTime": 1731253957
+          },
+          {
+            "platform": "codeforces",
+            "id": 290893848,
+            "pid": "2028C",
+            "name": "Alice's Adventures in Cutting Cake",
+            "verdict": "OK",
+            "creationTime": 1731253568
+          },
+          {
+            "platform": "codeforces",
+            "id": 290891441,
+            "pid": "2028B",
+            "name": "Alice's Adventures in Permuting",
+            "verdict": "OK",
+            "creationTime": 1731253358
+          },
+          {
+            "platform": "codeforces",
+            "id": 290888349,
+            "pid": "2028A",
+            "name": "Alice's Adventures in ''Chess''",
+            "verdict": "OK",
+            "creationTime": 1731253063
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c44d35a1fea127c4b56e8db3b51e05eff6bfd1eb"
+  "ref": "83392126dd5b7ac7964e1927a204d71621208cfc"
 }
