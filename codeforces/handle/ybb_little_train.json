@@ -6,6 +6,36 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 291576318,
+      "creationTime": 1731673731,
+      "language": "Python 3",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -415809916
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2036G",
+        "name": "Library of Magic",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "divide and conquer",
+          "interactive",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2036/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2036/submission/291576318"
+    },
+    {
+      "type": "codeforces",
       "id": 286096838,
       "creationTime": 1729008368,
       "language": "C++17 (GCC 7-32)",
