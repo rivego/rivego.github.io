@@ -21716,5 +21716,55 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105522",
     "standingsUrl": "https://codeforces.com/gym/105522/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, 7-8 классы, Московская область, 2018",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105525,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105525",
+    "standingsUrl": "https://codeforces.com/gym/105525/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, 7-8 классы, Московская область, 2020",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105524,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105524",
+    "standingsUrl": "https://codeforces.com/gym/105524/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, 7-8 классы, Московская область, 2016",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105527,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105527",
+    "standingsUrl": "https://codeforces.com/gym/105527/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, 7-8 классы, Московская область, 2017",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105526,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105526",
+    "standingsUrl": "https://codeforces.com/gym/105526/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, 7-8 классы, Московская область, 2015",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105528,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105528",
+    "standingsUrl": "https://codeforces.com/gym/105528/standings"
   }
 ]
