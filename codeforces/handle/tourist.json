@@ -22,6 +22,7 @@
         "id": "2031F",
         "name": "Penchick and Even Medians",
         "tags": [
+          "binary search",
           "constructive algorithms",
           "interactive"
         ],
@@ -47,11 +48,12 @@
         "id": "2031E",
         "name": "Penchick and Chloe's Trees",
         "tags": [
+          "constructive algorithms",
           "data structures",
           "dfs and similar",
           "dp",
           "greedy",
-          "sortings",
+          "math",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2031/problem/E"
@@ -76,6 +78,7 @@
         "id": "2031D",
         "name": "Penchick and Desert Rabbit",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "dp",
@@ -105,7 +108,6 @@
         "id": "2031C",
         "name": "Penchick and BBQ Buns",
         "tags": [
-          "brute force",
           "constructive algorithms",
           "math",
           "number theory"
@@ -132,6 +134,7 @@
         "id": "2031B",
         "name": "Penchick and Satay Sticks",
         "tags": [
+          "brute force",
           "greedy",
           "sortings"
         ],
@@ -157,10 +160,9 @@
         "id": "2031A",
         "name": "Penchick and Modern Monument",
         "tags": [
-          "dp",
+          "constructive algorithms",
           "greedy",
-          "math",
-          "two pointers"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2031/problem/A"
       },
