@@ -76,6 +76,8 @@
         "name": "Ardent Flames",
         "tags": [
           "binary search",
+          "data structures",
+          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2037/problem/F"
@@ -127,7 +129,8 @@
         "name": "Sharky Surfing",
         "tags": [
           "data structures",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2037/problem/D"
       },
@@ -290,7 +293,6 @@
           "data structures",
           "dfs and similar",
           "dp",
-          "dsu",
           "greedy",
           "two pointers"
         ],
@@ -369,6 +371,7 @@
         "name": "Penchick and Modern Monument",
         "tags": [
           "constructive algorithms",
+          "dp",
           "greedy",
           "math"
         ],
