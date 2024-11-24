@@ -54,8 +54,6 @@
         "tags": [
           "constructive algorithms",
           "implementation",
-          "implementation",
-          "sortings",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/H1"
@@ -80,6 +78,7 @@
         "id": "2039F2",
         "name": "Shohag Loves Counting (Hard Version)",
         "tags": [
+          "dp",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/F2"
@@ -104,6 +103,7 @@
         "id": "2039F2",
         "name": "Shohag Loves Counting (Hard Version)",
         "tags": [
+          "dp",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/F2"
