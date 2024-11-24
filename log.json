@@ -1,184 +1,42 @@
 {
   "version": "0.1.29",
-  "updateTime": 1732383296,
+  "updateTime": 1732426705,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 292975899,
-            "pid": "2039H2",
-            "name": "Cool Swap Walk (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1732381003
-          },
-          {
-            "platform": "codeforces",
-            "id": 292972228,
-            "pid": "2039H1",
-            "name": "Cool Swap Walk (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1732380278
-          },
-          {
-            "platform": "codeforces",
-            "id": 292955967,
-            "pid": "2039F2",
-            "name": "Shohag Loves Counting (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1732377451
-          },
-          {
-            "platform": "codeforces",
-            "id": 292955668,
-            "pid": "2039F2",
-            "name": "Shohag Loves Counting (Hard Version)",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1732377409
-          },
-          {
-            "platform": "codeforces",
-            "id": 292942851,
-            "pid": "2039F1",
-            "name": "Shohag Loves Counting (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1732375582
-          },
-          {
-            "platform": "codeforces",
-            "id": 292929645,
-            "pid": "2039E",
-            "name": "Shohag Loves Inversions",
-            "verdict": "OK",
-            "creationTime": 1732374142
-          },
-          {
-            "platform": "codeforces",
-            "id": 292921484,
-            "pid": "2039D",
-            "name": "Shohag Loves GCD",
-            "verdict": "OK",
-            "creationTime": 1732373458
-          },
-          {
-            "platform": "codeforces",
-            "id": 292917998,
-            "pid": "2039C2",
-            "name": "Shohag Loves XOR (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1732373228
-          },
-          {
-            "platform": "codeforces",
-            "id": 292916804,
-            "pid": "2039C2",
-            "name": "Shohag Loves XOR (Hard Version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1732373154
-          },
-          {
-            "platform": "codeforces",
-            "id": 292911645,
-            "pid": "2039C1",
-            "name": "Shohag Loves XOR (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1732372843
-          },
-          {
-            "platform": "codeforces",
-            "id": 292908262,
-            "pid": "2039B",
-            "name": "Shohag Loves Strings",
-            "verdict": "OK",
-            "creationTime": 1732372688
-          },
-          {
-            "platform": "codeforces",
-            "id": 292905540,
-            "pid": "2039A",
-            "name": "Shohag Loves Mod",
-            "verdict": "OK",
-            "creationTime": 1732372551
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 292967655,
-            "pid": "2039F2",
-            "name": "Shohag Loves Counting (Hard Version)",
+            "id": 292993324,
+            "pid": "2039G",
+            "name": "Shohag Loves Pebae",
             "verdict": "OK",
-            "creationTime": 1732379389
+            "creationTime": 1732387211
           },
           {
             "platform": "codeforces",
-            "id": 292959947,
-            "pid": "2039F1",
-            "name": "Shohag Loves Counting (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1732378062
+            "id": 292992622,
+            "pid": "2039G",
+            "name": "Shohag Loves Pebae",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1732386862
           },
           {
             "platform": "codeforces",
-            "id": 292931255,
-            "pid": "2039E",
-            "name": "Shohag Loves Inversions",
-            "verdict": "OK",
-            "creationTime": 1732374295
+            "id": 292992498,
+            "pid": "2039G",
+            "name": "Shohag Loves Pebae",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1732386799
           },
           {
             "platform": "codeforces",
-            "id": 292925183,
-            "pid": "2039D",
-            "name": "Shohag Loves GCD",
-            "verdict": "OK",
-            "creationTime": 1732373745
-          },
-          {
-            "platform": "codeforces",
-            "id": 292921831,
-            "pid": "2039C2",
-            "name": "Shohag Loves XOR (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1732373482
-          },
-          {
-            "platform": "codeforces",
-            "id": 292920121,
-            "pid": "2039C2",
-            "name": "Shohag Loves XOR (Hard Version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1732373364
-          },
-          {
-            "platform": "codeforces",
-            "id": 292913523,
-            "pid": "2039C1",
-            "name": "Shohag Loves XOR (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1732372951
-          },
-          {
-            "platform": "codeforces",
-            "id": 292908529,
-            "pid": "2039B",
-            "name": "Shohag Loves Strings",
-            "verdict": "OK",
-            "creationTime": 1732372699
-          },
-          {
-            "platform": "codeforces",
-            "id": 292905623,
-            "pid": "2039A",
-            "name": "Shohag Loves Mod",
-            "verdict": "OK",
-            "creationTime": 1732372562
+            "id": 292991626,
+            "pid": "2039G",
+            "name": "Shohag Loves Pebae",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1732386455
           }
         ],
         "newContests": []
@@ -186,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "85d2f9deaea0a2267a2e362e0bf6fc6c2e710ee2"
+  "ref": "0c19965784b27cd94223548f9621193d30b27811"
 }
