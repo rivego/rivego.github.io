@@ -1,96 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1732556282,
+  "updateTime": 1732599547,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 293201423,
-            "pid": "2041A",
-            "name": "The Bento Box Adventure",
-            "verdict": "OK",
-            "creationTime": 1732528474
-          },
-          {
-            "platform": "codeforces",
-            "id": 293200899,
-            "pid": "2031F",
-            "name": "Penchick and Even Medians",
-            "verdict": "OK",
-            "creationTime": 1732528178
-          },
-          {
-            "platform": "codeforces",
-            "id": 293200773,
-            "pid": "2031F",
-            "name": "Penchick and Even Medians",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1732528104
-          },
-          {
-            "platform": "codeforces",
-            "id": 293200592,
-            "pid": "2031F",
-            "name": "Penchick and Even Medians",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1732527996
-          },
-          {
-            "platform": "codeforces",
-            "id": 293200428,
-            "pid": "2031F",
-            "name": "Penchick and Even Medians",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1732527911
-          },
-          {
-            "platform": "codeforces",
-            "id": 293197983,
-            "pid": "2031E",
-            "name": "Penchick and Chloe's Trees",
-            "verdict": "OK",
-            "creationTime": 1732526365
-          },
-          {
-            "platform": "codeforces",
-            "id": 293197633,
-            "pid": "2031D",
-            "name": "Penchick and Desert Rabbit",
-            "verdict": "OK",
-            "creationTime": 1732526161
-          },
-          {
-            "platform": "codeforces",
-            "id": 293197225,
-            "pid": "2031C",
-            "name": "Penchick and BBQ Buns",
-            "verdict": "OK",
-            "creationTime": 1732525941
-          },
-          {
-            "platform": "codeforces",
-            "id": 293196824,
-            "pid": "2031B",
-            "name": "Penchick and Satay Sticks",
-            "verdict": "OK",
-            "creationTime": 1732525712
-          },
-          {
-            "platform": "codeforces",
-            "id": 293196579,
-            "pid": "2031A",
-            "name": "Penchick and Modern Monument",
-            "verdict": "OK",
-            "creationTime": 1732525559
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "a91ab8ce1608f39adb1222a8922394818d71cdac"
+  "ref": "82ee727423357e3d307fa21b1f94ae0d11df7e30"
 }
