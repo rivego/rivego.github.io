@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1732599547,
+  "updateTime": 1732642715,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 293396230,
+            "pid": "2041I",
+            "name": "Auto Complete",
+            "verdict": "TESTING",
+            "creationTime": 1732642692
+          },
+          {
+            "platform": "codeforces",
+            "id": 293396014,
+            "pid": "2041I",
+            "name": "Auto Complete",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1732642584
+          },
+          {
+            "platform": "codeforces",
+            "id": 293354218,
+            "pid": "2041H",
+            "name": "Sheet Music",
+            "verdict": "OK",
+            "creationTime": 1732623323
+          },
+          {
+            "platform": "codeforces",
+            "id": 293353062,
+            "pid": "2041F",
+            "name": "Segmentation Folds",
+            "verdict": "OK",
+            "creationTime": 1732622824
+          },
+          {
+            "platform": "codeforces",
+            "id": 293337912,
+            "pid": "2041E",
+            "name": "Beautiful Array",
+            "verdict": "OK",
+            "creationTime": 1732615191
+          },
+          {
+            "platform": "codeforces",
+            "id": 293337314,
+            "pid": "2041D",
+            "name": "Drunken Maze",
+            "verdict": "OK",
+            "creationTime": 1732614938
+          },
+          {
+            "platform": "codeforces",
+            "id": 293335573,
+            "pid": "2041C",
+            "name": "Cube",
+            "verdict": "OK",
+            "creationTime": 1732614175
+          },
+          {
+            "platform": "codeforces",
+            "id": 293312101,
+            "pid": "2041B",
+            "name": "Bowling Frame",
+            "verdict": "OK",
+            "creationTime": 1732603962
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "82ee727423357e3d307fa21b1f94ae0d11df7e30"
+  "ref": "403f7f99da64c3c76abd88b0df1e41b322d350aa"
 }
