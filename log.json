@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1732642715,
+  "updateTime": 1732685976,
   "history": {
     "user": [
       {
@@ -8,67 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 293396230,
-            "pid": "2041I",
-            "name": "Auto Complete",
-            "verdict": "TESTING",
-            "creationTime": 1732642692
-          },
-          {
-            "platform": "codeforces",
-            "id": 293396014,
-            "pid": "2041I",
-            "name": "Auto Complete",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1732642584
-          },
-          {
-            "platform": "codeforces",
-            "id": 293354218,
-            "pid": "2041H",
-            "name": "Sheet Music",
+            "id": 293398914,
+            "pid": "2041M",
+            "name": "Selection Sort",
             "verdict": "OK",
-            "creationTime": 1732623323
-          },
-          {
-            "platform": "codeforces",
-            "id": 293353062,
-            "pid": "2041F",
-            "name": "Segmentation Folds",
-            "verdict": "OK",
-            "creationTime": 1732622824
-          },
-          {
-            "platform": "codeforces",
-            "id": 293337912,
-            "pid": "2041E",
-            "name": "Beautiful Array",
-            "verdict": "OK",
-            "creationTime": 1732615191
-          },
-          {
-            "platform": "codeforces",
-            "id": 293337314,
-            "pid": "2041D",
-            "name": "Drunken Maze",
-            "verdict": "OK",
-            "creationTime": 1732614938
-          },
-          {
-            "platform": "codeforces",
-            "id": 293335573,
-            "pid": "2041C",
-            "name": "Cube",
-            "verdict": "OK",
-            "creationTime": 1732614175
-          },
-          {
-            "platform": "codeforces",
-            "id": 293312101,
-            "pid": "2041B",
-            "name": "Bowling Frame",
-            "verdict": "OK",
-            "creationTime": 1732603962
+            "creationTime": 1732643988
           }
         ],
         "newContests": []
@@ -76,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "403f7f99da64c3c76abd88b0df1e41b322d350aa"
+  "ref": "9b08e77d98d16771f7c0d871e8b9700ee834f1f6"
 }
