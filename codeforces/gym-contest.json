@@ -21913,5 +21913,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105572",
     "standingsUrl": "https://codeforces.com/gym/105572/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "gleboss",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105577,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105577",
+    "standingsUrl": "https://codeforces.com/gym/105577/standings"
   }
 ]
