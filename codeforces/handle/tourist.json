@@ -84,7 +84,7 @@
       "id": 294058476,
       "creationTime": 1732982312,
       "language": "C++20 (GCC 13-64)",
-      "verdict": "OK",
+      "verdict": "SKIPPED",
       "author": {
         "members": [
           "tourist"
@@ -123,9 +123,8 @@
         "name": "Khayyam's Royal Decree (Hard Version)",
         "tags": [
           "combinatorics",
-          "combinatorics",
           "dp",
-          "dp"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/F2"
       },
@@ -150,9 +149,8 @@
         "name": "Khayyam's Royal Decree (Easy Version)",
         "tags": [
           "combinatorics",
-          "combinatorics",
           "dp",
-          "dp"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/F1"
       },
@@ -176,8 +174,12 @@
         "id": "2034E",
         "name": "Permutations Harmony",
         "tags": [
+          "brute force",
+          "combinatorics",
           "constructive algorithms",
           "greedy",
+          "hashing",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/E"
@@ -203,8 +205,10 @@
         "name": "Darius' Wisdom",
         "tags": [
           "constructive algorithms",
+          "greedy",
+          "implementation",
           "sortings",
-          "sortings"
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/D"
       },
@@ -229,7 +233,9 @@
         "name": "Trapped in the Witch's Labyrinth",
         "tags": [
           "constructive algorithms",
-          "graphs"
+          "dfs and similar",
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/C"
       },
@@ -254,7 +260,9 @@
         "name": "Trapped in the Witch's Labyrinth",
         "tags": [
           "constructive algorithms",
-          "graphs"
+          "dfs and similar",
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/C"
       },
@@ -279,7 +287,9 @@
         "name": "Trapped in the Witch's Labyrinth",
         "tags": [
           "constructive algorithms",
-          "graphs"
+          "dfs and similar",
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/C"
       },
@@ -303,6 +313,7 @@
         "id": "2034B",
         "name": "Rakhsh's Revival",
         "tags": [
+          "data structures",
           "greedy",
           "implementation",
           "two pointers"
@@ -329,6 +340,8 @@
         "id": "2034A",
         "name": "King Keykhosrow's Mystery",
         "tags": [
+          "brute force",
+          "chinese remainder theorem",
           "math",
           "number theory"
         ],
@@ -132619,8 +132632,8 @@
     }
   ],
   "codeforces": {
-    "rank": "легендарный гроссмейстер",
-    "rating": 3993,
+    "rank": "legendary grandmaster",
+    "rating": 3985,
     "maxRank": "tourist",
     "maxRating": 4009
   }
