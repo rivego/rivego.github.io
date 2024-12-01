@@ -72,6 +72,7 @@
         "id": "2034H",
         "name": "Rayan vs. Rayaneh",
         "tags": [
+          "brute force",
           "dp",
           "number theory"
         ],
@@ -97,6 +98,7 @@
         "id": "2034H",
         "name": "Rayan vs. Rayaneh",
         "tags": [
+          "brute force",
           "dp",
           "number theory"
         ],
@@ -178,8 +180,6 @@
           "combinatorics",
           "constructive algorithms",
           "greedy",
-          "hashing",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/E"
@@ -207,8 +207,7 @@
           "constructive algorithms",
           "greedy",
           "implementation",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/D"
       },
