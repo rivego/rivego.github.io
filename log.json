@@ -1,9 +1,96 @@
 {
   "version": "0.1.29",
-  "updateTime": 1733118013,
+  "updateTime": 1733161078,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 294425551,
+            "pid": "2042F",
+            "name": "Two Subarrays",
+            "verdict": "OK",
+            "creationTime": 1733153842
+          },
+          {
+            "platform": "codeforces",
+            "id": 294424523,
+            "pid": "2042F",
+            "name": "Two Subarrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1733153690
+          },
+          {
+            "platform": "codeforces",
+            "id": 294423881,
+            "pid": "2042F",
+            "name": "Two Subarrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1733153599
+          },
+          {
+            "platform": "codeforces",
+            "id": 294423477,
+            "pid": "2042F",
+            "name": "Two Subarrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1733153539
+          },
+          {
+            "platform": "codeforces",
+            "id": 294419934,
+            "pid": "2042E",
+            "name": "Vertex Pairs",
+            "verdict": "OK",
+            "creationTime": 1733153033
+          },
+          {
+            "platform": "codeforces",
+            "id": 294419652,
+            "pid": "2042E",
+            "name": "Vertex Pairs",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1733152994
+          },
+          {
+            "platform": "codeforces",
+            "id": 294407353,
+            "pid": "2042D",
+            "name": "Recommendations",
+            "verdict": "OK",
+            "creationTime": 1733151566
+          },
+          {
+            "platform": "codeforces",
+            "id": 294400380,
+            "pid": "2042C",
+            "name": "Competitive Fishing",
+            "verdict": "OK",
+            "creationTime": 1733150992
+          },
+          {
+            "platform": "codeforces",
+            "id": 294397696,
+            "pid": "2042B",
+            "name": "Game with Colored Marbles",
+            "verdict": "OK",
+            "creationTime": 1733150794
+          },
+          {
+            "platform": "codeforces",
+            "id": 294395467,
+            "pid": "2042A",
+            "name": "Greedy Monocarp",
+            "verdict": "OK",
+            "creationTime": 1733150646
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e0e9e5a1304102b541e7544bf14b198e411bdd3a"
+  "ref": "6ca69375f88eed98e4b30fb85c068abc400e6f21"
 }
