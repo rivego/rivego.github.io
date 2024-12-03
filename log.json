@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1733204363,
+  "updateTime": 1733247637,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 294584009,
+            "pid": "2046E2",
+            "name": "Cheops and a Contest (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1733214054
+          },
+          {
+            "platform": "codeforces",
+            "id": 294583764,
+            "pid": "2046E1",
+            "name": "Cheops and a Contest (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1733214015
+          },
+          {
+            "platform": "codeforces",
+            "id": 294575486,
+            "pid": "2046E1",
+            "name": "Cheops and a Contest (Easy Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1733212483
+          },
+          {
+            "platform": "codeforces",
+            "id": 294560152,
+            "pid": "2046D",
+            "name": "For the Emperor!",
+            "verdict": "OK",
+            "creationTime": 1733210194
+          },
+          {
+            "platform": "codeforces",
+            "id": 294554701,
+            "pid": "2046D",
+            "name": "For the Emperor!",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1733209505
+          },
+          {
+            "platform": "codeforces",
+            "id": 294540710,
+            "pid": "2046C",
+            "name": "Adventurers",
+            "verdict": "OK",
+            "creationTime": 1733208019
+          },
+          {
+            "platform": "codeforces",
+            "id": 294535038,
+            "pid": "2046B",
+            "name": "Move Back at a Cost",
+            "verdict": "OK",
+            "creationTime": 1733207489
+          },
+          {
+            "platform": "codeforces",
+            "id": 294532826,
+            "pid": "2046A",
+            "name": "Swap Columns and Find a Path",
+            "verdict": "OK",
+            "creationTime": 1733207229
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e8f118849c80041b0ba56ebf23fde4a3ac846cc4"
+  "ref": "c779f0cfe555e1da1676c69839d206a09ceb544e"
 }
