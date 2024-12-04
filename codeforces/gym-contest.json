@@ -21971,6 +21971,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Open Udmurtia Junior Programming Contest 2018",
+    "startTime": 1733292000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105581,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105581",
+    "standingsUrl": "https://codeforces.com/gym/105581/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Open Udmurtia High School Programming Contest 2015",
     "startTime": 1733220000,
     "duration": 18000,
@@ -22031,5 +22042,45 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105592",
     "standingsUrl": "https://codeforces.com/gym/105592/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике 9-11 класс 2024 (1 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105595,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105595",
+    "standingsUrl": "https://codeforces.com/gym/105595/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике 9-11 класс 2024 (3 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105597,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105597",
+    "standingsUrl": "https://codeforces.com/gym/105597/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике 9-11 класс 2024 (2 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105596,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105596",
+    "standingsUrl": "https://codeforces.com/gym/105596/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике 9-11 класс 2024 (4 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105599,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105599",
+    "standingsUrl": "https://codeforces.com/gym/105599/standings"
   }
 ]
