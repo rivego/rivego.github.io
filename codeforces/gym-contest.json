@@ -22012,6 +22012,17 @@
     "standingsUrl": "https://codeforces.com/gym/105591/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "CAMA 2024",
+    "startTime": 1733259600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105593,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105593",
+    "standingsUrl": "https://codeforces.com/gym/105593/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Муниципальный этап ВсОШ по информатике, 9-11 классы, Нижегородская область, 2024",
     "duration": 14400,
