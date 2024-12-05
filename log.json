@@ -1,9 +1,134 @@
 {
   "version": "0.1.29",
-  "updateTime": 1733377192,
+  "updateTime": 1733420321,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 295004098,
+            "pid": "2050G",
+            "name": "Tree Destruction",
+            "verdict": "OK",
+            "creationTime": 1733410148
+          },
+          {
+            "platform": "codeforces",
+            "id": 294998837,
+            "pid": "2050F",
+            "name": "Maximum modulo equality",
+            "verdict": "OK",
+            "creationTime": 1733409902
+          },
+          {
+            "platform": "codeforces",
+            "id": 294996500,
+            "pid": "2050E",
+            "name": "Three Strings",
+            "verdict": "OK",
+            "creationTime": 1733409799
+          },
+          {
+            "platform": "codeforces",
+            "id": 294994472,
+            "pid": "2050D",
+            "name": "Digital string maximization",
+            "verdict": "OK",
+            "creationTime": 1733409715
+          },
+          {
+            "platform": "codeforces",
+            "id": 294991058,
+            "pid": "2050C",
+            "name": "Uninteresting Number",
+            "verdict": "OK",
+            "creationTime": 1733409584
+          },
+          {
+            "platform": "codeforces",
+            "id": 294989092,
+            "pid": "2050B",
+            "name": "Transfusion",
+            "verdict": "OK",
+            "creationTime": 1733409504
+          },
+          {
+            "platform": "codeforces",
+            "id": 294987464,
+            "pid": "2050A",
+            "name": "Line Breaks",
+            "verdict": "OK",
+            "creationTime": 1733409379
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 295042564,
+            "pid": "2050G",
+            "name": "Tree Destruction",
+            "verdict": "OK",
+            "creationTime": 1733412679
+          },
+          {
+            "platform": "codeforces",
+            "id": 295038828,
+            "pid": "2050F",
+            "name": "Maximum modulo equality",
+            "verdict": "OK",
+            "creationTime": 1733412398
+          },
+          {
+            "platform": "codeforces",
+            "id": 295035819,
+            "pid": "2050E",
+            "name": "Three Strings",
+            "verdict": "OK",
+            "creationTime": 1733412182
+          },
+          {
+            "platform": "codeforces",
+            "id": 295033528,
+            "pid": "2050D",
+            "name": "Digital string maximization",
+            "verdict": "OK",
+            "creationTime": 1733412019
+          },
+          {
+            "platform": "codeforces",
+            "id": 295030185,
+            "pid": "2050C",
+            "name": "Uninteresting Number",
+            "verdict": "OK",
+            "creationTime": 1733411785
+          },
+          {
+            "platform": "codeforces",
+            "id": 295027663,
+            "pid": "2050B",
+            "name": "Transfusion",
+            "verdict": "OK",
+            "creationTime": 1733411606
+          },
+          {
+            "platform": "codeforces",
+            "id": 295025896,
+            "pid": "2050A",
+            "name": "Line Breaks",
+            "verdict": "OK",
+            "creationTime": 1733411483
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "00b6550df2ae92ed3e392e6b05aa0e2fe7c9640e"
+  "ref": "5f8f32d74d2955ee6faa4e064c82cc0b79d05216"
 }
