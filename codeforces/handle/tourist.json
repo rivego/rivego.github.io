@@ -50,6 +50,7 @@
         "name": "Maximum modulo equality",
         "tags": [
           "data structures",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2050/problem/F"
@@ -75,6 +76,7 @@
         "name": "Three Strings",
         "tags": [
           "dp",
+          "implementation",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2050/problem/E"
@@ -99,6 +101,7 @@
         "id": "2050D",
         "name": "Digital string maximization",
         "tags": [
+          "brute force",
           "greedy",
           "math",
           "strings"
@@ -151,6 +154,7 @@
         "id": "2050B",
         "name": "Transfusion",
         "tags": [
+          "brute force",
           "greedy",
           "math"
         ],
