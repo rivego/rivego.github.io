@@ -206,7 +206,8 @@
         "tags": [
           "constructive algorithms",
           "greedy",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/G1"
       },
@@ -233,7 +234,8 @@
         "tags": [
           "constructive algorithms",
           "greedy",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/G1"
       },
