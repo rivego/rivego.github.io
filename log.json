@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1733679345,
+  "updateTime": 1733722812,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 295597316,
-            "pid": "2040F",
-            "name": "Number of Cubes",
-            "verdict": "OK",
-            "creationTime": 1733670739
-          },
-          {
-            "platform": "codeforces",
-            "id": 295588148,
-            "pid": "2040E",
-            "name": "Control of Randomness",
-            "verdict": "OK",
-            "creationTime": 1733669927
-          },
-          {
-            "platform": "codeforces",
-            "id": 295584127,
-            "pid": "2040D",
-            "name": "Non Prime Tree",
-            "verdict": "OK",
-            "creationTime": 1733669600
-          },
-          {
-            "platform": "codeforces",
-            "id": 295576884,
-            "pid": "2040C",
-            "name": "Ordered Permutations",
-            "verdict": "OK",
-            "creationTime": 1733669128
-          },
-          {
-            "platform": "codeforces",
-            "id": 295576718,
-            "pid": "2040B",
-            "name": "Paint a Strip",
-            "verdict": "OK",
-            "creationTime": 1733669120
-          },
-          {
-            "platform": "codeforces",
-            "id": 295576604,
-            "pid": "2040A",
-            "name": "Game of Division",
-            "verdict": "OK",
-            "creationTime": 1733669115
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "daca9dfdde2f21e23ad4ed5a25e6380c32a37d36"
+  "ref": "34a2a221b17df8e83cd69e2a56576e67f7f882ea"
 }
