@@ -1,9 +1,88 @@
 {
   "version": "0.1.29",
-  "updateTime": 1734327589,
+  "updateTime": 1734370628,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 296833046,
+            "pid": "2044H",
+            "name": "Hard Demon Problem",
+            "verdict": "OK",
+            "creationTime": 1734350098
+          },
+          {
+            "platform": "codeforces",
+            "id": 296832052,
+            "pid": "2044G2",
+            "name": "Medium Demon Problem (hard version)",
+            "verdict": "OK",
+            "creationTime": 1734349700
+          },
+          {
+            "platform": "codeforces",
+            "id": 296831200,
+            "pid": "2044G1",
+            "name": "Medium Demon Problem (easy version)",
+            "verdict": "OK",
+            "creationTime": 1734349335
+          },
+          {
+            "platform": "codeforces",
+            "id": 296829225,
+            "pid": "2044F",
+            "name": "Easy Demon Problem",
+            "verdict": "OK",
+            "creationTime": 1734348481
+          },
+          {
+            "platform": "codeforces",
+            "id": 296827818,
+            "pid": "2044E",
+            "name": "Insane Problem",
+            "verdict": "OK",
+            "creationTime": 1734347803
+          },
+          {
+            "platform": "codeforces",
+            "id": 296827814,
+            "pid": "2044D",
+            "name": "Harder Problem",
+            "verdict": "OK",
+            "creationTime": 1734347800
+          },
+          {
+            "platform": "codeforces",
+            "id": 296827795,
+            "pid": "2044C",
+            "name": "Hard Problem",
+            "verdict": "OK",
+            "creationTime": 1734347791
+          },
+          {
+            "platform": "codeforces",
+            "id": 296827784,
+            "pid": "2044B",
+            "name": "Normal Problem",
+            "verdict": "OK",
+            "creationTime": 1734347784
+          },
+          {
+            "platform": "codeforces",
+            "id": 296827769,
+            "pid": "2044A",
+            "name": "Easy Problem",
+            "verdict": "OK",
+            "creationTime": 1734347779
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "65d125dae5caf3803c4ea4c30ea07cd042a15af4"
+  "ref": "b525552b505b3a2963495c1b09e5c9cc4a12ee37"
 }

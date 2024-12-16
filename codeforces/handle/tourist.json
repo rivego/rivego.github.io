@@ -136,7 +136,8 @@
         "tags": [
           "dfs and similar",
           "graph matchings",
-          "graphs"
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2044/problem/G1"
       },
@@ -265,6 +266,7 @@
         "id": "2044B",
         "name": "Normal Problem",
         "tags": [
+          "implementation",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2044/problem/B"
@@ -313,6 +315,7 @@
         "type": "codeforces",
         "id": "2050G",
         "name": "Tree Destruction",
+        "rating": 1900,
         "tags": [
           "dfs and similar",
           "dp",
@@ -339,6 +342,7 @@
         "type": "codeforces",
         "id": "2050F",
         "name": "Maximum modulo equality",
+        "rating": 1700,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -366,6 +370,7 @@
         "type": "codeforces",
         "id": "2050E",
         "name": "Three Strings",
+        "rating": 1500,
         "tags": [
           "dp",
           "implementation",
@@ -392,6 +397,7 @@
         "type": "codeforces",
         "id": "2050D",
         "name": "Digital string maximization",
+        "rating": 1300,
         "tags": [
           "brute force",
           "greedy",
@@ -419,6 +425,7 @@
         "type": "codeforces",
         "id": "2050C",
         "name": "Uninteresting Number",
+        "rating": 1200,
         "tags": [
           "brute force",
           "dp",
@@ -445,6 +452,7 @@
         "type": "codeforces",
         "id": "2050B",
         "name": "Transfusion",
+        "rating": 1100,
         "tags": [
           "brute force",
           "greedy",
@@ -471,6 +479,7 @@
         "type": "codeforces",
         "id": "2050A",
         "name": "Line Breaks",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
