@@ -53,6 +53,7 @@
         "tags": [
           "data structures",
           "dp",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2044/problem/H"
@@ -77,7 +78,10 @@
         "id": "2044F",
         "name": "Easy Demon Problem",
         "tags": [
-          "math"
+          "binary search",
+          "brute force",
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2044/problem/F"
       },
@@ -156,7 +160,10 @@
         "id": "2044F",
         "name": "Easy Demon Problem",
         "tags": [
-          "math"
+          "binary search",
+          "brute force",
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2044/problem/F"
       },
@@ -181,6 +188,8 @@
         "name": "Insane Problem",
         "tags": [
           "binary search",
+          "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2044/problem/E"
@@ -205,6 +214,7 @@
         "id": "2044C",
         "name": "Hard Problem",
         "tags": [
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2044/problem/C"
@@ -230,6 +240,7 @@
         "name": "Harder Problem",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2044/problem/D"
@@ -278,6 +289,7 @@
         "id": "2044A",
         "name": "Easy Problem",
         "tags": [
+          "brute force",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2044/problem/A"
