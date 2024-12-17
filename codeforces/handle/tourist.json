@@ -51,6 +51,7 @@
         "id": "2044H",
         "name": "Hard Demon Problem",
         "tags": [
+          "constructive algorithms",
           "data structures",
           "dp",
           "implementation",
