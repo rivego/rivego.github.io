@@ -1,9 +1,96 @@
 {
   "version": "0.1.29",
-  "updateTime": 1734500287,
+  "updateTime": 1734543402,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 297124194,
+            "pid": "2052L",
+            "name": "Legacy Screensaver",
+            "verdict": "OK",
+            "creationTime": 1734535463
+          },
+          {
+            "platform": "codeforces",
+            "id": 297120780,
+            "pid": "2052M",
+            "name": "Managing Cluster",
+            "verdict": "OK",
+            "creationTime": 1734533701
+          },
+          {
+            "platform": "codeforces",
+            "id": 297120465,
+            "pid": "2052M",
+            "name": "Managing Cluster",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1734533542
+          },
+          {
+            "platform": "codeforces",
+            "id": 297117052,
+            "pid": "2052J",
+            "name": "Judicious Watching",
+            "verdict": "OK",
+            "creationTime": 1734531852
+          },
+          {
+            "platform": "codeforces",
+            "id": 297115219,
+            "pid": "2052B",
+            "name": "BitBitJump",
+            "verdict": "OK",
+            "creationTime": 1734531009
+          },
+          {
+            "platform": "codeforces",
+            "id": 297111132,
+            "pid": "2052D",
+            "name": "DAG Serialization",
+            "verdict": "OK",
+            "creationTime": 1734529248
+          },
+          {
+            "platform": "codeforces",
+            "id": 297110259,
+            "pid": "2052E",
+            "name": "Expression Correction",
+            "verdict": "OK",
+            "creationTime": 1734528599
+          },
+          {
+            "platform": "codeforces",
+            "id": 297108662,
+            "pid": "2052F",
+            "name": "Fix Flooded Floor",
+            "verdict": "OK",
+            "creationTime": 1734527917
+          },
+          {
+            "platform": "codeforces",
+            "id": 297107696,
+            "pid": "2052A",
+            "name": "Adrenaline Rush",
+            "verdict": "OK",
+            "creationTime": 1734527474
+          },
+          {
+            "platform": "codeforces",
+            "id": 297089699,
+            "pid": "2052H",
+            "name": "Hunting Hoglins in Hogwarts",
+            "verdict": "OK",
+            "creationTime": 1734519466
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "7e3698102ad68e562463984015ca3fda69c50f19"
+  "ref": "308039931ac678e950353f40ad272e4c85f6de29"
 }
