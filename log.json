@@ -1,9 +1,56 @@
 {
   "version": "0.1.29",
-  "updateTime": 1734759329,
+  "updateTime": 1734802432,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 297686652,
+            "pid": "2049E",
+            "name": "Broken Queries",
+            "verdict": "OK",
+            "creationTime": 1734795213
+          },
+          {
+            "platform": "codeforces",
+            "id": 297683642,
+            "pid": "2049D",
+            "name": "Shift + Esc",
+            "verdict": "OK",
+            "creationTime": 1734793895
+          },
+          {
+            "platform": "codeforces",
+            "id": 297682648,
+            "pid": "2049C",
+            "name": "MEX Cycle",
+            "verdict": "OK",
+            "creationTime": 1734793460
+          },
+          {
+            "platform": "codeforces",
+            "id": 297681717,
+            "pid": "2049B",
+            "name": "pspspsps",
+            "verdict": "OK",
+            "creationTime": 1734793028
+          },
+          {
+            "platform": "codeforces",
+            "id": 297680942,
+            "pid": "2049A",
+            "name": "MEX Destruction",
+            "verdict": "OK",
+            "creationTime": 1734792680
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "1918c87d3f2d419e369bb5e2455689f1b4e0a566"
+  "ref": "d67b12b3fb50e05b4b8ff5be77295bb11e6f4e9f"
 }
