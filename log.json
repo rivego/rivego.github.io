@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1735105023,
+  "updateTime": 1735148125,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 298437082,
+            "pid": "2043F",
+            "name": "Nim",
+            "verdict": "OK",
+            "creationTime": 1735140480
+          },
+          {
+            "platform": "codeforces",
+            "id": 298436817,
+            "pid": "2043F",
+            "name": "Nim",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1735140346
+          },
+          {
+            "platform": "codeforces",
+            "id": 298420343,
+            "pid": "2043F",
+            "name": "Nim",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1735132882
+          },
+          {
+            "platform": "codeforces",
+            "id": 298416291,
+            "pid": "2043E",
+            "name": "Matrix Transformation",
+            "verdict": "OK",
+            "creationTime": 1735131120
+          },
+          {
+            "platform": "codeforces",
+            "id": 298416263,
+            "pid": "2043D",
+            "name": "Problem about GCD",
+            "verdict": "OK",
+            "creationTime": 1735131111
+          },
+          {
+            "platform": "codeforces",
+            "id": 298416241,
+            "pid": "2043C",
+            "name": "Sums on Segments",
+            "verdict": "OK",
+            "creationTime": 1735131104
+          },
+          {
+            "platform": "codeforces",
+            "id": 298416218,
+            "pid": "2043B",
+            "name": "Digits",
+            "verdict": "OK",
+            "creationTime": 1735131097
+          },
+          {
+            "platform": "codeforces",
+            "id": 298416173,
+            "pid": "2043A",
+            "name": "Coin Transformation",
+            "verdict": "OK",
+            "creationTime": 1735131082
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "ed14b1cca9a30f4fe5ac0e86e87ec457012a5dce"
+  "ref": "6c23c078705f55894e5991f32e150bf6782f168a"
 }
