@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1735191443,
+  "updateTime": 1735234469,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 298567427,
+            "pid": "2051G",
+            "name": "Змейки",
+            "verdict": "OK",
+            "creationTime": 1735228762
+          },
+          {
+            "platform": "codeforces",
+            "id": 298566196,
+            "pid": "2051F",
+            "name": "Джокер",
+            "verdict": "OK",
+            "creationTime": 1735228233
+          },
+          {
+            "platform": "codeforces",
+            "id": 298564555,
+            "pid": "2051E",
+            "name": "Лучшая цена",
+            "verdict": "OK",
+            "creationTime": 1735227519
+          },
+          {
+            "platform": "codeforces",
+            "id": 298563900,
+            "pid": "2051D",
+            "name": "Подсчет количества пар",
+            "verdict": "OK",
+            "creationTime": 1735227229
+          },
+          {
+            "platform": "codeforces",
+            "id": 298563274,
+            "pid": "2051C",
+            "name": "Подготовка к экзамену",
+            "verdict": "OK",
+            "creationTime": 1735226955
+          },
+          {
+            "platform": "codeforces",
+            "id": 298562676,
+            "pid": "2051B",
+            "name": "Путешествие",
+            "verdict": "OK",
+            "creationTime": 1735226705
+          },
+          {
+            "platform": "codeforces",
+            "id": 298562344,
+            "pid": "2051A",
+            "name": "Подготовка к олимпиаде",
+            "verdict": "OK",
+            "creationTime": 1735226561
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c0e847df4333c38efbbc15b7aafd37ca9632b1f8"
+  "ref": "22ad5db598c543a4d83f125c919c32ff4999686b"
 }
