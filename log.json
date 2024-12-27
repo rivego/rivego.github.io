@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1735277796,
+  "updateTime": 1735320840,
   "history": {
     "user": [
       {
@@ -8,11 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 298618783,
-            "pid": "2043A",
-            "name": "Coin Transformation",
+            "id": 298665167,
+            "pid": "2043B",
+            "name": "Digits",
             "verdict": "OK",
-            "creationTime": 1735274858
+            "creationTime": 1735302518
+          },
+          {
+            "platform": "codeforces",
+            "id": 298661183,
+            "pid": "2043B",
+            "name": "Digits",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1735300726
           }
         ],
         "newContests": []
@@ -20,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "80918b2accb57533f221292a8d11eb6015f9cf2d"
+  "ref": "2365c908de1c4effb1ab5ea13d3829b6ba126170"
 }

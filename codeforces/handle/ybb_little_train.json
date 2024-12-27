@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 298665167,
+      "creationTime": 1735302518,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -412181129
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2043B",
+        "name": "Digits",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2043/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2043/submission/298665167"
+    },
+    {
+      "type": "codeforces",
+      "id": 298661183,
+      "creationTime": 1735300726,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -412182921
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2043B",
+        "name": "Digits",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2043/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2043/submission/298661183"
+    },
+    {
+      "type": "codeforces",
       "id": 298618783,
       "creationTime": 1735274858,
       "language": "C++20 (GCC 13-64)",
