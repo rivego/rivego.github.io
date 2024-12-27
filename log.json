@@ -1,66 +1,18 @@
 {
   "version": "0.1.29",
-  "updateTime": 1735234469,
+  "updateTime": 1735277796,
   "history": {
     "user": [
       {
-        "name": "jiangly",
+        "name": "ybb_little_train",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 298567427,
-            "pid": "2051G",
-            "name": "Змейки",
+            "id": 298618783,
+            "pid": "2043A",
+            "name": "Coin Transformation",
             "verdict": "OK",
-            "creationTime": 1735228762
-          },
-          {
-            "platform": "codeforces",
-            "id": 298566196,
-            "pid": "2051F",
-            "name": "Джокер",
-            "verdict": "OK",
-            "creationTime": 1735228233
-          },
-          {
-            "platform": "codeforces",
-            "id": 298564555,
-            "pid": "2051E",
-            "name": "Лучшая цена",
-            "verdict": "OK",
-            "creationTime": 1735227519
-          },
-          {
-            "platform": "codeforces",
-            "id": 298563900,
-            "pid": "2051D",
-            "name": "Подсчет количества пар",
-            "verdict": "OK",
-            "creationTime": 1735227229
-          },
-          {
-            "platform": "codeforces",
-            "id": 298563274,
-            "pid": "2051C",
-            "name": "Подготовка к экзамену",
-            "verdict": "OK",
-            "creationTime": 1735226955
-          },
-          {
-            "platform": "codeforces",
-            "id": 298562676,
-            "pid": "2051B",
-            "name": "Путешествие",
-            "verdict": "OK",
-            "creationTime": 1735226705
-          },
-          {
-            "platform": "codeforces",
-            "id": 298562344,
-            "pid": "2051A",
-            "name": "Подготовка к олимпиаде",
-            "verdict": "OK",
-            "creationTime": 1735226561
+            "creationTime": 1735274858
           }
         ],
         "newContests": []
@@ -68,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "22ad5db598c543a4d83f125c919c32ff4999686b"
+  "ref": "80918b2accb57533f221292a8d11eb6015f9cf2d"
 }

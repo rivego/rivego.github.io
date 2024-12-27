@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 298618783,
+      "creationTime": 1735274858,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -412208789
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2043A",
+        "name": "Coin Transformation",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2043/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2043/submission/298618783"
+    },
+    {
+      "type": "codeforces",
       "id": 291576318,
       "creationTime": 1731673731,
       "language": "Python 3",
