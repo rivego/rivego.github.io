@@ -6,6 +6,151 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 298746234,
+      "creationTime": 1735356373,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -412127274
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2043C",
+        "name": "Sums on Segments",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2043/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2043/submission/298746234"
+    },
+    {
+      "type": "codeforces",
+      "id": 298746181,
+      "creationTime": 1735356298,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -412127349
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2043C",
+        "name": "Sums on Segments",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2043/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2043/submission/298746181"
+    },
+    {
+      "type": "codeforces",
+      "id": 298746123,
+      "creationTime": 1735356220,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -412127427
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2043C",
+        "name": "Sums on Segments",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2043/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2043/submission/298746123"
+    },
+    {
+      "type": "codeforces",
+      "id": 298743931,
+      "creationTime": 1735353307,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -412130340
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2043C",
+        "name": "Sums on Segments",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2043/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2043/submission/298743931"
+    },
+    {
+      "type": "codeforces",
+      "id": 298743903,
+      "creationTime": 1735353253,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -412130394
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2043C",
+        "name": "Sums on Segments",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2043/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2043/submission/298743903"
+    },
+    {
+      "type": "codeforces",
       "id": 298665167,
       "creationTime": 1735302518,
       "language": "C++20 (GCC 13-64)",

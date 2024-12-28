@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1735320840,
+  "updateTime": 1735364166,
   "history": {
     "user": [
       {
@@ -8,19 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 298665167,
-            "pid": "2043B",
-            "name": "Digits",
+            "id": 298746234,
+            "pid": "2043C",
+            "name": "Sums on Segments",
             "verdict": "OK",
-            "creationTime": 1735302518
+            "creationTime": 1735356373
           },
           {
             "platform": "codeforces",
-            "id": 298661183,
-            "pid": "2043B",
-            "name": "Digits",
+            "id": 298746181,
+            "pid": "2043C",
+            "name": "Sums on Segments",
+            "verdict": "OK",
+            "creationTime": 1735356298
+          },
+          {
+            "platform": "codeforces",
+            "id": 298746123,
+            "pid": "2043C",
+            "name": "Sums on Segments",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1735300726
+            "creationTime": 1735356220
+          },
+          {
+            "platform": "codeforces",
+            "id": 298743931,
+            "pid": "2043C",
+            "name": "Sums on Segments",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1735353307
+          },
+          {
+            "platform": "codeforces",
+            "id": 298743903,
+            "pid": "2043C",
+            "name": "Sums on Segments",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1735353253
           }
         ],
         "newContests": []
@@ -28,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "2365c908de1c4effb1ab5ea13d3829b6ba126170"
+  "ref": "aee1cb5f402b845014c21c9ea12062eff7d32bcf"
 }
