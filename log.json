@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1735666439,
+  "updateTime": 1735709825,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 299192256,
-            "pid": "2053I2",
-            "name": "Affectionate Arrays (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1735665617
-          },
-          {
-            "platform": "codeforces",
-            "id": 299192035,
-            "pid": "2053I2",
-            "name": "Affectionate Arrays (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1735665464
-          },
-          {
-            "platform": "codeforces",
-            "id": 299191470,
-            "pid": "2053I2",
-            "name": "Affectionate Arrays (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1735665050
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "00af6c941ad4322196b40962fd1dbfd55c980a21"
+  "ref": "b0e3e88c4c14896ad6a23602441b59b42f6f4173"
 }
