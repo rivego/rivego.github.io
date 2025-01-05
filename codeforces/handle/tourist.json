@@ -49,6 +49,7 @@
         "id": "2057G",
         "name": "Secret Message",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
           "math"
         ],
@@ -76,10 +77,12 @@
         "tags": [
           "binary search",
           "brute force",
+          "dp",
           "dsu",
           "graphs",
           "shortest paths",
-          "sortings"
+          "sortings",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/E2"
       },
@@ -160,7 +163,8 @@
           "bitmasks",
           "constructive algorithms",
           "greedy",
-          "math"
+          "math",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/C"
       },
@@ -209,8 +213,7 @@
         "id": "2057A",
         "name": "MEX Table",
         "tags": [
-          "constructive algorithms",
-          "greedy"
+          "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/A"
       },
