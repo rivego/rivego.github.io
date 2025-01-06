@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1736141865,
+  "updateTime": 1736184930,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 299895085,
+            "pid": "2057E2",
+            "name": "Another Exercise on Graphs (hard version)",
+            "verdict": "OK",
+            "creationTime": 1736163972
+          },
+          {
+            "platform": "codeforces",
+            "id": 299895072,
+            "pid": "2057E1",
+            "name": "Another Exercise on Graphs (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1736163962
+          },
+          {
+            "platform": "codeforces",
+            "id": 299894905,
+            "pid": "2057H",
+            "name": "Coffee Break",
+            "verdict": "OK",
+            "creationTime": 1736163861
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e05c19fb15a9012c602df3d0a6558dbf3d81183e"
+  "ref": "b60423b609bdef78e3e90e9f0a4a200e4bfd95d6"
 }
