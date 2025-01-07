@@ -24,7 +24,6 @@
         "tags": [
           "data structures",
           "greedy",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/H"
@@ -109,6 +108,7 @@
           "binary search",
           "brute force",
           "dp",
+          "dsu",
           "graphs",
           "shortest paths"
         ],
