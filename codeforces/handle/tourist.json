@@ -75,7 +75,6 @@
         "name": "Another Exercise on Graphs (hard version)",
         "tags": [
           "binary search",
-          "bitmasks",
           "dfs and similar",
           "dp",
           "dsu",
