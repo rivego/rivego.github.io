@@ -6,6 +6,80 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 300722644,
+      "creationTime": 1736696750,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736692500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2055C",
+        "name": "The Trail",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2055/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2055/submission/300722644"
+    },
+    {
+      "type": "codeforces",
+      "id": 300673620,
+      "creationTime": 1736693435,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736692500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2055B",
+        "name": "Crafting",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2055/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2055/submission/300673620"
+    },
+    {
+      "type": "codeforces",
+      "id": 300656551,
+      "creationTime": 1736692821,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736692500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2055A",
+        "name": "Two Frogs",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2055/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2055/submission/300656551"
+    },
+    {
+      "type": "codeforces",
       "id": 298746234,
       "creationTime": 1735356373,
       "language": "C++20 (GCC 13-64)",
