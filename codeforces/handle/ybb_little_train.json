@@ -48,7 +48,8 @@
         "id": "2055B",
         "name": "Crafting",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2055/problem/B"
       },
@@ -72,7 +73,9 @@
         "id": "2055A",
         "name": "Two Frogs",
         "tags": [
-          "games"
+          "constructive algorithms",
+          "games",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2055/problem/A"
       },
@@ -32315,7 +32318,7 @@
   ],
   "codeforces": {
     "rank": "specialist",
-    "rating": 1499,
+    "rating": 1550,
     "maxRank": "specialist",
     "maxRating": 1575
   }

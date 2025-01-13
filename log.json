@@ -1,94 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1736703213,
+  "updateTime": 1736746685,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 300722644,
-            "pid": "2055C",
-            "name": "The Trail",
-            "verdict": "OK",
-            "creationTime": 1736696750
-          },
-          {
-            "platform": "codeforces",
-            "id": 300673620,
-            "pid": "2055B",
-            "name": "Crafting",
-            "verdict": "OK",
-            "creationTime": 1736693435
-          },
-          {
-            "platform": "codeforces",
-            "id": 300656551,
-            "pid": "2055A",
-            "name": "Two Frogs",
-            "verdict": "OK",
-            "creationTime": 1736692821
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 300736549,
-            "pid": "2055E",
-            "name": "Haystacks",
-            "verdict": "OK",
-            "creationTime": 1736698360
-          },
-          {
-            "platform": "codeforces",
-            "id": 300726313,
-            "pid": "2055D",
-            "name": "Scarecrow",
-            "verdict": "OK",
-            "creationTime": 1736697136
-          },
-          {
-            "platform": "codeforces",
-            "id": 300720064,
-            "pid": "2055B",
-            "name": "Crafting",
-            "verdict": "OK",
-            "creationTime": 1736696492
-          },
-          {
-            "platform": "codeforces",
-            "id": 300718899,
-            "pid": "2055C",
-            "name": "The Trail",
-            "verdict": "OK",
-            "creationTime": 1736696378
-          },
-          {
-            "platform": "codeforces",
-            "id": 300710195,
-            "pid": "2055B",
-            "name": "Crafting",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1736695623
-          },
-          {
-            "platform": "codeforces",
-            "id": 300708592,
-            "pid": "2055A",
-            "name": "Two Frogs",
-            "verdict": "OK",
-            "creationTime": 1736695495
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "2fc2ee34987c60764ba3814af468741ac283c5a3"
+  "ref": "35fdbc2e7414625bdde20c0aefd9821142a3243b"
 }
