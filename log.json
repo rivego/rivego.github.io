@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1736832897,
+  "updateTime": 1736876053,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 301007707,
+            "pid": "2055F",
+            "name": "Cosmic Divide",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1736873448
+          },
+          {
+            "platform": "codeforces",
+            "id": 301007454,
+            "pid": "2055F",
+            "name": "Cosmic Divide",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1736873325
+          },
+          {
+            "platform": "codeforces",
+            "id": 301007368,
+            "pid": "2055F",
+            "name": "Cosmic Divide",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1736873286
+          },
+          {
+            "platform": "codeforces",
+            "id": 301006803,
+            "pid": "2055F",
+            "name": "Cosmic Divide",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1736873001
+          },
+          {
+            "platform": "codeforces",
+            "id": 301006215,
+            "pid": "2055F",
+            "name": "Cosmic Divide",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1736872704
+          },
+          {
+            "platform": "codeforces",
+            "id": 301006060,
+            "pid": "2055F",
+            "name": "Cosmic Divide",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1736872626
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "db2f8c2d5d1b64a25ed4d3be374652efbb15e10e"
+  "ref": "07641c2a6ca1b713d5858cc8a8719f028fbc6000"
 }
