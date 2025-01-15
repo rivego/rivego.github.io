@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1736919395,
+  "updateTime": 1736962461,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 301013601,
-            "pid": "2055F",
-            "name": "Cosmic Divide",
-            "verdict": "OK",
-            "creationTime": 1736876296
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3d2d89a0f87cb21fe053fd7d3d0735e5f8b11f17"
+  "ref": "0c4e94a5bbb213317dc250f0623fa8ba0fe38207"
 }
