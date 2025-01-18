@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1737135348,
+  "updateTime": 1737178461,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 301440049,
-            "pid": "2056F2",
-            "name": "Xor of Median (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1737128904
-          },
-          {
-            "platform": "codeforces",
-            "id": 301439822,
-            "pid": "2056F1",
-            "name": "Xor of Median (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1737128883
-          },
-          {
-            "platform": "codeforces",
-            "id": 301414961,
-            "pid": "2056E",
-            "name": "Nested Segments",
-            "verdict": "OK",
-            "creationTime": 1737126728
-          },
-          {
-            "platform": "codeforces",
-            "id": 301405892,
-            "pid": "2056D",
-            "name": "Unique Median",
-            "verdict": "OK",
-            "creationTime": 1737126028
-          },
-          {
-            "platform": "codeforces",
-            "id": 301396770,
-            "pid": "2056C",
-            "name": "Palindromic Subsequences",
-            "verdict": "OK",
-            "creationTime": 1737125368
-          },
-          {
-            "platform": "codeforces",
-            "id": 301393417,
-            "pid": "2056B",
-            "name": "Find the Permutation",
-            "verdict": "OK",
-            "creationTime": 1737125154
-          },
-          {
-            "platform": "codeforces",
-            "id": 301393032,
-            "pid": "2056A",
-            "name": "Shape Perimeter",
-            "verdict": "OK",
-            "creationTime": 1737125130
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "b3724991dcadec135b1c1090563d618d66a61d31"
+  "ref": "dd958c7db6b41d510aebd59f354123e7ce1dbb77"
 }
