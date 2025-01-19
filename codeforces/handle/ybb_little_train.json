@@ -25,7 +25,8 @@
           "brute force",
           "constructive algorithms",
           "greedy",
-          "math"
+          "math",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2055/problem/C"
       },
