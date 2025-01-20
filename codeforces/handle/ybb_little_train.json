@@ -46,7 +46,10 @@
         "id": "2060C",
         "name": "Game of Mathletes",
         "tags": [
-          "games"
+          "games",
+          "greedy",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2060/problem/C"
       },
@@ -70,7 +73,10 @@
         "id": "2060C",
         "name": "Game of Mathletes",
         "tags": [
-          "games"
+          "games",
+          "greedy",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2060/problem/C"
       },
@@ -94,7 +100,10 @@
         "id": "2060C",
         "name": "Game of Mathletes",
         "tags": [
-          "games"
+          "games",
+          "greedy",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2060/problem/C"
       },
@@ -118,7 +127,10 @@
         "id": "2060C",
         "name": "Game of Mathletes",
         "tags": [
-          "games"
+          "games",
+          "greedy",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2060/problem/C"
       },
@@ -141,7 +153,10 @@
         "type": "codeforces",
         "id": "2060B",
         "name": "Farmer John's Card Game",
-        "tags": [],
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
         "problemUrl": "https://codeforces.com/contest/2060/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/2060/submission/301779222"
