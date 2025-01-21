@@ -22,11 +22,8 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
-          "brute force",
           "data structures",
-          "greedy",
-          "implementation",
-          "math"
+          "divide and conquer"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -50,11 +47,8 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
-          "brute force",
           "data structures",
-          "greedy",
-          "implementation",
-          "math"
+          "divide and conquer"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -78,17 +72,10 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
-          "brute force",
-          "constructive algorithms",
-          "data structures",
-          "dp",
           "geometry",
           "greedy",
           "implementation",
-          "math",
-          "number theory",
-          "sortings",
-          "two pointers"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
@@ -112,17 +99,10 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
-          "brute force",
-          "constructive algorithms",
-          "data structures",
-          "dp",
           "geometry",
           "greedy",
           "implementation",
-          "math",
-          "number theory",
-          "sortings",
-          "two pointers"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
@@ -146,18 +126,7 @@
         "id": "2061A",
         "name": "Kevin and Arithmetic",
         "tags": [
-          "2-sat",
-          "bitmasks",
-          "brute force",
-          "constructive algorithms",
-          "data structures",
-          "dp",
-          "fft",
-          "greedy",
-          "implementation",
-          "math",
-          "number theory",
-          "two pointers"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
       },
