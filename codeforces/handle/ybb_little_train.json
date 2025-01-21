@@ -21,7 +21,13 @@
         "type": "codeforces",
         "id": "2061D",
         "name": "Kevin and Numbers",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "data structures",
+          "greedy",
+          "implementation",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2061/submission/302112547"
@@ -43,7 +49,13 @@
         "type": "codeforces",
         "id": "2061D",
         "name": "Kevin and Numbers",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "data structures",
+          "greedy",
+          "implementation",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2061/submission/302111917"
@@ -53,7 +65,7 @@
       "id": 302077713,
       "creationTime": 1737386419,
       "language": "C++20 (GCC 13-64)",
-      "verdict": "OK",
+      "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
           "ybb_little_train"
@@ -65,7 +77,19 @@
         "type": "codeforces",
         "id": "2061B",
         "name": "Kevin and Geometry",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "data structures",
+          "dp",
+          "geometry",
+          "greedy",
+          "implementation",
+          "math",
+          "number theory",
+          "sortings",
+          "two pointers"
+        ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/2061/submission/302077713"
@@ -87,7 +111,19 @@
         "type": "codeforces",
         "id": "2061B",
         "name": "Kevin and Geometry",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "data structures",
+          "dp",
+          "geometry",
+          "greedy",
+          "implementation",
+          "math",
+          "number theory",
+          "sortings",
+          "two pointers"
+        ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/2061/submission/302076041"
@@ -109,7 +145,20 @@
         "type": "codeforces",
         "id": "2061A",
         "name": "Kevin and Arithmetic",
-        "tags": [],
+        "tags": [
+          "2-sat",
+          "bitmasks",
+          "brute force",
+          "constructive algorithms",
+          "data structures",
+          "dp",
+          "fft",
+          "greedy",
+          "implementation",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/2061/submission/302055761"
@@ -32613,7 +32662,7 @@
   ],
   "codeforces": {
     "rank": "specialist",
-    "rating": 1550,
+    "rating": 1465,
     "maxRank": "specialist",
     "maxRating": 1575
   }
