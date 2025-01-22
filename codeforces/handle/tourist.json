@@ -75,8 +75,16 @@
         "name": "Kevin and Teams",
         "tags": [
           "constructive algorithms",
+          "expression parsing",
+          "fft",
+          "flows",
+          "graph matchings",
           "graphs",
-          "interactive"
+          "implementation",
+          "interactive",
+          "math",
+          "number theory",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/G"
       },
@@ -100,8 +108,15 @@
         "id": "2061F2",
         "name": "Kevin and Binary String (Hard Version)",
         "tags": [
+          "binary search",
+          "constructive algorithms",
           "data structures",
-          "dp"
+          "dp",
+          "fft",
+          "greedy",
+          "implementation",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/F2"
       },
@@ -125,9 +140,19 @@
         "id": "2061F1",
         "name": "Kevin and Binary String (Easy Version)",
         "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "constructive algorithms",
           "data structures",
+          "fft",
+          "flows",
           "greedy",
           "implementation",
+          "math",
+          "meet-in-the-middle",
+          "sortings",
+          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/F1"
@@ -152,12 +177,15 @@
         "id": "2061E",
         "name": "Kevin and And",
         "tags": [
-          "binary search",
           "bitmasks",
           "brute force",
+          "constructive algorithms",
+          "data structures",
           "dp",
+          "fft",
           "greedy",
           "implementation",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/E"
@@ -182,8 +210,15 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
+          "constructive algorithms",
           "data structures",
-          "divide and conquer"
+          "divide and conquer",
+          "fft",
+          "greedy",
+          "implementation",
+          "math",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -209,7 +244,13 @@
         "tags": [
           "2-sat",
           "combinatorics",
-          "dp"
+          "constructive algorithms",
+          "dp",
+          "fft",
+          "graphs",
+          "implementation",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/C"
       },
@@ -233,10 +274,14 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
+          "constructive algorithms",
+          "data structures",
+          "fft",
           "geometry",
           "greedy",
           "implementation",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
@@ -260,7 +305,13 @@
         "id": "2061A",
         "name": "Kevin and Arithmetic",
         "tags": [
-          "math"
+          "brute force",
+          "constructive algorithms",
+          "fft",
+          "flows",
+          "implementation",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
       },
@@ -284,7 +335,13 @@
         "id": "2061A",
         "name": "Kevin and Arithmetic",
         "tags": [
-          "math"
+          "brute force",
+          "constructive algorithms",
+          "fft",
+          "flows",
+          "implementation",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
       },

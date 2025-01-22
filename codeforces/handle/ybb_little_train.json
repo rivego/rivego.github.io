@@ -22,8 +22,16 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
+          "constructive algorithms",
           "data structures",
-          "divide and conquer"
+          "divide and conquer",
+          "fft",
+          "flows",
+          "greedy",
+          "implementation",
+          "math",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -47,8 +55,16 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
+          "constructive algorithms",
           "data structures",
-          "divide and conquer"
+          "divide and conquer",
+          "fft",
+          "flows",
+          "greedy",
+          "implementation",
+          "math",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -72,10 +88,14 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
+          "constructive algorithms",
+          "data structures",
+          "fft",
           "geometry",
           "greedy",
           "implementation",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
@@ -99,10 +119,14 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
+          "constructive algorithms",
+          "data structures",
+          "fft",
           "geometry",
           "greedy",
           "implementation",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
@@ -126,7 +150,13 @@
         "id": "2061A",
         "name": "Kevin and Arithmetic",
         "tags": [
-          "math"
+          "brute force",
+          "constructive algorithms",
+          "fft",
+          "flows",
+          "implementation",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
       },
