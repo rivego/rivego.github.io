@@ -6,6 +6,182 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 302455950,
+      "creationTime": 1737554228,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737547500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2063C",
+        "name": "Remove Exactly Two",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2063/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2063/submission/302455950"
+    },
+    {
+      "type": "codeforces",
+      "id": 302451798,
+      "creationTime": 1737553833,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737547500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2063C",
+        "name": "Remove Exactly Two",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2063/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2063/submission/302451798"
+    },
+    {
+      "type": "codeforces",
+      "id": 302426639,
+      "creationTime": 1737551471,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737547500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2063B",
+        "name": "Subsequence Update",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2063/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2063/submission/302426639"
+    },
+    {
+      "type": "codeforces",
+      "id": 302417258,
+      "creationTime": 1737550695,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737547500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2063B",
+        "name": "Subsequence Update",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2063/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2063/submission/302417258"
+    },
+    {
+      "type": "codeforces",
+      "id": 302412054,
+      "creationTime": 1737550291,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737547500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2063B",
+        "name": "Subsequence Update",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2063/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2063/submission/302412054"
+    },
+    {
+      "type": "codeforces",
+      "id": 302380320,
+      "creationTime": 1737548253,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737547500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2063B",
+        "name": "Subsequence Update",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2063/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2063/submission/302380320"
+    },
+    {
+      "type": "codeforces",
+      "id": 302373882,
+      "creationTime": 1737547981,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737547500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2063A",
+        "name": "Minimal Coprime",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2063/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2063/submission/302373882"
+    },
+    {
+      "type": "codeforces",
       "id": 302112547,
       "creationTime": 1737391477,
       "language": "C++20 (GCC 13-64)",
@@ -22,16 +198,9 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
-          "constructive algorithms",
           "data structures",
-          "divide and conquer",
-          "fft",
-          "flows",
-          "greedy",
           "implementation",
-          "math",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -55,16 +224,9 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
-          "constructive algorithms",
           "data structures",
-          "divide and conquer",
-          "fft",
-          "flows",
-          "greedy",
           "implementation",
-          "math",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -88,14 +250,42 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
+          "2-sat",
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "chinese remainder theorem",
+          "combinatorics",
           "constructive algorithms",
           "data structures",
+          "dfs and similar",
+          "divide and conquer",
+          "dp",
+          "dsu",
+          "expression parsing",
           "fft",
+          "flows",
+          "games",
           "geometry",
+          "graph matchings",
+          "graphs",
           "greedy",
+          "hashing",
           "implementation",
+          "interactive",
           "math",
-          "sortings"
+          "matrices",
+          "meet-in-the-middle",
+          "number theory",
+          "probabilities",
+          "schedules",
+          "shortest paths",
+          "sortings",
+          "string suffix structures",
+          "strings",
+          "ternary search",
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
@@ -119,14 +309,42 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
+          "2-sat",
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "chinese remainder theorem",
+          "combinatorics",
           "constructive algorithms",
           "data structures",
+          "dfs and similar",
+          "divide and conquer",
+          "dp",
+          "dsu",
+          "expression parsing",
           "fft",
+          "flows",
+          "games",
           "geometry",
+          "graph matchings",
+          "graphs",
           "greedy",
+          "hashing",
           "implementation",
+          "interactive",
           "math",
-          "sortings"
+          "matrices",
+          "meet-in-the-middle",
+          "number theory",
+          "probabilities",
+          "schedules",
+          "shortest paths",
+          "sortings",
+          "string suffix structures",
+          "strings",
+          "ternary search",
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
@@ -150,13 +368,20 @@
         "id": "2061A",
         "name": "Kevin and Arithmetic",
         "tags": [
+          "binary search",
+          "bitmasks",
           "brute force",
+          "combinatorics",
           "constructive algorithms",
+          "data structures",
+          "dp",
           "fft",
           "flows",
+          "geometry",
           "implementation",
+          "interactive",
           "math",
-          "sortings"
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
       },
@@ -32660,8 +32885,8 @@
     }
   ],
   "codeforces": {
-    "rank": "specialist",
-    "rating": 1465,
+    "rank": "pupil",
+    "rating": 1380,
     "maxRank": "specialist",
     "maxRating": 1575
   }
