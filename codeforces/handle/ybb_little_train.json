@@ -25,7 +25,9 @@
           "brute force",
           "data structures",
           "dp",
+          "graphs",
           "greedy",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2063/problem/C"
@@ -53,7 +55,9 @@
           "brute force",
           "data structures",
           "dp",
+          "graphs",
           "greedy",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2063/problem/C"
@@ -78,7 +82,8 @@
         "id": "2063B",
         "name": "Subsequence Update",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2063/problem/B"
       },
@@ -102,7 +107,8 @@
         "id": "2063B",
         "name": "Subsequence Update",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2063/problem/B"
       },
@@ -126,7 +132,8 @@
         "id": "2063B",
         "name": "Subsequence Update",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2063/problem/B"
       },
@@ -150,7 +157,8 @@
         "id": "2063B",
         "name": "Subsequence Update",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2063/problem/B"
       },
@@ -198,9 +206,31 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
+          "2-sat",
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "chinese remainder theorem",
+          "combinatorics",
+          "constructive algorithms",
           "data structures",
+          "dfs and similar",
+          "divide and conquer",
+          "dp",
+          "dsu",
+          "expression parsing",
+          "fft",
+          "flows",
+          "games",
+          "geometry",
+          "graph matchings",
+          "graphs",
+          "greedy",
           "implementation",
-          "sortings"
+          "sortings",
+          "string suffix structures",
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -224,9 +254,31 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
+          "2-sat",
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "chinese remainder theorem",
+          "combinatorics",
+          "constructive algorithms",
           "data structures",
+          "dfs and similar",
+          "divide and conquer",
+          "dp",
+          "dsu",
+          "expression parsing",
+          "fft",
+          "flows",
+          "games",
+          "geometry",
+          "graph matchings",
+          "graphs",
+          "greedy",
           "implementation",
-          "sortings"
+          "sortings",
+          "string suffix structures",
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -250,12 +302,8 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
-          "2-sat",
           "binary search",
-          "bitmasks",
           "brute force",
-          "chinese remainder theorem",
-          "combinatorics",
           "constructive algorithms",
           "data structures",
           "dfs and similar",
@@ -309,12 +357,8 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
-          "2-sat",
           "binary search",
-          "bitmasks",
           "brute force",
-          "chinese remainder theorem",
-          "combinatorics",
           "constructive algorithms",
           "data structures",
           "dfs and similar",

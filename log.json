@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1737567381,
+  "updateTime": 1737610581,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 302455950,
-            "pid": "2063C",
-            "name": "Remove Exactly Two",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1737554228
-          },
-          {
-            "platform": "codeforces",
-            "id": 302451798,
-            "pid": "2063C",
-            "name": "Remove Exactly Two",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1737553833
-          },
-          {
-            "platform": "codeforces",
-            "id": 302426639,
-            "pid": "2063B",
-            "name": "Subsequence Update",
-            "verdict": "OK",
-            "creationTime": 1737551471
-          },
-          {
-            "platform": "codeforces",
-            "id": 302417258,
-            "pid": "2063B",
-            "name": "Subsequence Update",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1737550695
-          },
-          {
-            "platform": "codeforces",
-            "id": 302412054,
-            "pid": "2063B",
-            "name": "Subsequence Update",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1737550291
-          },
-          {
-            "platform": "codeforces",
-            "id": 302380320,
-            "pid": "2063B",
-            "name": "Subsequence Update",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1737548253
-          },
-          {
-            "platform": "codeforces",
-            "id": 302373882,
-            "pid": "2063A",
-            "name": "Minimal Coprime",
-            "verdict": "OK",
-            "creationTime": 1737547981
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7bafc73fe71629d7804fbb04acb0d6c7c1407a74"
+  "ref": "b3c9cc013a8bb89d9e2a80adb9488972593219c2"
 }
