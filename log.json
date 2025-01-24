@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1737653734,
+  "updateTime": 1737696986,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 302556236,
-            "pid": "2063C",
-            "name": "Remove Exactly Two",
-            "verdict": "OK",
-            "creationTime": 1737614667
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "e920376c4beecc163ac4716c3ab755969bb7b404"
+  "ref": "8c2be56fa5b258b023ea9c262a1909abcfcaaa73"
 }
