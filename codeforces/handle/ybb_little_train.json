@@ -115,6 +115,7 @@
         "id": "2063B",
         "name": "Subsequence Update",
         "tags": [
+          "constructive algorithms",
           "data structures",
           "greedy",
           "sortings"
@@ -141,6 +142,7 @@
         "id": "2063B",
         "name": "Subsequence Update",
         "tags": [
+          "constructive algorithms",
           "data structures",
           "greedy",
           "sortings"
@@ -167,6 +169,7 @@
         "id": "2063B",
         "name": "Subsequence Update",
         "tags": [
+          "constructive algorithms",
           "data structures",
           "greedy",
           "sortings"
@@ -193,6 +196,7 @@
         "id": "2063B",
         "name": "Subsequence Update",
         "tags": [
+          "constructive algorithms",
           "data structures",
           "greedy",
           "sortings"
@@ -244,8 +248,11 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
           "data structures",
-          "greedy"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -269,8 +276,11 @@
         "id": "2061D",
         "name": "Kevin and Numbers",
         "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
           "data structures",
-          "greedy"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -294,10 +304,12 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
-          "brute force",
+          "binary search",
+          "constructive algorithms",
+          "data structures",
           "geometry",
-          "greedy",
           "implementation",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
@@ -322,10 +334,12 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
-          "brute force",
+          "binary search",
+          "constructive algorithms",
+          "data structures",
           "geometry",
-          "greedy",
           "implementation",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
@@ -350,7 +364,9 @@
         "id": "2061A",
         "name": "Kevin and Arithmetic",
         "tags": [
+          "brute force",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
