@@ -9,6 +9,7 @@
       "id": 303124667,
       "creationTime": 1737909853,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -36,6 +37,7 @@
       "id": 303113824,
       "creationTime": 1737908047,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -47,7 +49,11 @@
         "type": "codeforces",
         "id": "2062H",
         "name": "Galaxy Generator",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/H"
       },
       "submissionUrl": "https://codeforces.com/contest/2062/submission/303113824"
@@ -57,6 +63,7 @@
       "id": 303088795,
       "creationTime": 1737905012,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -70,6 +77,9 @@
         "name": "Traveling Salescat",
         "tags": [
           "dp",
+          "geometry",
+          "greedy",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/F"
@@ -96,8 +106,8 @@
         "tags": [
           "dfs and similar",
           "games",
-          "games",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/E1"
       },
@@ -121,6 +131,8 @@
         "id": "2062D",
         "name": "Balanced Tree",
         "tags": [
+          "dfs and similar",
+          "dp",
           "greedy",
           "trees"
         ],
@@ -146,6 +158,8 @@
         "id": "2062D",
         "name": "Balanced Tree",
         "tags": [
+          "dfs and similar",
+          "dp",
           "greedy",
           "trees"
         ],
@@ -171,7 +185,8 @@
         "id": "2062C",
         "name": "Cirno and Operations",
         "tags": [
-          "brute force"
+          "brute force",
+          "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/C"
       },
@@ -434,6 +449,8 @@
         "name": "Kevin and Puzzle",
         "rating": 1600,
         "tags": [
+          "2-sat",
+          "combinatorics",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/C"
@@ -12267,6 +12284,7 @@
         "id": "1952A",
         "name": "Are You a Robot, Again?",
         "tags": [
+          "*special",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -12291,6 +12309,7 @@
         "id": "1952A",
         "name": "Are You a Robot, Again?",
         "tags": [
+          "*special",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -12315,6 +12334,7 @@
         "id": "1952A",
         "name": "Are You a Robot, Again?",
         "tags": [
+          "*special",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -134017,7 +134037,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3841,
+    "rating": 3840,
     "maxRank": "tourist",
     "maxRating": 4009
   }
