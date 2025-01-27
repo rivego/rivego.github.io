@@ -77,7 +77,7 @@
         "name": "Traveling Salescat",
         "tags": [
           "dp",
-          "geometry",
+          "graphs",
           "greedy",
           "math",
           "sortings"
@@ -104,9 +104,12 @@
         "id": "2062E1",
         "name": "The Game (Easy Version)",
         "tags": [
+          "data structures",
           "dfs and similar",
           "games",
           "graphs",
+          "graphs",
+          "greedy",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/E1"
@@ -186,7 +189,7 @@
         "name": "Cirno and Operations",
         "tags": [
           "brute force",
-          "constructive algorithms"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/C"
       },
@@ -210,7 +213,8 @@
         "id": "2062B",
         "name": "Clockwork",
         "tags": [
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/B"
       },
@@ -234,7 +238,9 @@
         "id": "2062A",
         "name": "String",
         "tags": [
+          "constructive algorithms",
           "greedy",
+          "math",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/A"

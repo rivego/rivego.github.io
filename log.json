@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1737956176,
+  "updateTime": 1737999310,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 303182555,
+            "pid": "2062G",
+            "name": "Permutation Factory",
+            "verdict": "OK",
+            "creationTime": 1737957176
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "a059224df5d58c8358e5d9b9415b39b407851714"
+  "ref": "79782a7e5a87638d5b0c4037f56581702ec7ee5a"
 }
