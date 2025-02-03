@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 304271434,
+      "creationTime": 1738594524,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -408889123
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2059A",
+        "name": "Milya and Two Arrays",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2059/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2059/submission/304271434"
+    },
+    {
+      "type": "codeforces",
       "id": 302556236,
       "creationTime": 1737614667,
       "language": "C++20 (GCC 13-64)",
