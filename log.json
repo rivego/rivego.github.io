@@ -1,86 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1738604093,
+  "updateTime": 1738647389,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 304271434,
-            "pid": "2059A",
-            "name": "Milya and Two Arrays",
-            "verdict": "OK",
-            "creationTime": 1738594524
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 304257577,
-            "pid": "2063A",
-            "name": "Minimal Coprime",
-            "verdict": "OK",
-            "creationTime": 1738589799
-          },
-          {
-            "platform": "codeforces",
-            "id": 304256462,
-            "pid": "2059E2",
-            "name": "Stop Gaming (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1738589391
-          },
-          {
-            "platform": "codeforces",
-            "id": 304251935,
-            "pid": "2059E1",
-            "name": "Stop Gaming (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1738587734
-          },
-          {
-            "platform": "codeforces",
-            "id": 304247648,
-            "pid": "2059D",
-            "name": "Graph and Graph",
-            "verdict": "OK",
-            "creationTime": 1738585846
-          },
-          {
-            "platform": "codeforces",
-            "id": 304245086,
-            "pid": "2059C",
-            "name": "Customer Service",
-            "verdict": "OK",
-            "creationTime": 1738584638
-          },
-          {
-            "platform": "codeforces",
-            "id": 304244188,
-            "pid": "2059B",
-            "name": "Cost of the Array",
-            "verdict": "OK",
-            "creationTime": 1738584209
-          },
-          {
-            "platform": "codeforces",
-            "id": 304241606,
-            "pid": "2059A",
-            "name": "Milya and Two Arrays",
-            "verdict": "OK",
-            "creationTime": 1738583041
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "63da6049c1bccf951e39468de390b03735238a5f"
+  "ref": "33a773286dbbb83c4e833ac84a34db5afb99ee4c"
 }
