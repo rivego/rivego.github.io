@@ -6,6 +6,203 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 305327797,
+      "creationTime": 1739118870,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739111700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2065E",
+        "name": "Skibidus and Rizz",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2065/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2065/submission/305327797"
+    },
+    {
+      "type": "codeforces",
+      "id": 305272029,
+      "creationTime": 1739115826,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739111700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2065D",
+        "name": "Skibidus and Sigma",
+        "tags": [
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2065/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2065/submission/305272029"
+    },
+    {
+      "type": "codeforces",
+      "id": 305238185,
+      "creationTime": 1739114496,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739111700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2065C2",
+        "name": "Skibidus and Fanum Tax (hard version)",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2065/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2065/submission/305238185"
+    },
+    {
+      "type": "codeforces",
+      "id": 305237669,
+      "creationTime": 1739114478,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739111700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2065C1",
+        "name": "Skibidus and Fanum Tax (easy version)",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2065/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2065/submission/305237669"
+    },
+    {
+      "type": "codeforces",
+      "id": 305223369,
+      "creationTime": 1739113999,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739111700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2065C1",
+        "name": "Skibidus and Fanum Tax (easy version)",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2065/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2065/submission/305223369"
+    },
+    {
+      "type": "codeforces",
+      "id": 305214055,
+      "creationTime": 1739113712,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739111700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2065C1",
+        "name": "Skibidus and Fanum Tax (easy version)",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2065/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2065/submission/305214055"
+    },
+    {
+      "type": "codeforces",
+      "id": 305156497,
+      "creationTime": 1739112109,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739111700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2065B",
+        "name": "Skibidus and Ohio",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2065/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2065/submission/305156497"
+    },
+    {
+      "type": "codeforces",
+      "id": 305143083,
+      "creationTime": 1739111885,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739111700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2065A",
+        "name": "Skibidus and Amog'u",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2065/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2065/submission/305143083"
+    },
+    {
+      "type": "codeforces",
       "id": 304271434,
       "creationTime": 1738594524,
       "language": "C++20 (GCC 13-64)",
