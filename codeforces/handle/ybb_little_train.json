@@ -23,7 +23,8 @@
         "name": "Skibidus and Rizz",
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2065/problem/E"
       },
