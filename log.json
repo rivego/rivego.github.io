@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1739122373,
+  "updateTime": 1739165832,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 305327797,
-            "pid": "2065E",
-            "name": "Skibidus and Rizz",
-            "verdict": "OK",
-            "creationTime": 1739118870
-          },
-          {
-            "platform": "codeforces",
-            "id": 305272029,
-            "pid": "2065D",
-            "name": "Skibidus and Sigma",
-            "verdict": "OK",
-            "creationTime": 1739115826
-          },
-          {
-            "platform": "codeforces",
-            "id": 305238185,
-            "pid": "2065C2",
-            "name": "Skibidus and Fanum Tax (hard version)",
-            "verdict": "OK",
-            "creationTime": 1739114496
-          },
-          {
-            "platform": "codeforces",
-            "id": 305237669,
-            "pid": "2065C1",
-            "name": "Skibidus and Fanum Tax (easy version)",
-            "verdict": "OK",
-            "creationTime": 1739114478
-          },
-          {
-            "platform": "codeforces",
-            "id": 305223369,
-            "pid": "2065C1",
-            "name": "Skibidus and Fanum Tax (easy version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1739113999
-          },
-          {
-            "platform": "codeforces",
-            "id": 305214055,
-            "pid": "2065C1",
-            "name": "Skibidus and Fanum Tax (easy version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1739113712
-          },
-          {
-            "platform": "codeforces",
-            "id": 305156497,
-            "pid": "2065B",
-            "name": "Skibidus and Ohio",
-            "verdict": "OK",
-            "creationTime": 1739112109
-          },
-          {
-            "platform": "codeforces",
-            "id": 305143083,
-            "pid": "2065A",
-            "name": "Skibidus and Amog'u",
-            "verdict": "OK",
-            "creationTime": 1739111885
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "504a3e93f720c3586d61ef935143de35595eedd6"
+  "ref": "03678cb7ad26155e00eb27ffb37d7415e81cb143"
 }

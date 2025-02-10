@@ -195,7 +195,10 @@
         "id": "2065A",
         "name": "Skibidus and Amog'u",
         "tags": [
-          "implementation"
+          "brute force",
+          "constructive algorithms",
+          "implementation",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2065/problem/A"
       },
