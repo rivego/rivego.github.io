@@ -1,9 +1,174 @@
 {
   "version": "0.1.29",
-  "updateTime": 1739252235,
+  "updateTime": 1739295467,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 305674660,
+            "pid": "2066E",
+            "name": "Tropical Season",
+            "verdict": "OK",
+            "creationTime": 1739289213
+          },
+          {
+            "platform": "codeforces",
+            "id": 305651253,
+            "pid": "2066D2",
+            "name": "Club of Young Aircraft Builders (hard version)",
+            "verdict": "OK",
+            "creationTime": 1739287016
+          },
+          {
+            "platform": "codeforces",
+            "id": 305650970,
+            "pid": "2066D1",
+            "name": "Club of Young Aircraft Builders (easy version)",
+            "verdict": "OK",
+            "creationTime": 1739286996
+          },
+          {
+            "platform": "codeforces",
+            "id": 305635243,
+            "pid": "2066B",
+            "name": "White Magic",
+            "verdict": "OK",
+            "creationTime": 1739285946
+          },
+          {
+            "platform": "codeforces",
+            "id": 305633837,
+            "pid": "2066C",
+            "name": "Bitwise Slides",
+            "verdict": "OK",
+            "creationTime": 1739285860
+          },
+          {
+            "platform": "codeforces",
+            "id": 305626001,
+            "pid": "2066B",
+            "name": "White Magic",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1739285369
+          },
+          {
+            "platform": "codeforces",
+            "id": 305616029,
+            "pid": "2066A",
+            "name": "Object Identification",
+            "verdict": "OK",
+            "creationTime": 1739284852
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 305686452,
+            "pid": "2066E",
+            "name": "Tropical Season",
+            "verdict": "OK",
+            "creationTime": 1739290496
+          },
+          {
+            "platform": "codeforces",
+            "id": 305674196,
+            "pid": "2066D1",
+            "name": "Club of Young Aircraft Builders (easy version)",
+            "verdict": "OK",
+            "creationTime": 1739289161
+          },
+          {
+            "platform": "codeforces",
+            "id": 305674110,
+            "pid": "2066D2",
+            "name": "Club of Young Aircraft Builders (hard version)",
+            "verdict": "OK",
+            "creationTime": 1739289152
+          },
+          {
+            "platform": "codeforces",
+            "id": 305660386,
+            "pid": "2066B",
+            "name": "White Magic",
+            "verdict": "OK",
+            "creationTime": 1739287805
+          },
+          {
+            "platform": "codeforces",
+            "id": 305657405,
+            "pid": "2066A",
+            "name": "Object Identification",
+            "verdict": "OK",
+            "creationTime": 1739287535
+          },
+          {
+            "platform": "codeforces",
+            "id": 305653789,
+            "pid": "2066B",
+            "name": "White Magic",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1739287220
+          },
+          {
+            "platform": "codeforces",
+            "id": 305653292,
+            "pid": "2066C",
+            "name": "Bitwise Slides",
+            "verdict": "OK",
+            "creationTime": 1739287180
+          },
+          {
+            "platform": "codeforces",
+            "id": 305652467,
+            "pid": "2066A",
+            "name": "Object Identification",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1739287110
+          },
+          {
+            "platform": "codeforces",
+            "id": 305651510,
+            "pid": "2066C",
+            "name": "Bitwise Slides",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1739287036
+          },
+          {
+            "platform": "codeforces",
+            "id": 305644810,
+            "pid": "2066B",
+            "name": "White Magic",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1739286538
+          },
+          {
+            "platform": "codeforces",
+            "id": 305637833,
+            "pid": "2066A",
+            "name": "Object Identification",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1739286102
+          },
+          {
+            "platform": "codeforces",
+            "id": 305624911,
+            "pid": "2066A",
+            "name": "Object Identification",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1739285308
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "fe47f182966db34849c79d9878497771266cc94c"
+  "ref": "30ceeebac9852ae5195146f5ff04b60a17c5c1da"
 }
