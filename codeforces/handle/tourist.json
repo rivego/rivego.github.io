@@ -22,7 +22,9 @@
         "id": "2066E",
         "name": "Tropical Season",
         "tags": [
-          "data structures"
+          "data structures",
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/E"
       },
@@ -47,7 +49,8 @@
         "name": "Club of Young Aircraft Builders (hard version)",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/D2"
       },
@@ -72,7 +75,8 @@
         "name": "Club of Young Aircraft Builders (easy version)",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/D1"
       },
@@ -96,6 +100,8 @@
         "id": "2066B",
         "name": "White Magic",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/B"
@@ -121,7 +127,9 @@
         "name": "Bitwise Slides",
         "tags": [
           "bitmasks",
-          "dp"
+          "combinatorics",
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/C"
       },
@@ -145,6 +153,8 @@
         "id": "2066B",
         "name": "White Magic",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/B"
@@ -169,6 +179,8 @@
         "id": "2066A",
         "name": "Object Identification",
         "tags": [
+          "graphs",
+          "implementation",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/A"
@@ -134227,7 +134239,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3840,
+    "rating": 3856,
     "maxRank": "tourist",
     "maxRating": 4009
   }
