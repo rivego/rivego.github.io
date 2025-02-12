@@ -22,6 +22,7 @@
         "id": "2066E",
         "name": "Tropical Season",
         "tags": [
+          "binary search",
           "data structures",
           "greedy",
           "implementation"
@@ -101,8 +102,11 @@
         "name": "White Magic",
         "tags": [
           "constructive algorithms",
+          "data structures",
+          "dp",
           "greedy",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/B"
       },
@@ -154,8 +158,11 @@
         "name": "White Magic",
         "tags": [
           "constructive algorithms",
+          "data structures",
+          "dp",
           "greedy",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/B"
       },
@@ -180,6 +187,7 @@
         "name": "Object Identification",
         "tags": [
           "graphs",
+          "greedy",
           "implementation",
           "interactive"
         ],
