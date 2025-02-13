@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 305886653,
+      "creationTime": 1739417679,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -408065968
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2067A",
+        "name": "Adjacent Digit Sums",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2067/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2067/submission/305886653"
+    },
+    {
+      "type": "codeforces",
+      "id": 305885699,
+      "creationTime": 1739416787,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -408066860
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2067A",
+        "name": "Adjacent Digit Sums",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2067/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2067/submission/305885699"
+    },
+    {
+      "type": "codeforces",
       "id": 305327797,
       "creationTime": 1739118870,
       "language": "C++20 (GCC 13-64)",

@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1739381769,
+  "updateTime": 1739425058,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 305886653,
+            "pid": "2067A",
+            "name": "Adjacent Digit Sums",
+            "verdict": "OK",
+            "creationTime": 1739417679
+          },
+          {
+            "platform": "codeforces",
+            "id": 305885699,
+            "pid": "2067A",
+            "name": "Adjacent Digit Sums",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1739416787
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "692dacbc2082aa42f2ad408c5470f7fdb075e73b"
+  "ref": "0e402cf0e452966b82147a1be35ab6be9696915f"
 }
