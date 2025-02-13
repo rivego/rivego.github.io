@@ -148,6 +148,7 @@
         "name": "Skibidus and Fanum Tax (easy version)",
         "tags": [
           "binary search",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2065/problem/C1"
@@ -173,6 +174,7 @@
         "name": "Skibidus and Fanum Tax (easy version)",
         "tags": [
           "binary search",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2065/problem/C1"
@@ -198,6 +200,7 @@
         "name": "Skibidus and Fanum Tax (easy version)",
         "tags": [
           "binary search",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2065/problem/C1"
@@ -248,6 +251,7 @@
         "tags": [
           "brute force",
           "constructive algorithms",
+          "greedy",
           "implementation",
           "strings"
         ],
