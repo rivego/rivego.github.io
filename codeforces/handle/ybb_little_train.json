@@ -22,6 +22,7 @@
         "id": "2067A",
         "name": "Adjacent Digit Sums",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "math"
         ],
@@ -47,6 +48,7 @@
         "id": "2067A",
         "name": "Adjacent Digit Sums",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "math"
         ],
