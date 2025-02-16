@@ -100,6 +100,7 @@
         "id": "2065D",
         "name": "Skibidus and Sigma",
         "tags": [
+          "greedy",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2065/problem/D"
