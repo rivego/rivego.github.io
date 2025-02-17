@@ -1,9 +1,96 @@
 {
   "version": "0.1.29",
-  "updateTime": 1739727193,
+  "updateTime": 1739770698,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 306449312,
+            "pid": "2067A",
+            "name": "Adjacent Digit Sums",
+            "verdict": "OK",
+            "creationTime": 1739733673
+          },
+          {
+            "platform": "codeforces",
+            "id": 306449190,
+            "pid": "2067B",
+            "name": "Two Large Bags",
+            "verdict": "OK",
+            "creationTime": 1739733594
+          },
+          {
+            "platform": "codeforces",
+            "id": 306448909,
+            "pid": "2067C",
+            "name": "Devyatkino",
+            "verdict": "OK",
+            "creationTime": 1739733420
+          },
+          {
+            "platform": "codeforces",
+            "id": 306448299,
+            "pid": "2064A",
+            "name": "Brogramming Contest",
+            "verdict": "OK",
+            "creationTime": 1739733037
+          },
+          {
+            "platform": "codeforces",
+            "id": 306448097,
+            "pid": "2064B",
+            "name": "Variety is Discouraged",
+            "verdict": "OK",
+            "creationTime": 1739732911
+          },
+          {
+            "platform": "codeforces",
+            "id": 306447474,
+            "pid": "2064C",
+            "name": "Remove the Ends",
+            "verdict": "OK",
+            "creationTime": 1739732568
+          },
+          {
+            "platform": "codeforces",
+            "id": 306446863,
+            "pid": "2064E",
+            "name": "Mycraft Sand Sort",
+            "verdict": "OK",
+            "creationTime": 1739732223
+          },
+          {
+            "platform": "codeforces",
+            "id": 306446217,
+            "pid": "2064D",
+            "name": "Eating",
+            "verdict": "OK",
+            "creationTime": 1739731874
+          },
+          {
+            "platform": "codeforces",
+            "id": 306438913,
+            "pid": "2064F",
+            "name": "We Be Summing",
+            "verdict": "OK",
+            "creationTime": 1739728375
+          },
+          {
+            "platform": "codeforces",
+            "id": 306438712,
+            "pid": "2064F",
+            "name": "We Be Summing",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1739728278
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "fc6dc83d50bd757008faea90cf287ec4c68aa76e"
+  "ref": "92f4ec94e22baba6fb65412c51d67f19158e9848"
 }
