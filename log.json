@@ -1,9 +1,48 @@
 {
   "version": "0.1.29",
-  "updateTime": 1739857090,
+  "updateTime": 1739900164,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 306771227,
+            "pid": "2069D",
+            "name": "Palindrome Shuffle",
+            "verdict": "OK",
+            "creationTime": 1739899927
+          },
+          {
+            "platform": "codeforces",
+            "id": 306771041,
+            "pid": "2069D",
+            "name": "Palindrome Shuffle",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1739899850
+          },
+          {
+            "platform": "codeforces",
+            "id": 306770110,
+            "pid": "2069E",
+            "name": "A, B, AB and BA",
+            "verdict": "OK",
+            "creationTime": 1739899466
+          },
+          {
+            "platform": "codeforces",
+            "id": 306767279,
+            "pid": "2069F",
+            "name": "Graph Inclusion",
+            "verdict": "OK",
+            "creationTime": 1739898409
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "2f482e4856b0411865c8469861af15872bf60ee1"
+  "ref": "d5491d26a962e22d79cdf9c429265d27d4575766"
 }
