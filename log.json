@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1739900164,
+  "updateTime": 1739943430,
   "history": {
     "user": [
       {
@@ -8,35 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 306771227,
-            "pid": "2069D",
-            "name": "Palindrome Shuffle",
+            "id": 306772621,
+            "pid": "2069A",
+            "name": "Was there an Array?",
             "verdict": "OK",
-            "creationTime": 1739899927
+            "creationTime": 1739900482
           },
           {
             "platform": "codeforces",
-            "id": 306771041,
-            "pid": "2069D",
-            "name": "Palindrome Shuffle",
+            "id": 306772221,
+            "pid": "2069B",
+            "name": "Set of Strangers",
+            "verdict": "OK",
+            "creationTime": 1739900343
+          },
+          {
+            "platform": "codeforces",
+            "id": 306772141,
+            "pid": "2069B",
+            "name": "Set of Strangers",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1739899850
+            "creationTime": 1739900309
           },
           {
             "platform": "codeforces",
-            "id": 306770110,
-            "pid": "2069E",
-            "name": "A, B, AB and BA",
+            "id": 306771749,
+            "pid": "2069C",
+            "name": "Beautiful Sequence",
             "verdict": "OK",
-            "creationTime": 1739899466
-          },
-          {
-            "platform": "codeforces",
-            "id": 306767279,
-            "pid": "2069F",
-            "name": "Graph Inclusion",
-            "verdict": "OK",
-            "creationTime": 1739898409
+            "creationTime": 1739900151
           }
         ],
         "newContests": []
@@ -44,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "d5491d26a962e22d79cdf9c429265d27d4575766"
+  "ref": "82a2a758cc06d2a855a30dea0d4ceebf4e13e909"
 }
