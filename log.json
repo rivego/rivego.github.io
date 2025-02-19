@@ -1,48 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1739943430,
+  "updateTime": 1739986607,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 306772621,
-            "pid": "2069A",
-            "name": "Was there an Array?",
-            "verdict": "OK",
-            "creationTime": 1739900482
-          },
-          {
-            "platform": "codeforces",
-            "id": 306772221,
-            "pid": "2069B",
-            "name": "Set of Strangers",
-            "verdict": "OK",
-            "creationTime": 1739900343
-          },
-          {
-            "platform": "codeforces",
-            "id": 306772141,
-            "pid": "2069B",
-            "name": "Set of Strangers",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1739900309
-          },
-          {
-            "platform": "codeforces",
-            "id": 306771749,
-            "pid": "2069C",
-            "name": "Beautiful Sequence",
-            "verdict": "OK",
-            "creationTime": 1739900151
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "82a2a758cc06d2a855a30dea0d4ceebf4e13e909"
+  "ref": "ae6a7ae67999b46d76af736d57f84a7600241111"
 }
