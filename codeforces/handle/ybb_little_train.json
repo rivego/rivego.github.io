@@ -279,6 +279,7 @@
         "type": "codeforces",
         "id": "2059A",
         "name": "Milya and Two Arrays",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
