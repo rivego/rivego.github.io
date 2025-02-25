@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2067A",
         "name": "Adjacent Digit Sums",
+        "rating": 800,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "2067A",
         "name": "Adjacent Digit Sums",
+        "rating": 800,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "2065E",
         "name": "Skibidus and Rizz",
+        "rating": 1600,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -99,6 +102,7 @@
         "type": "codeforces",
         "id": "2065D",
         "name": "Skibidus and Sigma",
+        "rating": 1200,
         "tags": [
           "greedy",
           "sortings"
@@ -124,6 +128,7 @@
         "type": "codeforces",
         "id": "2065C2",
         "name": "Skibidus and Fanum Tax (hard version)",
+        "rating": 1300,
         "tags": [
           "binary search",
           "greedy"
@@ -149,6 +154,7 @@
         "type": "codeforces",
         "id": "2065C1",
         "name": "Skibidus and Fanum Tax (easy version)",
+        "rating": 1100,
         "tags": [
           "binary search",
           "dp",
@@ -175,6 +181,7 @@
         "type": "codeforces",
         "id": "2065C1",
         "name": "Skibidus and Fanum Tax (easy version)",
+        "rating": 1100,
         "tags": [
           "binary search",
           "dp",
@@ -201,6 +208,7 @@
         "type": "codeforces",
         "id": "2065C1",
         "name": "Skibidus and Fanum Tax (easy version)",
+        "rating": 1100,
         "tags": [
           "binary search",
           "dp",
@@ -227,6 +235,7 @@
         "type": "codeforces",
         "id": "2065B",
         "name": "Skibidus and Ohio",
+        "rating": 800,
         "tags": [
           "strings"
         ],
@@ -251,6 +260,7 @@
         "type": "codeforces",
         "id": "2065A",
         "name": "Skibidus and Amog'u",
+        "rating": 800,
         "tags": [
           "brute force",
           "constructive algorithms",
