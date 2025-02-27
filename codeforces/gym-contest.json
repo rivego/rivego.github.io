@@ -22811,6 +22811,16 @@
     "standingsUrl": "https://codeforces.com/gym/105728/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Олимпиада 1С 2025, предметный тур",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105739,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105739",
+    "standingsUrl": "https://codeforces.com/gym/105739/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "UTPC Contest 2-26-25 Div. 1 (Advanced)",
     "startTime": 1740614400,

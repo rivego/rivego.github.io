@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1740634703,
+  "updateTime": 1740677823,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 308135086,
+            "pid": "2070F",
+            "name": "Friends and Pizza",
+            "verdict": "OK",
+            "creationTime": 1740669813
+          },
+          {
+            "platform": "codeforces",
+            "id": 308119993,
+            "pid": "2070E",
+            "name": "Game with Binary String",
+            "verdict": "OK",
+            "creationTime": 1740668566
+          },
+          {
+            "platform": "codeforces",
+            "id": 308109896,
+            "pid": "2070C",
+            "name": "Limited Repainting",
+            "verdict": "OK",
+            "creationTime": 1740667940
+          },
+          {
+            "platform": "codeforces",
+            "id": 308108885,
+            "pid": "2070D",
+            "name": "Tree Jumps",
+            "verdict": "OK",
+            "creationTime": 1740667886
+          },
+          {
+            "platform": "codeforces",
+            "id": 308104338,
+            "pid": "2070C",
+            "name": "Limited Repainting",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1740667655
+          },
+          {
+            "platform": "codeforces",
+            "id": 308096114,
+            "pid": "2070B",
+            "name": "Robot Program",
+            "verdict": "OK",
+            "creationTime": 1740667274
+          },
+          {
+            "platform": "codeforces",
+            "id": 308091721,
+            "pid": "2070A",
+            "name": "FizzBuzz Remixed",
+            "verdict": "OK",
+            "creationTime": 1740667053
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "695a3072ef9a81d9f9f69055cbebc72374bcb780"
+  "ref": "0e689beb20d22fcad1709a04cb9c7b48b722bd22"
 }
