@@ -6,6 +6,58 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 308210466,
+      "creationTime": 1740700766,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -406782881
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "95D",
+        "name": "Horse Races",
+        "rating": 2500,
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/95/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/95/submission/308210466"
+    },
+    {
+      "type": "codeforces",
+      "id": 308208534,
+      "creationTime": 1740697477,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -406786170
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "53E",
+        "name": "Dead Ends",
+        "rating": 2500,
+        "tags": [
+          "bitmasks",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/53/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/53/submission/308208534"
+    },
+    {
+      "type": "codeforces",
       "id": 307685211,
       "creationTime": 1740494524,
       "language": "C++20 (GCC 13-64)",

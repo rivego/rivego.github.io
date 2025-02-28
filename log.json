@@ -1,66 +1,26 @@
 {
   "version": "0.1.29",
-  "updateTime": 1740677823,
+  "updateTime": 1740721124,
   "history": {
     "user": [
       {
-        "name": "jiangly",
+        "name": "tourist",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 308135086,
-            "pid": "2070F",
-            "name": "Friends and Pizza",
-            "verdict": "OK",
-            "creationTime": 1740669813
+            "id": 308210466,
+            "pid": "95D",
+            "name": "Horse Races",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1740700766
           },
           {
             "platform": "codeforces",
-            "id": 308119993,
-            "pid": "2070E",
-            "name": "Game with Binary String",
-            "verdict": "OK",
-            "creationTime": 1740668566
-          },
-          {
-            "platform": "codeforces",
-            "id": 308109896,
-            "pid": "2070C",
-            "name": "Limited Repainting",
-            "verdict": "OK",
-            "creationTime": 1740667940
-          },
-          {
-            "platform": "codeforces",
-            "id": 308108885,
-            "pid": "2070D",
-            "name": "Tree Jumps",
-            "verdict": "OK",
-            "creationTime": 1740667886
-          },
-          {
-            "platform": "codeforces",
-            "id": 308104338,
-            "pid": "2070C",
-            "name": "Limited Repainting",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1740667655
-          },
-          {
-            "platform": "codeforces",
-            "id": 308096114,
-            "pid": "2070B",
-            "name": "Robot Program",
-            "verdict": "OK",
-            "creationTime": 1740667274
-          },
-          {
-            "platform": "codeforces",
-            "id": 308091721,
-            "pid": "2070A",
-            "name": "FizzBuzz Remixed",
-            "verdict": "OK",
-            "creationTime": 1740667053
+            "id": 308208534,
+            "pid": "53E",
+            "name": "Dead Ends",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1740697477
           }
         ],
         "newContests": []
@@ -68,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "0e689beb20d22fcad1709a04cb9c7b48b722bd22"
+  "ref": "a38e44c838d2b7ca61eddb8654fb452e2aa62840"
 }
