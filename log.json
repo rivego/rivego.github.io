@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1740721124,
+  "updateTime": 1740764279,
   "history": {
     "user": [
       {
@@ -8,19 +8,169 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 308210466,
-            "pid": "95D",
-            "name": "Horse Races",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1740700766
+            "id": 308389071,
+            "pid": "2071F",
+            "name": "Towering Arrays",
+            "verdict": "TESTING",
+            "creationTime": 1740764141
           },
           {
             "platform": "codeforces",
-            "id": 308208534,
-            "pid": "53E",
-            "name": "Dead Ends",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1740697477
+            "id": 308384300,
+            "pid": "2071F",
+            "name": "Towering Arrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1740761406
+          },
+          {
+            "platform": "codeforces",
+            "id": 308382770,
+            "pid": "2071F",
+            "name": "Towering Arrays",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1740761235
+          },
+          {
+            "platform": "codeforces",
+            "id": 308362984,
+            "pid": "2071D2",
+            "name": "Infinite Sequence (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1740758309
+          },
+          {
+            "platform": "codeforces",
+            "id": 308348225,
+            "pid": "2071D1",
+            "name": "Infinite Sequence (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1740756790
+          },
+          {
+            "platform": "codeforces",
+            "id": 308336718,
+            "pid": "2071D1",
+            "name": "Infinite Sequence (Easy Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1740755838
+          },
+          {
+            "platform": "codeforces",
+            "id": 308321804,
+            "pid": "2071E",
+            "name": "LeaFall",
+            "verdict": "OK",
+            "creationTime": 1740754862
+          },
+          {
+            "platform": "codeforces",
+            "id": 308304806,
+            "pid": "2071C",
+            "name": "Trapmigiano Reggiano",
+            "verdict": "OK",
+            "creationTime": 1740753946
+          },
+          {
+            "platform": "codeforces",
+            "id": 308299965,
+            "pid": "2071B",
+            "name": "Perfecto",
+            "verdict": "OK",
+            "creationTime": 1740753725
+          },
+          {
+            "platform": "codeforces",
+            "id": 308296034,
+            "pid": "2071B",
+            "name": "Perfecto",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1740753561
+          },
+          {
+            "platform": "codeforces",
+            "id": 308293214,
+            "pid": "2071B",
+            "name": "Perfecto",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1740753422
+          },
+          {
+            "platform": "codeforces",
+            "id": 308292700,
+            "pid": "2071A",
+            "name": "The Play Never Ends",
+            "verdict": "OK",
+            "creationTime": 1740753355
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 308369357,
+            "pid": "2071A",
+            "name": "The Play Never Ends",
+            "verdict": "OK",
+            "creationTime": 1740759155
+          },
+          {
+            "platform": "codeforces",
+            "id": 308368504,
+            "pid": "2071B",
+            "name": "Perfecto",
+            "verdict": "OK",
+            "creationTime": 1740759036
+          },
+          {
+            "platform": "codeforces",
+            "id": 308365904,
+            "pid": "2071B",
+            "name": "Perfecto",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1740758686
+          },
+          {
+            "platform": "codeforces",
+            "id": 308365332,
+            "pid": "2071C",
+            "name": "Trapmigiano Reggiano",
+            "verdict": "OK",
+            "creationTime": 1740758609
+          },
+          {
+            "platform": "codeforces",
+            "id": 308364106,
+            "pid": "2071D1",
+            "name": "Infinite Sequence (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1740758444
+          },
+          {
+            "platform": "codeforces",
+            "id": 308363918,
+            "pid": "2071D2",
+            "name": "Infinite Sequence (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1740758419
+          },
+          {
+            "platform": "codeforces",
+            "id": 308348146,
+            "pid": "2071E",
+            "name": "LeaFall",
+            "verdict": "OK",
+            "creationTime": 1740756784
+          },
+          {
+            "platform": "codeforces",
+            "id": 308333069,
+            "pid": "2071F",
+            "name": "Towering Arrays",
+            "verdict": "OK",
+            "creationTime": 1740755581
           }
         ],
         "newContests": []
@@ -28,5 +178,5 @@
     ],
     "contest": []
   },
-  "ref": "a38e44c838d2b7ca61eddb8654fb452e2aa62840"
+  "ref": "e4bdaa70dd98a4ac8242dbeebbe8ba18d32ea738"
 }
