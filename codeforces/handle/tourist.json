@@ -6,10 +6,60 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 308390262,
+      "creationTime": 1740764615,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -406719032
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071F",
+        "name": "Towering Arrays",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308390262"
+    },
+    {
+      "type": "codeforces",
+      "id": 308389425,
+      "creationTime": 1740764280,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -406719367
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071F",
+        "name": "Towering Arrays",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308389425"
+    },
+    {
+      "type": "codeforces",
       "id": 308389071,
       "creationTime": 1740764141,
       "language": "C++20 (GCC 13-64)",
-      "verdict": "TESTING",
+      "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
           "tourist"
@@ -98,6 +148,8 @@
         "name": "Infinite Sequence (Hard Version)",
         "tags": [
           "bitmasks",
+          "constructive algorithms",
+          "data structures",
           "dp",
           "implementation",
           "math"
@@ -177,6 +229,7 @@
         "name": "LeaFall",
         "tags": [
           "combinatorics",
+          "probabilities",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2071/problem/E"
@@ -202,7 +255,9 @@
         "name": "Trapmigiano Reggiano",
         "tags": [
           "constructive algorithms",
-          "dfs and similar"
+          "dfs and similar",
+          "sortings",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2071/problem/C"
       },
@@ -311,7 +366,6 @@
         "name": "The Play Never Ends",
         "tags": [
           "math",
-          "number theory",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2071/problem/A"
