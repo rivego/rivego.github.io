@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1740807375,
+  "updateTime": 1740850408,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 308390262,
-            "pid": "2071F",
-            "name": "Towering Arrays",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1740764615
-          },
-          {
-            "platform": "codeforces",
-            "id": 308389425,
-            "pid": "2071F",
-            "name": "Towering Arrays",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1740764280
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "bc057c6f0cd271b33631d0929a0a2c22cce46614"
+  "ref": "b79d4760f89baa34e6a0aa34b78905d807bf54de"
 }
