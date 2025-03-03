@@ -255,7 +255,8 @@
         "name": "Statues",
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2068/problem/H"
       },
@@ -358,6 +359,7 @@
         "tags": [
           "constructive algorithms",
           "graphs",
+          "greedy",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2068/problem/A"

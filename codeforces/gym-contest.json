@@ -22893,5 +22893,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105755",
     "standingsUrl": "https://codeforces.com/gym/105755/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Insomnia 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105757,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105757",
+    "standingsUrl": "https://codeforces.com/gym/105757/standings"
   }
 ]
