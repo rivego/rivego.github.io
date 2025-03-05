@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1741153104,
+  "updateTime": 1741196255,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 309045790,
+            "pid": "1095F",
+            "name": "Make It Connected",
+            "verdict": "OK",
+            "creationTime": 1741168736
+          },
+          {
+            "platform": "codeforces",
+            "id": 309045470,
+            "pid": "1095D",
+            "name": "Circular Dance",
+            "verdict": "OK",
+            "creationTime": 1741168572
+          },
+          {
+            "platform": "codeforces",
+            "id": 309045366,
+            "pid": "1095E",
+            "name": "Almost Regular Bracket Sequence",
+            "verdict": "OK",
+            "creationTime": 1741168504
+          },
+          {
+            "platform": "codeforces",
+            "id": 309044792,
+            "pid": "1095D",
+            "name": "Circular Dance",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1741168188
+          },
+          {
+            "platform": "codeforces",
+            "id": 309044528,
+            "pid": "1095C",
+            "name": "Powers Of Two",
+            "verdict": "OK",
+            "creationTime": 1741168040
+          },
+          {
+            "platform": "codeforces",
+            "id": 309044247,
+            "pid": "1095B",
+            "name": "Array Stabilization",
+            "verdict": "OK",
+            "creationTime": 1741167886
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "41a82161d91ad5537600da4e6c895035761e29f8"
+  "ref": "c2b94523f030d7b3bdd69132bb193b579b564e9b"
 }
