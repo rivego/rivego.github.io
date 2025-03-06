@@ -103,7 +103,6 @@
         "name": "Morse Code",
         "tags": [
           "dp",
-          "greedy",
           "sortings",
           "trees"
         ],
@@ -597,7 +596,6 @@
         "name": "LeaFall",
         "tags": [
           "combinatorics",
-          "dp",
           "probabilities",
           "trees"
         ],
