@@ -596,6 +596,7 @@
         "name": "LeaFall",
         "tags": [
           "combinatorics",
+          "dp",
           "probabilities",
           "trees"
         ],
