@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1741282606,
+  "updateTime": 1741325882,
   "history": {
     "user": [
       {
@@ -8,99 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 309247644,
-            "pid": "1092D2",
-            "name": "Great Vova Wall (Version 2)",
+            "id": 309248690,
+            "pid": "1092A",
+            "name": "Uniform String",
             "verdict": "OK",
-            "creationTime": 1741282567
+            "creationTime": 1741283097
           },
           {
             "platform": "codeforces",
-            "id": 309247063,
-            "pid": "1092D2",
-            "name": "Great Vova Wall (Version 2)",
+            "id": 309248564,
+            "pid": "1092C",
+            "name": "Prefixes and Suffixes",
+            "verdict": "OK",
+            "creationTime": 1741283025
+          },
+          {
+            "platform": "codeforces",
+            "id": 309248318,
+            "pid": "1092C",
+            "name": "Prefixes and Suffixes",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1741282266
+            "creationTime": 1741282899
           },
           {
             "platform": "codeforces",
-            "id": 309243825,
-            "pid": "1092E",
-            "name": "Minimal Diameter Forest",
+            "id": 309247781,
+            "pid": "1092D1",
+            "name": "Great Vova Wall (Version 1)",
             "verdict": "OK",
-            "creationTime": 1741280812
-          },
-          {
-            "platform": "codeforces",
-            "id": 309241887,
-            "pid": "1092F",
-            "name": "Tree with Maximum Cost",
-            "verdict": "OK",
-            "creationTime": 1741279860
-          },
-          {
-            "platform": "codeforces",
-            "id": 309218692,
-            "pid": "1097B",
-            "name": "Petr and a Combination Lock",
-            "verdict": "OK",
-            "creationTime": 1741269568
-          },
-          {
-            "platform": "codeforces",
-            "id": 309218462,
-            "pid": "1097C",
-            "name": "Yuhao and a Parenthesis",
-            "verdict": "OK",
-            "creationTime": 1741269473
-          },
-          {
-            "platform": "codeforces",
-            "id": 309218076,
-            "pid": "1097D",
-            "name": "Makoto and a Blackboard",
-            "verdict": "OK",
-            "creationTime": 1741269291
-          },
-          {
-            "platform": "codeforces",
-            "id": 309217307,
-            "pid": "1097E",
-            "name": "Egor and an RPG game",
-            "verdict": "OK",
-            "creationTime": 1741268968
-          },
-          {
-            "platform": "codeforces",
-            "id": 309216997,
-            "pid": "1097E",
-            "name": "Egor and an RPG game",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1741268842
-          },
-          {
-            "platform": "codeforces",
-            "id": 309212755,
-            "pid": "1097F",
-            "name": "Alex and a TV Show",
-            "verdict": "OK",
-            "creationTime": 1741267263
-          },
-          {
-            "platform": "codeforces",
-            "id": 309210511,
-            "pid": "1097G",
-            "name": "Vladislav and a Great Legend",
-            "verdict": "OK",
-            "creationTime": 1741266375
-          },
-          {
-            "platform": "codeforces",
-            "id": 309196162,
-            "pid": "1097H",
-            "name": "Mateusz and an Infinite Sequence",
-            "verdict": "OK",
-            "creationTime": 1741260430
+            "creationTime": 1741282633
           }
         ],
         "newContests": []
@@ -108,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "9978ecd382514eb576210e130ca383d226a906ad"
+  "ref": "3e0c91162d11feccb791e38f87f4b6f5db6b1b4e"
 }
