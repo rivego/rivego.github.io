@@ -1,48 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1741325882,
+  "updateTime": 1741368955,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 309248690,
-            "pid": "1092A",
-            "name": "Uniform String",
-            "verdict": "OK",
-            "creationTime": 1741283097
-          },
-          {
-            "platform": "codeforces",
-            "id": 309248564,
-            "pid": "1092C",
-            "name": "Prefixes and Suffixes",
-            "verdict": "OK",
-            "creationTime": 1741283025
-          },
-          {
-            "platform": "codeforces",
-            "id": 309248318,
-            "pid": "1092C",
-            "name": "Prefixes and Suffixes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1741282899
-          },
-          {
-            "platform": "codeforces",
-            "id": 309247781,
-            "pid": "1092D1",
-            "name": "Great Vova Wall (Version 1)",
-            "verdict": "OK",
-            "creationTime": 1741282633
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3e0c91162d11feccb791e38f87f4b6f5db6b1b4e"
+  "ref": "0b1f44610d1baf9d3cfe2d40978b3dce24358fbb"
 }
