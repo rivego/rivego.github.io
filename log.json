@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1741498369,
+  "updateTime": 1741541592,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 309325996,
+            "pid": "2079A",
+            "name": "Alice, Bob, And Two Arrays",
+            "verdict": "OK",
+            "creationTime": 1741342248
+          },
+          {
+            "platform": "codeforces",
+            "id": 309322564,
+            "pid": "2079A",
+            "name": "Alice, Bob, And Two Arrays",
+            "verdict": "PARTIAL",
+            "creationTime": 1741340321
+          },
+          {
+            "platform": "codeforces",
+            "id": 309322275,
+            "pid": "2079A",
+            "name": "Alice, Bob, And Two Arrays",
+            "verdict": "PARTIAL",
+            "creationTime": 1741340158
+          },
+          {
+            "platform": "codeforces",
+            "id": 309317578,
+            "pid": "2079C",
+            "name": "Dreaming Is Not Harmful",
+            "verdict": "OK",
+            "creationTime": 1741337590
+          },
+          {
+            "platform": "codeforces",
+            "id": 309315460,
+            "pid": "2079D",
+            "name": "Cute Subsequences",
+            "verdict": "OK",
+            "creationTime": 1741336479
+          },
+          {
+            "platform": "codeforces",
+            "id": 309314553,
+            "pid": "2079B",
+            "name": "Arithmetic Exercise",
+            "verdict": "OK",
+            "creationTime": 1741335999
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "d9e56bb8629c1e64b5ea8f3b6d766bf67b7396e0"
+  "ref": "ce98d82443a1176f1db51efbfa0a50a291f2fe82"
 }
