@@ -1,6 +1,17 @@
 [
   {
     "type": "codeforces/ioi",
+    "name": "XIX Open Olympiad in Informatics - Final Stage, Day 2 (Unrated, Online Mirror, IOI rules)",
+    "startTime": 1741593900,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 2080,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2080",
+    "standingsUrl": "https://codeforces.com/contest/2080/standings"
+  },
+  {
+    "type": "codeforces/ioi",
     "name": "XIX Open Olympiad in Informatics - Final Stage, Day 1 (Unrated, Online Mirror, IOI rules)",
     "startTime": 1741334700,
     "duration": 18000,
