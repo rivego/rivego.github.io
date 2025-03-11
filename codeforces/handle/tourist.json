@@ -219,6 +219,7 @@
         "name": "AND x OR",
         "tags": [
           "bitmasks",
+          "constructive algorithms",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/F"
@@ -244,6 +245,7 @@
         "name": "Maximum Polygon",
         "tags": [
           "brute force",
+          "data structures",
           "implementation",
           "math"
         ],
@@ -270,6 +272,7 @@
         "name": "Maximum Polygon",
         "tags": [
           "brute force",
+          "data structures",
           "implementation",
           "math"
         ],
@@ -296,7 +299,11 @@
         "name": "Another Folding Strip",
         "tags": [
           "combinatorics",
-          "divide and conquer"
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/E"
       },
@@ -323,6 +330,7 @@
           "combinatorics",
           "dp",
           "fft",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/C"
@@ -350,6 +358,7 @@
           "combinatorics",
           "dp",
           "fft",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/C"
@@ -375,6 +384,7 @@
         "name": "Finding OR Sum",
         "tags": [
           "bitmasks",
+          "constructive algorithms",
           "implementation",
           "interactive",
           "math"
@@ -135527,7 +135537,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3857,
+    "rating": 3799,
     "maxRank": "tourist",
     "maxRating": 4009
   }
