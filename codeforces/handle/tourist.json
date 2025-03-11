@@ -302,8 +302,7 @@
           "data structures",
           "divide and conquer",
           "dp",
-          "math",
-          "sortings"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/E"
       },
@@ -328,10 +327,11 @@
         "name": "Binary Subsequence Value Sum",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
           "fft",
-          "implementation",
-          "math"
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/C"
       },
@@ -356,10 +356,11 @@
         "name": "Binary Subsequence Value Sum",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
           "fft",
-          "implementation",
-          "math"
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/C"
       },

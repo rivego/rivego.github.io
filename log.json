@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1741671475,
+  "updateTime": 1741714683,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 310079405,
+            "pid": "2074G",
+            "name": "Game With Triangles: Season 2",
+            "verdict": "OK",
+            "creationTime": 1741707189
+          },
+          {
+            "platform": "codeforces",
+            "id": 310073939,
+            "pid": "2074F",
+            "name": "Counting Necessary Nodes",
+            "verdict": "OK",
+            "creationTime": 1741706882
+          },
+          {
+            "platform": "codeforces",
+            "id": 310055565,
+            "pid": "2074E",
+            "name": "Empty Triangle",
+            "verdict": "OK",
+            "creationTime": 1741705956
+          },
+          {
+            "platform": "codeforces",
+            "id": 310054007,
+            "pid": "2074E",
+            "name": "Empty Triangle",
+            "verdict": "IDLENESS_LIMIT_EXCEEDED",
+            "creationTime": 1741705883
+          },
+          {
+            "platform": "codeforces",
+            "id": 310047719,
+            "pid": "2074D",
+            "name": "Counting Points",
+            "verdict": "OK",
+            "creationTime": 1741705607
+          },
+          {
+            "platform": "codeforces",
+            "id": 310036315,
+            "pid": "2074C",
+            "name": "XOR and Triangle",
+            "verdict": "OK",
+            "creationTime": 1741705131
+          },
+          {
+            "platform": "codeforces",
+            "id": 310031111,
+            "pid": "2074B",
+            "name": "The Third Side",
+            "verdict": "OK",
+            "creationTime": 1741704922
+          },
+          {
+            "platform": "codeforces",
+            "id": 310029406,
+            "pid": "2074A",
+            "name": "Draw a Square",
+            "verdict": "OK",
+            "creationTime": 1741704854
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "d7f329496c95f6d76ded8795b36e2ddb40467540"
+  "ref": "da776da20e128a56127200561b9bebe3786f7369"
 }
