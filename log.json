@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1741801034,
+  "updateTime": 1741844313,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 309735146,
+            "pid": "2080D",
+            "name": "Order Statistics",
+            "verdict": "OK",
+            "creationTime": 1741602471
+          },
+          {
+            "platform": "codeforces",
+            "id": 309728654,
+            "pid": "2080A",
+            "name": "Strong Connectivity Strikes Back",
+            "verdict": "OK",
+            "creationTime": 1741598914
+          },
+          {
+            "platform": "codeforces",
+            "id": 309727316,
+            "pid": "2080A",
+            "name": "Strong Connectivity Strikes Back",
+            "verdict": "PARTIAL",
+            "creationTime": 1741598196
+          },
+          {
+            "platform": "codeforces",
+            "id": 309725539,
+            "pid": "2080A",
+            "name": "Strong Connectivity Strikes Back",
+            "verdict": "PARTIAL",
+            "creationTime": 1741597337
+          },
+          {
+            "platform": "codeforces",
+            "id": 309723562,
+            "pid": "2080C",
+            "name": "Card Flip",
+            "verdict": "OK",
+            "creationTime": 1741596306
+          },
+          {
+            "platform": "codeforces",
+            "id": 309722470,
+            "pid": "2080B",
+            "name": "Best Runner",
+            "verdict": "OK",
+            "creationTime": 1741595632
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b0d67b736f4561ea736aa57ecde22f2d66401f99"
+  "ref": "c4fb97b93b65840822cf3865c3bfb7a85d7d752b"
 }
