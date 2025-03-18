@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1742233041,
+  "updateTime": 1742276312,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 311151254,
-            "pid": "2075A",
-            "name": "To Zero",
-            "verdict": "OK",
-            "creationTime": 1742232802
-          },
-          {
-            "platform": "codeforces",
-            "id": 311150949,
-            "pid": "2075B",
-            "name": "Array Recoloring",
-            "verdict": "OK",
-            "creationTime": 1742232668
-          },
-          {
-            "platform": "codeforces",
-            "id": 311149640,
-            "pid": "2075C",
-            "name": "Two Colors",
-            "verdict": "OK",
-            "creationTime": 1742232153
-          },
-          {
-            "platform": "codeforces",
-            "id": 311149423,
-            "pid": "2075C",
-            "name": "Two Colors",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1742232073
-          },
-          {
-            "platform": "codeforces",
-            "id": 311148710,
-            "pid": "2075D",
-            "name": "Equalization",
-            "verdict": "OK",
-            "creationTime": 1742231798
-          },
-          {
-            "platform": "codeforces",
-            "id": 311147972,
-            "pid": "2075D",
-            "name": "Equalization",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1742231523
-          },
-          {
-            "platform": "codeforces",
-            "id": 311144746,
-            "pid": "2075E",
-            "name": "XOR Matrix",
-            "verdict": "OK",
-            "creationTime": 1742230548
-          },
-          {
-            "platform": "codeforces",
-            "id": 311137161,
-            "pid": "2075F",
-            "name": "Beautiful Sequence Returns",
-            "verdict": "OK",
-            "creationTime": 1742229149
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "f1a3c1828a257a6dc235aa01246d16976eda7b84"
+  "ref": "71bd9c70f2d34f6f30f69c230ea096b28e730d7f"
 }
