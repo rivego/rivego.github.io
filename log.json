@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1742621833,
+  "updateTime": 1742664823,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 311859252,
+            "pid": "2085F1",
+            "name": "Serval and Colorful Array (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1742657823
+          },
+          {
+            "platform": "codeforces",
+            "id": 311859049,
+            "pid": "2085F2",
+            "name": "Serval and Colorful Array (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1742657805
+          },
+          {
+            "platform": "codeforces",
+            "id": 311852333,
+            "pid": "2085E",
+            "name": "Serval and Modulo",
+            "verdict": "OK",
+            "creationTime": 1742657248
+          },
+          {
+            "platform": "codeforces",
+            "id": 311846274,
+            "pid": "2085D",
+            "name": "Serval and Kaitenzushi Buffet",
+            "verdict": "OK",
+            "creationTime": 1742656797
+          },
+          {
+            "platform": "codeforces",
+            "id": 311843782,
+            "pid": "2085C",
+            "name": "Serval and The Formula",
+            "verdict": "OK",
+            "creationTime": 1742656616
+          },
+          {
+            "platform": "codeforces",
+            "id": 311842673,
+            "pid": "2085B",
+            "name": "Serval and Final MEX",
+            "verdict": "OK",
+            "creationTime": 1742656540
+          },
+          {
+            "platform": "codeforces",
+            "id": 311840220,
+            "pid": "2085A",
+            "name": "Serval and String Theory",
+            "verdict": "OK",
+            "creationTime": 1742656368
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "53cc6ed38ebb994f9b7e7279bf33eb97869ee6ca"
+  "ref": "3a30fba84d960b29f63b98a642c35eeb2fbe75cd"
 }
