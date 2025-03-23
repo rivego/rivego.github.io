@@ -1,9 +1,126 @@
 {
   "version": "0.1.29",
-  "updateTime": 1742708213,
+  "updateTime": 1742751298,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 312026130,
+            "pid": "2089E",
+            "name": "Black Cat Collapse",
+            "verdict": "OK",
+            "creationTime": 1742716286
+          },
+          {
+            "platform": "codeforces",
+            "id": 312005425,
+            "pid": "2089D",
+            "name": "Conditional Operators",
+            "verdict": "OK",
+            "creationTime": 1742712995
+          },
+          {
+            "platform": "codeforces",
+            "id": 311991638,
+            "pid": "2089B1",
+            "name": "Canteen (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1742711067
+          },
+          {
+            "platform": "codeforces",
+            "id": 311991504,
+            "pid": "2089B2",
+            "name": "Canteen (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1742711048
+          },
+          {
+            "platform": "codeforces",
+            "id": 311986572,
+            "pid": "2089C2",
+            "name": "Key of Like (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1742710436
+          },
+          {
+            "platform": "codeforces",
+            "id": 311971941,
+            "pid": "2089C1",
+            "name": "Key of Like (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1742708933
+          },
+          {
+            "platform": "codeforces",
+            "id": 311962756,
+            "pid": "2089A",
+            "name": "Simple Permutation",
+            "verdict": "OK",
+            "creationTime": 1742708347
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 312027793,
+            "pid": "2089E",
+            "name": "Black Cat Collapse",
+            "verdict": "OK",
+            "creationTime": 1742716544
+          },
+          {
+            "platform": "codeforces",
+            "id": 311993140,
+            "pid": "2089C2",
+            "name": "Key of Like (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1742711264
+          },
+          {
+            "platform": "codeforces",
+            "id": 311983107,
+            "pid": "2089C1",
+            "name": "Key of Like (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1742710006
+          },
+          {
+            "platform": "codeforces",
+            "id": 311977257,
+            "pid": "2089B1",
+            "name": "Canteen (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1742709385
+          },
+          {
+            "platform": "codeforces",
+            "id": 311977008,
+            "pid": "2089B2",
+            "name": "Canteen (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1742709363
+          },
+          {
+            "platform": "codeforces",
+            "id": 311963536,
+            "pid": "2089A",
+            "name": "Simple Permutation",
+            "verdict": "OK",
+            "creationTime": 1742708387
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "52b9b9d6adc56ed9a5dc05f812e48e7df6e5e696"
+  "ref": "4efb8532833a95051d87e881a455c8fcc76e3043"
 }
