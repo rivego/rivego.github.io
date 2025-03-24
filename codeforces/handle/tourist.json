@@ -6,6 +6,50 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 312117803,
+      "creationTime": 1742760707,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -404722940
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089E",
+        "name": "Black Cat Collapse",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/312117803"
+    },
+    {
+      "type": "codeforces",
+      "id": 312117703,
+      "creationTime": 1742760627,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -404723020
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089E",
+        "name": "Black Cat Collapse",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/312117703"
+    },
+    {
+      "type": "codeforces",
       "id": 312026130,
       "creationTime": 1742716286,
       "language": "C++20 (GCC 13-64)",
@@ -70,9 +114,8 @@
         "tags": [
           "binary search",
           "data structures",
-          "dsu",
+          "flows",
           "greedy",
-          "implementation",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2089/problem/B1"
@@ -100,6 +143,7 @@
           "binary search",
           "data structures",
           "greedy",
+          "math",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2089/problem/B2"
