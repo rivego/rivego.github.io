@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1742794701,
+  "updateTime": 1742837915,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 312117803,
-            "pid": "2089E",
-            "name": "Black Cat Collapse",
-            "verdict": "OK",
-            "creationTime": 1742760707
-          },
-          {
-            "platform": "codeforces",
-            "id": 312117703,
-            "pid": "2089E",
-            "name": "Black Cat Collapse",
-            "verdict": "OK",
-            "creationTime": 1742760627
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5e29d95f457a0d01fec59d1986619e1e3b5bf3fd"
+  "ref": "660e3eca090d46b30dbcb1c4601e344f2c07171f"
 }
