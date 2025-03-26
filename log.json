@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1742924298,
+  "updateTime": 1742967542,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 312448138,
-            "pid": "2091G",
-            "name": "Gleb and Boating",
-            "verdict": "OK",
-            "creationTime": 1742919607
-          },
-          {
-            "platform": "codeforces",
-            "id": 312437986,
-            "pid": "2091F",
-            "name": "Igor and Mountain",
-            "verdict": "OK",
-            "creationTime": 1742918731
-          },
-          {
-            "platform": "codeforces",
-            "id": 312430861,
-            "pid": "2091E",
-            "name": "Interesting Ratio",
-            "verdict": "OK",
-            "creationTime": 1742918158
-          },
-          {
-            "platform": "codeforces",
-            "id": 312429055,
-            "pid": "2091D",
-            "name": "Place of the Olympiad",
-            "verdict": "OK",
-            "creationTime": 1742918027
-          },
-          {
-            "platform": "codeforces",
-            "id": 312426825,
-            "pid": "2091C",
-            "name": "Combination Lock",
-            "verdict": "OK",
-            "creationTime": 1742917864
-          },
-          {
-            "platform": "codeforces",
-            "id": 312423410,
-            "pid": "2091B",
-            "name": "Team Training",
-            "verdict": "OK",
-            "creationTime": 1742917629
-          },
-          {
-            "platform": "codeforces",
-            "id": 312421332,
-            "pid": "2091A",
-            "name": "Olympiad Date",
-            "verdict": "OK",
-            "creationTime": 1742917491
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "bdaf714c574779f628416436a48bd2c546151b79"
+  "ref": "f765cf5b24c39c4a76335921b01b0a546efc036f"
 }
