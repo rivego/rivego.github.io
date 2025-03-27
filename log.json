@@ -1,9 +1,23 @@
 {
   "version": "0.1.29",
-  "updateTime": 1743053915,
+  "updateTime": 1743096926,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 312699459,
+            "pid": "1552G",
+            "name": "A Serious Referee",
+            "creationTime": 1743089060
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "7f0e7ccf43553ca90659a57bdf898f37a990d77f"
+  "ref": "9acdd645b89655558d808993ba29da9d5b0208bc"
 }
