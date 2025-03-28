@@ -23073,6 +23073,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Coding Challenge Alpha VIII - by Algorave",
+    "startTime": 1743172200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105799,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105799",
+    "standingsUrl": "https://codeforces.com/gym/105799/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Cognitive Technologies 2024-2025. Final",
     "startTime": 1742715000,
     "duration": 14400,
