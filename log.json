@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1743226628,
+  "updateTime": 1743269672,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 313003254,
+            "pid": "2092F",
+            "name": "Andryusha and CCB",
+            "verdict": "OK",
+            "creationTime": 1743263298
+          },
+          {
+            "platform": "codeforces",
+            "id": 312997448,
+            "pid": "2092F",
+            "name": "Andryusha and CCB",
+            "verdict": "SKIPPED",
+            "creationTime": 1743262675
+          },
+          {
+            "platform": "codeforces",
+            "id": 312976369,
+            "pid": "2092D",
+            "name": "Mishkin Energizer",
+            "verdict": "OK",
+            "creationTime": 1743260741
+          },
+          {
+            "platform": "codeforces",
+            "id": 312972672,
+            "pid": "2092E",
+            "name": "She knows...",
+            "verdict": "OK",
+            "creationTime": 1743260454
+          },
+          {
+            "platform": "codeforces",
+            "id": 312969043,
+            "pid": "2092D",
+            "name": "Mishkin Energizer",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1743260198
+          },
+          {
+            "platform": "codeforces",
+            "id": 312959065,
+            "pid": "2092C",
+            "name": "Asuna and the Mosquitoes",
+            "verdict": "OK",
+            "creationTime": 1743259558
+          },
+          {
+            "platform": "codeforces",
+            "id": 312958910,
+            "pid": "2092B",
+            "name": "Lady Bug",
+            "verdict": "OK",
+            "creationTime": 1743259551
+          },
+          {
+            "platform": "codeforces",
+            "id": 312958605,
+            "pid": "2092A",
+            "name": "Kamilka and the Sheep",
+            "verdict": "OK",
+            "creationTime": 1743259537
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "713d6338a7c759fa4defc7b077fbe304f5677573"
+  "ref": "9b9aa524b85207e74c7c26e1f94db722c8b01560"
 }
