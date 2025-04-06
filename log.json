@@ -1,38 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1743917828,
+  "updateTime": 1743960979,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 314160492,
-            "pid": "2084H",
-            "name": "Turtle and Nediam 2",
-            "verdict": "OK",
-            "creationTime": 1743878576
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 314159109,
-            "pid": "2084H",
-            "name": "Turtle and Nediam 2",
-            "verdict": "OK",
-            "creationTime": 1743877961
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6b9ac0ca79a6cbae5058e904e94036ccc31f3dad"
+  "ref": "a8466eb49264d206aec57e5519db4a21b217766d"
 }

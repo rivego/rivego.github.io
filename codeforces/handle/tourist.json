@@ -95,8 +95,7 @@
         "name": "Wish Upon a Satellite (Easy Version)",
         "tags": [
           "dp",
-          "games",
-          "greedy"
+          "games"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/G1"
       },
@@ -146,7 +145,10 @@
         "id": "2084E",
         "name": "Blossom",
         "tags": [
+          "binary search",
+          "brute force",
           "combinatorics",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/E"
