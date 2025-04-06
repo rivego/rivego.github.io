@@ -23113,5 +23113,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105806",
     "standingsUrl": "https://codeforces.com/gym/105806/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TeamsCode Spring 2025 Novice Division",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105819,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105819",
+    "standingsUrl": "https://codeforces.com/gym/105819/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TeamsCode Spring 2025 Advanced Division",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105818,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105818",
+    "standingsUrl": "https://codeforces.com/gym/105818/standings"
   }
 ]

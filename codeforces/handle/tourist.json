@@ -6,6 +6,30 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 314160492,
+      "creationTime": 1743878576,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -403605071
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084H",
+        "name": "Turtle and Nediam 2",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314160492"
+    },
+    {
+      "type": "codeforces",
       "id": 314153931,
       "creationTime": 1743874360,
       "language": "C++20 (GCC 13-64)",
@@ -22,7 +46,6 @@
         "id": "2084H",
         "name": "Turtle and Nediam 2",
         "tags": [
-          "dp",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/H"
@@ -47,7 +70,6 @@
         "id": "2084H",
         "name": "Turtle and Nediam 2",
         "tags": [
-          "dp",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/H"
@@ -71,7 +93,11 @@
         "type": "codeforces",
         "id": "2084G1",
         "name": "Wish Upon a Satellite (Easy Version)",
-        "tags": [],
+        "tags": [
+          "dp",
+          "games",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/G1"
       },
       "submissionUrl": "https://codeforces.com/contest/2084/submission/314122753"
@@ -93,7 +119,11 @@
         "type": "codeforces",
         "id": "2084F",
         "name": "Skyscape",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/2084/submission/314113301"
@@ -141,7 +171,10 @@
         "id": "2084D",
         "name": "Arcology On Permafrost",
         "tags": [
+          "binary search",
+          "brute force",
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/D"
@@ -166,7 +199,9 @@
         "id": "2084C",
         "name": "You Soared Afar With Grace",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/C"
       },
@@ -136037,7 +136072,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3892,
+    "rating": 3796,
     "maxRank": "tourist",
     "maxRating": 4009
   }
