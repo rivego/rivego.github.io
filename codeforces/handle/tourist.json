@@ -148,6 +148,8 @@
           "binary search",
           "brute force",
           "combinatorics",
+          "dp",
+          "fft",
           "implementation",
           "math"
         ],
@@ -228,7 +230,8 @@
         "name": "MIN = GCD",
         "tags": [
           "greedy",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/B"
       },
