@@ -405,6 +405,7 @@
         "tags": [
           "brute force",
           "combinatorics",
+          "dp",
           "implementation",
           "math"
         ],
