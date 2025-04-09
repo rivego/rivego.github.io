@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1744090734,
+  "updateTime": 1744177152,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 314598135,
+            "pid": "2093G",
+            "name": "Shorten the Array",
+            "verdict": "OK",
+            "creationTime": 1744126728
+          },
+          {
+            "platform": "codeforces",
+            "id": 314591651,
+            "pid": "2093F",
+            "name": "Hackers and Neural Networks",
+            "verdict": "OK",
+            "creationTime": 1744126362
+          },
+          {
+            "platform": "codeforces",
+            "id": 314585911,
+            "pid": "2093E",
+            "name": "Min Max MEX",
+            "verdict": "OK",
+            "creationTime": 1744126061
+          },
+          {
+            "platform": "codeforces",
+            "id": 314582824,
+            "pid": "2093D",
+            "name": "Skibidi Table",
+            "verdict": "OK",
+            "creationTime": 1744125901
+          },
+          {
+            "platform": "codeforces",
+            "id": 314575644,
+            "pid": "2093C",
+            "name": "Simple Repetition",
+            "verdict": "OK",
+            "creationTime": 1744125560
+          },
+          {
+            "platform": "codeforces",
+            "id": 314573320,
+            "pid": "2093B",
+            "name": "Expensive Number",
+            "verdict": "OK",
+            "creationTime": 1744125454
+          },
+          {
+            "platform": "codeforces",
+            "id": 314570634,
+            "pid": "2093A",
+            "name": "Ideal Generator",
+            "verdict": "OK",
+            "creationTime": 1744125339
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "a1293a3ecaf196bb426362bbc3453bb50b132b7a"
+  "ref": "db1c151a9e58f4ac5c2619e7cba1dab333bce258"
 }
