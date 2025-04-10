@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1744263561,
+  "updateTime": 1744306654,
   "history": {
     "user": [
       {
@@ -8,19 +8,115 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 314834360,
-            "pid": "1948E",
-            "name": "Clique Partition",
-            "verdict": "TESTING",
-            "creationTime": 1744263534
+            "id": 314847185,
+            "pid": "1737E",
+            "name": "Ela Goes Hiking",
+            "verdict": "OK",
+            "creationTime": 1744271004
           },
           {
             "platform": "codeforces",
-            "id": 314834037,
-            "pid": "1948E",
-            "name": "Clique Partition",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1744263300
+            "id": 314847171,
+            "pid": "1737E",
+            "name": "Ela Goes Hiking",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1744270995
+          },
+          {
+            "platform": "codeforces",
+            "id": 314841744,
+            "pid": "1952I",
+            "name": "Dark Matter",
+            "verdict": "OK",
+            "creationTime": 1744267916
+          },
+          {
+            "platform": "codeforces",
+            "id": 314841352,
+            "pid": "1952J",
+            "name": "Help, what does it mean to be \"Based\"",
+            "verdict": "OK",
+            "creationTime": 1744267726
+          },
+          {
+            "platform": "codeforces",
+            "id": 314839706,
+            "pid": "1952H",
+            "name": "Palindrome",
+            "verdict": "OK",
+            "creationTime": 1744266881
+          },
+          {
+            "platform": "codeforces",
+            "id": 314839299,
+            "pid": "1952G",
+            "name": "Mathematician Takeover",
+            "verdict": "OK",
+            "creationTime": 1744266646
+          },
+          {
+            "platform": "codeforces",
+            "id": 314839087,
+            "pid": "1952F",
+            "name": "Grid",
+            "verdict": "OK",
+            "creationTime": 1744266525
+          },
+          {
+            "platform": "codeforces",
+            "id": 314838653,
+            "pid": "1952E",
+            "name": "Sweep Line",
+            "verdict": "OK",
+            "creationTime": 1744266282
+          },
+          {
+            "platform": "codeforces",
+            "id": 314838082,
+            "pid": "1952D",
+            "name": "Are You a Procrastinator?",
+            "verdict": "OK",
+            "creationTime": 1744265949
+          },
+          {
+            "platform": "codeforces",
+            "id": 314837850,
+            "pid": "1952C",
+            "name": "They Have Fooled",
+            "verdict": "OK",
+            "creationTime": 1744265815
+          },
+          {
+            "platform": "codeforces",
+            "id": 314837290,
+            "pid": "1952B",
+            "name": "Is it stated?",
+            "verdict": "OK",
+            "creationTime": 1744265437
+          },
+          {
+            "platform": "codeforces",
+            "id": 314837152,
+            "pid": "1952A",
+            "name": "Are You a Robot, Again?",
+            "verdict": "OK",
+            "creationTime": 1744265359
+          },
+          {
+            "platform": "codeforces",
+            "id": 314835700,
+            "pid": "1948G",
+            "name": "MST with Matching",
+            "verdict": "OK",
+            "creationTime": 1744264464
+          },
+          {
+            "platform": "codeforces",
+            "id": 314835257,
+            "pid": "1948F",
+            "name": "Rare Coins",
+            "verdict": "OK",
+            "creationTime": 1744264167
           }
         ],
         "newContests": []
@@ -28,5 +124,5 @@
     ],
     "contest": []
   },
-  "ref": "ae543c34b4691de8df4a5963a7a0eda4029c1b5c"
+  "ref": "e418ebe41d1be1178d08ca5da3c15772c3ada0d8"
 }

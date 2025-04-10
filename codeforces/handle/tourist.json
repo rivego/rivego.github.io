@@ -403,11 +403,8 @@
         "id": "2084E",
         "name": "Blossom",
         "tags": [
-          "binary search",
-          "brute force",
           "combinatorics",
           "dp",
-          "fft",
           "implementation",
           "math"
         ],
