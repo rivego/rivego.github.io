@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1744220307,
+  "updateTime": 1744263561,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 314834360,
+            "pid": "1948E",
+            "name": "Clique Partition",
+            "verdict": "TESTING",
+            "creationTime": 1744263534
+          },
+          {
+            "platform": "codeforces",
+            "id": 314834037,
+            "pid": "1948E",
+            "name": "Clique Partition",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1744263300
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "603a9ecdb66d0c6b2a2cd2615d84311e1a5c284e"
+  "ref": "ae543c34b4691de8df4a5963a7a0eda4029c1b5c"
 }
