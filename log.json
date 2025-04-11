@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1744350046,
+  "updateTime": 1744392973,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 314954679,
-            "pid": "1737F",
-            "name": "Ela and Prime GCD",
-            "verdict": "OK",
-            "creationTime": 1744344891
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "1e619ce9a3251a6b3f5b29843b00b8d208232af2"
+  "ref": "ac92bef92a4da43bf2cc5adc5d6ca7666302c239"
 }
