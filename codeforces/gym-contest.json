@@ -23159,6 +23159,17 @@
     "standingsUrl": "https://codeforces.com/gym/105811/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "Rutgers University Programming Contest Spring 2025",
+    "startTime": 1744565400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105813,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105813",
+    "standingsUrl": "https://codeforces.com/gym/105813/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "TeamsCode Spring 2025 Novice Division",
     "duration": 10800,

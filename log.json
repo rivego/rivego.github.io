@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1744565758,
+  "updateTime": 1744609195,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 315444283,
-            "pid": "2094A",
-            "name": "Trippi Troppi",
-            "verdict": "OK",
-            "creationTime": 1744563906
-          },
-          {
-            "platform": "codeforces",
-            "id": 315442330,
-            "pid": "2094B",
-            "name": "Bobritto Bandito",
-            "verdict": "OK",
-            "creationTime": 1744563782
-          },
-          {
-            "platform": "codeforces",
-            "id": 315440728,
-            "pid": "2094C",
-            "name": "Brr Brrr Patapim",
-            "verdict": "OK",
-            "creationTime": 1744563685
-          },
-          {
-            "platform": "codeforces",
-            "id": 315438536,
-            "pid": "2094D",
-            "name": "Tung Tung Sahur",
-            "verdict": "OK",
-            "creationTime": 1744563552
-          },
-          {
-            "platform": "codeforces",
-            "id": 315434691,
-            "pid": "2094E",
-            "name": "Boneca Ambalabu",
-            "verdict": "OK",
-            "creationTime": 1744563328
-          },
-          {
-            "platform": "codeforces",
-            "id": 315429706,
-            "pid": "2094F",
-            "name": "Trulimero Trulicina",
-            "verdict": "OK",
-            "creationTime": 1744563041
-          },
-          {
-            "platform": "codeforces",
-            "id": 315424486,
-            "pid": "2094G",
-            "name": "Chimpanzini Bananini",
-            "verdict": "OK",
-            "creationTime": 1744562747
-          },
-          {
-            "platform": "codeforces",
-            "id": 315417535,
-            "pid": "2094H",
-            "name": "La Vaca Saturno Saturnita",
-            "verdict": "OK",
-            "creationTime": 1744562358
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "135bb6db303bc134805a445813b0e61cf585d151"
+  "ref": "537e5e27781546d0f024a70f225f6612c680c776"
 }
