@@ -23231,6 +23231,17 @@
     "standingsUrl": "https://codeforces.com/gym/105831/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "NUS CS3233 Final Team Contest 2025",
+    "startTime": 1744622100,
+    "duration": 20700,
+    "participantNumber": 0,
+    "id": 105833,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105833",
+    "standingsUrl": "https://codeforces.com/gym/105833/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "MITIT Spring 2025 Qualification Round 2",
     "duration": 9000,
