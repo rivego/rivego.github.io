@@ -154,8 +154,6 @@
         "id": "2096D",
         "name": "Wonderful Lightbulbs",
         "tags": [
-          "bitmasks",
-          "brute force",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2096/problem/D"
@@ -180,6 +178,7 @@
         "id": "2096C",
         "name": "Wonderful City",
         "tags": [
+          "data structures",
           "dp",
           "implementation"
         ],
