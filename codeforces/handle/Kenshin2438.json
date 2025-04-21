@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 316495256,
+      "creationTime": 1745233683,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -402249964
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1881D",
+        "name": "Divide and Equalize",
+        "rating": 1300,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1881/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1881/submission/316495256"
+    },
+    {
+      "type": "codeforces",
       "id": 284858849,
       "creationTime": 1728356070,
       "language": "C++23 (GCC 14-64, msys2)",

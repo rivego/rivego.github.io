@@ -1,9 +1,78 @@
 {
   "version": "0.1.29",
-  "updateTime": 1745214144,
+  "updateTime": 1745257120,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "Kenshin2438",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 316495256,
+            "pid": "1881D",
+            "name": "Divide and Equalize",
+            "verdict": "OK",
+            "creationTime": 1745233683
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 316578902,
+            "pid": "2103A",
+            "name": "Common Multiple",
+            "verdict": "OK",
+            "creationTime": 1745251483
+          },
+          {
+            "platform": "codeforces",
+            "id": 316578278,
+            "pid": "2103B",
+            "name": "Binary Typewriter",
+            "verdict": "OK",
+            "creationTime": 1745251398
+          },
+          {
+            "platform": "codeforces",
+            "id": 316577345,
+            "pid": "2103C",
+            "name": "Median Splits",
+            "verdict": "OK",
+            "creationTime": 1745251267
+          },
+          {
+            "platform": "codeforces",
+            "id": 316574191,
+            "pid": "2103D",
+            "name": "Local Construction",
+            "verdict": "OK",
+            "creationTime": 1745250814
+          },
+          {
+            "platform": "codeforces",
+            "id": 316571141,
+            "pid": "2103E",
+            "name": "Keep the Sum",
+            "verdict": "OK",
+            "creationTime": 1745250423
+          },
+          {
+            "platform": "codeforces",
+            "id": 316560507,
+            "pid": "2103F",
+            "name": "Maximize Nor",
+            "verdict": "OK",
+            "creationTime": 1745249151
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "88aff6cb4dac0fb523a4b4a863fc31f8cdaa546d"
+  "ref": "df98118dee07430315331d16ddd771f571f369cf"
 }

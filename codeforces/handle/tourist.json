@@ -154,6 +154,7 @@
         "id": "2096D",
         "name": "Wonderful Lightbulbs",
         "tags": [
+          "bitmasks",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2096/problem/D"
