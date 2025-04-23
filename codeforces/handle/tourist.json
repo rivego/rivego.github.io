@@ -185,7 +185,6 @@
         "name": "Wonderful City",
         "rating": 1700,
         "tags": [
-          "data structures",
           "dp",
           "implementation"
         ],
