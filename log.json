@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1745819404,
+  "updateTime": 1745861863,
   "history": {
     "user": [
       {
@@ -8,11 +8,59 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 317532558,
-            "pid": "1442F",
-            "name": "Differentiating Games",
+            "id": 317629578,
+            "pid": "2104A",
+            "name": "Three Decks",
             "verdict": "OK",
-            "creationTime": 1745814804
+            "creationTime": 1745854926
+          },
+          {
+            "platform": "codeforces",
+            "id": 317629001,
+            "pid": "2104B",
+            "name": "Move to the End",
+            "verdict": "OK",
+            "creationTime": 1745854857
+          },
+          {
+            "platform": "codeforces",
+            "id": 317628135,
+            "pid": "2104C",
+            "name": "Card Game",
+            "verdict": "OK",
+            "creationTime": 1745854745
+          },
+          {
+            "platform": "codeforces",
+            "id": 317625926,
+            "pid": "2104D",
+            "name": "Array and GCD",
+            "verdict": "OK",
+            "creationTime": 1745854481
+          },
+          {
+            "platform": "codeforces",
+            "id": 317624447,
+            "pid": "2104E",
+            "name": "Unpleasant Strings",
+            "verdict": "OK",
+            "creationTime": 1745854306
+          },
+          {
+            "platform": "codeforces",
+            "id": 317622626,
+            "pid": "2104F",
+            "name": "Numbers and Strings",
+            "verdict": "OK",
+            "creationTime": 1745854096
+          },
+          {
+            "platform": "codeforces",
+            "id": 317603575,
+            "pid": "2104G",
+            "name": "Modulo 3",
+            "verdict": "OK",
+            "creationTime": 1745852222
           }
         ],
         "newContests": []
@@ -20,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "25f8f98759f880cb927e808cd7ff0341d02e8c84"
+  "ref": "02ef5c7ee86a5af81392835dc5c9ed649acacb21"
 }
