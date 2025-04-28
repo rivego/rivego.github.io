@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1745775347,
+  "updateTime": 1745819404,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 317532558,
+            "pid": "1442F",
+            "name": "Differentiating Games",
+            "verdict": "OK",
+            "creationTime": 1745814804
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e84914dcefda0f4ff5be587eab33cbb76ed854c6"
+  "ref": "25f8f98759f880cb927e808cd7ff0341d02e8c84"
 }
