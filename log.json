@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1746121072,
+  "updateTime": 1746164407,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 318006136,
-            "pid": "2108A",
-            "name": "Permutation Warm-Up",
-            "verdict": "OK",
-            "creationTime": 1746116131
-          },
-          {
-            "platform": "codeforces",
-            "id": 318005108,
-            "pid": "2108B",
-            "name": "SUMdamental Decomposition",
-            "verdict": "OK",
-            "creationTime": 1746115988
-          },
-          {
-            "platform": "codeforces",
-            "id": 318002634,
-            "pid": "2108C",
-            "name": "Neo's Escape",
-            "verdict": "OK",
-            "creationTime": 1746115636
-          },
-          {
-            "platform": "codeforces",
-            "id": 318000771,
-            "pid": "2108D",
-            "name": "Needle in a Numstack",
-            "verdict": "OK",
-            "creationTime": 1746115372
-          },
-          {
-            "platform": "codeforces",
-            "id": 317995507,
-            "pid": "2108E",
-            "name": "Spruce Dispute",
-            "verdict": "OK",
-            "creationTime": 1746114628
-          },
-          {
-            "platform": "codeforces",
-            "id": 317991753,
-            "pid": "2108F",
-            "name": "Fallen Towers",
-            "verdict": "OK",
-            "creationTime": 1746114091
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "eafc42dc52ab348e0c818b6247008f3062ea13bc"
+  "ref": "95e01be4e3b260e9754383b6e30fb5c867689833"
 }
