@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1746510023,
+  "updateTime": 1746553114,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 318610725,
+            "pid": "2107A",
+            "name": "LRC and VIP",
+            "verdict": "OK",
+            "creationTime": 1746528995
+          },
+          {
+            "platform": "codeforces",
+            "id": 318610553,
+            "pid": "2107B",
+            "name": "Apples in Boxes",
+            "verdict": "OK",
+            "creationTime": 1746528887
+          },
+          {
+            "platform": "codeforces",
+            "id": 318610118,
+            "pid": "2107C",
+            "name": "Maximum Subarray Sum",
+            "verdict": "OK",
+            "creationTime": 1746528655
+          },
+          {
+            "platform": "codeforces",
+            "id": 318609473,
+            "pid": "2107D",
+            "name": "Apple Tree Traversing",
+            "verdict": "OK",
+            "creationTime": 1746528297
+          },
+          {
+            "platform": "codeforces",
+            "id": 318607190,
+            "pid": "2107E",
+            "name": "Ain and Apple Tree",
+            "verdict": "OK",
+            "creationTime": 1746526807
+          },
+          {
+            "platform": "codeforces",
+            "id": 318606383,
+            "pid": "2107F1",
+            "name": "Cycling (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1746526282
+          },
+          {
+            "platform": "codeforces",
+            "id": 318606108,
+            "pid": "2107F2",
+            "name": "Cycling (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1746526091
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "bd28ab7a7b5631e53af099270ca42dc850230681"
+  "ref": "9f303512da348549f51130beeb95c23ab1e48b90"
 }
