@@ -3,7 +3,7 @@
 [![version](https://img.shields.io/npm/v/@cpany/cli?color=rgb%2850%2C203%2C86%29&label=CPany)](https://www.npmjs.com/package/@cpany/cli)
 
 <!-- START_SECTION: update_time -->
-更新时间：[2025-05-11 13:40](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fetch+data&iso=202505111746942012000134012&p1=237)
+更新时间：[2025-05-12 01:35](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fetch+data&iso=202505121746984925000013525&p1=237)
 <!-- END_SECTION: update_time -->
 
 ![members](./screenshot.png)
