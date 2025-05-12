@@ -50,8 +50,8 @@
         "tags": [
           "data structures",
           "dp",
-          "graphs",
-          "greedy"
+          "greedy",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/E"
       },
@@ -77,8 +77,8 @@
         "tags": [
           "data structures",
           "dp",
-          "graphs",
-          "greedy"
+          "greedy",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/E"
       },
@@ -132,6 +132,7 @@
         "tags": [
           "data structures",
           "implementation",
+          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/D"
@@ -136991,7 +136992,7 @@
     }
   ],
   "codeforces": {
-    "rank": "legendary grandmaster",
+    "rank": "легендарный гроссмейстер",
     "rating": 3843,
     "maxRank": "tourist",
     "maxRating": 4009
