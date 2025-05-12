@@ -9,6 +9,7 @@
       "id": 319281731,
       "creationTime": 1746981408,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -34,6 +35,7 @@
       "id": 319271887,
       "creationTime": 1746979693,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -48,6 +50,7 @@
         "tags": [
           "data structures",
           "dp",
+          "graphs",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/E"
@@ -74,6 +77,7 @@
         "tags": [
           "data structures",
           "dp",
+          "graphs",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/E"
@@ -98,7 +102,10 @@
         "id": "2101C",
         "name": "23 Kingdom",
         "tags": [
+          "binary search",
+          "data structures",
           "greedy",
+          "ternary search",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/C"
@@ -123,7 +130,9 @@
         "id": "2101D",
         "name": "Mani and Segments",
         "tags": [
-          "data structures"
+          "data structures",
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/D"
       },
@@ -148,7 +157,8 @@
         "name": "Quartet Swapping",
         "tags": [
           "data structures",
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/B"
       },
@@ -172,7 +182,8 @@
         "id": "2101A",
         "name": "Mex in the Grid",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/A"
       },
@@ -136981,7 +136992,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3850,
+    "rating": 3843,
     "maxRank": "tourist",
     "maxRating": 4009
   }
