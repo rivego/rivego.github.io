@@ -158,6 +158,7 @@
         "id": "2101B",
         "name": "Quartet Swapping",
         "tags": [
+          "brute force",
           "data structures",
           "divide and conquer",
           "greedy",

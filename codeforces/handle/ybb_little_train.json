@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 319658298,
+      "creationTime": 1747233515,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -400250132
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2107A",
+        "name": "LRC and VIP",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2107/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2107/submission/319658298"
+    },
+    {
+      "type": "codeforces",
       "id": 305886653,
       "creationTime": 1739417679,
       "language": "C++20 (GCC 13-64)",
