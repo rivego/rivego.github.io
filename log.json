@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1747244337,
+  "updateTime": 1747287628,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 319658298,
-            "pid": "2107A",
-            "name": "LRC and VIP",
-            "verdict": "OK",
-            "creationTime": 1747233515
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "cd77ffe71a65ea9c8c966a27f3e049ecdfeb1b21"
+  "ref": "9b7e26bc85d8a86ef96ca42cb56940ed45bd1351"
 }
