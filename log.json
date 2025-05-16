@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1747330714,
+  "updateTime": 1747374037,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 319789317,
-            "pid": "2102B",
-            "name": "The Picky Cat",
-            "verdict": "OK",
-            "creationTime": 1747321623
-          },
-          {
-            "platform": "codeforces",
-            "id": 319788861,
-            "pid": "2102A",
-            "name": "Dinner Time",
-            "verdict": "OK",
-            "creationTime": 1747321432
-          },
-          {
-            "platform": "codeforces",
-            "id": 319788439,
-            "pid": "2101A",
-            "name": "Mex in the Grid",
-            "verdict": "OK",
-            "creationTime": 1747321235
-          },
-          {
-            "platform": "codeforces",
-            "id": 319788346,
-            "pid": "2101A",
-            "name": "Mex in the Grid",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1747321192
-          },
-          {
-            "platform": "codeforces",
-            "id": 319787539,
-            "pid": "2101B",
-            "name": "Quartet Swapping",
-            "verdict": "OK",
-            "creationTime": 1747320836
-          },
-          {
-            "platform": "codeforces",
-            "id": 319785838,
-            "pid": "2101C",
-            "name": "23 Kingdom",
-            "verdict": "OK",
-            "creationTime": 1747320115
-          },
-          {
-            "platform": "codeforces",
-            "id": 319784622,
-            "pid": "2101D",
-            "name": "Mani and Segments",
-            "verdict": "OK",
-            "creationTime": 1747319598
-          },
-          {
-            "platform": "codeforces",
-            "id": 319778510,
-            "pid": "2101F",
-            "name": "Shoo Shatters the Sunshine",
-            "verdict": "OK",
-            "creationTime": 1747317027
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6eff1327786f48226389e482b31eb2263aa1e397"
+  "ref": "b52742e1aaf5618f45f3b66d193aa634c0f15211"
 }
