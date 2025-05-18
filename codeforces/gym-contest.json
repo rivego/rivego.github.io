@@ -23489,5 +23489,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105891",
     "standingsUrl": "https://codeforces.com/gym/105891/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 ICPC Wuhan Invitational Contest (The 3rd Universal Cup. Stage 37: Wuhan)",
+    "startTime": 1745632800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105901,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105901",
+    "standingsUrl": "https://codeforces.com/gym/105901/standings"
   }
 ]
