@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1748151535,
+  "updateTime": 1748194629,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 321151837,
-            "pid": "2110F",
-            "name": "Faculty",
-            "verdict": "OK",
-            "creationTime": 1748108918
-          },
-          {
-            "platform": "codeforces",
-            "id": 321150381,
-            "pid": "2110A",
-            "name": "Fashionable Array",
-            "verdict": "OK",
-            "creationTime": 1748108337
-          },
-          {
-            "platform": "codeforces",
-            "id": 321150364,
-            "pid": "2110B",
-            "name": "Down with Brackets",
-            "verdict": "OK",
-            "creationTime": 1748108331
-          },
-          {
-            "platform": "codeforces",
-            "id": 321150304,
-            "pid": "2110C",
-            "name": "Racing",
-            "verdict": "OK",
-            "creationTime": 1748108307
-          },
-          {
-            "platform": "codeforces",
-            "id": 321150207,
-            "pid": "2110D",
-            "name": "Fewer Batteries",
-            "verdict": "OK",
-            "creationTime": 1748108271
-          },
-          {
-            "platform": "codeforces",
-            "id": 321150037,
-            "pid": "2110E",
-            "name": "Melody",
-            "verdict": "OK",
-            "creationTime": 1748108202
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "10911a9c84aea783deb300cb0dc440b054da91f6"
+  "ref": "ab20ec8e2b0f9a94e422f697deda09a017c04437"
 }
