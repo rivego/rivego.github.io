@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1748324475,
+  "updateTime": 1748367470,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 321632620,
+            "pid": "2114A",
+            "name": "Square Year",
+            "verdict": "OK",
+            "creationTime": 1748343831
+          },
+          {
+            "platform": "codeforces",
+            "id": 321632411,
+            "pid": "2114B",
+            "name": "Not Quite a Palindromic String",
+            "verdict": "OK",
+            "creationTime": 1748343737
+          },
+          {
+            "platform": "codeforces",
+            "id": 321632015,
+            "pid": "2114C",
+            "name": "Need More Arrays",
+            "verdict": "OK",
+            "creationTime": 1748343544
+          },
+          {
+            "platform": "codeforces",
+            "id": 321631517,
+            "pid": "2114D",
+            "name": "Come a Little Closer",
+            "verdict": "OK",
+            "creationTime": 1748343320
+          },
+          {
+            "platform": "codeforces",
+            "id": 321629674,
+            "pid": "2114E",
+            "name": "Kirei Attacks the Estate",
+            "verdict": "OK",
+            "creationTime": 1748342471
+          },
+          {
+            "platform": "codeforces",
+            "id": 321629162,
+            "pid": "2114F",
+            "name": "Small Operations",
+            "verdict": "OK",
+            "creationTime": 1748342219
+          },
+          {
+            "platform": "codeforces",
+            "id": 321628635,
+            "pid": "2114G",
+            "name": "Build an Array",
+            "verdict": "OK",
+            "creationTime": 1748341983
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "9f037e6daf346cf4dcdb3b289c996dd344f2f506"
+  "ref": "376359307b445b6171c4729906d990281b00f5ad"
 }
