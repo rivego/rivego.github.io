@@ -6,6 +6,55 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 321800936,
+      "creationTime": 1748441971,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -399041676
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2110B",
+        "name": "Down with Brackets",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2110/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2110/submission/321800936"
+    },
+    {
+      "type": "codeforces",
+      "id": 321799007,
+      "creationTime": 1748440977,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -399042670
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2110A",
+        "name": "Fashionable Array",
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2110/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2110/submission/321799007"
+    },
+    {
+      "type": "codeforces",
       "id": 319658298,
       "creationTime": 1747233515,
       "language": "C++20 (GCC 13-64)",
