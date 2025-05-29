@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2110B",
         "name": "Down with Brackets",
+        "rating": 900,
         "tags": [
           "strings"
         ],
@@ -45,6 +46,7 @@
         "type": "codeforces",
         "id": "2110A",
         "name": "Fashionable Array",
+        "rating": 800,
         "tags": [
           "implementation",
           "sortings"
