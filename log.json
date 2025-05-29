@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1748453959,
+  "updateTime": 1748497283,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 321800936,
-            "pid": "2110B",
-            "name": "Down with Brackets",
-            "verdict": "OK",
-            "creationTime": 1748441971
-          },
-          {
-            "platform": "codeforces",
-            "id": 321799007,
-            "pid": "2110A",
-            "name": "Fashionable Array",
-            "verdict": "OK",
-            "creationTime": 1748440977
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "da47a4ff6d0eb19090949a881c55c0b56a93c4aa"
+  "ref": "7026c1d91b356c14d13afd65c5af3582f662e80c"
 }
