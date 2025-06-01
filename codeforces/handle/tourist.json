@@ -21,7 +21,10 @@
         "type": "codeforces",
         "id": "2115E",
         "name": "Gellyfish and Mayflower",
-        "tags": [],
+        "tags": [
+          "dp",
+          "graphs"
+        ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/2115/submission/322276073"
@@ -43,7 +46,11 @@
         "type": "codeforces",
         "id": "2115D",
         "name": "Gellyfish and Forget-Me-Not",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "games",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2115/submission/322252360"
@@ -65,7 +72,11 @@
         "type": "codeforces",
         "id": "2115D",
         "name": "Gellyfish and Forget-Me-Not",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "games",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2115/submission/322248007"
@@ -87,7 +98,14 @@
         "type": "codeforces",
         "id": "2115C",
         "name": "Gellyfish and Eternal Violet",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "dp",
+          "greedy",
+          "math",
+          "meet-in-the-middle",
+          "probabilities"
+        ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/2115/submission/322234235"
@@ -166,11 +184,13 @@
         "id": "2115A",
         "name": "Gellyfish and Flaming Peony",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "dp",
           "greedy",
           "math",
-          "number theory"
+          "number theory",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/A"
       },
@@ -137183,7 +137203,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3843,
+    "rating": 3777,
     "maxRank": "tourist",
     "maxRating": 4009
   }
