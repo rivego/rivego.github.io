@@ -127,6 +127,7 @@
         "id": "2115B",
         "name": "Gellyfish and Camellia Japonica",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "dfs and similar",
           "dp",
@@ -156,6 +157,7 @@
         "id": "2115B",
         "name": "Gellyfish and Camellia Japonica",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "dfs and similar",
           "dp",
@@ -185,11 +187,10 @@
         "id": "2115A",
         "name": "Gellyfish and Flaming Peony",
         "tags": [
-          "brute force",
+          "constructive algorithms",
           "dp",
           "math",
-          "number theory",
-          "shortest paths"
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/A"
       },

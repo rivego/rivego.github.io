@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1748842959,
+  "updateTime": 1748886001,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 322513753,
+            "pid": "2116B",
+            "name": "Gellyfish and Baby's Breath",
+            "verdict": "OK",
+            "creationTime": 1748864809
+          },
+          {
+            "platform": "codeforces",
+            "id": 322491551,
+            "pid": "2116A",
+            "name": "Gellyfish and Tricolor Pansy",
+            "verdict": "OK",
+            "creationTime": 1748853522
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "751af06ca747b88a60440c490af43c07b8426543"
+  "ref": "24770c279a6fe94ebced02ae8f8e64ff3cd17366"
 }
