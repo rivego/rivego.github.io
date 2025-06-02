@@ -101,10 +101,8 @@
         "tags": [
           "combinatorics",
           "dp",
-          "games",
           "greedy",
           "math",
-          "meet-in-the-middle",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/C"
@@ -133,7 +131,8 @@
           "dfs and similar",
           "dp",
           "graphs",
-          "greedy"
+          "greedy",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/B"
       },
@@ -161,7 +160,8 @@
           "dfs and similar",
           "dp",
           "graphs",
-          "greedy"
+          "greedy",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/B"
       },
@@ -186,9 +186,7 @@
         "name": "Gellyfish and Flaming Peony",
         "tags": [
           "brute force",
-          "constructive algorithms",
           "dp",
-          "greedy",
           "math",
           "number theory",
           "shortest paths"
