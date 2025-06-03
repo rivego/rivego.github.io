@@ -48,7 +48,9 @@
         "name": "Gellyfish and Forget-Me-Not",
         "tags": [
           "bitmasks",
+          "dp",
           "games",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/D"
@@ -74,7 +76,9 @@
         "name": "Gellyfish and Forget-Me-Not",
         "tags": [
           "bitmasks",
+          "dp",
           "games",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/D"
