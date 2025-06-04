@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 322875723,
+      "creationTime": 1749048394,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -398435253
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111A",
+        "name": "Energy Crystals",
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322875723"
+    },
+    {
+      "type": "codeforces",
       "id": 322513753,
       "creationTime": 1748864809,
       "language": "C++20 (GCC 13-64)",

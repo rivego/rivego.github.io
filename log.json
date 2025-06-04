@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1749015686,
+  "updateTime": 1749058826,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 322875723,
+            "pid": "2111A",
+            "name": "Energy Crystals",
+            "verdict": "OK",
+            "creationTime": 1749048394
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "50b91f5f9044e392e939a65594b99715acaa4654"
+  "ref": "4da5d8f2dc91c7e967f3c0112bd1ffe4aef46c41"
 }

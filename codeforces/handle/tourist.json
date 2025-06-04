@@ -9,6 +9,7 @@
       "id": 322719568,
       "creationTime": 1748965033,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -21,6 +22,7 @@
         "id": "2111G",
         "name": "Divisible Subarrays",
         "tags": [
+          "binary search",
           "brute force",
           "data structures",
           "interactive"
@@ -34,6 +36,7 @@
       "id": 322697990,
       "creationTime": 1748963280,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -91,6 +94,7 @@
       "id": 322691387,
       "creationTime": 1748962795,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -214,6 +218,7 @@
         "name": "Equal Values",
         "tags": [
           "brute force",
+          "greedy",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2111/problem/C"
