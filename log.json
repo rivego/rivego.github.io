@@ -1,18 +1,26 @@
 {
   "version": "0.1.29",
-  "updateTime": 1749058826,
+  "updateTime": 1749102123,
   "history": {
     "user": [
       {
-        "name": "ybb_little_train",
+        "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 322875723,
-            "pid": "2111A",
-            "name": "Energy Crystals",
+            "id": 322937912,
+            "pid": "2111G",
+            "name": "Divisible Subarrays",
             "verdict": "OK",
-            "creationTime": 1749048394
+            "creationTime": 1749101378
+          },
+          {
+            "platform": "codeforces",
+            "id": 322937653,
+            "pid": "2111G",
+            "name": "Divisible Subarrays",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1749101221
           }
         ],
         "newContests": []
@@ -20,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "4da5d8f2dc91c7e967f3c0112bd1ffe4aef46c41"
+  "ref": "ed747b30070904b3e953f8f5ac2b86fb99d20114"
 }
