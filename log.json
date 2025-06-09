@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1749447754,
+  "updateTime": 1749490773,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 323649333,
+            "pid": "2117B",
+            "name": "Shrink",
+            "verdict": "OK",
+            "creationTime": 1749479645
+          },
+          {
+            "platform": "codeforces",
+            "id": 323644644,
+            "pid": "2117A",
+            "name": "False Alarm",
+            "verdict": "OK",
+            "creationTime": 1749477599
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b52953b4c4065bda0302f8cfa9bee5beb94a794b"
+  "ref": "0464fdec204934cae38c5d53692c6b1c5f867e41"
 }

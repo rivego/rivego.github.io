@@ -6,6 +6,55 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 323649333,
+      "creationTime": 1749479645,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -398004002
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2117B",
+        "name": "Shrink",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2117/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2117/submission/323649333"
+    },
+    {
+      "type": "codeforces",
+      "id": 323644644,
+      "creationTime": 1749477599,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -398006048
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2117A",
+        "name": "False Alarm",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2117/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2117/submission/323644644"
+    },
+    {
+      "type": "codeforces",
       "id": 322875723,
       "creationTime": 1749048394,
       "language": "C++20 (GCC 13-64)",
