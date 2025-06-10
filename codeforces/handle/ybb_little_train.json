@@ -70,6 +70,7 @@
         "type": "codeforces",
         "id": "2111A",
         "name": "Energy Crystals",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation",
@@ -96,6 +97,7 @@
         "type": "codeforces",
         "id": "2116B",
         "name": "Gellyfish and Baby's Breath",
+        "rating": 1300,
         "tags": [
           "greedy",
           "math",
@@ -122,6 +124,7 @@
         "type": "codeforces",
         "id": "2116A",
         "name": "Gellyfish and Tricolor Pansy",
+        "rating": 800,
         "tags": [
           "games",
           "greedy"
