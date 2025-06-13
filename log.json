@@ -1,128 +1,18 @@
 {
   "version": "0.1.29",
-  "updateTime": 1749750032,
+  "updateTime": 1749793262,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 324117711,
-            "pid": "2118F",
-            "name": "Shifts and Swaps",
-            "verdict": "OK",
-            "creationTime": 1749744067
-          },
-          {
-            "platform": "codeforces",
-            "id": 324088234,
-            "pid": "2118E",
-            "name": "Grid Coloring",
-            "verdict": "OK",
-            "creationTime": 1749741267
-          },
-          {
-            "platform": "codeforces",
-            "id": 324074227,
-            "pid": "2118D1",
-            "name": "Red Light, Green Light (Easy version)",
-            "verdict": "OK",
-            "creationTime": 1749740276
-          },
-          {
-            "platform": "codeforces",
-            "id": 324073662,
-            "pid": "2118D2",
-            "name": "Red Light, Green Light (Hard version)",
-            "verdict": "OK",
-            "creationTime": 1749740238
-          },
-          {
-            "platform": "codeforces",
-            "id": 324053966,
-            "pid": "2118C",
-            "name": "Make It Beautiful",
-            "verdict": "OK",
-            "creationTime": 1749739202
-          },
-          {
-            "platform": "codeforces",
-            "id": 324051001,
-            "pid": "2118B",
-            "name": "Make It Permutation",
-            "verdict": "OK",
-            "creationTime": 1749739092
-          },
-          {
-            "platform": "codeforces",
-            "id": 324048205,
-            "pid": "2118A",
-            "name": "Equal Subsequences",
-            "verdict": "OK",
-            "creationTime": 1749738979
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 324118148,
-            "pid": "2118A",
-            "name": "Equal Subsequences",
+            "id": 324164083,
+            "pid": "1586I",
+            "name": "Omkar and Mosaic",
             "verdict": "OK",
-            "creationTime": 1749744115
-          },
-          {
-            "platform": "codeforces",
-            "id": 324117676,
-            "pid": "2118B",
-            "name": "Make It Permutation",
-            "verdict": "OK",
-            "creationTime": 1749744064
-          },
-          {
-            "platform": "codeforces",
-            "id": 324115878,
-            "pid": "2118C",
-            "name": "Make It Beautiful",
-            "verdict": "OK",
-            "creationTime": 1749743866
-          },
-          {
-            "platform": "codeforces",
-            "id": 324113621,
-            "pid": "2118D2",
-            "name": "Red Light, Green Light (Hard version)",
-            "verdict": "OK",
-            "creationTime": 1749743624
-          },
-          {
-            "platform": "codeforces",
-            "id": 324113443,
-            "pid": "2118D1",
-            "name": "Red Light, Green Light (Easy version)",
-            "verdict": "OK",
-            "creationTime": 1749743603
-          },
-          {
-            "platform": "codeforces",
-            "id": 324104017,
-            "pid": "2118E",
-            "name": "Grid Coloring",
-            "verdict": "OK",
-            "creationTime": 1749742653
-          },
-          {
-            "platform": "codeforces",
-            "id": 324092020,
-            "pid": "2118F",
-            "name": "Shifts and Swaps",
-            "verdict": "OK",
-            "creationTime": 1749741587
+            "creationTime": 1749760186
           }
         ],
         "newContests": []
@@ -130,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "ae06a11dd18675cb3a377a1cb914571f3bebc49b"
+  "ref": "4cfa6bfd6c214f5b638d350704c514a9d2de2e54"
 }
