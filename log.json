@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1750009077,
+  "updateTime": 1750052584,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 324566747,
+            "pid": "2113E",
+            "name": "From Kazan with Love",
+            "verdict": "OK",
+            "creationTime": 1750015411
+          },
+          {
+            "platform": "codeforces",
+            "id": 324564861,
+            "pid": "2113F",
+            "name": "Two Arrays",
+            "verdict": "OK",
+            "creationTime": 1750013768
+          },
+          {
+            "platform": "codeforces",
+            "id": 324564634,
+            "pid": "2113F",
+            "name": "Two Arrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1750013588
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "3557c7af0a438ad865c480345987028f35564caf"
+  "ref": "5e478b7a2810338de0b86546ecbe328e663ffed9"
 }
