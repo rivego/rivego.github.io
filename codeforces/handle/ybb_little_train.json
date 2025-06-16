@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 324662463,
+      "creationTime": 1750085653,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -397397994
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2113A",
+        "name": "Shashliks",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2113/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2113/submission/324662463"
+    },
+    {
+      "type": "codeforces",
       "id": 323649333,
       "creationTime": 1749479645,
       "language": "C++20 (GCC 13-64)",
