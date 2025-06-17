@@ -6,6 +6,178 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 324912872,
+      "creationTime": 1750178329,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1750170900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2121G",
+        "name": "Gangsta",
+        "tags": [
+          "divide and conquer",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2121/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2121/submission/324912872"
+    },
+    {
+      "type": "codeforces",
+      "id": 324908615,
+      "creationTime": 1750177958,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1750170900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2121F",
+        "name": "Yamakasi",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2121/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2121/submission/324908615"
+    },
+    {
+      "type": "codeforces",
+      "id": 324877789,
+      "creationTime": 1750175568,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1750170900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2121D",
+        "name": "1709",
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2121/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2121/submission/324877789"
+    },
+    {
+      "type": "codeforces",
+      "id": 324869105,
+      "creationTime": 1750174986,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1750170900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2121E",
+        "name": "Sponsor of Your Problems",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2121/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2121/submission/324869105"
+    },
+    {
+      "type": "codeforces",
+      "id": 324839886,
+      "creationTime": 1750173203,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1750170900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2121C",
+        "name": "Those Who Are With Us",
+        "tags": [
+          "greedy",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2121/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2121/submission/324839886"
+    },
+    {
+      "type": "codeforces",
+      "id": 324809276,
+      "creationTime": 1750171747,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1750170900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2121B",
+        "name": "Above the Clouds",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2121/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2121/submission/324809276"
+    },
+    {
+      "type": "codeforces",
+      "id": 324799979,
+      "creationTime": 1750171436,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1750170900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2121A",
+        "name": "Letter Home",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2121/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2121/submission/324799979"
+    },
+    {
+      "type": "codeforces",
       "id": 324662463,
       "creationTime": 1750085653,
       "language": "C++20 (GCC 13-64)",
@@ -46,6 +218,7 @@
         "type": "codeforces",
         "id": "2117B",
         "name": "Shrink",
+        "rating": 800,
         "tags": [
           "constructive algorithms"
         ],
@@ -70,6 +243,7 @@
         "type": "codeforces",
         "id": "2117A",
         "name": "False Alarm",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
