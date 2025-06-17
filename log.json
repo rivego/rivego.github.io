@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1750095624,
+  "updateTime": 1750138890,
   "history": {
-    "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 324662463,
-            "pid": "2113A",
-            "name": "Shashliks",
-            "verdict": "OK",
-            "creationTime": 1750085653
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5e8d79634e25e2d1845581fd553ab0a63030cdd8"
+  "ref": "47361efaa6588fb60e15b8fdbf3826bebf14e64a"
 }

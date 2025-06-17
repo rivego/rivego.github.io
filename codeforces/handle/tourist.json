@@ -105,6 +105,7 @@
         "name": "Red Light, Green Light (Hard version)",
         "tags": [
           "binary search",
+          "brute force",
           "dfs and similar",
           "dp",
           "dsu",
