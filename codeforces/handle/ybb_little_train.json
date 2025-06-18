@@ -52,7 +52,8 @@
           "binary search",
           "brute force",
           "data structures",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2121/problem/F"
       },
@@ -101,7 +102,9 @@
         "id": "2121E",
         "name": "Sponsor of Your Problems",
         "tags": [
+          "dp",
           "greedy",
+          "implementation",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2121/problem/E"
@@ -33584,9 +33587,9 @@
     }
   ],
   "codeforces": {
-    "rank": "specialist",
-    "rating": 1450,
-    "maxRank": "specialist",
-    "maxRating": 1575
+    "rank": "expert",
+    "rating": 1603,
+    "maxRank": "expert",
+    "maxRating": 1603
   }
 }
