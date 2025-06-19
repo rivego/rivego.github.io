@@ -1,9 +1,48 @@
 {
   "version": "0.1.29",
-  "updateTime": 1750311684,
+  "updateTime": 1750354871,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 325137473,
+            "pid": "2113A",
+            "name": "Shashliks",
+            "verdict": "OK",
+            "creationTime": 1750331570
+          },
+          {
+            "platform": "codeforces",
+            "id": 325137204,
+            "pid": "2113B",
+            "name": "Good Start",
+            "verdict": "OK",
+            "creationTime": 1750331432
+          },
+          {
+            "platform": "codeforces",
+            "id": 325136624,
+            "pid": "2113C",
+            "name": "Smilo and Minecraft",
+            "verdict": "OK",
+            "creationTime": 1750331155
+          },
+          {
+            "platform": "codeforces",
+            "id": 325135999,
+            "pid": "2113D",
+            "name": "Cheater",
+            "verdict": "OK",
+            "creationTime": 1750330883
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "f632f637ea0213ecddf565dc3e3cd568bf6eeb4a"
+  "ref": "724f520dcd59155bf79665d40d9c487007a5d432"
 }
