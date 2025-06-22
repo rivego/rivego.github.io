@@ -23834,6 +23834,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Uttara University Inter-University Programming Contest 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105973,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105973",
+    "standingsUrl": "https://codeforces.com/gym/105973/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "BSUIR Open XIII: School final",
     "startTime": 1746256200,
     "duration": 18000,
@@ -23842,5 +23852,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105972",
     "standingsUrl": "https://codeforces.com/gym/105972/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Introductory Problems: XOR Basis",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105974,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105974",
+    "standingsUrl": "https://codeforces.com/gym/105974/standings"
   }
 ]
