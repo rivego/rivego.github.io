@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1750700461,
+  "updateTime": 1750786887,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 325763137,
-            "pid": "2112A",
-            "name": "Race",
-            "verdict": "OK",
-            "creationTime": 1750692364
-          },
-          {
-            "platform": "codeforces",
-            "id": 325761717,
-            "pid": "2112B",
-            "name": "Shrinking Array",
-            "verdict": "OK",
-            "creationTime": 1750692264
-          },
-          {
-            "platform": "codeforces",
-            "id": 325757925,
-            "pid": "2112C",
-            "name": "Coloring Game",
-            "verdict": "OK",
-            "creationTime": 1750692017
-          },
-          {
-            "platform": "codeforces",
-            "id": 325753698,
-            "pid": "2112D",
-            "name": "Reachability and Tree",
-            "verdict": "OK",
-            "creationTime": 1750691749
-          },
-          {
-            "platform": "codeforces",
-            "id": 325749531,
-            "pid": "2112E",
-            "name": "Tree Colorings",
-            "verdict": "OK",
-            "creationTime": 1750691500
-          },
-          {
-            "platform": "codeforces",
-            "id": 325743701,
-            "pid": "2112F",
-            "name": "Variables and Operations",
-            "verdict": "OK",
-            "creationTime": 1750691164
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6db3d12f186552dbb6f10db70563acbc7f833d39"
+  "ref": "f6724395c3828db3f21ac00a71d81407a66ac913"
 }
