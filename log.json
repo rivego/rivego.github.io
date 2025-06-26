@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1750873273,
+  "updateTime": 1750916553,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 325993655,
-            "pid": "1266G",
-            "name": "Permutation Concatenation",
-            "verdict": "OK",
-            "creationTime": 1750847504
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9fea9a6e68ff18f3cd7447d06b2e712fa77767dc"
+  "ref": "400b59b9c63404367c3fc30c43ad6a9c78a53c5f"
 }
