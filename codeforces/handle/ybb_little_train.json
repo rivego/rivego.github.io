@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2121G",
         "name": "Gangsta",
+        "rating": 1900,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "2121F",
         "name": "Yamakasi",
+        "rating": 1800,
         "tags": [
           "binary search",
           "brute force",
@@ -76,6 +78,7 @@
         "type": "codeforces",
         "id": "2121D",
         "name": "1709",
+        "rating": 1300,
         "tags": [
           "implementation",
           "sortings"
@@ -101,6 +104,7 @@
         "type": "codeforces",
         "id": "2121E",
         "name": "Sponsor of Your Problems",
+        "rating": 1500,
         "tags": [
           "dp",
           "greedy",
@@ -128,6 +132,7 @@
         "type": "codeforces",
         "id": "2121C",
         "name": "Those Who Are With Us",
+        "rating": 1200,
         "tags": [
           "greedy",
           "greedy",
@@ -154,6 +159,7 @@
         "type": "codeforces",
         "id": "2121B",
         "name": "Above the Clouds",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -180,6 +186,7 @@
         "type": "codeforces",
         "id": "2121A",
         "name": "Letter Home",
+        "rating": 800,
         "tags": [
           "brute force",
           "math"
