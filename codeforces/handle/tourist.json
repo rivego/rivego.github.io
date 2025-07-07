@@ -73,7 +73,8 @@
         "name": "Lexicographic Partition",
         "tags": [
           "constructive algorithms",
-          "math"
+          "math",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2124/problem/I"
       },
@@ -121,7 +122,10 @@
         "type": "codeforces",
         "id": "2124E",
         "name": "Make it Zero",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2124/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/2124/submission/327756963"
@@ -144,7 +148,8 @@
         "id": "2124D",
         "name": "Make a Palindrome",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2124/problem/D"
       },
@@ -216,6 +221,7 @@
         "id": "2124A",
         "name": "Deranged Deletions",
         "tags": [
+          "constructive algorithms",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2124/problem/A"
@@ -137919,7 +137925,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3777,
+    "rating": 3723,
     "maxRank": "tourist",
     "maxRating": 4009
   }
