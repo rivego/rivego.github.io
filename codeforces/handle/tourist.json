@@ -149,7 +149,6 @@
         "id": "2124D",
         "name": "Make a Palindrome",
         "tags": [
-          "expression parsing",
           "greedy",
           "sortings",
           "two pointers"
