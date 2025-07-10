@@ -226,8 +226,21 @@
         "id": "2124A",
         "name": "Deranged Deletions",
         "tags": [
-          "constructive algorithms",
-          "sortings"
+          "2-sat",
+          "chinese remainder theorem",
+          "divide and conquer",
+          "expression parsing",
+          "fft",
+          "flows",
+          "geometry",
+          "implementation",
+          "interactive",
+          "matrices",
+          "probabilities",
+          "schedules",
+          "sortings",
+          "string suffix structures",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2124/problem/A"
       },
