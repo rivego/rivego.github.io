@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1752731211,
+  "updateTime": 1752774168,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 329426537,
+            "pid": "2126G1",
+            "name": "Big Wins! (easy version)",
+            "verdict": "OK",
+            "creationTime": 1752765500
+          },
+          {
+            "platform": "codeforces",
+            "id": 329426095,
+            "pid": "2126G2",
+            "name": "Big Wins!  (hard version)",
+            "verdict": "OK",
+            "creationTime": 1752765481
+          },
+          {
+            "platform": "codeforces",
+            "id": 329409063,
+            "pid": "2126F",
+            "name": "1-1-1, Free Tree!",
+            "verdict": "OK",
+            "creationTime": 1752764743
+          },
+          {
+            "platform": "codeforces",
+            "id": 329399745,
+            "pid": "2126E",
+            "name": "G-C-D, Unlucky!",
+            "verdict": "OK",
+            "creationTime": 1752764374
+          },
+          {
+            "platform": "codeforces",
+            "id": 329396901,
+            "pid": "2126D",
+            "name": "This Is the Last Time",
+            "verdict": "OK",
+            "creationTime": 1752764263
+          },
+          {
+            "platform": "codeforces",
+            "id": 329393766,
+            "pid": "2126C",
+            "name": "I Will Definitely Make It",
+            "verdict": "OK",
+            "creationTime": 1752764149
+          },
+          {
+            "platform": "codeforces",
+            "id": 329387629,
+            "pid": "2126B",
+            "name": "No Casino in the Mountains",
+            "verdict": "OK",
+            "creationTime": 1752763929
+          },
+          {
+            "platform": "codeforces",
+            "id": 329384178,
+            "pid": "2126A",
+            "name": "Only One Digit",
+            "verdict": "OK",
+            "creationTime": 1752763808
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c46ec73e2e29de9c9827861e963d2e76e5cd23ff"
+  "ref": "15c7a636430c03cb8e862b2f12ecbc7bfc401758"
 }
