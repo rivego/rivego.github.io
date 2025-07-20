@@ -48,8 +48,10 @@
         "id": "2122D",
         "name": "Traffic Lights",
         "tags": [
+          "brute force",
           "dp",
-          "graphs"
+          "graphs",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/2122/problem/D"
       },
@@ -73,8 +75,10 @@
         "id": "2122D",
         "name": "Traffic Lights",
         "tags": [
+          "brute force",
           "dp",
-          "graphs"
+          "graphs",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/2122/problem/D"
       },
@@ -125,7 +129,7 @@
         "name": "Greedy Grid Counting",
         "tags": [
           "dp",
-          "math",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2122/problem/E"
@@ -150,8 +154,10 @@
         "id": "2122C",
         "name": "Manhattan Pairs",
         "tags": [
+          "constructive algorithms",
           "greedy",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2122/problem/C"
       },
@@ -175,6 +181,7 @@
         "id": "2122B",
         "name": "Pile Shuffling",
         "tags": [
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2122/problem/B"
@@ -198,7 +205,10 @@
         "type": "codeforces",
         "id": "2122A",
         "name": "Greedy Grid",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/2122/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/2122/submission/329788288"
@@ -138129,7 +138139,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3723,
+    "rating": 3820,
     "maxRank": "tourist",
     "maxRating": 4009
   }
