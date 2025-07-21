@@ -107,6 +107,7 @@
         "name": "Tree Parking",
         "tags": [
           "combinatorics",
+          "fft",
           "math",
           "trees"
         ],
