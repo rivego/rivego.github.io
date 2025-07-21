@@ -49,6 +49,8 @@
         "name": "Traffic Lights",
         "tags": [
           "brute force",
+          "data structures",
+          "divide and conquer",
           "dp",
           "graphs",
           "shortest paths"
@@ -76,6 +78,8 @@
         "name": "Traffic Lights",
         "tags": [
           "brute force",
+          "data structures",
+          "divide and conquer",
           "dp",
           "graphs",
           "shortest paths"
@@ -155,6 +159,7 @@
         "name": "Manhattan Pairs",
         "tags": [
           "constructive algorithms",
+          "geometry",
           "greedy",
           "math",
           "sortings"
