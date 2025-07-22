@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1753119866,
+  "updateTime": 1753163212,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 330228346,
+            "pid": "1474C",
+            "name": "Array Destruction",
+            "verdict": "OK",
+            "creationTime": 1753161539
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "cf7478ffe318f5d64d46423bb6cb866f5361848d"
+  "ref": "3d9475afe85f86e9a46a11f780bef1c06bb03d18"
 }

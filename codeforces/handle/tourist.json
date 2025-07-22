@@ -133,6 +133,7 @@
         "id": "2122E",
         "name": "Greedy Grid Counting",
         "tags": [
+          "combinatorics",
           "dp",
           "greedy",
           "math"
