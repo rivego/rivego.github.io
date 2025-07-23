@@ -122,6 +122,7 @@
         "id": "2125E",
         "name": "Sets of Complementary Sums",
         "tags": [
+          "combinatorics",
           "dp",
           "math",
           "two pointers"
@@ -174,7 +175,8 @@
         "name": "Count Good Numbers",
         "tags": [
           "combinatorics",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2125/problem/C"
       },
@@ -198,6 +200,7 @@
         "id": "2125B",
         "name": "Left and Down",
         "tags": [
+          "greedy",
           "math",
           "number theory"
         ],
@@ -223,6 +226,7 @@
         "id": "2125A",
         "name": "Difficult Contest",
         "tags": [
+          "constructive algorithms",
           "implementation",
           "sortings",
           "strings"
