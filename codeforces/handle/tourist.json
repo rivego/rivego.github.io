@@ -126,6 +126,7 @@
         "id": "2125E",
         "name": "Sets of Complementary Sums",
         "tags": [
+          "brute force",
           "combinatorics",
           "dp",
           "math",
