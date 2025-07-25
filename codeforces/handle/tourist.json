@@ -155,6 +155,8 @@
         "name": "Segments Covering",
         "tags": [
           "dp",
+          "math",
+          "number theory",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2125/problem/D"
