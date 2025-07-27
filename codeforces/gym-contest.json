@@ -23989,5 +23989,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106014",
     "standingsUrl": "https://codeforces.com/gym/106014/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 ICPC Universidad Nacional de Colombia Programming Contest",
+    "startTime": 1753540500,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106017,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106017",
+    "standingsUrl": "https://codeforces.com/gym/106017/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 Homs Collegiate programming contest",
+    "startTime": 1753540500,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106016,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106016",
+    "standingsUrl": "https://codeforces.com/gym/106016/standings"
   }
 ]
