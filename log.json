@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1753983802,
+  "updateTime": 1754027528,
   "history": {
     "user": [
       {
@@ -8,107 +8,27 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 331841890,
+            "id": 331867414,
+            "pid": "2129F2",
+            "name": "Top-K Tracker (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1753993666
+          },
+          {
+            "platform": "codeforces",
+            "id": 331866664,
+            "pid": "2129F2",
+            "name": "Top-K Tracker (Hard Version)",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1753993236
+          },
+          {
+            "platform": "codeforces",
+            "id": 331866603,
             "pid": "2129F2",
             "name": "Top-K Tracker (Hard Version)",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1753981105
-          },
-          {
-            "platform": "codeforces",
-            "id": 331824405,
-            "pid": "2129F1",
-            "name": "Top-K Tracker (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1753978571
-          },
-          {
-            "platform": "codeforces",
-            "id": 331823973,
-            "pid": "2129F1",
-            "name": "Top-K Tracker (Easy Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1753978516
-          },
-          {
-            "platform": "codeforces",
-            "id": 331823607,
-            "pid": "2129F1",
-            "name": "Top-K Tracker (Easy Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1753978471
-          },
-          {
-            "platform": "codeforces",
-            "id": 331805734,
-            "pid": "2129D",
-            "name": "Permutation Blackhole",
-            "verdict": "OK",
-            "creationTime": 1753976518
-          },
-          {
-            "platform": "codeforces",
-            "id": 331804435,
-            "pid": "2129E",
-            "name": "Induced Subgraph Queries",
-            "verdict": "OK",
-            "creationTime": 1753976389
-          },
-          {
-            "platform": "codeforces",
-            "id": 331793038,
-            "pid": "2129D",
-            "name": "Permutation Blackhole",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1753975380
-          },
-          {
-            "platform": "codeforces",
-            "id": 331779359,
-            "pid": "2129C3",
-            "name": "Interactive RBS (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1753974347
-          },
-          {
-            "platform": "codeforces",
-            "id": 331774232,
-            "pid": "2129C2",
-            "name": "Interactive RBS (Medium Version)",
-            "verdict": "OK",
-            "creationTime": 1753974011
-          },
-          {
-            "platform": "codeforces",
-            "id": 331773652,
-            "pid": "2129C1",
-            "name": "Interactive RBS (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1753973974
-          },
-          {
-            "platform": "codeforces",
-            "id": 331773087,
-            "pid": "2129C1",
-            "name": "Interactive RBS (Easy Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1753973937
-          },
-          {
-            "platform": "codeforces",
-            "id": 331757778,
-            "pid": "2129B",
-            "name": "Stay or Mirror",
-            "verdict": "OK",
-            "creationTime": 1753973097
-          },
-          {
-            "platform": "codeforces",
-            "id": 331749239,
-            "pid": "2129A",
-            "name": "Double Perspective",
-            "verdict": "OK",
-            "creationTime": 1753972722
+            "creationTime": 1753993199
           }
         ],
         "newContests": []
@@ -116,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "90509a193b0e4e7d4bbe0259a0f47545f0615677"
+  "ref": "1810577a76dfed11cbcb22a165efdeb054a193f0"
 }
