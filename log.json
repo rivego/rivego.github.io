@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1754027528,
+  "updateTime": 1754070237,
   "history": {
     "user": [
       {
@@ -8,27 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 331867414,
-            "pid": "2129F2",
-            "name": "Top-K Tracker (Hard Version)",
+            "id": 331970508,
+            "pid": "2130B",
+            "name": "Pathless",
             "verdict": "OK",
-            "creationTime": 1753993666
+            "creationTime": 1754058872
           },
           {
             "platform": "codeforces",
-            "id": 331866664,
-            "pid": "2129F2",
-            "name": "Top-K Tracker (Hard Version)",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1753993236
-          },
-          {
-            "platform": "codeforces",
-            "id": 331866603,
-            "pid": "2129F2",
-            "name": "Top-K Tracker (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1753993199
+            "id": 331969633,
+            "pid": "2130A",
+            "name": "Submission is All You Need",
+            "verdict": "OK",
+            "creationTime": 1754058489
           }
         ],
         "newContests": []
@@ -36,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "1810577a76dfed11cbcb22a165efdeb054a193f0"
+  "ref": "1a7a5557ea678e21f46586eb530a07cc3acd5ffb"
 }
