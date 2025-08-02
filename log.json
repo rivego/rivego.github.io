@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1754070237,
+  "updateTime": 1754113589,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 331970508,
-            "pid": "2130B",
-            "name": "Pathless",
-            "verdict": "OK",
-            "creationTime": 1754058872
-          },
-          {
-            "platform": "codeforces",
-            "id": 331969633,
-            "pid": "2130A",
-            "name": "Submission is All You Need",
-            "verdict": "OK",
-            "creationTime": 1754058489
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "1a7a5557ea678e21f46586eb530a07cc3acd5ffb"
+  "ref": "27ca7e04e9658c6782399390d4edd5f2b573a91e"
 }
