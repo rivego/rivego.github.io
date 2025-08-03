@@ -1,9 +1,48 @@
 {
   "version": "0.1.29",
-  "updateTime": 1754156488,
+  "updateTime": 1754200076,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 332152855,
+            "pid": "818G",
+            "name": "Four Melodies",
+            "verdict": "OK",
+            "creationTime": 1754168236
+          },
+          {
+            "platform": "codeforces",
+            "id": 332152711,
+            "pid": "818G",
+            "name": "Four Melodies",
+            "verdict": "OK",
+            "creationTime": 1754168073
+          },
+          {
+            "platform": "codeforces",
+            "id": 332148385,
+            "pid": "875C",
+            "name": "National Property",
+            "verdict": "OK",
+            "creationTime": 1754164200
+          },
+          {
+            "platform": "codeforces",
+            "id": 332146912,
+            "pid": "104857J",
+            "name": "Takeout Delivering",
+            "verdict": "OK",
+            "creationTime": 1754162939
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "98920b9d9a42d4c91a92c292259d6e48bf28347e"
+  "ref": "d3ec16abd9ae2bce1ef5ff9b59a1c1501f92e474"
 }
