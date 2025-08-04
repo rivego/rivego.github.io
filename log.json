@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1754286983,
+  "updateTime": 1754329587,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 332306891,
-            "pid": "325C",
-            "name": "Monsters and Diamonds",
-            "verdict": "OK",
-            "creationTime": 1754285027
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "b449f59aff39abd5fed79436d1db14116a68cf99"
+  "ref": "53cde33a0e6af9cb61da5bc8649c15974e55004d"
 }
