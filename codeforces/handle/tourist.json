@@ -6,6 +6,237 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 332905936,
+      "creationTime": 1754587973,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1754577300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G1",
+        "name": "Inter Active (Easy Version)",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "interactive",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332905936"
+    },
+    {
+      "type": "codeforces",
+      "id": 332890159,
+      "creationTime": 1754585636,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1754577300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127H",
+        "name": "23 Rises Again",
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332890159"
+    },
+    {
+      "type": "codeforces",
+      "id": 332872508,
+      "creationTime": 1754583342,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1754577300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127H",
+        "name": "23 Rises Again",
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332872508"
+    },
+    {
+      "type": "codeforces",
+      "id": 332857044,
+      "creationTime": 1754581686,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1754577300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127F",
+        "name": "Hamed and AghaBalaSar",
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332857044"
+    },
+    {
+      "type": "codeforces",
+      "id": 332824278,
+      "creationTime": 1754578986,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1754577300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127E",
+        "name": "Ancient Tree",
+        "tags": [
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332824278"
+    },
+    {
+      "type": "codeforces",
+      "id": 332813171,
+      "creationTime": 1754578212,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1754577300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127D",
+        "name": "Root was Built by Love, Broken by Destiny",
+        "tags": [
+          "combinatorics",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332813171"
+    },
+    {
+      "type": "codeforces",
+      "id": 332808624,
+      "creationTime": 1754577897,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1754577300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127C",
+        "name": "Trip Shopping",
+        "tags": [
+          "games",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332808624"
+    },
+    {
+      "type": "codeforces",
+      "id": 332806546,
+      "creationTime": 1754577747,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1754577300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127B",
+        "name": "Hamiiid, Haaamid... Hamid?",
+        "tags": [
+          "games",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332806546"
+    },
+    {
+      "type": "codeforces",
+      "id": 332802854,
+      "creationTime": 1754577421,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1754577300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127A",
+        "name": "Mix Mex Max",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332802854"
+    },
+    {
+      "type": "codeforces",
       "id": 330374548,
       "creationTime": 1753198459,
       "language": "C++20 (GCC 13-64)",
@@ -21,6 +252,7 @@
         "type": "codeforces",
         "id": "2125F",
         "name": "Timofey and Docker",
+        "rating": 3000,
         "tags": [
           "binary search",
           "divide and conquer",
@@ -47,6 +279,7 @@
         "type": "codeforces",
         "id": "2125F",
         "name": "Timofey and Docker",
+        "rating": 3000,
         "tags": [
           "binary search",
           "divide and conquer",
@@ -73,6 +306,7 @@
         "type": "codeforces",
         "id": "2125F",
         "name": "Timofey and Docker",
+        "rating": 3000,
         "tags": [
           "binary search",
           "divide and conquer",
@@ -99,6 +333,7 @@
         "type": "codeforces",
         "id": "2125F",
         "name": "Timofey and Docker",
+        "rating": 3000,
         "tags": [
           "binary search",
           "divide and conquer",
@@ -125,6 +360,7 @@
         "type": "codeforces",
         "id": "2125E",
         "name": "Sets of Complementary Sums",
+        "rating": 2500,
         "tags": [
           "brute force",
           "combinatorics",
@@ -153,6 +389,7 @@
         "type": "codeforces",
         "id": "2125D",
         "name": "Segments Covering",
+        "rating": 1600,
         "tags": [
           "dp",
           "math",
@@ -179,6 +416,7 @@
         "type": "codeforces",
         "id": "2125C",
         "name": "Count Good Numbers",
+        "rating": 1100,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -206,6 +444,7 @@
         "type": "codeforces",
         "id": "2125B",
         "name": "Left and Down",
+        "rating": 900,
         "tags": [
           "math",
           "number theory"
@@ -231,6 +470,7 @@
         "type": "codeforces",
         "id": "2125A",
         "name": "Difficult Contest",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "implementation",
@@ -258,6 +498,7 @@
         "type": "codeforces",
         "id": "2122F",
         "name": "Colorful Polygon",
+        "rating": 3400,
         "tags": [
           "constructive algorithms",
           "divide and conquer",
@@ -284,6 +525,7 @@
         "type": "codeforces",
         "id": "2122D",
         "name": "Traffic Lights",
+        "rating": 2400,
         "tags": [
           "brute force",
           "data structures",
@@ -314,6 +556,7 @@
         "type": "codeforces",
         "id": "2122D",
         "name": "Traffic Lights",
+        "rating": 2400,
         "tags": [
           "brute force",
           "data structures",
@@ -344,6 +587,7 @@
         "type": "codeforces",
         "id": "2122G",
         "name": "Tree Parking",
+        "rating": 3300,
         "tags": [
           "combinatorics",
           "fft",
@@ -371,6 +615,7 @@
         "type": "codeforces",
         "id": "2122E",
         "name": "Greedy Grid Counting",
+        "rating": 2600,
         "tags": [
           "combinatorics",
           "dp",
@@ -398,6 +643,7 @@
         "type": "codeforces",
         "id": "2122C",
         "name": "Manhattan Pairs",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "geometry",
@@ -426,6 +672,7 @@
         "type": "codeforces",
         "id": "2122B",
         "name": "Pile Shuffling",
+        "rating": 1100,
         "tags": [
           "greedy",
           "math"
@@ -451,6 +698,7 @@
         "type": "codeforces",
         "id": "2122A",
         "name": "Greedy Grid",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy"

@@ -1221,6 +1221,17 @@
     "standingsUrl": "https://codeforces.com/contest/2012/standings"
   },
   {
+    "type": "codeforces/ioi",
+    "name": "2024 ICPC World Finals Challenge powered by Huawei",
+    "startTime": 1726554840,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 2015,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2015",
+    "standingsUrl": "https://codeforces.com/contest/2015/standings"
+  },
+  {
     "type": "codeforces/icpc",
     "name": "2024 ICPC World Finals: JetBrains Tech Trek",
     "startTime": 1726548420,

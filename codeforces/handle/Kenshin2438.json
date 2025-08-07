@@ -6,6 +6,28 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 332747764,
+      "creationTime": 1754554117,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392929530
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102889J",
+        "name": "括号序列",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102889/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102889/submission/332747764"
+    },
+    {
+      "type": "codeforces",
       "id": 316495256,
       "creationTime": 1745233683,
       "language": "C++23 (GCC 14-64, msys2)",
