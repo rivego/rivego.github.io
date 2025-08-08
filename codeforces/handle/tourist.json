@@ -887,7 +887,6 @@
         "name": "23 Rises Again",
         "tags": [
           "brute force",
-          "data structures",
           "dfs and similar",
           "dp",
           "flows",
@@ -919,7 +918,6 @@
         "name": "23 Rises Again",
         "tags": [
           "brute force",
-          "data structures",
           "dfs and similar",
           "dp",
           "flows",
@@ -1033,6 +1031,7 @@
         "tags": [
           "games",
           "greedy",
+          "schedules",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/C"
