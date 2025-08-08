@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1754588693,
+  "updateTime": 1754632210,
   "history": {
     "user": [
       {
@@ -8,191 +8,219 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 332905936,
-            "pid": "2127G1",
-            "name": "Inter Active (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1754587973
-          },
-          {
-            "platform": "codeforces",
-            "id": 332890159,
-            "pid": "2127H",
-            "name": "23 Rises Again",
-            "verdict": "OK",
-            "creationTime": 1754585636
-          },
-          {
-            "platform": "codeforces",
-            "id": 332872508,
-            "pid": "2127H",
-            "name": "23 Rises Again",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1754583342
-          },
-          {
-            "platform": "codeforces",
-            "id": 332857044,
-            "pid": "2127F",
-            "name": "Hamed and AghaBalaSar",
-            "verdict": "OK",
-            "creationTime": 1754581686
-          },
-          {
-            "platform": "codeforces",
-            "id": 332824278,
-            "pid": "2127E",
-            "name": "Ancient Tree",
-            "verdict": "OK",
-            "creationTime": 1754578986
-          },
-          {
-            "platform": "codeforces",
-            "id": 332813171,
-            "pid": "2127D",
-            "name": "Root was Built by Love, Broken by Destiny",
-            "verdict": "OK",
-            "creationTime": 1754578212
-          },
-          {
-            "platform": "codeforces",
-            "id": 332808624,
-            "pid": "2127C",
-            "name": "Trip Shopping",
-            "verdict": "OK",
-            "creationTime": 1754577897
-          },
-          {
-            "platform": "codeforces",
-            "id": 332806546,
-            "pid": "2127B",
-            "name": "Hamiiid, Haaamid... Hamid?",
-            "verdict": "OK",
-            "creationTime": 1754577747
-          },
-          {
-            "platform": "codeforces",
-            "id": 332802854,
-            "pid": "2127A",
-            "name": "Mix Mex Max",
-            "verdict": "OK",
-            "creationTime": 1754577421
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Kenshin2438",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 332747764,
-            "pid": "102889J",
-            "name": "括号序列",
-            "verdict": "OK",
-            "creationTime": 1754554117
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 332905174,
-            "pid": "2127H",
-            "name": "23 Rises Again",
-            "verdict": "OK",
-            "creationTime": 1754587881
-          },
-          {
-            "platform": "codeforces",
-            "id": 332899962,
+            "id": 332918725,
             "pid": "2127G2",
             "name": "Inter Active (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1754587106
+            "creationTime": 1754593897
           },
           {
             "platform": "codeforces",
-            "id": 332899859,
-            "pid": "2127G1",
-            "name": "Inter Active (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1754587087
+            "id": 332916532,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754592791
           },
           {
             "platform": "codeforces",
-            "id": 332899103,
-            "pid": "2127G1",
-            "name": "Inter Active (Easy Version)",
+            "id": 332916340,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1754586971
+            "creationTime": 1754592699
           },
           {
             "platform": "codeforces",
-            "id": 332896817,
-            "pid": "2127G1",
-            "name": "Inter Active (Easy Version)",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1754586618
+            "id": 332916208,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754592623
           },
           {
             "platform": "codeforces",
-            "id": 332886704,
-            "pid": "2127G1",
-            "name": "Inter Active (Easy Version)",
+            "id": 332916156,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754592597
+          },
+          {
+            "platform": "codeforces",
+            "id": 332916144,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754592592
+          },
+          {
+            "platform": "codeforces",
+            "id": 332916085,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754592563
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913971,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591663
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913954,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591658
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913934,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591651
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913914,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591645
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913897,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1754585150
+            "creationTime": 1754591640
           },
           {
             "platform": "codeforces",
-            "id": 332853036,
-            "pid": "2127F",
-            "name": "Hamed and AghaBalaSar",
-            "verdict": "OK",
-            "creationTime": 1754581291
+            "id": 332913879,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591635
           },
           {
             "platform": "codeforces",
-            "id": 332824093,
-            "pid": "2127E",
-            "name": "Ancient Tree",
-            "verdict": "OK",
-            "creationTime": 1754578973
+            "id": 332913863,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591630
           },
           {
             "platform": "codeforces",
-            "id": 332814501,
-            "pid": "2127D",
-            "name": "Root was Built by Love, Broken by Destiny",
-            "verdict": "OK",
-            "creationTime": 1754578305
+            "id": 332913848,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591625
           },
           {
             "platform": "codeforces",
-            "id": 332808565,
-            "pid": "2127C",
-            "name": "Trip Shopping",
-            "verdict": "OK",
-            "creationTime": 1754577894
+            "id": 332913836,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591621
           },
           {
             "platform": "codeforces",
-            "id": 332805034,
-            "pid": "2127B",
-            "name": "Hamiiid, Haaamid... Hamid?",
-            "verdict": "OK",
-            "creationTime": 1754577640
+            "id": 332913823,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591616
           },
           {
             "platform": "codeforces",
-            "id": 332802944,
-            "pid": "2127A",
-            "name": "Mix Mex Max",
-            "verdict": "OK",
-            "creationTime": 1754577444
+            "id": 332913379,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591493
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913357,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591488
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913339,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591483
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913320,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591477
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913299,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591472
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913270,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1754591467
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913243,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591461
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913218,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591456
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913183,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591452
+          },
+          {
+            "platform": "codeforces",
+            "id": 332913155,
+            "pid": "2127G2",
+            "name": "Inter Active (Hard Version)",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1754591445
           }
         ],
         "newContests": []
@@ -200,5 +228,5 @@
     ],
     "contest": []
   },
-  "ref": "d823da64d3be5396e1175cb4bbfaa5aca2c54c8c"
+  "ref": "cb0145ff59c94693e274e37ed377c46aa95d43f7"
 }

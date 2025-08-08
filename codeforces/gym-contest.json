@@ -24013,6 +24013,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "COMP4128 Large Triangle",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106027,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106027",
+    "standingsUrl": "https://codeforces.com/gym/106027/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "CCF CAT NAEC 2025 (Final)",
     "startTime": 1754542800,
     "duration": 18000,

@@ -6,6 +6,843 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 332918725,
+      "creationTime": 1754593897,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392889750
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332918725"
+    },
+    {
+      "type": "codeforces",
+      "id": 332916532,
+      "creationTime": 1754592791,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392890856
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332916532"
+    },
+    {
+      "type": "codeforces",
+      "id": 332916340,
+      "creationTime": 1754592699,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392890948
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332916340"
+    },
+    {
+      "type": "codeforces",
+      "id": 332916208,
+      "creationTime": 1754592623,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392891024
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332916208"
+    },
+    {
+      "type": "codeforces",
+      "id": 332916156,
+      "creationTime": 1754592597,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392891050
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332916156"
+    },
+    {
+      "type": "codeforces",
+      "id": 332916144,
+      "creationTime": 1754592592,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392891055
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332916144"
+    },
+    {
+      "type": "codeforces",
+      "id": 332916085,
+      "creationTime": 1754592563,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392891084
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332916085"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913971,
+      "creationTime": 1754591663,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392891984
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913971"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913954,
+      "creationTime": 1754591658,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392891989
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913954"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913934,
+      "creationTime": 1754591651,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392891996
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913934"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913914,
+      "creationTime": 1754591645,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892002
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913914"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913897,
+      "creationTime": 1754591640,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892007
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913897"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913879,
+      "creationTime": 1754591635,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892012
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913879"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913863,
+      "creationTime": 1754591630,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892017
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913863"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913848,
+      "creationTime": 1754591625,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892022
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913848"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913836,
+      "creationTime": 1754591621,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892026
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913836"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913823,
+      "creationTime": 1754591616,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892031
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913823"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913379,
+      "creationTime": 1754591493,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892154
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913379"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913357,
+      "creationTime": 1754591488,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892159
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913357"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913339,
+      "creationTime": 1754591483,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892164
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913339"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913320,
+      "creationTime": 1754591477,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892170
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913320"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913299,
+      "creationTime": 1754591472,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892175
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913299"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913270,
+      "creationTime": 1754591467,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892180
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913270"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913243,
+      "creationTime": 1754591461,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892186
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913243"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913218,
+      "creationTime": 1754591456,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892191
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913218"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913183,
+      "creationTime": 1754591452,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892195
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913183"
+    },
+    {
+      "type": "codeforces",
+      "id": 332913155,
+      "creationTime": 1754591445,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -392892202
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2127G2",
+        "name": "Inter Active (Hard Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2127/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2127/submission/332913155"
+    },
+    {
+      "type": "codeforces",
       "id": 332905936,
       "creationTime": 1754587973,
       "language": "C++20 (GCC 13-64)",
@@ -50,9 +887,13 @@
         "name": "23 Rises Again",
         "tags": [
           "brute force",
+          "data structures",
           "dfs and similar",
           "dp",
+          "flows",
           "graphs",
+          "implementation",
+          "probabilities",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/H"
@@ -78,9 +919,13 @@
         "name": "23 Rises Again",
         "tags": [
           "brute force",
+          "data structures",
           "dfs and similar",
           "dp",
+          "flows",
           "graphs",
+          "implementation",
+          "probabilities",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/H"
@@ -130,6 +975,11 @@
         "id": "2127E",
         "name": "Ancient Tree",
         "tags": [
+          "constructive algorithms",
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "greedy",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/E"
@@ -155,6 +1005,7 @@
         "name": "Root was Built by Love, Broken by Destiny",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "graphs",
           "trees"
         ],
@@ -230,7 +1081,11 @@
         "type": "codeforces",
         "id": "2127A",
         "name": "Mix Mex Max",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/2127/submission/332802854"
@@ -138642,7 +139497,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3820,
+    "rating": 3790,
     "maxRank": "tourist",
     "maxRating": 4009
   }
