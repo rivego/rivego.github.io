@@ -23,6 +23,8 @@
         "name": "Sea, You & copriMe",
         "tags": [
           "brute force",
+          "combinatorics",
+          "constructive algorithms",
           "graphs",
           "greedy",
           "math",
@@ -79,6 +81,7 @@
         "tags": [
           "binary search",
           "binary search",
+          "data structures",
           "greedy",
           "greedy",
           "math",
@@ -108,6 +111,7 @@
         "tags": [
           "binary search",
           "binary search",
+          "data structures",
           "greedy",
           "greedy",
           "math",
@@ -135,7 +139,6 @@
         "id": "2131E",
         "name": "Adjacent XOR",
         "tags": [
-          "greedy",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2131/problem/E"
@@ -160,9 +163,8 @@
         "id": "2131D",
         "name": "Arboris Contractio",
         "tags": [
+          "graphs",
           "greedy",
-          "greedy",
-          "trees",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2131/problem/D"
