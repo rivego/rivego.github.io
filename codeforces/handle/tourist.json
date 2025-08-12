@@ -23,7 +23,6 @@
         "name": "Sea, You & copriMe",
         "tags": [
           "brute force",
-          "combinatorics",
           "constructive algorithms",
           "graphs",
           "greedy",
@@ -54,6 +53,7 @@
         "tags": [
           "bitmasks",
           "brute force",
+          "dfs and similar",
           "dp",
           "math"
         ],
@@ -85,6 +85,7 @@
           "greedy",
           "greedy",
           "math",
+          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2131/problem/F"
@@ -115,6 +116,7 @@
           "greedy",
           "greedy",
           "math",
+          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2131/problem/F"
