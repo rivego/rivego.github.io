@@ -1227,7 +1227,9 @@
         "name": "Hamed and AghaBalaSar",
         "rating": 2800,
         "tags": [
+          "brute force",
           "combinatorics",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/F"
