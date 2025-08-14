@@ -1228,7 +1228,8 @@
           "brute force",
           "combinatorics",
           "dp",
-          "math"
+          "math",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/F"
       },
