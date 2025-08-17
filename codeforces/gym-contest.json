@@ -24094,5 +24094,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106034",
     "standingsUrl": "https://codeforces.com/gym/106034/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 USP Try-outs",
+    "startTime": 1755365700,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106039,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106039",
+    "standingsUrl": "https://codeforces.com/gym/106039/standings"
   }
 ]
