@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1755754825,
+  "updateTime": 1755797927,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 334876069,
+            "pid": "2132A",
+            "name": "Homework",
+            "verdict": "OK",
+            "creationTime": 1755789989
+          },
+          {
+            "platform": "codeforces",
+            "id": 334874380,
+            "pid": "2132B",
+            "name": "The Secret Number",
+            "verdict": "OK",
+            "creationTime": 1755789894
+          },
+          {
+            "platform": "codeforces",
+            "id": 334871684,
+            "pid": "2132C2",
+            "name": "The Cunning Seller (hard version)",
+            "verdict": "OK",
+            "creationTime": 1755789741
+          },
+          {
+            "platform": "codeforces",
+            "id": 334868098,
+            "pid": "2132C1",
+            "name": "The Cunning Seller (easy version)",
+            "verdict": "OK",
+            "creationTime": 1755789542
+          },
+          {
+            "platform": "codeforces",
+            "id": 334866097,
+            "pid": "2132D",
+            "name": "From 1 to Infinity",
+            "verdict": "OK",
+            "creationTime": 1755789435
+          },
+          {
+            "platform": "codeforces",
+            "id": 334857168,
+            "pid": "2132E",
+            "name": "Arithmetics Competition",
+            "verdict": "OK",
+            "creationTime": 1755788977
+          },
+          {
+            "platform": "codeforces",
+            "id": 334851190,
+            "pid": "2132F",
+            "name": "Rada and the Chamomile Valley",
+            "verdict": "OK",
+            "creationTime": 1755788685
+          },
+          {
+            "platform": "codeforces",
+            "id": 334835444,
+            "pid": "2132G",
+            "name": "Famous Choreographer",
+            "verdict": "OK",
+            "creationTime": 1755787971
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "85ccd0dbec446ae88c9eff81ec4852b72b49bc59"
+  "ref": "2e0427894e2b135099dc43d14d956bb2bdc8bc59"
 }
