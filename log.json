@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1755711508,
+  "updateTime": 1755754825,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 334634225,
-            "pid": "730I",
-            "name": "Olympiad in Programming and Sports",
-            "verdict": "OK",
-            "creationTime": 1755678004
-          },
-          {
-            "platform": "codeforces",
-            "id": 334626635,
-            "pid": "865D",
-            "name": "Buy Low Sell High",
-            "verdict": "OK",
-            "creationTime": 1755673469
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "37265e1d8c494b7a4917d8217b840829d9e138f1"
+  "ref": "85ccd0dbec446ae88c9eff81ec4852b72b49bc59"
 }
