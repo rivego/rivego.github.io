@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1756186821,
+  "updateTime": 1756229880,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 335459854,
-            "pid": "2133F",
-            "name": "Flint and Steel",
-            "verdict": "OK",
-            "creationTime": 1756107166
-          },
-          {
-            "platform": "codeforces",
-            "id": 335459768,
-            "pid": "2133F",
-            "name": "Flint and Steel",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1756107114
-          },
-          {
-            "platform": "codeforces",
-            "id": 335456583,
-            "pid": "2133E",
-            "name": "I Yearned For The Mines",
-            "verdict": "OK",
-            "creationTime": 1756105401
-          },
-          {
-            "platform": "codeforces",
-            "id": 335455400,
-            "pid": "2133D",
-            "name": "Chicken Jockey",
-            "verdict": "OK",
-            "creationTime": 1756104809
-          },
-          {
-            "platform": "codeforces",
-            "id": 335453870,
-            "pid": "2133C",
-            "name": "The Nether",
-            "verdict": "OK",
-            "creationTime": 1756104001
-          },
-          {
-            "platform": "codeforces",
-            "id": 335453765,
-            "pid": "2133C",
-            "name": "The Nether",
-            "verdict": "IDLENESS_LIMIT_EXCEEDED",
-            "creationTime": 1756103946
-          },
-          {
-            "platform": "codeforces",
-            "id": 335453571,
-            "pid": "2133C",
-            "name": "The Nether",
-            "verdict": "IDLENESS_LIMIT_EXCEEDED",
-            "creationTime": 1756103843
-          },
-          {
-            "platform": "codeforces",
-            "id": 335452831,
-            "pid": "2133B",
-            "name": "Villagers",
-            "verdict": "OK",
-            "creationTime": 1756103396
-          },
-          {
-            "platform": "codeforces",
-            "id": 335452256,
-            "pid": "2133A",
-            "name": "Redstone?",
-            "verdict": "OK",
-            "creationTime": 1756103086
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6f7be73758eb74d418712cabf77786a19372a1e8"
+  "ref": "47dd7c631d159767cc50f18cf414a57728e55f15"
 }
