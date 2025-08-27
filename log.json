@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1756273108,
+  "updateTime": 1756316254,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 335719397,
-            "pid": "2134F",
-            "name": "Permutation Oddness",
-            "verdict": "OK",
-            "creationTime": 1756235220
-          },
-          {
-            "platform": "codeforces",
-            "id": 335716947,
-            "pid": "2134E",
-            "name": "Power Boxes",
-            "verdict": "OK",
-            "creationTime": 1756233653
-          },
-          {
-            "platform": "codeforces",
-            "id": 335716416,
-            "pid": "2134E",
-            "name": "Power Boxes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1756233332
-          },
-          {
-            "platform": "codeforces",
-            "id": 335716358,
-            "pid": "2134E",
-            "name": "Power Boxes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1756233291
-          },
-          {
-            "platform": "codeforces",
-            "id": 335714900,
-            "pid": "2134D",
-            "name": "Sliding Tree",
-            "verdict": "OK",
-            "creationTime": 1756232559
-          },
-          {
-            "platform": "codeforces",
-            "id": 335713948,
-            "pid": "2134C",
-            "name": "Even Larger",
-            "verdict": "OK",
-            "creationTime": 1756232128
-          },
-          {
-            "platform": "codeforces",
-            "id": 335713366,
-            "pid": "2134B",
-            "name": "Add 0 or K",
-            "verdict": "OK",
-            "creationTime": 1756231840
-          },
-          {
-            "platform": "codeforces",
-            "id": 335713028,
-            "pid": "2134A",
-            "name": "Painting With Two Colors",
-            "verdict": "OK",
-            "creationTime": 1756231683
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7e94854ab6a0a97e63e81b0a2f77108f7f0b1993"
+  "ref": "cd636c039a4e6363b848b8541ae84126e9e0692b"
 }
