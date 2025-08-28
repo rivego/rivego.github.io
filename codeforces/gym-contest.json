@@ -24198,5 +24198,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106054",
     "standingsUrl": "https://codeforces.com/gym/106054/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 1st Universal Cup. Stage 18: Shenzhen",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106056,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106056",
+    "standingsUrl": "https://codeforces.com/gym/106056/standings"
   }
 ]
