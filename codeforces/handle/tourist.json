@@ -21,7 +21,13 @@
         "type": "codeforces",
         "id": "2135D2",
         "name": "From the Unknown (Hard Version)",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "brute force",
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/D2"
       },
       "submissionUrl": "https://codeforces.com/contest/2135/submission/335989794"
@@ -43,7 +49,13 @@
         "type": "codeforces",
         "id": "2135D2",
         "name": "From the Unknown (Hard Version)",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "brute force",
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/D2"
       },
       "submissionUrl": "https://codeforces.com/contest/2135/submission/335987869"
@@ -65,7 +77,13 @@
         "type": "codeforces",
         "id": "2135D2",
         "name": "From the Unknown (Hard Version)",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "brute force",
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/D2"
       },
       "submissionUrl": "https://codeforces.com/contest/2135/submission/335986615"
@@ -87,7 +105,11 @@
         "type": "codeforces",
         "id": "2135D1",
         "name": "From the Unknown (Easy Version)",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/D1"
       },
       "submissionUrl": "https://codeforces.com/contest/2135/submission/335972651"
@@ -109,7 +131,12 @@
         "type": "codeforces",
         "id": "2135C",
         "name": "By the Assignment",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "dfs and similar",
+          "dsu",
+          "graphs"
+        ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/2135/submission/335965466"
@@ -131,7 +158,11 @@
         "type": "codeforces",
         "id": "2135B",
         "name": "For the Champion",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/2135/submission/335957256"
@@ -153,7 +184,11 @@
         "type": "codeforces",
         "id": "2135B",
         "name": "For the Champion",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/2135/submission/335954630"
@@ -175,7 +210,10 @@
         "type": "codeforces",
         "id": "2135A",
         "name": "Against the Difference",
-        "tags": [],
+        "tags": [
+          "data structures",
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/2135/submission/335945430"
@@ -139968,7 +140006,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3790,
+    "rating": 3618,
     "maxRank": "tourist",
     "maxRating": 4009
   }
