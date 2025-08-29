@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1756445910,
+  "updateTime": 1756488987,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 336086358,
-            "pid": "2136B",
-            "name": "Like the Bitset",
-            "verdict": "OK",
-            "creationTime": 1756445439
-          },
-          {
-            "platform": "codeforces",
-            "id": 336086023,
-            "pid": "2136A",
-            "name": "In the Dream",
-            "verdict": "OK",
-            "creationTime": 1756445261
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "2c9471dda45f2880cdf27d8e4cf3ca3674675b97"
+  "ref": "ed0982aa0c1b5d51b4121cd182ba4eeef08f0799"
 }

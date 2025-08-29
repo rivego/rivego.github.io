@@ -25,8 +25,10 @@
           "binary search",
           "brute force",
           "constructive algorithms",
+          "divide and conquer",
           "interactive",
-          "math"
+          "math",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/D2"
       },
@@ -53,8 +55,10 @@
           "binary search",
           "brute force",
           "constructive algorithms",
+          "divide and conquer",
           "interactive",
-          "math"
+          "math",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/D2"
       },
@@ -81,8 +85,10 @@
           "binary search",
           "brute force",
           "constructive algorithms",
+          "divide and conquer",
           "interactive",
-          "math"
+          "math",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/D2"
       },
@@ -140005,7 +140011,7 @@
     }
   ],
   "codeforces": {
-    "rank": "legendary grandmaster",
+    "rank": "легендарный гроссмейстер",
     "rating": 3618,
     "maxRank": "tourist",
     "maxRating": 4009
