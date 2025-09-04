@@ -130,9 +130,12 @@
         "name": "By the Assignment",
         "tags": [
           "bitmasks",
+          "combinatorics",
           "dfs and similar",
           "dsu",
-          "graphs"
+          "graphs",
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2135/problem/C"
       },
