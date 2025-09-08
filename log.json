@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1757266406,
+  "updateTime": 1757309909,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 337240708,
-            "pid": "516C",
-            "name": "Drazil and Park",
-            "verdict": "OK",
-            "creationTime": 1757236674
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "98e430d11616b8425544406a133261fd70c1460b"
+  "ref": "22a366e4283b11f60d20801d746f76063ae8a64a"
 }
