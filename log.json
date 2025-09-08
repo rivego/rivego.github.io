@@ -1,9 +1,126 @@
 {
   "version": "0.1.29",
-  "updateTime": 1757309909,
+  "updateTime": 1757353057,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 337624303,
+            "pid": "2138E1",
+            "name": "Determinant Construction (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1757347250
+          },
+          {
+            "platform": "codeforces",
+            "id": 337603285,
+            "pid": "2138D",
+            "name": "Antiamuny and Slider Movement",
+            "verdict": "OK",
+            "creationTime": 1757345028
+          },
+          {
+            "platform": "codeforces",
+            "id": 337585582,
+            "pid": "2138C2",
+            "name": "Maple and Tree Beauty (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1757343538
+          },
+          {
+            "platform": "codeforces",
+            "id": 337585056,
+            "pid": "2138C1",
+            "name": "Maple and Tree Beauty (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1757343501
+          },
+          {
+            "platform": "codeforces",
+            "id": 337570452,
+            "pid": "2138B",
+            "name": "Antiamuny Wants to Learn Swap",
+            "verdict": "OK",
+            "creationTime": 1757342677
+          },
+          {
+            "platform": "codeforces",
+            "id": 337559464,
+            "pid": "2138A",
+            "name": "Cake Assignment",
+            "verdict": "OK",
+            "creationTime": 1757342262
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 337641768,
+            "pid": "2138E1",
+            "name": "Determinant Construction (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1757349593
+          },
+          {
+            "platform": "codeforces",
+            "id": 337641583,
+            "pid": "2138E1",
+            "name": "Determinant Construction (Easy Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1757349562
+          },
+          {
+            "platform": "codeforces",
+            "id": 337596493,
+            "pid": "2138D",
+            "name": "Antiamuny and Slider Movement",
+            "verdict": "OK",
+            "creationTime": 1757344404
+          },
+          {
+            "platform": "codeforces",
+            "id": 337581692,
+            "pid": "2138C1",
+            "name": "Maple and Tree Beauty (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1757343280
+          },
+          {
+            "platform": "codeforces",
+            "id": 337581545,
+            "pid": "2138C2",
+            "name": "Maple and Tree Beauty (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1757343269
+          },
+          {
+            "platform": "codeforces",
+            "id": 337571542,
+            "pid": "2138B",
+            "name": "Antiamuny Wants to Learn Swap",
+            "verdict": "OK",
+            "creationTime": 1757342732
+          },
+          {
+            "platform": "codeforces",
+            "id": 337564765,
+            "pid": "2138A",
+            "name": "Cake Assignment",
+            "verdict": "OK",
+            "creationTime": 1757342423
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "22a366e4283b11f60d20801d746f76063ae8a64a"
+  "ref": "bdc882d15cec200c83b550cedb20b2edc1761cd6"
 }
