@@ -21,7 +21,10 @@
         "type": "codeforces",
         "id": "2138E1",
         "name": "Determinant Construction (Easy Version)",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "matrices"
+        ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/E1"
       },
       "submissionUrl": "https://codeforces.com/contest/2138/submission/337624303"
@@ -43,7 +46,13 @@
         "type": "codeforces",
         "id": "2138D",
         "name": "Antiamuny and Slider Movement",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "brute force",
+          "combinatorics",
+          "implementation",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2138/submission/337603285"
@@ -65,7 +74,15 @@
         "type": "codeforces",
         "id": "2138C2",
         "name": "Maple and Tree Beauty (Hard Version)",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dfs and similar",
+          "divide and conquer",
+          "dp",
+          "fft",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/C2"
       },
       "submissionUrl": "https://codeforces.com/contest/2138/submission/337585582"
@@ -87,7 +104,12 @@
         "type": "codeforces",
         "id": "2138C1",
         "name": "Maple and Tree Beauty (Easy Version)",
-        "tags": [],
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/C1"
       },
       "submissionUrl": "https://codeforces.com/contest/2138/submission/337585056"
@@ -109,7 +131,10 @@
         "type": "codeforces",
         "id": "2138B",
         "name": "Antiamuny Wants to Learn Swap",
-        "tags": [],
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/2138/submission/337570452"
@@ -131,7 +156,10 @@
         "type": "codeforces",
         "id": "2138A",
         "name": "Cake Assignment",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "constructive algorithms"
+        ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/2138/submission/337559464"
