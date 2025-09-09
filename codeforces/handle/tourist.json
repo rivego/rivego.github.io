@@ -22,8 +22,11 @@
         "id": "2138E1",
         "name": "Determinant Construction (Easy Version)",
         "tags": [
+          "brute force",
           "constructive algorithms",
-          "matrices"
+          "math",
+          "matrices",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/E1"
       },
@@ -78,7 +81,6 @@
           "bitmasks",
           "brute force",
           "dfs and similar",
-          "divide and conquer",
           "dp",
           "fft",
           "trees"
@@ -105,6 +107,7 @@
         "id": "2138C1",
         "name": "Maple and Tree Beauty (Easy Version)",
         "tags": [
+          "brute force",
           "dfs and similar",
           "dp",
           "graphs",
@@ -158,7 +161,8 @@
         "name": "Cake Assignment",
         "tags": [
           "bitmasks",
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/A"
       },
