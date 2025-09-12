@@ -50,11 +50,11 @@
         "id": "2138D",
         "name": "Antiamuny and Slider Movement",
         "tags": [
-          "binary search",
           "brute force",
           "combinatorics",
           "implementation",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/D"
       },
@@ -136,7 +136,8 @@
         "name": "Antiamuny Wants to Learn Swap",
         "tags": [
           "data structures",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/B"
       },
