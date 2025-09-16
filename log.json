@@ -1,23 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1758001058,
+  "updateTime": 1758044171,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 338824675,
-            "pid": "2144F",
-            "name": "Bracket Groups",
-            "creationTime": 1757959259
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5b48cca778f636ce318f15127d9d14d74df15866"
+  "ref": "07eaf26a51bb97c23465d542956affa9e6468dd9"
 }
