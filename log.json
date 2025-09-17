@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1758087488,
+  "updateTime": 1758130556,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 339162261,
+            "pid": "2143F",
+            "name": "Increasing Xor",
+            "verdict": "TESTING",
+            "creationTime": 1758130461
+          },
+          {
+            "platform": "codeforces",
+            "id": 339045527,
+            "pid": "2144A",
+            "name": "Cut the Array",
+            "verdict": "OK",
+            "creationTime": 1758097418
+          },
+          {
+            "platform": "codeforces",
+            "id": 339045186,
+            "pid": "2144B",
+            "name": "Maximum Cost Permutation",
+            "verdict": "OK",
+            "creationTime": 1758097198
+          },
+          {
+            "platform": "codeforces",
+            "id": 339044988,
+            "pid": "2144B",
+            "name": "Maximum Cost Permutation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1758097068
+          },
+          {
+            "platform": "codeforces",
+            "id": 339044483,
+            "pid": "2144C",
+            "name": "Non-Descending Arrays",
+            "verdict": "OK",
+            "creationTime": 1758096770
+          },
+          {
+            "platform": "codeforces",
+            "id": 339044173,
+            "pid": "2144D",
+            "name": "Price Tags",
+            "verdict": "OK",
+            "creationTime": 1758096583
+          },
+          {
+            "platform": "codeforces",
+            "id": 339039893,
+            "pid": "2144E1",
+            "name": "Looking at Towers (easy version)",
+            "verdict": "OK",
+            "creationTime": 1758093927
+          },
+          {
+            "platform": "codeforces",
+            "id": 339039879,
+            "pid": "2144E2",
+            "name": "Looking at Towers (difficult version)",
+            "verdict": "OK",
+            "creationTime": 1758093920
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b7e96e12680bbd3a7a4edb04abd175acf95c787d"
+  "ref": "99d6c1b867b03b60501daab799471889e3f45f46"
 }
