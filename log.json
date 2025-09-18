@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1758173845,
+  "updateTime": 1758216992,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 339162755,
-            "pid": "2143A",
-            "name": "All Lengths Subtraction",
-            "verdict": "OK",
-            "creationTime": 1758130660
-          },
-          {
-            "platform": "codeforces",
-            "id": 339162737,
-            "pid": "2143B",
-            "name": "Discounts",
-            "verdict": "OK",
-            "creationTime": 1758130649
-          },
-          {
-            "platform": "codeforces",
-            "id": 339162718,
-            "pid": "2143C",
-            "name": "Max Tree",
-            "verdict": "OK",
-            "creationTime": 1758130642
-          },
-          {
-            "platform": "codeforces",
-            "id": 339162697,
-            "pid": "2143D1",
-            "name": "Inversion Graph Coloring (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1758130633
-          },
-          {
-            "platform": "codeforces",
-            "id": 339162605,
-            "pid": "2143D2",
-            "name": "Inversion Graph Coloring (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1758130599
-          },
-          {
-            "platform": "codeforces",
-            "id": 339162568,
-            "pid": "2143E",
-            "name": "Make Good",
-            "verdict": "OK",
-            "creationTime": 1758130581
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3299d106c54d1a433e204c0c1bbb26e753f493a8"
+  "ref": "571d6cfb1daad2920b4c851dfa493c49074133e1"
 }
