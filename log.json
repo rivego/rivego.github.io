@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1758130556,
+  "updateTime": 1758173845,
   "history": {
     "user": [
       {
@@ -8,67 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 339162261,
-            "pid": "2143F",
-            "name": "Increasing Xor",
-            "verdict": "TESTING",
-            "creationTime": 1758130461
-          },
-          {
-            "platform": "codeforces",
-            "id": 339045527,
-            "pid": "2144A",
-            "name": "Cut the Array",
+            "id": 339162755,
+            "pid": "2143A",
+            "name": "All Lengths Subtraction",
             "verdict": "OK",
-            "creationTime": 1758097418
+            "creationTime": 1758130660
           },
           {
             "platform": "codeforces",
-            "id": 339045186,
-            "pid": "2144B",
-            "name": "Maximum Cost Permutation",
+            "id": 339162737,
+            "pid": "2143B",
+            "name": "Discounts",
             "verdict": "OK",
-            "creationTime": 1758097198
+            "creationTime": 1758130649
           },
           {
             "platform": "codeforces",
-            "id": 339044988,
-            "pid": "2144B",
-            "name": "Maximum Cost Permutation",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1758097068
-          },
-          {
-            "platform": "codeforces",
-            "id": 339044483,
-            "pid": "2144C",
-            "name": "Non-Descending Arrays",
+            "id": 339162718,
+            "pid": "2143C",
+            "name": "Max Tree",
             "verdict": "OK",
-            "creationTime": 1758096770
+            "creationTime": 1758130642
           },
           {
             "platform": "codeforces",
-            "id": 339044173,
-            "pid": "2144D",
-            "name": "Price Tags",
+            "id": 339162697,
+            "pid": "2143D1",
+            "name": "Inversion Graph Coloring (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1758096583
+            "creationTime": 1758130633
           },
           {
             "platform": "codeforces",
-            "id": 339039893,
-            "pid": "2144E1",
-            "name": "Looking at Towers (easy version)",
+            "id": 339162605,
+            "pid": "2143D2",
+            "name": "Inversion Graph Coloring (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1758093927
+            "creationTime": 1758130599
           },
           {
             "platform": "codeforces",
-            "id": 339039879,
-            "pid": "2144E2",
-            "name": "Looking at Towers (difficult version)",
+            "id": 339162568,
+            "pid": "2143E",
+            "name": "Make Good",
             "verdict": "OK",
-            "creationTime": 1758093920
+            "creationTime": 1758130581
           }
         ],
         "newContests": []
@@ -76,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "99d6c1b867b03b60501daab799471889e3f45f46"
+  "ref": "3299d106c54d1a433e204c0c1bbb26e753f493a8"
 }
