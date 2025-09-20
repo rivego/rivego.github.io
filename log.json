@@ -1,9 +1,216 @@
 {
   "version": "0.1.29",
-  "updateTime": 1758346652,
+  "updateTime": 1758389597,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 339592050,
+            "pid": "2147H",
+            "name": "Maxflow GCD Coloring",
+            "verdict": "OK",
+            "creationTime": 1758387573
+          },
+          {
+            "platform": "codeforces",
+            "id": 339590361,
+            "pid": "2147H",
+            "name": "Maxflow GCD Coloring",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1758387273
+          },
+          {
+            "platform": "codeforces",
+            "id": 339588430,
+            "pid": "2147H",
+            "name": "Maxflow GCD Coloring",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1758386930
+          },
+          {
+            "platform": "codeforces",
+            "id": 339586310,
+            "pid": "2147H",
+            "name": "Maxflow GCD Coloring",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1758386574
+          },
+          {
+            "platform": "codeforces",
+            "id": 339572276,
+            "pid": "2147G",
+            "name": "Modular Tetration",
+            "verdict": "OK",
+            "creationTime": 1758384442
+          },
+          {
+            "platform": "codeforces",
+            "id": 339550417,
+            "pid": "2147F",
+            "name": "Exchange Queries",
+            "verdict": "OK",
+            "creationTime": 1758381862
+          },
+          {
+            "platform": "codeforces",
+            "id": 339541087,
+            "pid": "2147E",
+            "name": "Maximum OR Popcount",
+            "verdict": "OK",
+            "creationTime": 1758380911
+          },
+          {
+            "platform": "codeforces",
+            "id": 339539322,
+            "pid": "2147E",
+            "name": "Maximum OR Popcount",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1758380744
+          },
+          {
+            "platform": "codeforces",
+            "id": 339532392,
+            "pid": "2147D",
+            "name": "Game on Array",
+            "verdict": "OK",
+            "creationTime": 1758380110
+          },
+          {
+            "platform": "codeforces",
+            "id": 339526178,
+            "pid": "2147C",
+            "name": "Rabbits",
+            "verdict": "OK",
+            "creationTime": 1758379638
+          },
+          {
+            "platform": "codeforces",
+            "id": 339519371,
+            "pid": "2147B",
+            "name": "Multiple Construction",
+            "verdict": "OK",
+            "creationTime": 1758379227
+          },
+          {
+            "platform": "codeforces",
+            "id": 339517197,
+            "pid": "2147A",
+            "name": "Shortest Increasing Path",
+            "verdict": "OK",
+            "creationTime": 1758379080
+          },
+          {
+            "platform": "codeforces",
+            "id": 339492400,
+            "pid": "2140F",
+            "name": "Sum Minimisation",
+            "verdict": "OK",
+            "creationTime": 1758366855
+          },
+          {
+            "platform": "codeforces",
+            "id": 339491707,
+            "pid": "2140F",
+            "name": "Sum Minimisation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1758366530
+          },
+          {
+            "platform": "codeforces",
+            "id": 339491411,
+            "pid": "2140F",
+            "name": "Sum Minimisation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1758366396
+          },
+          {
+            "platform": "codeforces",
+            "id": 339491348,
+            "pid": "2140F",
+            "name": "Sum Minimisation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1758366363
+          },
+          {
+            "platform": "codeforces",
+            "id": 339467961,
+            "pid": "2148A",
+            "name": "Sublime Sequence",
+            "verdict": "OK",
+            "creationTime": 1758353058
+          },
+          {
+            "platform": "codeforces",
+            "id": 339467871,
+            "pid": "2148B",
+            "name": "Lasers",
+            "verdict": "OK",
+            "creationTime": 1758353006
+          },
+          {
+            "platform": "codeforces",
+            "id": 339467668,
+            "pid": "2148C",
+            "name": "Pacer",
+            "verdict": "OK",
+            "creationTime": 1758352888
+          },
+          {
+            "platform": "codeforces",
+            "id": 339467443,
+            "pid": "2148D",
+            "name": "Destruction of the Dandelion Fields",
+            "verdict": "OK",
+            "creationTime": 1758352762
+          },
+          {
+            "platform": "codeforces",
+            "id": 339467436,
+            "pid": "2148D",
+            "name": "Destruction of the Dandelion Fields",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1758352757
+          },
+          {
+            "platform": "codeforces",
+            "id": 339467341,
+            "pid": "2148D",
+            "name": "Destruction of the Dandelion Fields",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1758352697
+          },
+          {
+            "platform": "codeforces",
+            "id": 339467015,
+            "pid": "2148E",
+            "name": "Split",
+            "verdict": "OK",
+            "creationTime": 1758352499
+          },
+          {
+            "platform": "codeforces",
+            "id": 339466407,
+            "pid": "2148F",
+            "name": "Gravity Falls",
+            "verdict": "OK",
+            "creationTime": 1758352148
+          },
+          {
+            "platform": "codeforces",
+            "id": 339465260,
+            "pid": "2148G",
+            "name": "Farmer John's Last Wish",
+            "verdict": "OK",
+            "creationTime": 1758351484
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "38acea8868096bb890a401da03b12044f002434e"
+  "ref": "a696f28a38e3991d0e183e1eee9ee6aa02cf6950"
 }
