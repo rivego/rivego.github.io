@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1758476055,
+  "updateTime": 1758519504,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 339750951,
-            "pid": "2146A",
-            "name": "Equal Occurrences",
-            "verdict": "OK",
-            "creationTime": 1758468413
-          },
-          {
-            "platform": "codeforces",
-            "id": 339750186,
-            "pid": "2146B",
-            "name": "Merging the Sets",
-            "verdict": "OK",
-            "creationTime": 1758468326
-          },
-          {
-            "platform": "codeforces",
-            "id": 339748779,
-            "pid": "2146C",
-            "name": "Wrong Binary Search",
-            "verdict": "OK",
-            "creationTime": 1758468173
-          },
-          {
-            "platform": "codeforces",
-            "id": 339747184,
-            "pid": "2146D1",
-            "name": "Max Sum OR (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1758467991
-          },
-          {
-            "platform": "codeforces",
-            "id": 339746999,
-            "pid": "2146D2",
-            "name": "Max Sum OR (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1758467973
-          },
-          {
-            "platform": "codeforces",
-            "id": 339742454,
-            "pid": "2146E",
-            "name": "Yet Another MEX Problem",
-            "verdict": "OK",
-            "creationTime": 1758467499
-          },
-          {
-            "platform": "codeforces",
-            "id": 339735528,
-            "pid": "2146F",
-            "name": "Bubble Sort",
-            "verdict": "OK",
-            "creationTime": 1758466833
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "40b40cae00c65b7e4614d62beb7a9fab2e2b34a9"
+  "ref": "6b17fe5fa2aa58ce2e6f034ca3306a22af36c0d4"
 }
