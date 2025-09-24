@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1758692271,
+  "updateTime": 1758735483,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 340200812,
+            "pid": "2150F",
+            "name": "Cycle Closing",
+            "verdict": "OK",
+            "creationTime": 1758722624
+          },
+          {
+            "platform": "codeforces",
+            "id": 340182552,
+            "pid": "2150E1",
+            "name": "Hidden Single (Version 1)",
+            "verdict": "OK",
+            "creationTime": 1758718804
+          },
+          {
+            "platform": "codeforces",
+            "id": 340176069,
+            "pid": "2150D",
+            "name": "Attraction Theory",
+            "verdict": "OK",
+            "creationTime": 1758717582
+          },
+          {
+            "platform": "codeforces",
+            "id": 340162953,
+            "pid": "2150B",
+            "name": "Grid Counting",
+            "verdict": "OK",
+            "creationTime": 1758715518
+          },
+          {
+            "platform": "codeforces",
+            "id": 340162749,
+            "pid": "2150C",
+            "name": "Limited Edition Shop",
+            "verdict": "OK",
+            "creationTime": 1758715489
+          },
+          {
+            "platform": "codeforces",
+            "id": 340158729,
+            "pid": "2150B",
+            "name": "Grid Counting",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1758714937
+          },
+          {
+            "platform": "codeforces",
+            "id": 340149532,
+            "pid": "2150A",
+            "name": "Incremental Path",
+            "verdict": "OK",
+            "creationTime": 1758714064
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "d4e8b5dbb91e87bf6740489514cc456259adf74f"
+  "ref": "41ee68c0a92eb56d8e796a3ec700d5e7192fafa6"
 }
