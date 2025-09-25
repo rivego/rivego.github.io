@@ -6,6 +6,174 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 340503015,
+      "creationTime": 1758818660,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1758810900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2149E",
+        "name": "Hidden Knowledge of the Ancients",
+        "tags": [
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2149/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2149/submission/340503015"
+    },
+    {
+      "type": "codeforces",
+      "id": 340487991,
+      "creationTime": 1758817136,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1758810900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2149D",
+        "name": "A and B",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2149/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2149/submission/340487991"
+    },
+    {
+      "type": "codeforces",
+      "id": 340474127,
+      "creationTime": 1758815871,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1758810900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2149D",
+        "name": "A and B",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2149/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2149/submission/340474127"
+    },
+    {
+      "type": "codeforces",
+      "id": 340471070,
+      "creationTime": 1758815620,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1758810900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2149D",
+        "name": "A and B",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2149/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2149/submission/340471070"
+    },
+    {
+      "type": "codeforces",
+      "id": 340423887,
+      "creationTime": 1758812724,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1758810900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2149C",
+        "name": "MEX rose",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2149/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2149/submission/340423887"
+    },
+    {
+      "type": "codeforces",
+      "id": 340409572,
+      "creationTime": 1758812134,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1758810900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2149B",
+        "name": "Unconventional Pairs",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2149/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2149/submission/340409572"
+    },
+    {
+      "type": "codeforces",
+      "id": 340380838,
+      "creationTime": 1758811225,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Kenshin2438"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1758810900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2149A",
+        "name": "Be Positive",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2149/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2149/submission/340380838"
+    },
+    {
+      "type": "codeforces",
       "id": 332747764,
       "creationTime": 1754554117,
       "language": "C++23 (GCC 14-64, msys2)",
