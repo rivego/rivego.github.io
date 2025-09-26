@@ -9,7 +9,7 @@
       "id": 340503015,
       "creationTime": 1758818660,
       "language": "C++23 (GCC 14-64, msys2)",
-      "verdict": "OK",
+      "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
           "Kenshin2438"
