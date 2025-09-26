@@ -118,7 +118,9 @@
         "type": "codeforces",
         "id": "2149C",
         "name": "MEX rose",
-        "tags": [],
+        "tags": [
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/2149/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/2149/submission/340423887"
