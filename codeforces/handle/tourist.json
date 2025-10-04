@@ -74,8 +74,11 @@
         "tags": [
           "brute force",
           "data structures",
+          "dp",
+          "graphs",
           "greedy",
-          "trees"
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/F"
       },
@@ -101,8 +104,11 @@
         "tags": [
           "brute force",
           "data structures",
+          "dp",
+          "graphs",
           "greedy",
-          "trees"
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/F"
       },
@@ -127,9 +133,7 @@
         "name": "Query Jungle",
         "tags": [
           "data structures",
-          "data structures",
           "implementation",
-          "math",
           "math",
           "trees"
         ],
@@ -155,11 +159,9 @@
         "id": "2152E",
         "name": "Monotone Subsequence",
         "tags": [
-          "brute force",
           "constructive algorithms",
-          "dp",
-          "graphs",
           "interactive",
+          "math",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/E"
@@ -185,8 +187,8 @@
         "name": "Division Versus Addition",
         "tags": [
           "bitmasks",
-          "data structures",
-          "games"
+          "games",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/D"
       },
