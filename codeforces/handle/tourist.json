@@ -161,7 +161,6 @@
         "tags": [
           "constructive algorithms",
           "interactive",
-          "math",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/E"
@@ -186,7 +185,6 @@
         "id": "2152D",
         "name": "Division Versus Addition",
         "tags": [
-          "bitmasks",
           "games",
           "math"
         ],
@@ -263,7 +261,8 @@
         "id": "2152A",
         "name": "Increase or Smash",
         "tags": [
-          "implementation"
+          "implementation",
+          "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/A"
       },
