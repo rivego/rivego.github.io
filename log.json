@@ -1,128 +1,34 @@
 {
   "version": "0.1.29",
-  "updateTime": 1759685613,
+  "updateTime": 1759729086,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 342070375,
-            "pid": "2155F",
-            "name": "Juan's Colorful Tree",
-            "verdict": "OK",
-            "creationTime": 1759684404
-          },
-          {
-            "platform": "codeforces",
-            "id": 342057845,
-            "pid": "2155E",
-            "name": "Mimo & Yuyu",
-            "verdict": "OK",
-            "creationTime": 1759683388
-          },
-          {
-            "platform": "codeforces",
-            "id": 342056923,
-            "pid": "2155E",
-            "name": "Mimo & Yuyu",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1759683321
-          },
-          {
-            "platform": "codeforces",
-            "id": 342052533,
-            "pid": "2155D",
-            "name": "Batteries",
-            "verdict": "OK",
-            "creationTime": 1759683015
-          },
-          {
-            "platform": "codeforces",
-            "id": 342045184,
-            "pid": "2155C",
-            "name": "The Ancient Wizards' Capes",
-            "verdict": "OK",
-            "creationTime": 1759682550
-          },
-          {
-            "platform": "codeforces",
-            "id": 342041165,
-            "pid": "2155B",
-            "name": "Abraham's Great Escape",
-            "verdict": "OK",
-            "creationTime": 1759682291
-          },
-          {
-            "platform": "codeforces",
-            "id": 342040183,
-            "pid": "2155A",
-            "name": "El fucho",
-            "verdict": "OK",
-            "creationTime": 1759682150
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 342078924,
-            "pid": "2155E",
-            "name": "Mimo & Yuyu",
+            "id": 342095346,
+            "pid": "2155F",
+            "name": "Juan's Colorful Tree",
             "verdict": "OK",
-            "creationTime": 1759685185
+            "creationTime": 1759686892
           },
           {
             "platform": "codeforces",
-            "id": 342077516,
-            "pid": "2155E",
-            "name": "Mimo & Yuyu",
+            "id": 342094848,
+            "pid": "2155F",
+            "name": "Juan's Colorful Tree",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1759686836
+          },
+          {
+            "platform": "codeforces",
+            "id": 342094296,
+            "pid": "2155F",
+            "name": "Juan's Colorful Tree",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1759685059
-          },
-          {
-            "platform": "codeforces",
-            "id": 342072913,
-            "pid": "2155D",
-            "name": "Batteries",
-            "verdict": "OK",
-            "creationTime": 1759684629
-          },
-          {
-            "platform": "codeforces",
-            "id": 342062828,
-            "pid": "2155C",
-            "name": "The Ancient Wizards' Capes",
-            "verdict": "OK",
-            "creationTime": 1759683774
-          },
-          {
-            "platform": "codeforces",
-            "id": 342054587,
-            "pid": "2155B",
-            "name": "Abraham's Great Escape",
-            "verdict": "OK",
-            "creationTime": 1759683160
-          },
-          {
-            "platform": "codeforces",
-            "id": 342051467,
-            "pid": "2155A",
-            "name": "El fucho",
-            "verdict": "OK",
-            "creationTime": 1759682942
-          },
-          {
-            "platform": "codeforces",
-            "id": 341954837,
-            "pid": "936D",
-            "name": "World of Tank",
-            "verdict": "OK",
-            "creationTime": 1759647662
+            "creationTime": 1759686775
           }
         ],
         "newContests": []
@@ -130,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "4294ed275d5bfacc3e3668d4a48983da0c853b0c"
+  "ref": "e76da147b734f9c471214d5bc85357524a237067"
 }

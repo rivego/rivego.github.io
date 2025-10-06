@@ -21,7 +21,16 @@
         "type": "codeforces",
         "id": "2155F",
         "name": "Juan's Colorful Tree",
-        "tags": [],
+        "tags": [
+          "data structures",
+          "data structures",
+          "dfs and similar",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "graphs",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/2155/submission/342070375"
@@ -43,7 +52,11 @@
         "type": "codeforces",
         "id": "2155E",
         "name": "Mimo & Yuyu",
-        "tags": [],
+        "tags": [
+          "games",
+          "greedy",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/2155/submission/342057845"
@@ -65,7 +78,11 @@
         "type": "codeforces",
         "id": "2155E",
         "name": "Mimo & Yuyu",
-        "tags": [],
+        "tags": [
+          "games",
+          "greedy",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/2155/submission/342056923"
@@ -87,7 +104,10 @@
         "type": "codeforces",
         "id": "2155D",
         "name": "Batteries",
-        "tags": [],
+        "tags": [
+          "interactive",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2155/submission/342052533"
@@ -109,7 +129,11 @@
         "type": "codeforces",
         "id": "2155C",
         "name": "The Ancient Wizards' Capes",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "dp",
+          "implementation"
+        ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/2155/submission/342045184"
@@ -131,7 +155,10 @@
         "type": "codeforces",
         "id": "2155B",
         "name": "Abraham's Great Escape",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/2155/submission/342041165"
@@ -153,7 +180,10 @@
         "type": "codeforces",
         "id": "2155A",
         "name": "El fucho",
-        "tags": [],
+        "tags": [
+          "implementation",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/2155/submission/342040183"
@@ -395,6 +425,7 @@
         "id": "2152B",
         "name": "Catching the Krug",
         "tags": [
+          "binary search",
           "games",
           "math"
         ],
