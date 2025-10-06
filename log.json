@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1759729086,
+  "updateTime": 1759772235,
   "history": {
     "user": [
       {
@@ -8,27 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 342095346,
-            "pid": "2155F",
-            "name": "Juan's Colorful Tree",
+            "id": 342337425,
+            "pid": "2145F",
+            "name": "Long Journey",
             "verdict": "OK",
-            "creationTime": 1759686892
+            "creationTime": 1759772173
           },
           {
             "platform": "codeforces",
-            "id": 342094848,
-            "pid": "2155F",
-            "name": "Juan's Colorful Tree",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1759686836
-          },
-          {
-            "platform": "codeforces",
-            "id": 342094296,
-            "pid": "2155F",
-            "name": "Juan's Colorful Tree",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1759686775
+            "id": 342318057,
+            "pid": "2145G",
+            "name": "Cost of Coloring",
+            "verdict": "OK",
+            "creationTime": 1759767690
           }
         ],
         "newContests": []
@@ -36,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "e76da147b734f9c471214d5bc85357524a237067"
+  "ref": "424fcd0f12a7adc7cb0a36e810350d5d229ac27a"
 }
