@@ -28,6 +28,7 @@
           "dsu",
           "graphs",
           "graphs",
+          "meet-in-the-middle",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/F"
@@ -58,6 +59,7 @@
           "dsu",
           "graphs",
           "graphs",
+          "meet-in-the-middle",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/F"
@@ -461,7 +463,6 @@
         "id": "2152B",
         "name": "Catching the Krug",
         "tags": [
-          "binary search",
           "games",
           "math"
         ],

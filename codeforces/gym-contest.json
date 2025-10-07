@@ -24452,5 +24452,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106104",
     "standingsUrl": "https://codeforces.com/gym/106104/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Уральская командная олимпиада по программированию Юниоры 2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106106,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106106",
+    "standingsUrl": "https://codeforces.com/gym/106106/standings"
   }
 ]
