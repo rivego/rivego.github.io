@@ -1,26 +1,59 @@
 {
   "version": "0.1.29",
-  "updateTime": 1759772235,
+  "updateTime": 1759815460,
   "history": {
     "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 342365316,
+            "pid": "2155F",
+            "name": "Juan's Colorful Tree",
+            "verdict": "OK",
+            "creationTime": 1759791609
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 342337425,
-            "pid": "2145F",
-            "name": "Long Journey",
-            "verdict": "OK",
-            "creationTime": 1759772173
+            "id": 342341788,
+            "pid": "2145A",
+            "name": "Candies for Nephews",
+            "creationTime": 1759773875
           },
           {
             "platform": "codeforces",
-            "id": 342318057,
-            "pid": "2145G",
-            "name": "Cost of Coloring",
-            "verdict": "OK",
-            "creationTime": 1759767690
+            "id": 342341667,
+            "pid": "2145B",
+            "name": "Deck of Cards",
+            "creationTime": 1759773819
+          },
+          {
+            "platform": "codeforces",
+            "id": 342341084,
+            "pid": "2145C",
+            "name": "Monocarp's String",
+            "creationTime": 1759773568
+          },
+          {
+            "platform": "codeforces",
+            "id": 342340682,
+            "pid": "2145D",
+            "name": "Inversion Value of a Permutation",
+            "creationTime": 1759773396
+          },
+          {
+            "platform": "codeforces",
+            "id": 342339694,
+            "pid": "2145E",
+            "name": "Predicting Popularity",
+            "creationTime": 1759773009
           }
         ],
         "newContests": []
@@ -28,5 +61,5 @@
     ],
     "contest": []
   },
-  "ref": "424fcd0f12a7adc7cb0a36e810350d5d229ac27a"
+  "ref": "0a2c0cfc9f37a747c3816ade60738e036497e13e"
 }
