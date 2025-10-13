@@ -22,6 +22,7 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
+          "binary search",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
@@ -32,6 +33,31 @@
       "type": "codeforces",
       "id": 343402393,
       "creationTime": 1760288690,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "SKIPPED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "binary search",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343402393"
+    },
+    {
+      "type": "codeforces",
+      "id": 343402014,
+      "creationTime": 1760288664,
       "language": "C++20 (GCC 13-64)",
       "verdict": "OK",
       "author": {
@@ -46,29 +72,7 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
-        ],
-        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
-      },
-      "submissionUrl": "https://codeforces.com/contest/2159/submission/343402393"
-    },
-    {
-      "type": "codeforces",
-      "id": 343402014,
-      "creationTime": 1760288664,
-      "language": "C++20 (GCC 13-64)",
-      "author": {
-        "members": [
-          "tourist"
-        ],
-        "participantType": "CONTESTANT",
-        "participantTime": 1760279700
-      },
-      "problem": {
-        "type": "codeforces",
-        "id": "2159F",
-        "name": "Grand Finale: Snakes",
-        "tags": [
+          "binary search",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
@@ -93,6 +97,7 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
+          "binary search",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
@@ -117,6 +122,7 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
+          "binary search",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
@@ -141,6 +147,7 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
+          "binary search",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
@@ -165,6 +172,7 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
+          "binary search",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
@@ -189,6 +197,7 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
+          "binary search",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
@@ -213,6 +222,7 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
+          "binary search",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
@@ -237,6 +247,7 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
+          "binary search",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
@@ -248,6 +259,7 @@
       "id": 343374137,
       "creationTime": 1760285070,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -310,11 +322,11 @@
         "id": "2159D1",
         "name": "Inverse Minimum Partition (Easy Version)",
         "tags": [
-          "dp",
-          "dp",
-          "dp",
+          "binary search",
+          "data structures",
           "dp",
           "greedy",
+          "math",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/D1"
@@ -338,7 +350,12 @@
         "type": "codeforces",
         "id": "2159C",
         "name": "Twin Polynomials",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "dp",
+          "graphs",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/2159/submission/343344548"
@@ -361,9 +378,8 @@
         "id": "2159B",
         "name": "Rectangles",
         "tags": [
+          "data structures",
           "implementation",
-          "implementation",
-          "two pointers",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/B"
@@ -388,8 +404,8 @@
         "id": "2159A",
         "name": "MAD Interactive Problem",
         "tags": [
+          "constructive algorithms",
           "implementation",
-          "interactive",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/A"
@@ -141490,7 +141506,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3617,
+    "rating": 3630,
     "maxRank": "tourist",
     "maxRating": 4009
   }
