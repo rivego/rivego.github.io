@@ -23,7 +23,8 @@
         "name": "Grand Finale: Snakes",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -48,7 +49,8 @@
         "name": "Grand Finale: Snakes",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -73,7 +75,8 @@
         "name": "Grand Finale: Snakes",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -98,7 +101,8 @@
         "name": "Grand Finale: Snakes",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -123,7 +127,8 @@
         "name": "Grand Finale: Snakes",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -148,7 +153,8 @@
         "name": "Grand Finale: Snakes",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -173,7 +179,8 @@
         "name": "Grand Finale: Snakes",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -198,7 +205,8 @@
         "name": "Grand Finale: Snakes",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -223,7 +231,8 @@
         "name": "Grand Finale: Snakes",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -248,7 +257,8 @@
         "name": "Grand Finale: Snakes",
         "tags": [
           "binary search",
-          "interactive"
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -323,6 +333,7 @@
         "name": "Inverse Minimum Partition (Easy Version)",
         "tags": [
           "binary search",
+          "brute force",
           "data structures",
           "dp",
           "greedy",
@@ -353,6 +364,7 @@
         "tags": [
           "combinatorics",
           "dp",
+          "graph matchings",
           "graphs",
           "math"
         ],
@@ -378,7 +390,9 @@
         "id": "2159B",
         "name": "Rectangles",
         "tags": [
+          "brute force",
           "data structures",
+          "dsu",
           "implementation",
           "two pointers"
         ],

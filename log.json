@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1760333950,
+  "updateTime": 1760376987,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 343500909,
+            "pid": "2152H2",
+            "name": "Victorious Coloring (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1760347919
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "aba309b653cb71df4566fc0f8bf68194e94b1e3a"
+  "ref": "95e7fa3630301a87cb29f25a2b14bfa7f36140b7"
 }
