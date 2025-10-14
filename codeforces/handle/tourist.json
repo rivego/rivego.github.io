@@ -390,10 +390,10 @@
         "id": "2159B",
         "name": "Rectangles",
         "tags": [
-          "brute force",
           "data structures",
           "dp",
           "dsu",
+          "greedy",
           "implementation",
           "two pointers"
         ],
