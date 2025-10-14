@@ -283,7 +283,8 @@
         "name": "Inverse Minimum Partition (Hard Version)",
         "tags": [
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/D2"
       },
@@ -308,7 +309,8 @@
         "name": "Inverse Minimum Partition (Hard Version)",
         "tags": [
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/D2"
       },
@@ -334,10 +336,9 @@
         "tags": [
           "binary search",
           "brute force",
-          "data structures",
           "dp",
+          "geometry",
           "greedy",
-          "math",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/D1"
@@ -363,7 +364,6 @@
         "name": "Twin Polynomials",
         "tags": [
           "combinatorics",
-          "dp",
           "graph matchings",
           "graphs",
           "math"
@@ -392,6 +392,7 @@
         "tags": [
           "brute force",
           "data structures",
+          "dp",
           "dsu",
           "implementation",
           "two pointers"
