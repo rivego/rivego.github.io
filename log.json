@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1760679497,
+  "updateTime": 1760722567,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 344344502,
+            "pid": "2162H",
+            "name": "Beautiful Problem",
+            "verdict": "OK",
+            "creationTime": 1760718267
+          },
+          {
+            "platform": "codeforces",
+            "id": 344341434,
+            "pid": "2162H",
+            "name": "Beautiful Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1760718066
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e65d1b841ca632ab88dc11aa35337043cb21e025"
+  "ref": "8d3d644b8561446aa420199f410df52e6ba7dade"
 }
