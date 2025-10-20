@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1760938739,
+  "updateTime": 1760981863,
   "history": {
     "user": [
       {
@@ -8,115 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 344804984,
-            "pid": "2159D1",
-            "name": "Inverse Minimum Partition (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1760936071
-          },
-          {
-            "platform": "codeforces",
-            "id": 344804528,
-            "pid": "2159D2",
-            "name": "Inverse Minimum Partition (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1760935717
-          },
-          {
-            "platform": "codeforces",
-            "id": 344802293,
-            "pid": "2159F",
-            "name": "Grand Finale: Snakes",
-            "verdict": "OK",
-            "creationTime": 1760933927
-          },
-          {
-            "platform": "codeforces",
-            "id": 344801897,
-            "pid": "2159F",
-            "name": "Grand Finale: Snakes",
+            "id": 344915458,
+            "pid": "2162F",
+            "name": "Beautiful Intervals",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1760933574
+            "creationTime": 1760981740
           },
           {
             "platform": "codeforces",
-            "id": 344801728,
-            "pid": "2159F",
-            "name": "Grand Finale: Snakes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1760933447
-          },
-          {
-            "platform": "codeforces",
-            "id": 344772936,
-            "pid": "2154A",
-            "name": "Notelock",
+            "id": 344913971,
+            "pid": "2162G",
+            "name": "Beautiful Tree",
             "verdict": "OK",
-            "creationTime": 1760903934
-          },
-          {
-            "platform": "codeforces",
-            "id": 344772705,
-            "pid": "2154B",
-            "name": "Make it Zigzag",
-            "verdict": "OK",
-            "creationTime": 1760903808
-          },
-          {
-            "platform": "codeforces",
-            "id": 344771476,
-            "pid": "2154C1",
-            "name": "No Cost Too Great (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1760903137
-          },
-          {
-            "platform": "codeforces",
-            "id": 344771440,
-            "pid": "2154C2",
-            "name": "No Cost Too Great (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1760903119
-          },
-          {
-            "platform": "codeforces",
-            "id": 344771281,
-            "pid": "2154C2",
-            "name": "No Cost Too Great (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1760903037
-          },
-          {
-            "platform": "codeforces",
-            "id": 344769000,
-            "pid": "2154D",
-            "name": "Catshock",
-            "verdict": "OK",
-            "creationTime": 1760901843
-          },
-          {
-            "platform": "codeforces",
-            "id": 344767798,
-            "pid": "2154E",
-            "name": "No Mind To Think",
-            "verdict": "OK",
-            "creationTime": 1760901272
-          },
-          {
-            "platform": "codeforces",
-            "id": 344758592,
-            "pid": "2154F1",
-            "name": "Bombing (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1760897579
-          },
-          {
-            "platform": "codeforces",
-            "id": 344758155,
-            "pid": "2154F2",
-            "name": "Bombing (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1760897421
+            "creationTime": 1760981079
           }
         ],
         "newContests": []
@@ -124,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "d1d589f619b20f71e226eb616c2da978c55cf9f3"
+  "ref": "e57be9dfbdba67c9a7ae1070e48fb779f5174068"
 }
