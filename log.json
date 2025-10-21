@@ -1,80 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1761025127,
+  "updateTime": 1761068308,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 344918552,
-            "pid": "2162A",
-            "name": "Beautiful Average",
-            "verdict": "OK",
-            "creationTime": 1760983247
-          },
-          {
-            "platform": "codeforces",
-            "id": 344918446,
-            "pid": "2162B",
-            "name": "Beautiful String",
-            "verdict": "OK",
-            "creationTime": 1760983188
-          },
-          {
-            "platform": "codeforces",
-            "id": 344918131,
-            "pid": "2162C",
-            "name": "Beautiful XOR",
-            "verdict": "OK",
-            "creationTime": 1760983037
-          },
-          {
-            "platform": "codeforces",
-            "id": 344917902,
-            "pid": "2162C",
-            "name": "Beautiful XOR",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1760982930
-          },
-          {
-            "platform": "codeforces",
-            "id": 344917739,
-            "pid": "2162D",
-            "name": "Beautiful Permutation",
-            "verdict": "OK",
-            "creationTime": 1760982855
-          },
-          {
-            "platform": "codeforces",
-            "id": 344916800,
-            "pid": "2162E",
-            "name": "Beautiful Palindromes",
-            "verdict": "OK",
-            "creationTime": 1760982393
-          },
-          {
-            "platform": "codeforces",
-            "id": 344916207,
-            "pid": "2162E",
-            "name": "Beautiful Palindromes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1760982111
-          },
-          {
-            "platform": "codeforces",
-            "id": 344915827,
-            "pid": "2162F",
-            "name": "Beautiful Intervals",
-            "verdict": "OK",
-            "creationTime": 1760981917
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "76b1268a0570578e261c2b7f961ff19c641d55ea"
+  "ref": "b1b9fb4d8993341337798d5b435718c98ce06728"
 }
