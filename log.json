@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1760981863,
+  "updateTime": 1761025127,
   "history": {
     "user": [
       {
@@ -8,19 +8,67 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 344915458,
-            "pid": "2162F",
-            "name": "Beautiful Intervals",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1760981740
+            "id": 344918552,
+            "pid": "2162A",
+            "name": "Beautiful Average",
+            "verdict": "OK",
+            "creationTime": 1760983247
           },
           {
             "platform": "codeforces",
-            "id": 344913971,
-            "pid": "2162G",
-            "name": "Beautiful Tree",
+            "id": 344918446,
+            "pid": "2162B",
+            "name": "Beautiful String",
             "verdict": "OK",
-            "creationTime": 1760981079
+            "creationTime": 1760983188
+          },
+          {
+            "platform": "codeforces",
+            "id": 344918131,
+            "pid": "2162C",
+            "name": "Beautiful XOR",
+            "verdict": "OK",
+            "creationTime": 1760983037
+          },
+          {
+            "platform": "codeforces",
+            "id": 344917902,
+            "pid": "2162C",
+            "name": "Beautiful XOR",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1760982930
+          },
+          {
+            "platform": "codeforces",
+            "id": 344917739,
+            "pid": "2162D",
+            "name": "Beautiful Permutation",
+            "verdict": "OK",
+            "creationTime": 1760982855
+          },
+          {
+            "platform": "codeforces",
+            "id": 344916800,
+            "pid": "2162E",
+            "name": "Beautiful Palindromes",
+            "verdict": "OK",
+            "creationTime": 1760982393
+          },
+          {
+            "platform": "codeforces",
+            "id": 344916207,
+            "pid": "2162E",
+            "name": "Beautiful Palindromes",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1760982111
+          },
+          {
+            "platform": "codeforces",
+            "id": 344915827,
+            "pid": "2162F",
+            "name": "Beautiful Intervals",
+            "verdict": "OK",
+            "creationTime": 1760981917
           }
         ],
         "newContests": []
@@ -28,5 +76,5 @@
     ],
     "contest": []
   },
-  "ref": "e57be9dfbdba67c9a7ae1070e48fb779f5174068"
+  "ref": "76b1268a0570578e261c2b7f961ff19c641d55ea"
 }
