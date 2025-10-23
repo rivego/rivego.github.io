@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1761154546,
+  "updateTime": 1761197933,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 345157334,
-            "pid": "2160A",
-            "name": "MEX Partition",
-            "verdict": "OK",
-            "creationTime": 1761126216
-          },
-          {
-            "platform": "codeforces",
-            "id": 345156987,
-            "pid": "2160B",
-            "name": "Distinct Elements",
-            "verdict": "OK",
-            "creationTime": 1761126076
-          },
-          {
-            "platform": "codeforces",
-            "id": 345156514,
-            "pid": "2160C",
-            "name": "Reverse XOR",
-            "verdict": "OK",
-            "creationTime": 1761125884
-          },
-          {
-            "platform": "codeforces",
-            "id": 345155756,
-            "pid": "2159A",
-            "name": "MAD Interactive Problem",
-            "verdict": "OK",
-            "creationTime": 1761125555
-          },
-          {
-            "platform": "codeforces",
-            "id": 345154693,
-            "pid": "2159B",
-            "name": "Rectangles",
-            "verdict": "OK",
-            "creationTime": 1761125140
-          },
-          {
-            "platform": "codeforces",
-            "id": 345151432,
-            "pid": "2159C",
-            "name": "Twin Polynomials",
-            "verdict": "OK",
-            "creationTime": 1761123699
-          },
-          {
-            "platform": "codeforces",
-            "id": 345149656,
-            "pid": "2159E",
-            "name": "Super-Short-Polynomial-San",
-            "verdict": "OK",
-            "creationTime": 1761122927
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "b3b2868963df3d2a5967ca0eae2a6a35304586ed"
+  "ref": "bb2e6243a9db0a9e2a6a04cf33fab3e6c92abbe2"
 }
