@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1761716431,
+  "updateTime": 1761759605,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 346431188,
+            "pid": "2156A",
+            "name": "Pizza Time",
+            "verdict": "OK",
+            "creationTime": 1761725856
+          },
+          {
+            "platform": "codeforces",
+            "id": 346431138,
+            "pid": "2156A",
+            "name": "Pizza Time",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1761725828
+          },
+          {
+            "platform": "codeforces",
+            "id": 346430847,
+            "pid": "2156B",
+            "name": "Strange Machine",
+            "verdict": "OK",
+            "creationTime": 1761725678
+          },
+          {
+            "platform": "codeforces",
+            "id": 346430726,
+            "pid": "2156B",
+            "name": "Strange Machine",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1761725621
+          },
+          {
+            "platform": "codeforces",
+            "id": 346430034,
+            "pid": "2156C",
+            "name": "Maximum GCD on Whiteboard",
+            "verdict": "OK",
+            "creationTime": 1761725291
+          },
+          {
+            "platform": "codeforces",
+            "id": 346428786,
+            "pid": "2156D",
+            "name": "Find the Last Number",
+            "verdict": "OK",
+            "creationTime": 1761724613
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "0c3f8322e3c63e27afd52794aa84d2d13240af3a"
+  "ref": "f36844582f72b7a9c56145462485257cafe5e4a1"
 }
