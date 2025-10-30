@@ -1,9 +1,118 @@
 {
   "version": "0.1.29",
-  "updateTime": 1761802778,
+  "updateTime": 1761845965,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 346695560,
+            "pid": "2161F",
+            "name": "SubMST",
+            "verdict": "OK",
+            "creationTime": 1761845436
+          },
+          {
+            "platform": "codeforces",
+            "id": 346684086,
+            "pid": "2161E",
+            "name": "Left is Always Right",
+            "verdict": "OK",
+            "creationTime": 1761843922
+          },
+          {
+            "platform": "codeforces",
+            "id": 346675570,
+            "pid": "2161C",
+            "name": "Loyalty",
+            "verdict": "OK",
+            "creationTime": 1761842977
+          },
+          {
+            "platform": "codeforces",
+            "id": 346673500,
+            "pid": "2161D",
+            "name": "Locked Out",
+            "verdict": "OK",
+            "creationTime": 1761842789
+          },
+          {
+            "platform": "codeforces",
+            "id": 346668614,
+            "pid": "2161B",
+            "name": "Make Connected",
+            "verdict": "OK",
+            "creationTime": 1761842393
+          },
+          {
+            "platform": "codeforces",
+            "id": 346667010,
+            "pid": "2161A",
+            "name": "Round Trip",
+            "verdict": "OK",
+            "creationTime": 1761842196
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 346693700,
+            "pid": "2161F",
+            "name": "SubMST",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1761845180
+          },
+          {
+            "platform": "codeforces",
+            "id": 346686192,
+            "pid": "2161E",
+            "name": "Left is Always Right",
+            "verdict": "OK",
+            "creationTime": 1761844178
+          },
+          {
+            "platform": "codeforces",
+            "id": 346677502,
+            "pid": "2161D",
+            "name": "Locked Out",
+            "verdict": "OK",
+            "creationTime": 1761843176
+          },
+          {
+            "platform": "codeforces",
+            "id": 346674250,
+            "pid": "2161C",
+            "name": "Loyalty",
+            "verdict": "OK",
+            "creationTime": 1761842857
+          },
+          {
+            "platform": "codeforces",
+            "id": 346670521,
+            "pid": "2161B",
+            "name": "Make Connected",
+            "verdict": "OK",
+            "creationTime": 1761842535
+          },
+          {
+            "platform": "codeforces",
+            "id": 346667090,
+            "pid": "2161A",
+            "name": "Round Trip",
+            "verdict": "OK",
+            "creationTime": 1761842223
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c49f80ef06c8b1f40f526faa1dd3b6a200e407c0"
+  "ref": "bcf585b3f9cc449fc686229eb0e094655d3531ed"
 }
