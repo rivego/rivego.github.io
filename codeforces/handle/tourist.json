@@ -73,6 +73,7 @@
         "name": "Left is Always Right",
         "tags": [
           "combinatorics",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2161/problem/E"
@@ -127,10 +128,7 @@
           "binary search",
           "data structures",
           "dp",
-          "graphs",
-          "greedy",
-          "implementation",
-          "two pointers"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2161/problem/D"
       },
@@ -155,7 +153,6 @@
         "name": "Make Connected",
         "tags": [
           "brute force",
-          "dsu",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2161/problem/B"
