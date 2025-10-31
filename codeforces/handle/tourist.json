@@ -6,6 +6,30 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 346718997,
+      "creationTime": 1761849284,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1761842100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2161G",
+        "name": "Bitwise And Equals",
+        "tags": [
+          "bitmasks"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2161/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2161/submission/346718997"
+    },
+    {
+      "type": "codeforces",
       "id": 346695560,
       "creationTime": 1761845436,
       "language": "C++20 (GCC 13-64)",
@@ -21,7 +45,11 @@
         "type": "codeforces",
         "id": "2161F",
         "name": "SubMST",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "graphs",
+          "trees"
+        ],
         "problemUrl": "https://codeforces.com/contest/2161/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/2161/submission/346695560"
@@ -43,7 +71,10 @@
         "type": "codeforces",
         "id": "2161E",
         "name": "Left is Always Right",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2161/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/2161/submission/346684086"
@@ -65,7 +96,12 @@
         "type": "codeforces",
         "id": "2161C",
         "name": "Loyalty",
-        "tags": [],
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
         "problemUrl": "https://codeforces.com/contest/2161/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/2161/submission/346675570"
@@ -87,7 +123,15 @@
         "type": "codeforces",
         "id": "2161D",
         "name": "Locked Out",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "graphs",
+          "greedy",
+          "implementation",
+          "two pointers"
+        ],
         "problemUrl": "https://codeforces.com/contest/2161/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2161/submission/346673500"
@@ -109,7 +153,11 @@
         "type": "codeforces",
         "id": "2161B",
         "name": "Make Connected",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "dsu",
+          "implementation"
+        ],
         "problemUrl": "https://codeforces.com/contest/2161/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/2161/submission/346668614"
@@ -131,7 +179,12 @@
         "type": "codeforces",
         "id": "2161A",
         "name": "Round Trip",
-        "tags": [],
+        "tags": [
+          "games",
+          "greedy",
+          "implementation",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2161/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/2161/submission/346667010"
@@ -153,6 +206,7 @@
         "type": "codeforces",
         "id": "2159F",
         "name": "Grand Finale: Snakes",
+        "rating": 3500,
         "tags": [
           "binary search",
           "interactive",
@@ -179,6 +233,7 @@
         "type": "codeforces",
         "id": "2159F",
         "name": "Grand Finale: Snakes",
+        "rating": 3500,
         "tags": [
           "binary search",
           "interactive",
@@ -205,6 +260,7 @@
         "type": "codeforces",
         "id": "2159F",
         "name": "Grand Finale: Snakes",
+        "rating": 3500,
         "tags": [
           "binary search",
           "interactive",
@@ -231,6 +287,7 @@
         "type": "codeforces",
         "id": "2159F",
         "name": "Grand Finale: Snakes",
+        "rating": 3500,
         "tags": [
           "binary search",
           "interactive",
@@ -257,6 +314,7 @@
         "type": "codeforces",
         "id": "2159F",
         "name": "Grand Finale: Snakes",
+        "rating": 3500,
         "tags": [
           "binary search",
           "interactive",
@@ -283,6 +341,7 @@
         "type": "codeforces",
         "id": "2159F",
         "name": "Grand Finale: Snakes",
+        "rating": 3500,
         "tags": [
           "binary search",
           "interactive",
@@ -309,6 +368,7 @@
         "type": "codeforces",
         "id": "2159F",
         "name": "Grand Finale: Snakes",
+        "rating": 3500,
         "tags": [
           "binary search",
           "interactive",
@@ -335,6 +395,7 @@
         "type": "codeforces",
         "id": "2159F",
         "name": "Grand Finale: Snakes",
+        "rating": 3500,
         "tags": [
           "binary search",
           "interactive",
@@ -361,6 +422,7 @@
         "type": "codeforces",
         "id": "2159F",
         "name": "Grand Finale: Snakes",
+        "rating": 3500,
         "tags": [
           "binary search",
           "interactive",
@@ -387,6 +449,7 @@
         "type": "codeforces",
         "id": "2159F",
         "name": "Grand Finale: Snakes",
+        "rating": 3500,
         "tags": [
           "binary search",
           "interactive",
@@ -413,6 +476,7 @@
         "type": "codeforces",
         "id": "2159D2",
         "name": "Inverse Minimum Partition (Hard Version)",
+        "rating": 3200,
         "tags": [
           "dp",
           "greedy",
@@ -439,6 +503,7 @@
         "type": "codeforces",
         "id": "2159D2",
         "name": "Inverse Minimum Partition (Hard Version)",
+        "rating": 3200,
         "tags": [
           "dp",
           "greedy",
@@ -465,6 +530,7 @@
         "type": "codeforces",
         "id": "2159D1",
         "name": "Inverse Minimum Partition (Easy Version)",
+        "rating": 2500,
         "tags": [
           "binary search",
           "brute force",
@@ -495,6 +561,7 @@
         "type": "codeforces",
         "id": "2159C",
         "name": "Twin Polynomials",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "graph matchings",
@@ -521,6 +588,7 @@
         "type": "codeforces",
         "id": "2159B",
         "name": "Rectangles",
+        "rating": 2100,
         "tags": [
           "brute force",
           "data structures",
@@ -551,6 +619,7 @@
         "type": "codeforces",
         "id": "2159A",
         "name": "MAD Interactive Problem",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "implementation",
@@ -141654,7 +141723,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3629,
+    "rating": 3747,
     "maxRank": "tourist",
     "maxRating": 4009
   }
