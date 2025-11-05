@@ -24727,6 +24727,17 @@
     "standingsUrl": "https://codeforces.com/gym/106157/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "XIII UnB Contest Mirror",
+    "startTime": 1762275600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106159,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106159",
+    "standingsUrl": "https://codeforces.com/gym/106159/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Innopolis Open 2025-2026. Elimination Round 1",
     "duration": 18000,
