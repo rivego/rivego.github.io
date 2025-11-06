@@ -24800,5 +24800,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106169",
     "standingsUrl": "https://codeforces.com/gym/106169/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Swiss Subregional 2025-2026",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106170,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106170",
+    "standingsUrl": "https://codeforces.com/gym/106170/standings"
   }
 ]
