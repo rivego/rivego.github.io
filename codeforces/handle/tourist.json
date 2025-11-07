@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 347846450,
+      "creationTime": 1762503908,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -384979739
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2164E",
+        "name": "Journey",
+        "tags": [
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2164/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2164/submission/347846450"
+    },
+    {
+      "type": "codeforces",
       "id": 347765188,
       "creationTime": 1762448223,
       "language": "C++20 (GCC 13-64)",
@@ -49,6 +76,7 @@
           "combinatorics",
           "dfs and similar",
           "dp",
+          "graphs",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/F1"
@@ -76,6 +104,7 @@
           "combinatorics",
           "dfs and similar",
           "dp",
+          "graphs",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/F1"
@@ -103,6 +132,7 @@
           "combinatorics",
           "dfs and similar",
           "dp",
+          "graphs",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/F1"
@@ -182,9 +212,11 @@
         "name": "Copy String",
         "tags": [
           "binary search",
+          "dp",
           "greedy",
           "implementation",
-          "strings"
+          "strings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/D"
       },
@@ -209,9 +241,11 @@
         "name": "Copy String",
         "tags": [
           "binary search",
+          "dp",
           "greedy",
           "implementation",
-          "strings"
+          "strings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/D"
       },
@@ -264,6 +298,7 @@
         "name": "Even Modulo Pair",
         "tags": [
           "brute force",
+          "number theory",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/B"
