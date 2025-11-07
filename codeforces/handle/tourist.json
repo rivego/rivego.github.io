@@ -46,6 +46,9 @@
         "id": "2164F1",
         "name": "Chain Prefix Rank (Easy Version)",
         "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/F1"
@@ -70,6 +73,9 @@
         "id": "2164F1",
         "name": "Chain Prefix Rank (Easy Version)",
         "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/F1"
@@ -94,6 +100,9 @@
         "id": "2164F1",
         "name": "Chain Prefix Rank (Easy Version)",
         "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/F1"
@@ -119,6 +128,7 @@
         "name": "Journey",
         "tags": [
           "dfs and similar",
+          "dsu",
           "graphs",
           "greedy"
         ],
@@ -145,6 +155,7 @@
         "name": "Journey",
         "tags": [
           "dfs and similar",
+          "dsu",
           "graphs",
           "greedy"
         ],
@@ -169,7 +180,12 @@
         "type": "codeforces",
         "id": "2164D",
         "name": "Copy String",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "greedy",
+          "implementation",
+          "strings"
+        ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2164/submission/347711273"
@@ -191,7 +207,12 @@
         "type": "codeforces",
         "id": "2164D",
         "name": "Copy String",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "greedy",
+          "implementation",
+          "strings"
+        ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2164/submission/347705261"
@@ -214,7 +235,11 @@
         "id": "2164C",
         "name": "Dungeon",
         "tags": [
-          "greedy"
+          "binary search",
+          "brute force",
+          "data structures",
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/C"
       },
@@ -238,7 +263,8 @@
         "id": "2164B",
         "name": "Even Modulo Pair",
         "tags": [
-          "brute force"
+          "brute force",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/B"
       },
@@ -262,7 +288,8 @@
         "id": "2164A",
         "name": "Sequence Game",
         "tags": [
-          "brute force"
+          "brute force",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/A"
       },
@@ -141984,8 +142011,8 @@
     }
   ],
   "codeforces": {
-    "rank": "легендарный гроссмейстер",
-    "rating": 3747,
+    "rank": "legendary grandmaster",
+    "rating": 3653,
     "maxRank": "tourist",
     "maxRating": 4009
   }
