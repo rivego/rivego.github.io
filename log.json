@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1762537068,
+  "updateTime": 1762580258,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 347846450,
-            "pid": "2164E",
-            "name": "Journey",
-            "verdict": "OK",
-            "creationTime": 1762503908
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5b9d32e85a3dba3f43cea1c5783dbab2911b6d31"
+  "ref": "1f0511dbc96236e0bebf62519966b871072aec05"
 }
