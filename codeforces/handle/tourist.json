@@ -350,6 +350,7 @@
         "type": "codeforces",
         "id": "2161G",
         "name": "Bitwise And Equals",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "greedy"
@@ -375,6 +376,7 @@
         "type": "codeforces",
         "id": "2161F",
         "name": "SubMST",
+        "rating": 3000,
         "tags": [
           "combinatorics",
           "graphs",
@@ -401,6 +403,7 @@
         "type": "codeforces",
         "id": "2161E",
         "name": "Left is Always Right",
+        "rating": 2400,
         "tags": [
           "combinatorics",
           "implementation",
@@ -427,6 +430,7 @@
         "type": "codeforces",
         "id": "2161C",
         "name": "Loyalty",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -454,6 +458,7 @@
         "type": "codeforces",
         "id": "2161D",
         "name": "Locked Out",
+        "rating": 2100,
         "tags": [
           "binary search",
           "data structures",
@@ -481,6 +486,7 @@
         "type": "codeforces",
         "id": "2161B",
         "name": "Make Connected",
+        "rating": 1700,
         "tags": [
           "brute force",
           "implementation"
@@ -506,6 +512,7 @@
         "type": "codeforces",
         "id": "2161A",
         "name": "Round Trip",
+        "rating": 800,
         "tags": [
           "games",
           "greedy",
