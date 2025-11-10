@@ -1,9 +1,96 @@
 {
   "version": "0.1.29",
-  "updateTime": 1762753225,
+  "updateTime": 1762796237,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 348321956,
+            "pid": "2163E",
+            "name": "Plegma",
+            "verdict": "OK",
+            "creationTime": 1762788948
+          },
+          {
+            "platform": "codeforces",
+            "id": 348316002,
+            "pid": "2163D1",
+            "name": "Diadrash (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1762788388
+          },
+          {
+            "platform": "codeforces",
+            "id": 348315529,
+            "pid": "2163D2",
+            "name": "Diadrash (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1762788346
+          },
+          {
+            "platform": "codeforces",
+            "id": 348307566,
+            "pid": "2163C",
+            "name": "Monopati",
+            "verdict": "OK",
+            "creationTime": 1762787723
+          },
+          {
+            "platform": "codeforces",
+            "id": 348303770,
+            "pid": "2163B",
+            "name": "Siga ta Kymata",
+            "verdict": "OK",
+            "creationTime": 1762787471
+          },
+          {
+            "platform": "codeforces",
+            "id": 348300676,
+            "pid": "2163A",
+            "name": "Souvlaki VS. Kalamaki",
+            "verdict": "OK",
+            "creationTime": 1762787224
+          },
+          {
+            "platform": "codeforces",
+            "id": 348299862,
+            "pid": "2168B",
+            "name": "Locate",
+            "verdict": "OK",
+            "creationTime": 1762786839
+          },
+          {
+            "platform": "codeforces",
+            "id": 348299725,
+            "pid": "2168B",
+            "name": "Locate",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1762786781
+          },
+          {
+            "platform": "codeforces",
+            "id": 348297576,
+            "pid": "2168A1",
+            "name": "Encode and Decode (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1762785812
+          },
+          {
+            "platform": "codeforces",
+            "id": 348297214,
+            "pid": "2168A2",
+            "name": "Encode and Decode (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1762785644
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "fe60cf758d4b2a6ed60a9a743f59dae409a147c8"
+  "ref": "b3a96c3bdad32e854721f2e57895dfb60cd7bb3d"
 }
