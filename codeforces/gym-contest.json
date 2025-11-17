@@ -24989,5 +24989,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106192",
     "standingsUrl": "https://codeforces.com/gym/106192/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "HAMMERWARS 2025",
+    "startTime": 1763321400,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106195,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106195",
+    "standingsUrl": "https://codeforces.com/gym/106195/standings"
   }
 ]
