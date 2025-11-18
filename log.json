@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1763444429,
+  "updateTime": 1763487620,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 349559580,
+            "pid": "2169E",
+            "name": "Points Selection",
+            "verdict": "OK",
+            "creationTime": 1763456165
+          },
+          {
+            "platform": "codeforces",
+            "id": 349556380,
+            "pid": "2169F",
+            "name": "Subsequence Problem",
+            "verdict": "OK",
+            "creationTime": 1763455080
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "fc8c339b99b0d6675f02a560a5b3336c91cffa25"
+  "ref": "9af30f04b926cef34399563ac55d5e5c698cd283"
 }
