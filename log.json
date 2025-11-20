@@ -1,9 +1,64 @@
 {
   "version": "0.1.29",
-  "updateTime": 1763617230,
+  "updateTime": 1763660325,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 349836104,
+            "pid": "2169A",
+            "name": "Alice and Bob",
+            "verdict": "OK",
+            "creationTime": 1763638424
+          },
+          {
+            "platform": "codeforces",
+            "id": 349835839,
+            "pid": "2169B",
+            "name": "Drifting Away",
+            "verdict": "OK",
+            "creationTime": 1763638277
+          },
+          {
+            "platform": "codeforces",
+            "id": 349835773,
+            "pid": "2169B",
+            "name": "Drifting Away",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1763638241
+          },
+          {
+            "platform": "codeforces",
+            "id": 349835260,
+            "pid": "2169C",
+            "name": "Range Operation",
+            "verdict": "OK",
+            "creationTime": 1763637991
+          },
+          {
+            "platform": "codeforces",
+            "id": 349834668,
+            "pid": "2169D2",
+            "name": "Removal of a Sequence (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1763637694
+          },
+          {
+            "platform": "codeforces",
+            "id": 349834576,
+            "pid": "2169D1",
+            "name": "Removal of a Sequence (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1763637651
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "01b65ca84eee6a5ae1282576208b07e5bb63258d"
+  "ref": "e8317a542c945f8b511ab0f6fb5404851f2ecaf3"
 }
