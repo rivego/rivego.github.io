@@ -1,56 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1763962920,
+  "updateTime": 1764006034,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 350415709,
-            "pid": "2157I",
-            "name": "Hyper Smawk Bros",
-            "verdict": "OK",
-            "creationTime": 1763933286
-          },
-          {
-            "platform": "codeforces",
-            "id": 350415692,
-            "pid": "2157I",
-            "name": "Hyper Smawk Bros",
-            "verdict": "OK",
-            "creationTime": 1763933260
-          },
-          {
-            "platform": "codeforces",
-            "id": 350415650,
-            "pid": "2157I",
-            "name": "Hyper Smawk Bros",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1763933207
-          },
-          {
-            "platform": "codeforces",
-            "id": 350415630,
-            "pid": "2157I",
-            "name": "Hyper Smawk Bros",
-            "verdict": "OK",
-            "creationTime": 1763933183
-          },
-          {
-            "platform": "codeforces",
-            "id": 350415594,
-            "pid": "2157I",
-            "name": "Hyper Smawk Bros",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1763933139
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "92d73121b20a1b076cd35f55c2ef5449f5717591"
+  "ref": "a20c510ef2ab7772db1c1269c795fa34a77f93f5"
 }

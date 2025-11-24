@@ -237,10 +237,12 @@
         "id": "2157G",
         "name": "Isaac's Queries",
         "tags": [
+          "bitmasks",
           "brute force",
           "constructive algorithms",
           "dfs and similar",
           "divide and conquer",
+          "dp",
           "greedy",
           "interactive",
           "math",
@@ -268,9 +270,11 @@
         "id": "2157F",
         "name": "Git Gud",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "data structures",
-          "divide and conquer"
+          "divide and conquer",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/F"
       },
@@ -295,7 +299,9 @@
         "name": "Adjusting Drones",
         "tags": [
           "binary search",
+          "brute force",
           "data structures",
+          "dp",
           "dsu",
           "greedy",
           "implementation",
@@ -353,6 +359,7 @@
         "tags": [
           "constructive algorithms",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/C"
@@ -379,6 +386,7 @@
         "tags": [
           "constructive algorithms",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/C"
