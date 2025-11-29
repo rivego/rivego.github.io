@@ -362,6 +362,7 @@
         "name": "Billion Players Game",
         "rating": 1600,
         "tags": [
+          "binary search",
           "greedy",
           "math",
           "sortings",
@@ -142544,7 +142545,7 @@
     }
   ],
   "codeforces": {
-    "rank": "legendary grandmaster",
+    "rank": "легендарный гроссмейстер",
     "rating": 3757,
     "maxRank": "tourist",
     "maxRating": 4009

@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1764394805,
+  "updateTime": 1764437847,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 351073548,
-            "pid": "2170D",
-            "name": "Almost Roman",
-            "verdict": "OK",
-            "creationTime": 1764352567
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "8eeabd382a9aacc2ac252904303b3044edb64475"
+  "ref": "3ebff14234ed67ef827a57b024b0fe6ab01a8690"
 }
