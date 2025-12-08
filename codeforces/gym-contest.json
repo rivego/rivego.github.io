@@ -25264,9 +25264,29 @@
     "name": "MITIT Winter 2025-26 Advanced Individual Round",
     "duration": 7200,
     "participantNumber": 0,
-    "id": 106248,
+    "id": 106249,
     "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/106248",
-    "standingsUrl": "https://codeforces.com/gym/106248/standings"
+    "contestUrl": "https://codeforces.com/gym/106249",
+    "standingsUrl": "https://codeforces.com/gym/106249/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MITIT Winter 2025-26 Beginner Round",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106251,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106251",
+    "standingsUrl": "https://codeforces.com/gym/106251/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MITIT Winter 2025-26 Advanced Team Round",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106250,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106250",
+    "standingsUrl": "https://codeforces.com/gym/106250/standings"
   }
 ]
