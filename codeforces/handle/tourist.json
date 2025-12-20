@@ -122,8 +122,11 @@
         "id": "2180C",
         "name": "XOR-factorization",
         "tags": [
+          "bitmasks",
           "constructive algorithms",
-          "greedy"
+          "dp",
+          "greedy",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2180/problem/C"
       },
@@ -147,6 +150,7 @@
         "id": "2180E",
         "name": "No Effect XOR",
         "tags": [
+          "bitmasks",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2180/problem/E"
@@ -171,8 +175,11 @@
         "id": "2180C",
         "name": "XOR-factorization",
         "tags": [
+          "bitmasks",
           "constructive algorithms",
-          "greedy"
+          "dp",
+          "greedy",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2180/problem/C"
       },
@@ -196,6 +203,7 @@
         "id": "2180E",
         "name": "No Effect XOR",
         "tags": [
+          "bitmasks",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2180/problem/E"
@@ -220,7 +228,8 @@
         "id": "2180D",
         "name": "Insolvable Disks",
         "tags": [
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2180/problem/D"
       },
@@ -244,8 +253,11 @@
         "id": "2180C",
         "name": "XOR-factorization",
         "tags": [
+          "bitmasks",
           "constructive algorithms",
-          "greedy"
+          "dp",
+          "greedy",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2180/problem/C"
       },
@@ -269,8 +281,11 @@
         "id": "2180C",
         "name": "XOR-factorization",
         "tags": [
+          "bitmasks",
           "constructive algorithms",
-          "greedy"
+          "dp",
+          "greedy",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2180/problem/C"
       },
@@ -294,7 +309,6 @@
         "id": "2180B",
         "name": "Ashmal",
         "tags": [
-          "chinese remainder theorem",
           "greedy",
           "strings"
         ],
@@ -320,6 +334,7 @@
         "id": "2180A",
         "name": "Carnival Wheel",
         "tags": [
+          "brute force",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2180/problem/A"
@@ -142868,7 +142883,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3757,
+    "rating": 3718,
     "maxRank": "tourist",
     "maxRating": 4009
   }
