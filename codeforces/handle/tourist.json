@@ -22,8 +22,10 @@
         "id": "2178I",
         "name": "Numbers or Fireworks",
         "tags": [
+          "bitmasks",
           "combinatorics",
-          "dp"
+          "dp",
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/I"
       },
@@ -49,8 +51,10 @@
         "tags": [
           "combinatorics",
           "dfs and similar",
-          "dsu",
-          "trees"
+          "math",
+          "sortings",
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/F"
       },
@@ -101,9 +105,9 @@
         "name": "Xmas or Hysteria",
         "tags": [
           "constructive algorithms",
-          "graphs",
           "greedy",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/D"
       },
@@ -153,6 +157,7 @@
         "id": "2178B",
         "name": "Impost or Sus",
         "tags": [
+          "dp",
           "greedy",
           "implementation",
           "strings"
@@ -179,7 +184,7 @@
         "id": "2178A",
         "name": "Yes or Yes",
         "tags": [
-          "brute force",
+          "constructive algorithms",
           "greedy",
           "strings"
         ],
