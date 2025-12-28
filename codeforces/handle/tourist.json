@@ -22,7 +22,8 @@
         "id": "2178I",
         "name": "Numbers or Fireworks",
         "tags": [
-          "combinatorics"
+          "combinatorics",
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/I"
       },
@@ -47,6 +48,8 @@
         "name": "Conquer or of Forest",
         "tags": [
           "combinatorics",
+          "dfs and similar",
+          "dsu",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/F"
@@ -72,10 +75,7 @@
         "name": "Flatten or Concatenate",
         "tags": [
           "binary search",
-          "binary search",
-          "binary search",
-          "interactive",
-          "interactive",
+          "divide and conquer",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/E"
@@ -101,7 +101,9 @@
         "name": "Xmas or Hysteria",
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "graphs",
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/D"
       },
@@ -125,6 +127,7 @@
         "id": "2178C",
         "name": "First or Second",
         "tags": [
+          "dp",
           "greedy",
           "implementation"
         ],
@@ -151,7 +154,8 @@
         "name": "Impost or Sus",
         "tags": [
           "greedy",
-          "implementation"
+          "implementation",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/B"
       },
@@ -175,6 +179,8 @@
         "id": "2178A",
         "name": "Yes or Yes",
         "tags": [
+          "brute force",
+          "greedy",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/A"
@@ -143069,7 +143075,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3718,
+    "rating": 3585,
     "maxRank": "tourist",
     "maxRating": 4009
   }
