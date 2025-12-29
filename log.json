@@ -1,9 +1,96 @@
 {
   "version": "0.1.29",
-  "updateTime": 1766987345,
+  "updateTime": 1767030013,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 355762539,
+            "pid": "2182G",
+            "name": "Short Garland",
+            "verdict": "OK",
+            "creationTime": 1767023446
+          },
+          {
+            "platform": "codeforces",
+            "id": 355760635,
+            "pid": "2182G",
+            "name": "Short Garland",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1767023210
+          },
+          {
+            "platform": "codeforces",
+            "id": 355742660,
+            "pid": "2182F1",
+            "name": "Christmas Reindeer (easy version)",
+            "verdict": "OK",
+            "creationTime": 1767021300
+          },
+          {
+            "platform": "codeforces",
+            "id": 355742573,
+            "pid": "2182E",
+            "name": "New Year's Gifts",
+            "verdict": "OK",
+            "creationTime": 1767021291
+          },
+          {
+            "platform": "codeforces",
+            "id": 355742100,
+            "pid": "2182F2",
+            "name": "Christmas Reindeer (hard version)",
+            "verdict": "OK",
+            "creationTime": 1767021245
+          },
+          {
+            "platform": "codeforces",
+            "id": 355732009,
+            "pid": "2182E",
+            "name": "New Year's Gifts",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1767020395
+          },
+          {
+            "platform": "codeforces",
+            "id": 355724948,
+            "pid": "2182D",
+            "name": "Christmas Tree Decoration",
+            "verdict": "OK",
+            "creationTime": 1767019921
+          },
+          {
+            "platform": "codeforces",
+            "id": 355716834,
+            "pid": "2182C",
+            "name": "Production of Snowmen",
+            "verdict": "OK",
+            "creationTime": 1767019488
+          },
+          {
+            "platform": "codeforces",
+            "id": 355712489,
+            "pid": "2182B",
+            "name": "New Year Cake",
+            "verdict": "OK",
+            "creationTime": 1767019299
+          },
+          {
+            "platform": "codeforces",
+            "id": 355708727,
+            "pid": "2182A",
+            "name": "New Year String",
+            "verdict": "OK",
+            "creationTime": 1767019125
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "1fb7ca04ced6643162abfaf2faf8c6a3b69969a9"
+  "ref": "6c04e53df410d875e6d6b5261e107c4b460ac479"
 }
