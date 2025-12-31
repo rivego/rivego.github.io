@@ -51,6 +51,7 @@
         "tags": [
           "combinatorics",
           "dfs and similar",
+          "dp",
           "math",
           "trees"
         ],
@@ -128,6 +129,7 @@
         "id": "2178C",
         "name": "First or Second",
         "tags": [
+          "dp",
           "greedy",
           "implementation"
         ],
