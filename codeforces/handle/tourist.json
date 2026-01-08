@@ -57,6 +57,7 @@
       "id": 356817483,
       "creationTime": 1767800175,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -70,6 +71,7 @@
         "name": "Jumping Man",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
           "trees"
         ],
@@ -96,6 +98,7 @@
         "name": "Jumping Man",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
           "trees"
         ],
@@ -108,6 +111,7 @@
       "id": 356806836,
       "creationTime": 1767799110,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -120,7 +124,9 @@
         "id": "2183E",
         "name": "LCM is Legendary Counting Master",
         "tags": [
-          "dp"
+          "dp",
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2183/problem/E"
       },
@@ -131,7 +137,7 @@
       "id": 356800678,
       "creationTime": 1767798579,
       "language": "C++20 (GCC 13-64)",
-      "verdict": "TESTING",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -145,7 +151,10 @@
         "name": "Tree Coloring (Hard Version)",
         "tags": [
           "constructive algorithms",
+          "data structures",
           "dfs and similar",
+          "greedy",
+          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2183/problem/D2"
@@ -197,8 +206,10 @@
         "id": "2183C",
         "name": "War Strategy",
         "tags": [
+          "binary search",
           "greedy",
-          "math"
+          "math",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2183/problem/C"
       },
@@ -222,7 +233,8 @@
         "id": "2183B",
         "name": "Yet Another MEX Problem",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2183/problem/B"
       },
@@ -143338,7 +143350,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3583,
+    "rating": 3475,
     "maxRank": "tourist",
     "maxRating": 4009
   }
