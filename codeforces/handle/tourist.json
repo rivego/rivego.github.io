@@ -22,6 +22,7 @@
         "id": "2183G",
         "name": "Snake Instructions",
         "tags": [
+          "constructive algorithms",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2183/problem/G"
@@ -46,6 +47,7 @@
         "id": "2183G",
         "name": "Snake Instructions",
         "tags": [
+          "constructive algorithms",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2183/problem/G"
@@ -70,8 +72,9 @@
         "id": "2183F",
         "name": "Jumping Man",
         "tags": [
+          "brute force",
           "combinatorics",
-          "data structures",
+          "dfs and similar",
           "dp",
           "trees"
         ],
@@ -97,8 +100,9 @@
         "id": "2183F",
         "name": "Jumping Man",
         "tags": [
+          "brute force",
           "combinatorics",
-          "data structures",
+          "dfs and similar",
           "dp",
           "trees"
         ],
