@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1768197004,
+  "updateTime": 1768239777,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 357370417,
-            "pid": "2183G",
-            "name": "Snake Instructions",
-            "verdict": "OK",
-            "creationTime": 1768158433
-          },
-          {
-            "platform": "codeforces",
-            "id": 357370303,
-            "pid": "2183G",
-            "name": "Snake Instructions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1768158339
-          },
-          {
-            "platform": "codeforces",
-            "id": 357370259,
-            "pid": "2183G",
-            "name": "Snake Instructions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1768158311
-          },
-          {
-            "platform": "codeforces",
-            "id": 357369909,
-            "pid": "2183G",
-            "name": "Snake Instructions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1768158030
-          },
-          {
-            "platform": "codeforces",
-            "id": 357369853,
-            "pid": "2183G",
-            "name": "Snake Instructions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1768157984
-          },
-          {
-            "platform": "codeforces",
-            "id": 357367305,
-            "pid": "2183G",
-            "name": "Snake Instructions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1768156248
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9e26a6bd2d45be09ff38ee16e3abc9b6dbb8557c"
+  "ref": "b6dd45596811cdbfb822761b36170120c200850f"
 }
