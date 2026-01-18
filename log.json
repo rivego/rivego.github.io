@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1768715099,
+  "updateTime": 1768757978,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 358374261,
-            "pid": "2190F",
-            "name": "Xor Product",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1768674792
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "ffea2c6df1166d501deb4186382be6e0a14f21f9"
+  "ref": "c385663e1c1299ca611fceecbb8a8b539b33c4c5"
 }

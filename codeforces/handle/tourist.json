@@ -95,7 +95,6 @@
         "name": "Comparable Permutations",
         "tags": [
           "binary search",
-          "greedy",
           "interactive",
           "sortings",
           "two pointers"
@@ -150,11 +149,9 @@
         "id": "2190B2",
         "name": "Sub-RBS (Hard Version)",
         "tags": [
-          "combinatorics",
           "dp",
           "games",
           "implementation",
-          "matrices",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2190/problem/B2"
@@ -266,6 +263,7 @@
         "id": "2190A",
         "name": "Sorting Game",
         "tags": [
+          "constructive algorithms",
           "games",
           "greedy"
         ],
