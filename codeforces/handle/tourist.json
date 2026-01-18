@@ -94,7 +94,11 @@
         "id": "2190C",
         "name": "Comparable Permutations",
         "tags": [
-          "interactive"
+          "binary search",
+          "greedy",
+          "interactive",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2190/problem/C"
       },
@@ -119,8 +123,10 @@
         "name": "Prufer Vertex",
         "tags": [
           "combinatorics",
-          "combinatorics",
-          "number theory"
+          "dsu",
+          "number theory",
+          "probabilities",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2190/problem/D"
       },
@@ -144,7 +150,12 @@
         "id": "2190B2",
         "name": "Sub-RBS (Hard Version)",
         "tags": [
-          "games"
+          "combinatorics",
+          "dp",
+          "games",
+          "implementation",
+          "matrices",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2190/problem/B2"
       },
@@ -167,7 +178,14 @@
         "type": "codeforces",
         "id": "2190B1",
         "name": "Sub-RBS (Easy Version)",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "strings",
+          "two pointers"
+        ],
         "problemUrl": "https://codeforces.com/contest/2190/problem/B1"
       },
       "submissionUrl": "https://codeforces.com/contest/2190/submission/358272653"
@@ -189,7 +207,14 @@
         "type": "codeforces",
         "id": "2190B1",
         "name": "Sub-RBS (Easy Version)",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "strings",
+          "two pointers"
+        ],
         "problemUrl": "https://codeforces.com/contest/2190/problem/B1"
       },
       "submissionUrl": "https://codeforces.com/contest/2190/submission/358271113"
@@ -211,7 +236,14 @@
         "type": "codeforces",
         "id": "2190B1",
         "name": "Sub-RBS (Easy Version)",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "strings",
+          "two pointers"
+        ],
         "problemUrl": "https://codeforces.com/contest/2190/problem/B1"
       },
       "submissionUrl": "https://codeforces.com/contest/2190/submission/358265651"
@@ -234,7 +266,8 @@
         "id": "2190A",
         "name": "Sorting Game",
         "tags": [
-          "games"
+          "games",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2190/problem/A"
       },
@@ -143593,7 +143626,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3475,
+    "rating": 3510,
     "maxRank": "tourist",
     "maxRating": 4009
   }
