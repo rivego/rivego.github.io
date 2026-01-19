@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1768801912,
+  "updateTime": 1768844730,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 358678919,
-            "pid": "2190F",
-            "name": "Xor Product",
-            "verdict": "OK",
-            "creationTime": 1768798105
-          },
-          {
-            "platform": "codeforces",
-            "id": 358678869,
-            "pid": "2190F",
-            "name": "Xor Product",
-            "verdict": "OK",
-            "creationTime": 1768798060
-          },
-          {
-            "platform": "codeforces",
-            "id": 358677477,
-            "pid": "2190G",
-            "name": "Maximize Determinant",
-            "verdict": "OK",
-            "creationTime": 1768796897
-          },
-          {
-            "platform": "codeforces",
-            "id": 358677263,
-            "pid": "2190G",
-            "name": "Maximize Determinant",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1768796703
-          },
-          {
-            "platform": "codeforces",
-            "id": 358677139,
-            "pid": "2190G",
-            "name": "Maximize Determinant",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1768796590
-          },
-          {
-            "platform": "codeforces",
-            "id": 358677047,
-            "pid": "2190G",
-            "name": "Maximize Determinant",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1768796488
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "438448421a1ef1b2bd9496e8e24cad860bd36254"
+  "ref": "2d17fb1bd401983a79e827456068555be1d3ca33"
 }
