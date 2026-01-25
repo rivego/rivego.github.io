@@ -25630,5 +25630,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106318",
     "standingsUrl": "https://codeforces.com/gym/106318/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Baozii Cup 3",
+    "startTime": 1769317200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106328,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106328",
+    "standingsUrl": "https://codeforces.com/gym/106328/standings"
   }
 ]
