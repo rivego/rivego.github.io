@@ -1,88 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1769579374,
+  "updateTime": 1769622867,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 360217957,
-            "pid": "2189A",
-            "name": "Table with Numbers",
-            "verdict": "OK",
-            "creationTime": 1769543475
-          },
-          {
-            "platform": "codeforces",
-            "id": 360217708,
-            "pid": "2189B",
-            "name": "The Curse of the Frog",
-            "verdict": "OK",
-            "creationTime": 1769543383
-          },
-          {
-            "platform": "codeforces",
-            "id": 360217084,
-            "pid": "2189C2",
-            "name": "XOR-convenience (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1769543009
-          },
-          {
-            "platform": "codeforces",
-            "id": 360216551,
-            "pid": "2189C1",
-            "name": "XOR Convenience (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1769542699
-          },
-          {
-            "platform": "codeforces",
-            "id": 360215811,
-            "pid": "2189D1",
-            "name": "Little String (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1769542273
-          },
-          {
-            "platform": "codeforces",
-            "id": 360215776,
-            "pid": "2189D2",
-            "name": "Little String (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1769542251
-          },
-          {
-            "platform": "codeforces",
-            "id": 360210243,
-            "pid": "2189E",
-            "name": "Majority Wins?",
-            "verdict": "OK",
-            "creationTime": 1769539914
-          },
-          {
-            "platform": "codeforces",
-            "id": 360207997,
-            "pid": "2189F",
-            "name": "Zhora the Vacuum Cleaner",
-            "verdict": "OK",
-            "creationTime": 1769538913
-          },
-          {
-            "platform": "codeforces",
-            "id": 360207711,
-            "pid": "2189F",
-            "name": "Zhora the Vacuum Cleaner",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1769538797
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "d18637d4de9c16dcfc987e948caed0425cb8c722"
+  "ref": "79afef0d1c7bed59a1be4f144c41ee75e666ea19"
 }
