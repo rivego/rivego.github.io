@@ -1,90 +1,116 @@
 {
   "version": "0.1.29",
-  "updateTime": 1769666606,
+  "updateTime": 1769709534,
   "history": {
     "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 360590434,
+            "pid": "2187F1",
+            "name": "Al Fine (Maximizing Version)",
+            "creationTime": 1769704405
+          },
+          {
+            "platform": "codeforces",
+            "id": 360580139,
+            "pid": "2187E",
+            "name": "Doors and Keys",
+            "creationTime": 1769703290
+          },
+          {
+            "platform": "codeforces",
+            "id": 360553442,
+            "pid": "2187D",
+            "name": "Cool Problem",
+            "verdict": "OK",
+            "creationTime": 1769701038
+          },
+          {
+            "platform": "codeforces",
+            "id": 360553044,
+            "pid": "2187D",
+            "name": "Cool Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1769701007
+          },
+          {
+            "platform": "codeforces",
+            "id": 360515531,
+            "pid": "2187C",
+            "name": "Jerry and Tom",
+            "verdict": "OK",
+            "creationTime": 1769698784
+          },
+          {
+            "platform": "codeforces",
+            "id": 360501728,
+            "pid": "2187B",
+            "name": "Shortest Statement Ever",
+            "verdict": "OK",
+            "creationTime": 1769698129
+          },
+          {
+            "platform": "codeforces",
+            "id": 360488024,
+            "pid": "2187A",
+            "name": "Restricted Sorting",
+            "verdict": "OK",
+            "creationTime": 1769697423
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 360393418,
-            "pid": "2191A",
-            "name": "Array Coloring",
-            "verdict": "OK",
-            "creationTime": 1769634405
+            "id": 360609551,
+            "pid": "2187F1",
+            "name": "Al Fine (Maximizing Version)",
+            "creationTime": 1769707101
           },
           {
             "platform": "codeforces",
-            "id": 360393333,
-            "pid": "2191B",
-            "name": "MEX Reordering",
-            "verdict": "OK",
-            "creationTime": 1769634317
+            "id": 360603730,
+            "pid": "2187E",
+            "name": "Doors and Keys",
+            "creationTime": 1769706172
           },
           {
             "platform": "codeforces",
-            "id": 360393146,
-            "pid": "2193A",
-            "name": "DBMB and the Array",
+            "id": 360554519,
+            "pid": "2187D",
+            "name": "Cool Problem",
             "verdict": "OK",
-            "creationTime": 1769634145
+            "creationTime": 1769701114
           },
           {
             "platform": "codeforces",
-            "id": 360393090,
-            "pid": "2193B",
-            "name": "Reverse a Permutation",
+            "id": 360521804,
+            "pid": "2187C",
+            "name": "Jerry and Tom",
             "verdict": "OK",
-            "creationTime": 1769634093
+            "creationTime": 1769699110
           },
           {
             "platform": "codeforces",
-            "id": 360392970,
-            "pid": "2193C",
-            "name": "Replace and Sum",
+            "id": 360494231,
+            "pid": "2187B",
+            "name": "Shortest Statement Ever",
             "verdict": "OK",
-            "creationTime": 1769634005
+            "creationTime": 1769697783
           },
           {
             "platform": "codeforces",
-            "id": 360392836,
-            "pid": "2193D",
-            "name": "Monster Game",
+            "id": 360488247,
+            "pid": "2187A",
+            "name": "Restricted Sorting",
             "verdict": "OK",
-            "creationTime": 1769633900
-          },
-          {
-            "platform": "codeforces",
-            "id": 360392697,
-            "pid": "2193E",
-            "name": "Product Queries",
-            "verdict": "OK",
-            "creationTime": 1769633776
-          },
-          {
-            "platform": "codeforces",
-            "id": 360392422,
-            "pid": "2193F",
-            "name": "Pizza Delivery",
-            "verdict": "OK",
-            "creationTime": 1769633576
-          },
-          {
-            "platform": "codeforces",
-            "id": 360390945,
-            "pid": "2193G",
-            "name": "Paths in a Tree",
-            "verdict": "OK",
-            "creationTime": 1769632383
-          },
-          {
-            "platform": "codeforces",
-            "id": 360389591,
-            "pid": "2193H",
-            "name": "Remove the Grail Tree",
-            "verdict": "OK",
-            "creationTime": 1769631611
+            "creationTime": 1769697454
           }
         ],
         "newContests": []
@@ -92,5 +118,5 @@
     ],
     "contest": []
   },
-  "ref": "8c1aa79fd34d349863be1d4a969908d33711ea90"
+  "ref": "fab043baea09dd2804f7f9d66d5c367276918222"
 }
