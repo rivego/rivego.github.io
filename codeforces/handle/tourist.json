@@ -50,7 +50,7 @@
         "id": "2187E",
         "name": "Doors and Keys",
         "tags": [
-          "data structures",
+          "brute force",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2187/problem/E"
@@ -76,8 +76,6 @@
         "name": "Cool Problem",
         "tags": [
           "bitmasks",
-          "brute force",
-          "divide and conquer",
           "dp",
           "math"
         ],
@@ -104,8 +102,6 @@
         "name": "Cool Problem",
         "tags": [
           "bitmasks",
-          "brute force",
-          "divide and conquer",
           "dp",
           "math"
         ],
@@ -133,6 +129,7 @@
         "tags": [
           "data structures",
           "dfs and similar",
+          "dsu",
           "games",
           "graphs",
           "greedy",
@@ -187,8 +184,6 @@
         "id": "2187A",
         "name": "Restricted Sorting",
         "tags": [
-          "binary search",
-          "constructive algorithms",
           "greedy",
           "sortings"
         ],
