@@ -9,6 +9,7 @@
       "id": 360590434,
       "creationTime": 1769704405,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -22,7 +23,9 @@
         "name": "Al Fine (Maximizing Version)",
         "tags": [
           "binary search",
+          "data structures",
           "divide and conquer",
+          "greedy",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2187/problem/F1"
@@ -34,6 +37,7 @@
       "id": 360580139,
       "creationTime": 1769703290,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -46,6 +50,7 @@
         "id": "2187E",
         "name": "Doors and Keys",
         "tags": [
+          "data structures",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2187/problem/E"
@@ -71,6 +76,8 @@
         "name": "Cool Problem",
         "tags": [
           "bitmasks",
+          "brute force",
+          "divide and conquer",
           "dp",
           "math"
         ],
@@ -97,6 +104,8 @@
         "name": "Cool Problem",
         "tags": [
           "bitmasks",
+          "brute force",
+          "divide and conquer",
           "dp",
           "math"
         ],
@@ -124,6 +133,7 @@
         "tags": [
           "data structures",
           "dfs and similar",
+          "games",
           "graphs",
           "greedy",
           "trees"
@@ -151,6 +161,7 @@
         "name": "Shortest Statement Ever",
         "tags": [
           "bitmasks",
+          "constructive algorithms",
           "dp",
           "greedy"
         ],
@@ -176,6 +187,8 @@
         "id": "2187A",
         "name": "Restricted Sorting",
         "tags": [
+          "binary search",
+          "constructive algorithms",
           "greedy",
           "sortings"
         ],
@@ -143804,7 +143817,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3510,
+    "rating": 3531,
     "maxRank": "tourist",
     "maxRating": 4009
   }
