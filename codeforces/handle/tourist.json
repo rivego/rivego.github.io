@@ -160,6 +160,7 @@
           "bitmasks",
           "constructive algorithms",
           "dp",
+          "flows",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2187/problem/B"
