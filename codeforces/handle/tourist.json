@@ -23,9 +23,7 @@
         "name": "Al Fine (Maximizing Version)",
         "tags": [
           "binary search",
-          "data structures",
           "divide and conquer",
-          "greedy",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2187/problem/F1"
@@ -160,7 +158,6 @@
           "bitmasks",
           "constructive algorithms",
           "dp",
-          "flows",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2187/problem/B"
