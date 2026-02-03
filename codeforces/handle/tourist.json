@@ -49,6 +49,7 @@
         "name": "Doors and Keys",
         "tags": [
           "brute force",
+          "data structures",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2187/problem/E"
