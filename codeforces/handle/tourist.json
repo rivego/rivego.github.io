@@ -23,6 +23,7 @@
         "name": "Al Fine (Maximizing Version)",
         "tags": [
           "binary search",
+          "data structures",
           "divide and conquer",
           "trees"
         ],
@@ -143811,7 +143812,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3531,
+    "rating": 3533,
     "maxRank": "tourist",
     "maxRating": 4009
   }
