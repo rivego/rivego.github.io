@@ -1,48 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1770272015,
+  "updateTime": 1770314897,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 361459770,
-            "pid": "2168C",
-            "name": "Intercepting Butterflies",
-            "verdict": "OK",
-            "creationTime": 1770232630
-          },
-          {
-            "platform": "codeforces",
-            "id": 361459648,
-            "pid": "2168C",
-            "name": "Intercepting Butterflies",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1770232565
-          },
-          {
-            "platform": "codeforces",
-            "id": 361459577,
-            "pid": "2168C",
-            "name": "Intercepting Butterflies",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1770232525
-          },
-          {
-            "platform": "codeforces",
-            "id": 361451872,
-            "pid": "2183F",
-            "name": "Jumping Man",
-            "verdict": "OK",
-            "creationTime": 1770228616
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6e84f31e397ac4bcfe4e6473506517a88aa52797"
+  "ref": "d0d5ec739007b5f95324350b4f298677cfeae054"
 }
