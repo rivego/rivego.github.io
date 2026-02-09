@@ -1,96 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1770573001,
+  "updateTime": 1770619210,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 362030502,
-            "pid": "2194F2",
-            "name": "Again Trees... (hard version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1770567446
-          },
-          {
-            "platform": "codeforces",
-            "id": 362030465,
-            "pid": "2194F1",
-            "name": "Again Trees... (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1770567428
-          },
-          {
-            "platform": "codeforces",
-            "id": 362030262,
-            "pid": "2194F2",
-            "name": "Again Trees... (hard version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1770567315
-          },
-          {
-            "platform": "codeforces",
-            "id": 362020602,
-            "pid": "2194E",
-            "name": "The Turtle Strikes Back",
-            "verdict": "OK",
-            "creationTime": 1770562701
-          },
-          {
-            "platform": "codeforces",
-            "id": 362019587,
-            "pid": "2194D",
-            "name": "Table Cut",
-            "verdict": "OK",
-            "creationTime": 1770562258
-          },
-          {
-            "platform": "codeforces",
-            "id": 362019013,
-            "pid": "2194C",
-            "name": "Secret message",
-            "verdict": "OK",
-            "creationTime": 1770562020
-          },
-          {
-            "platform": "codeforces",
-            "id": 362018370,
-            "pid": "2194B",
-            "name": "Offshores",
-            "verdict": "OK",
-            "creationTime": 1770561765
-          },
-          {
-            "platform": "codeforces",
-            "id": 362018092,
-            "pid": "2194A",
-            "name": "Lawn Mower",
-            "verdict": "OK",
-            "creationTime": 1770561662
-          },
-          {
-            "platform": "codeforces",
-            "id": 362016786,
-            "pid": "816B",
-            "name": "Karen and Coffee",
-            "verdict": "OK",
-            "creationTime": 1770561149
-          },
-          {
-            "platform": "codeforces",
-            "id": 362015287,
-            "pid": "313B",
-            "name": "Ilya and Queries",
-            "verdict": "OK",
-            "creationTime": 1770560319
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "df7b4425c9b7767fd10c7c896e1d9993d412d06b"
+  "ref": "8a58595cfa2ac955090d6048dfb0dece86130667"
 }
