@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1770878252,
+  "updateTime": 1770919933,
   "history": {
     "user": [
       {
@@ -8,27 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 362538510,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "OK",
-            "creationTime": 1770836597
-          },
-          {
-            "platform": "codeforces",
-            "id": 362537224,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "OK",
-            "creationTime": 1770836054
-          },
-          {
-            "platform": "codeforces",
-            "id": 362537146,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "OK",
-            "creationTime": 1770836021
+            "id": 362666374,
+            "pid": "3C",
+            "name": "Tic-tac-toe",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1770915093
           }
         ],
         "newContests": []
@@ -36,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "4a8c251502034fcac965ae14b33452635764d9fd"
+  "ref": "3c3e1a05dfbe8c54218eacf244059cca898dcd82"
 }
