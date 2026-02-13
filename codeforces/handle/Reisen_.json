@@ -764,7 +764,6 @@
         "rating": 800,
         "tags": [
           "greedy",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1790/problem/B"
@@ -16315,7 +16314,6 @@
         "rating": 2200,
         "tags": [
           "greedy",
-          "greedy",
           "sortings",
           "two pointers"
         ],
@@ -16342,7 +16340,6 @@
         "name": "Paint the Middle",
         "rating": 2200,
         "tags": [
-          "greedy",
           "greedy",
           "sortings",
           "two pointers"

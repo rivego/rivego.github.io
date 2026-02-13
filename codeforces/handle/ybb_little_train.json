@@ -135,7 +135,6 @@
         "rating": 1200,
         "tags": [
           "greedy",
-          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2121/problem/C"
@@ -9817,7 +9816,6 @@
         "rating": 800,
         "tags": [
           "greedy",
-          "greedy",
           "implementation",
           "math"
         ],
@@ -15581,7 +15579,6 @@
         "rating": 2200,
         "tags": [
           "greedy",
-          "greedy",
           "sortings",
           "two pointers"
         ],
@@ -15608,7 +15605,6 @@
         "name": "Paint the Middle",
         "rating": 2200,
         "tags": [
-          "greedy",
           "greedy",
           "sortings",
           "two pointers"
@@ -33214,7 +33210,6 @@
         "tags": [
           "binary search",
           "brute force",
-          "brute force",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1490/problem/C"
@@ -33241,7 +33236,6 @@
         "rating": 1100,
         "tags": [
           "binary search",
-          "brute force",
           "brute force",
           "math"
         ],
