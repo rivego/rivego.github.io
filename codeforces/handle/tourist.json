@@ -296,6 +296,7 @@
           "combinatorics",
           "dfs and similar",
           "dp",
+          "fft",
           "graphs",
           "implementation",
           "interactive"
@@ -325,6 +326,7 @@
           "combinatorics",
           "dfs and similar",
           "dp",
+          "fft",
           "graphs",
           "implementation",
           "interactive"
@@ -354,6 +356,7 @@
           "combinatorics",
           "dfs and similar",
           "dp",
+          "fft",
           "graphs",
           "implementation",
           "interactive"
@@ -410,6 +413,7 @@
         "name": "Another Problem about Beautiful Pairs",
         "tags": [
           "brute force",
+          "constructive algorithms",
           "math",
           "two pointers"
         ],
