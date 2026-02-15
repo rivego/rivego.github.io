@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1771091314,
+  "updateTime": 1771135869,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 362916283,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "OK",
-            "creationTime": 1771076977
-          },
-          {
-            "platform": "codeforces",
-            "id": 362915250,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1771076531
-          },
-          {
-            "platform": "codeforces",
-            "id": 362915035,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1771076432
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "065b8141c3f2f258b8bfc72a2b7ba4885ac738b6"
+  "ref": "c5e7948db6848b2b867a60b2281333fcb61456bb"
 }

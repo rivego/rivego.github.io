@@ -239,6 +239,7 @@
         "tags": [
           "data structures",
           "dp",
+          "flows",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2196/problem/D"
