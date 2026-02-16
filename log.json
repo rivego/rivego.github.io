@@ -1,9 +1,88 @@
 {
   "version": "0.1.29",
-  "updateTime": 1771223919,
+  "updateTime": 1771264820,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 363272400,
+            "pid": "2195A",
+            "name": "Sieve of Erato67henes",
+            "verdict": "OK",
+            "creationTime": 1771244102
+          },
+          {
+            "platform": "codeforces",
+            "id": 363272341,
+            "pid": "2195B",
+            "name": "Heapify 1",
+            "verdict": "OK",
+            "creationTime": 1771244058
+          },
+          {
+            "platform": "codeforces",
+            "id": 363272172,
+            "pid": "2195C",
+            "name": "Dice Roll Sequence",
+            "verdict": "OK",
+            "creationTime": 1771243952
+          },
+          {
+            "platform": "codeforces",
+            "id": 363271996,
+            "pid": "2195D",
+            "name": "Absolute Cinema",
+            "verdict": "OK",
+            "creationTime": 1771243836
+          },
+          {
+            "platform": "codeforces",
+            "id": 363271654,
+            "pid": "2195E",
+            "name": "Idiot First Search",
+            "verdict": "OK",
+            "creationTime": 1771243609
+          },
+          {
+            "platform": "codeforces",
+            "id": 363271533,
+            "pid": "2195F",
+            "name": "Parabola Independence",
+            "verdict": "OK",
+            "creationTime": 1771243529
+          },
+          {
+            "platform": "codeforces",
+            "id": 363270854,
+            "pid": "2195G",
+            "name": "Idiot First Search and Queries",
+            "verdict": "OK",
+            "creationTime": 1771243073
+          },
+          {
+            "platform": "codeforces",
+            "id": 363270260,
+            "pid": "2195G",
+            "name": "Idiot First Search and Queries",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1771242645
+          },
+          {
+            "platform": "codeforces",
+            "id": 363268836,
+            "pid": "2195H",
+            "name": "Codeforces Heuristic Contest 001",
+            "verdict": "OK",
+            "creationTime": 1771241751
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "6f81c014c76d80fc7b315f7616861ba841dd6dd9"
+  "ref": "8b8b54ea00288bdda5fc6122c893c1cec0a35e54"
 }
