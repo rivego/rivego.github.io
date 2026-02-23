@@ -6,6 +6,229 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 364102907,
+      "creationTime": 1771866170,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1771857300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2201G",
+        "name": "Codeforces Heuristic Contest 1001",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2201/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2201/submission/364102907"
+    },
+    {
+      "type": "codeforces",
+      "id": 364072327,
+      "creationTime": 1771861071,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1771857300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2201F2",
+        "name": "Monotone Monochrome Matrices (Hard Version)",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2201/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2201/submission/364072327"
+    },
+    {
+      "type": "codeforces",
+      "id": 364072011,
+      "creationTime": 1771861030,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1771857300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2201F1",
+        "name": "Monotone Monochrome Matrices (Medium Version)",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2201/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2201/submission/364072011"
+    },
+    {
+      "type": "codeforces",
+      "id": 364064562,
+      "creationTime": 1771860153,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1771857300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2201D",
+        "name": "Binary Not Search and Queries",
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2201/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2201/submission/364064562"
+    },
+    {
+      "type": "codeforces",
+      "id": 364056705,
+      "creationTime": 1771859354,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1771857300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2201E",
+        "name": "ABBA Counting",
+        "tags": [
+          "fft",
+          "math",
+          "number theory",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2201/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2201/submission/364056705"
+    },
+    {
+      "type": "codeforces",
+      "id": 364047160,
+      "creationTime": 1771858497,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1771857300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2201C",
+        "name": "Rigged Bracket Sequence",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2201/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2201/submission/364047160"
+    },
+    {
+      "type": "codeforces",
+      "id": 364040369,
+      "creationTime": 1771857926,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1771857300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2201B",
+        "name": "Recollect Numbers",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2201/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2201/submission/364040369"
+    },
+    {
+      "type": "codeforces",
+      "id": 364034322,
+      "creationTime": 1771857607,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1771857300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2201A2",
+        "name": "Lost Civilization (Hard Version)",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2201/problem/A2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2201/submission/364034322"
+    },
+    {
+      "type": "codeforces",
+      "id": 364033806,
+      "creationTime": 1771857551,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1771857300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2201A1",
+        "name": "Lost Civilization (Easy Version)",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2201/problem/A1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2201/submission/364033806"
+    },
+    {
+      "type": "codeforces",
       "id": 362666374,
       "creationTime": 1770915093,
       "language": "C++20 (GCC 13-64)",
@@ -144252,7 +144475,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3592,
+    "rating": 3718,
     "maxRank": "tourist",
     "maxRating": 4009
   }
