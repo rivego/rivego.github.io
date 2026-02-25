@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1772001444,
+  "updateTime": 1772044438,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 364359121,
+            "pid": "2203A",
+            "name": "Towers of Boxes",
+            "verdict": "OK",
+            "creationTime": 1772034643
+          },
+          {
+            "platform": "codeforces",
+            "id": 364358809,
+            "pid": "2203B",
+            "name": "Beautiful Numbers",
+            "verdict": "OK",
+            "creationTime": 1772034595
+          },
+          {
+            "platform": "codeforces",
+            "id": 364358013,
+            "pid": "2203C",
+            "name": "Test Generator",
+            "verdict": "OK",
+            "creationTime": 1772034486
+          },
+          {
+            "platform": "codeforces",
+            "id": 364357042,
+            "pid": "2203D",
+            "name": "Divisibility Game",
+            "verdict": "OK",
+            "creationTime": 1772034358
+          },
+          {
+            "platform": "codeforces",
+            "id": 364355276,
+            "pid": "2203E",
+            "name": "Probabilistic Card Game",
+            "verdict": "OK",
+            "creationTime": 1772034111
+          },
+          {
+            "platform": "codeforces",
+            "id": 364354666,
+            "pid": "2203E",
+            "name": "Probabilistic Card Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1772034034
+          },
+          {
+            "platform": "codeforces",
+            "id": 364348414,
+            "pid": "2203F",
+            "name": "Binary Search with One Swap",
+            "verdict": "OK",
+            "creationTime": 1772033232
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e490abe862938be99ec3f49175944143926a0f33"
+  "ref": "ca75a2f6176d2888ee4305a3666684c0b59520a1"
 }

@@ -152,7 +152,8 @@
         "tags": [
           "combinatorics",
           "constructive algorithms",
-          "dp"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2201/problem/C"
       },
