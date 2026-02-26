@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 364495342,
+      "creationTime": 1772117335,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -375366312
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2203B",
+        "name": "Beautiful Numbers",
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2203/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2203/submission/364495342"
+    },
+    {
+      "type": "codeforces",
+      "id": 364480968,
+      "creationTime": 1772114641,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ybb_little_train"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -375369006
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2203A",
+        "name": "Towers of Boxes",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2203/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2203/submission/364480968"
+    },
+    {
+      "type": "codeforces",
       "id": 324912872,
       "creationTime": 1750178329,
       "language": "C++20 (GCC 13-64)",

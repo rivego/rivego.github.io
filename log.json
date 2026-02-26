@@ -1,9 +1,62 @@
 {
   "version": "0.1.29",
-  "updateTime": 1772087537,
+  "updateTime": 1772129253,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "ybb_little_train",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 364495342,
+            "pid": "2203B",
+            "name": "Beautiful Numbers",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1772117335
+          },
+          {
+            "platform": "codeforces",
+            "id": 364480968,
+            "pid": "2203A",
+            "name": "Towers of Boxes",
+            "verdict": "OK",
+            "creationTime": 1772114641
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 364547400,
+            "pid": "2205F",
+            "name": "Simons and Reconstructing His Roads",
+            "verdict": "OK",
+            "creationTime": 1772129095
+          },
+          {
+            "platform": "codeforces",
+            "id": 364547308,
+            "pid": "2205F",
+            "name": "Simons and Reconstructing His Roads",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1772129045
+          },
+          {
+            "platform": "codeforces",
+            "id": 364547283,
+            "pid": "2205G",
+            "name": "Simons and Diophantus Equation",
+            "verdict": "OK",
+            "creationTime": 1772129035
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "acf3bba3a869af686daa37aa5e7901491c42e754"
+  "ref": "d1b444de14ec79453cde8e05d0704f2290312e34"
 }
