@@ -1,56 +1,66 @@
 {
   "version": "0.1.29",
-  "updateTime": 1772129253,
+  "updateTime": 1772172569,
   "history": {
     "user": [
-      {
-        "name": "ybb_little_train",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 364495342,
-            "pid": "2203B",
-            "name": "Beautiful Numbers",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1772117335
-          },
-          {
-            "platform": "codeforces",
-            "id": 364480968,
-            "pid": "2203A",
-            "name": "Towers of Boxes",
-            "verdict": "OK",
-            "creationTime": 1772114641
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 364547400,
-            "pid": "2205F",
-            "name": "Simons and Reconstructing His Roads",
+            "id": 364550974,
+            "pid": "2205A",
+            "name": "Simons and Making It Beautiful",
             "verdict": "OK",
-            "creationTime": 1772129095
+            "creationTime": 1772131110
           },
           {
             "platform": "codeforces",
-            "id": 364547308,
-            "pid": "2205F",
-            "name": "Simons and Reconstructing His Roads",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1772129045
+            "id": 364550859,
+            "pid": "2205B",
+            "name": "Simons and Cakes for Success",
+            "verdict": "OK",
+            "creationTime": 1772131028
           },
           {
             "platform": "codeforces",
-            "id": 364547283,
+            "id": 364550814,
+            "pid": "2205B",
+            "name": "Simons and Cakes for Success",
+            "verdict": "OK",
+            "creationTime": 1772130994
+          },
+          {
+            "platform": "codeforces",
+            "id": 364550674,
+            "pid": "2205C",
+            "name": "Simons and Posting Blogs",
+            "verdict": "OK",
+            "creationTime": 1772130894
+          },
+          {
+            "platform": "codeforces",
+            "id": 364550197,
+            "pid": "2205D",
+            "name": "Simons and Beating Peaks",
+            "verdict": "OK",
+            "creationTime": 1772130588
+          },
+          {
+            "platform": "codeforces",
+            "id": 364549367,
+            "pid": "2205E",
+            "name": "Simons and Dividing the Rhythm",
+            "verdict": "OK",
+            "creationTime": 1772130150
+          },
+          {
+            "platform": "codeforces",
+            "id": 364548110,
             "pid": "2205G",
             "name": "Simons and Diophantus Equation",
             "verdict": "OK",
-            "creationTime": 1772129035
+            "creationTime": 1772129498
           }
         ],
         "newContests": []
@@ -58,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "d1b444de14ec79453cde8e05d0704f2290312e34"
+  "ref": "db79787ffa9194c39e26f91726694eddd7018d88"
 }
