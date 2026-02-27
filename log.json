@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1772172569,
+  "updateTime": 1772215097,
   "history": {
     "user": [
       {
@@ -8,59 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 364550974,
-            "pid": "2205A",
-            "name": "Simons and Making It Beautiful",
+            "id": 364742225,
+            "pid": "2200H",
+            "name": "Six Seven",
             "verdict": "OK",
-            "creationTime": 1772131110
-          },
-          {
-            "platform": "codeforces",
-            "id": 364550859,
-            "pid": "2205B",
-            "name": "Simons and Cakes for Success",
-            "verdict": "OK",
-            "creationTime": 1772131028
-          },
-          {
-            "platform": "codeforces",
-            "id": 364550814,
-            "pid": "2205B",
-            "name": "Simons and Cakes for Success",
-            "verdict": "OK",
-            "creationTime": 1772130994
-          },
-          {
-            "platform": "codeforces",
-            "id": 364550674,
-            "pid": "2205C",
-            "name": "Simons and Posting Blogs",
-            "verdict": "OK",
-            "creationTime": 1772130894
-          },
-          {
-            "platform": "codeforces",
-            "id": 364550197,
-            "pid": "2205D",
-            "name": "Simons and Beating Peaks",
-            "verdict": "OK",
-            "creationTime": 1772130588
-          },
-          {
-            "platform": "codeforces",
-            "id": 364549367,
-            "pid": "2205E",
-            "name": "Simons and Dividing the Rhythm",
-            "verdict": "OK",
-            "creationTime": 1772130150
-          },
-          {
-            "platform": "codeforces",
-            "id": 364548110,
-            "pid": "2205G",
-            "name": "Simons and Diophantus Equation",
-            "verdict": "OK",
-            "creationTime": 1772129498
+            "creationTime": 1772214761
           }
         ],
         "newContests": []
@@ -68,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "db79787ffa9194c39e26f91726694eddd7018d88"
+  "ref": "63bfa13605a1436f78543eac36086eaa60cdebee"
 }
