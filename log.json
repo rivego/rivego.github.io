@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1772257998,
+  "updateTime": 1772300518,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 364745350,
-            "pid": "2200A",
-            "name": "Eating Game",
-            "verdict": "OK",
-            "creationTime": 1772216431
-          },
-          {
-            "platform": "codeforces",
-            "id": 364745255,
-            "pid": "2200B",
-            "name": "Deletion Sort",
-            "verdict": "OK",
-            "creationTime": 1772216368
-          },
-          {
-            "platform": "codeforces",
-            "id": 364745116,
-            "pid": "2200C",
-            "name": "Specialty String",
-            "verdict": "OK",
-            "creationTime": 1772216297
-          },
-          {
-            "platform": "codeforces",
-            "id": 364744854,
-            "pid": "2200D",
-            "name": "Portal",
-            "verdict": "OK",
-            "creationTime": 1772216153
-          },
-          {
-            "platform": "codeforces",
-            "id": 364744402,
-            "pid": "2200E",
-            "name": "Divisive Battle",
-            "verdict": "OK",
-            "creationTime": 1772215922
-          },
-          {
-            "platform": "codeforces",
-            "id": 364743896,
-            "pid": "2200F",
-            "name": "Mooclear Reactor 2",
-            "verdict": "OK",
-            "creationTime": 1772215645
-          },
-          {
-            "platform": "codeforces",
-            "id": 364742933,
-            "pid": "2200G",
-            "name": "Operation Permutation",
-            "verdict": "OK",
-            "creationTime": 1772215137
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "0b270947a0f0641e5b4d364292356ac5aa7cd0dc"
+  "ref": "69b2826133ef511723ec3b417f9725e9d029aa87"
 }
