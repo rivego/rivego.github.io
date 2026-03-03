@@ -22,7 +22,9 @@
         "id": "2203B",
         "name": "Beautiful Numbers",
         "tags": [
+          "bitmasks",
           "dp",
+          "fft",
           "greedy",
           "math"
         ],
