@@ -25969,5 +25969,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106407",
     "standingsUrl": "https://codeforces.com/gym/106407/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "HPI 2026 Advanced",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106409,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106409",
+    "standingsUrl": "https://codeforces.com/gym/106409/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "HPI 2026 Novice",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106410,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106410",
+    "standingsUrl": "https://codeforces.com/gym/106410/standings"
   }
 ]
