@@ -153,6 +153,7 @@
         "name": "N-MEX (Counting Version)",
         "tags": [
           "combinatorics",
+          "constructive algorithms",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2207/problem/E2"
@@ -229,6 +230,7 @@
         "id": "2207C",
         "name": "Where's My Water?",
         "tags": [
+          "binary search",
           "data structures",
           "divide and conquer",
           "implementation"
