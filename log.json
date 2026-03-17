@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1773729419,
+  "updateTime": 1773771047,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 367086731,
+            "pid": "2204G",
+            "name": "Grid Path",
+            "verdict": "OK",
+            "creationTime": 1773741216
+          },
+          {
+            "platform": "codeforces",
+            "id": 367082051,
+            "pid": "2204F",
+            "name": "Sum of Fractions",
+            "verdict": "OK",
+            "creationTime": 1773738986
+          },
+          {
+            "platform": "codeforces",
+            "id": 367078403,
+            "pid": "2204E",
+            "name": "Sum of Digits (and Again)",
+            "verdict": "OK",
+            "creationTime": 1773737218
+          },
+          {
+            "platform": "codeforces",
+            "id": 367078202,
+            "pid": "2204E",
+            "name": "Sum of Digits (and Again)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1773737129
+          },
+          {
+            "platform": "codeforces",
+            "id": 367076336,
+            "pid": "2204D",
+            "name": "Alternating Path",
+            "verdict": "OK",
+            "creationTime": 1773736217
+          },
+          {
+            "platform": "codeforces",
+            "id": 367075938,
+            "pid": "2204C",
+            "name": "Spring",
+            "verdict": "OK",
+            "creationTime": 1773736027
+          },
+          {
+            "platform": "codeforces",
+            "id": 367075393,
+            "pid": "2204B",
+            "name": "Right Maximum",
+            "verdict": "OK",
+            "creationTime": 1773735773
+          },
+          {
+            "platform": "codeforces",
+            "id": 367075144,
+            "pid": "2204A",
+            "name": "Passing the Ball",
+            "verdict": "OK",
+            "creationTime": 1773735648
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "1939ab2e0eaec611113c38592daf5fa8844be2ca"
+  "ref": "2985fdaef15dad97ad7c5eb9ae2f6be227a33527"
 }
