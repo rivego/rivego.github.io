@@ -26095,5 +26095,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106433",
     "standingsUrl": "https://codeforces.com/gym/106433/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Олимпиада 1С 2026, предметный тур",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106434,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106434",
+    "standingsUrl": "https://codeforces.com/gym/106434/standings"
   }
 ]
