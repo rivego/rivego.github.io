@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1774115265,
+  "updateTime": 1774159796,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 367729542,
+            "pid": "2209A",
+            "name": "Flip Flops",
+            "verdict": "OK",
+            "creationTime": 1774155653
+          },
+          {
+            "platform": "codeforces",
+            "id": 367729332,
+            "pid": "2209B",
+            "name": "Array",
+            "verdict": "OK",
+            "creationTime": 1774155469
+          },
+          {
+            "platform": "codeforces",
+            "id": 367729112,
+            "pid": "2209C",
+            "name": "Find the Zero",
+            "verdict": "OK",
+            "creationTime": 1774155254
+          },
+          {
+            "platform": "codeforces",
+            "id": 367728933,
+            "pid": "2209C",
+            "name": "Find the Zero",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1774155068
+          },
+          {
+            "platform": "codeforces",
+            "id": 367728737,
+            "pid": "2209D",
+            "name": "Ghostfires",
+            "verdict": "OK",
+            "creationTime": 1774154896
+          },
+          {
+            "platform": "codeforces",
+            "id": 367728083,
+            "pid": "2209D",
+            "name": "Ghostfires",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1774154226
+          },
+          {
+            "platform": "codeforces",
+            "id": 367727170,
+            "pid": "2209E",
+            "name": "A Trivial String Problem",
+            "verdict": "OK",
+            "creationTime": 1774153330
+          },
+          {
+            "platform": "codeforces",
+            "id": 367726810,
+            "pid": "2209F",
+            "name": "Dynamic Values And Maximum Sum",
+            "verdict": "OK",
+            "creationTime": 1774152906
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "439eab953bbcc771d7d973b25230a734fa0c1589"
+  "ref": "8ca011b1e0142555fd7f7d91d49481f0135f2eac"
 }
