@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1774159796,
+  "updateTime": 1774201675,
   "history": {
     "user": [
       {
@@ -8,67 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 367729542,
-            "pid": "2209A",
-            "name": "Flip Flops",
+            "id": 367769078,
+            "pid": "2208A",
+            "name": "Bingo Candies",
             "verdict": "OK",
-            "creationTime": 1774155653
+            "creationTime": 1774179643
           },
           {
             "platform": "codeforces",
-            "id": 367729332,
-            "pid": "2209B",
-            "name": "Array",
+            "id": 367768581,
+            "pid": "2208B",
+            "name": "Cyclists",
             "verdict": "OK",
-            "creationTime": 1774155469
+            "creationTime": 1774179348
           },
           {
             "platform": "codeforces",
-            "id": 367729112,
-            "pid": "2209C",
-            "name": "Find the Zero",
+            "id": 367768122,
+            "pid": "2208C",
+            "name": "Stamina and Tasks",
             "verdict": "OK",
-            "creationTime": 1774155254
+            "creationTime": 1774179042
           },
           {
             "platform": "codeforces",
-            "id": 367728933,
-            "pid": "2209C",
-            "name": "Find the Zero",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1774155068
-          },
-          {
-            "platform": "codeforces",
-            "id": 367728737,
-            "pid": "2209D",
-            "name": "Ghostfires",
+            "id": 367767879,
+            "pid": "2208D1",
+            "name": "Tree Orientation (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1774154896
+            "creationTime": 1774178899
           },
           {
             "platform": "codeforces",
-            "id": 367728083,
-            "pid": "2209D",
-            "name": "Ghostfires",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1774154226
-          },
-          {
-            "platform": "codeforces",
-            "id": 367727170,
-            "pid": "2209E",
-            "name": "A Trivial String Problem",
+            "id": 367767823,
+            "pid": "2208D2",
+            "name": "Tree Orientation (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1774153330
+            "creationTime": 1774178865
           },
           {
             "platform": "codeforces",
-            "id": 367726810,
-            "pid": "2209F",
-            "name": "Dynamic Values And Maximum Sum",
+            "id": 367764973,
+            "pid": "2208E",
+            "name": "Counting Cute Arrays",
             "verdict": "OK",
-            "creationTime": 1774152906
+            "creationTime": 1774177122
           }
         ],
         "newContests": []
@@ -76,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "8ca011b1e0142555fd7f7d91d49481f0135f2eac"
+  "ref": "e890ac1bb26c0d9fecb5e283fd511aee2c567ff1"
 }
