@@ -1,64 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1774201675,
+  "updateTime": 1774248295,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 367769078,
-            "pid": "2208A",
-            "name": "Bingo Candies",
-            "verdict": "OK",
-            "creationTime": 1774179643
-          },
-          {
-            "platform": "codeforces",
-            "id": 367768581,
-            "pid": "2208B",
-            "name": "Cyclists",
-            "verdict": "OK",
-            "creationTime": 1774179348
-          },
-          {
-            "platform": "codeforces",
-            "id": 367768122,
-            "pid": "2208C",
-            "name": "Stamina and Tasks",
-            "verdict": "OK",
-            "creationTime": 1774179042
-          },
-          {
-            "platform": "codeforces",
-            "id": 367767879,
-            "pid": "2208D1",
-            "name": "Tree Orientation (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1774178899
-          },
-          {
-            "platform": "codeforces",
-            "id": 367767823,
-            "pid": "2208D2",
-            "name": "Tree Orientation (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1774178865
-          },
-          {
-            "platform": "codeforces",
-            "id": 367764973,
-            "pid": "2208E",
-            "name": "Counting Cute Arrays",
-            "verdict": "OK",
-            "creationTime": 1774177122
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "e890ac1bb26c0d9fecb5e283fd511aee2c567ff1"
+  "ref": "e3a73824b9a8716db16da056572e6ec492a3d245"
 }
