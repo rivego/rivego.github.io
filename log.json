@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1774289258,
+  "updateTime": 1774334171,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 367936367,
+            "pid": "2207H1",
+            "name": "Bowser's Castle (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1774289749
+          },
+          {
+            "platform": "codeforces",
+            "id": 367936353,
+            "pid": "2207H2",
+            "name": "Bowser's Castle (Medium Version)",
+            "verdict": "OK",
+            "creationTime": 1774289741
+          },
+          {
+            "platform": "codeforces",
+            "id": 367936311,
+            "pid": "2207H3",
+            "name": "Bowser's Castle (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1774289717
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "21c21af3992c422302103e659797f3b7fec245a3"
+  "ref": "84e0854ffc247a4a745f49eb2642e489095694bb"
 }
