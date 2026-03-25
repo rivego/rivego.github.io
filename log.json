@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1774420568,
+  "updateTime": 1774462373,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 368128627,
+            "pid": "1893E",
+            "name": "Cacti Symphony",
+            "verdict": "OK",
+            "creationTime": 1774435543
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "5350ab74df91828677d79a940dca2916f8900ce7"
+  "ref": "6067244d71e5908f755e111ce771484b86accec5"
 }
