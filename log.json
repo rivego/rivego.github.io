@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1774593777,
+  "updateTime": 1774634912,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 368304810,
-            "pid": "2122G",
-            "name": "Tree Parking",
-            "verdict": "OK",
-            "creationTime": 1774551170
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "1d3b9e4a6bf6e461418bb6dfe47dc281560aa14a"
+  "ref": "096114e51b8ebae28a0fbb9b1601d13194f39849"
 }
