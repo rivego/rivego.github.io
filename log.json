@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1774548819,
+  "updateTime": 1774593777,
   "history": {
     "user": [
       {
@@ -8,43 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 368299984,
-            "pid": "1844H",
-            "name": "Multiple of Three Cycles",
+            "id": 368304810,
+            "pid": "2122G",
+            "name": "Tree Parking",
             "verdict": "OK",
-            "creationTime": 1774548544
-          },
-          {
-            "platform": "codeforces",
-            "id": 368289905,
-            "pid": "2174F",
-            "name": "Mosaic Tree",
-            "verdict": "OK",
-            "creationTime": 1774543585
-          },
-          {
-            "platform": "codeforces",
-            "id": 368289771,
-            "pid": "2174F",
-            "name": "Mosaic Tree",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1774543531
-          },
-          {
-            "platform": "codeforces",
-            "id": 368289632,
-            "pid": "2174F",
-            "name": "Mosaic Tree",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1774543447
-          },
-          {
-            "platform": "codeforces",
-            "id": 368274713,
-            "pid": "1919E",
-            "name": "Counting Prefixes",
-            "verdict": "OK",
-            "creationTime": 1774536697
+            "creationTime": 1774551170
           }
         ],
         "newContests": []
@@ -52,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "e81da8567981120a34f2a8f211511ea2bf666325"
+  "ref": "1d3b9e4a6bf6e461418bb6dfe47dc281560aa14a"
 }
