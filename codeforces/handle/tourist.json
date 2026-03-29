@@ -122,6 +122,7 @@
         "tags": [
           "dp",
           "interactive",
+          "math",
           "number theory",
           "trees"
         ],
@@ -147,6 +148,7 @@
         "id": "2211C2",
         "name": "Equal Multisets (Hard Version)",
         "tags": [
+          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/C2"
@@ -172,6 +174,7 @@
         "name": "Equal Multisets (Easy Version)",
         "tags": [
           "binary search",
+          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/C1"
@@ -222,6 +225,7 @@
         "id": "2211B",
         "name": "Mickey Mouse Constructive",
         "tags": [
+          "dp",
           "greedy",
           "math"
         ],
