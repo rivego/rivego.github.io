@@ -9,6 +9,7 @@
       "id": 368589447,
       "creationTime": 1774717013,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -30,6 +31,7 @@
       "id": 368563146,
       "creationTime": 1774713097,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -42,7 +44,8 @@
         "id": "2211G",
         "name": "Rational Bubble Sort",
         "tags": [
-          "geometry"
+          "geometry",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/G"
       },
@@ -66,7 +69,8 @@
         "id": "2211G",
         "name": "Rational Bubble Sort",
         "tags": [
-          "geometry"
+          "geometry",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/G"
       },
@@ -77,6 +81,7 @@
       "id": 368548810,
       "creationTime": 1774711616,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -88,7 +93,11 @@
         "type": "codeforces",
         "id": "2211F",
         "name": "Learning Binary Search",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "divide and conquer",
+          "dp"
+        ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/2211/submission/368548810"
@@ -98,6 +107,7 @@
       "id": 368542243,
       "creationTime": 1774711036,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -110,8 +120,10 @@
         "id": "2211E",
         "name": "Minimum Path Cover",
         "tags": [
+          "dp",
           "interactive",
-          "number theory"
+          "number theory",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/E"
       },
@@ -134,7 +146,9 @@
         "type": "codeforces",
         "id": "2211C2",
         "name": "Equal Multisets (Hard Version)",
-        "tags": [],
+        "tags": [
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/C2"
       },
       "submissionUrl": "https://codeforces.com/contest/2211/submission/368532104"
@@ -156,7 +170,10 @@
         "type": "codeforces",
         "id": "2211C1",
         "name": "Equal Multisets (Easy Version)",
-        "tags": [],
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/C1"
       },
       "submissionUrl": "https://codeforces.com/contest/2211/submission/368531313"
@@ -178,7 +195,11 @@
         "type": "codeforces",
         "id": "2211D",
         "name": "AND-array",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2211/submission/368523400"
@@ -200,7 +221,10 @@
         "type": "codeforces",
         "id": "2211B",
         "name": "Mickey Mouse Constructive",
-        "tags": [],
+        "tags": [
+          "greedy",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/B"
       },
       "submissionUrl": "https://codeforces.com/contest/2211/submission/368520263"
@@ -223,6 +247,7 @@
         "id": "2211A",
         "name": "Antimedian Deletion",
         "tags": [
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/A"
@@ -145078,7 +145103,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3719,
+    "rating": 3755,
     "maxRank": "tourist",
     "maxRating": 4009
   }
