@@ -123,6 +123,7 @@
         "id": "2211E",
         "name": "Minimum Path Cover",
         "tags": [
+          "brute force",
           "dp",
           "greedy",
           "interactive",
