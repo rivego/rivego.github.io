@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1775153203,
+  "updateTime": 1775198532,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 369355842,
-            "pid": "2206A",
-            "name": "Compare Suffixes",
-            "verdict": "OK",
-            "creationTime": 1775136554
-          },
-          {
-            "platform": "codeforces",
-            "id": 369353930,
-            "pid": "2206A",
-            "name": "Compare Suffixes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1775135408
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "195a122ae248e6997d8c593f0c03ce6b8db15c30"
+  "ref": "826e1b78ebcdb5651161ff1b36e21b9f35aed986"
 }
