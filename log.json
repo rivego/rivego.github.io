@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1775717584,
+  "updateTime": 1775759484,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 370450722,
+            "pid": "700E",
+            "name": "Cool Slogans",
+            "verdict": "OK",
+            "creationTime": 1775752388
+          },
+          {
+            "platform": "codeforces",
+            "id": 370450479,
+            "pid": "700E",
+            "name": "Cool Slogans",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1775752266
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "80b81a24ce8c9dec5c6c974fac0b8a84c04ffed6"
+  "ref": "267fea4e82cbb69c2024ef593bf4df7c62f5f216"
 }
