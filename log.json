@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1775759484,
+  "updateTime": 1775804700,
   "history": {
     "user": [
       {
@@ -8,19 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 370450722,
-            "pid": "700E",
-            "name": "Cool Slogans",
+            "id": 370472189,
+            "pid": "1608G",
+            "name": "Alphabetic Tree",
             "verdict": "OK",
-            "creationTime": 1775752388
-          },
-          {
-            "platform": "codeforces",
-            "id": 370450479,
-            "pid": "700E",
-            "name": "Cool Slogans",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1775752266
+            "creationTime": 1775764372
           }
         ],
         "newContests": []
@@ -28,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "267fea4e82cbb69c2024ef593bf4df7c62f5f216"
+  "ref": "7ecde395d65d8f909299a61309efbf1a03f28864"
 }
