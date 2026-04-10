@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1775804700,
+  "updateTime": 1775844348,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 370472189,
-            "pid": "1608G",
-            "name": "Alphabetic Tree",
-            "verdict": "OK",
-            "creationTime": 1775764372
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7ecde395d65d8f909299a61309efbf1a03f28864"
+  "ref": "d6e3bbda2337fbb06cd118732963d8a336aabf83"
 }
