@@ -26348,7 +26348,7 @@
     "standingsUrl": "https://codeforces.com/gym/106479/standings"
   },
   {
-    "type": "codeforces/gym/icpc",
+    "type": "codeforces/gym/ioi",
     "name": "MCC 2026 Qualification (Upsolving)",
     "startTime": 1775912400,
     "duration": 14400,
