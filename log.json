@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1776016648,
+  "updateTime": 1776065052,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 370860092,
+            "pid": "2211H",
+            "name": "Median Deletion",
+            "verdict": "OK",
+            "creationTime": 1776018333
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "9dae51641295923ed891e3d425d3d94e9f645943"
+  "ref": "a3abeb47e19eebba1ae4849dd3ce71670670b934"
 }
