@@ -1,136 +1,26 @@
 {
   "version": "0.1.29",
-  "updateTime": 1776105862,
+  "updateTime": 1776192111,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 371036845,
-            "pid": "2219D",
-            "name": "MEX Replacement on Tree",
-            "verdict": "OK",
-            "creationTime": 1776101668
-          },
-          {
-            "platform": "codeforces",
-            "id": 371031577,
-            "pid": "2219D",
-            "name": "MEX Replacement on Tree",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1776098101
-          },
-          {
-            "platform": "codeforces",
-            "id": 371019251,
-            "pid": "2219B1",
-            "name": "Unique Values (Easy version)",
-            "verdict": "OK",
-            "creationTime": 1776096621
-          },
-          {
-            "platform": "codeforces",
-            "id": 371015865,
-            "pid": "2219E",
-            "name": "Weird Chessboard",
-            "verdict": "OK",
-            "creationTime": 1776096171
-          },
-          {
-            "platform": "codeforces",
-            "id": 371005332,
-            "pid": "2219C",
-            "name": "Coloring a Red Black Tree",
-            "verdict": "OK",
-            "creationTime": 1776094913
-          },
-          {
-            "platform": "codeforces",
-            "id": 370979018,
-            "pid": "2219B1",
-            "name": "Unique Values (Easy version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1776092356
-          },
-          {
-            "platform": "codeforces",
-            "id": 370961797,
-            "pid": "2219A",
-            "name": "Grid L",
-            "verdict": "OK",
-            "creationTime": 1776091202
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 371036839,
-            "pid": "2219E",
-            "name": "Weird Chessboard",
+            "id": 371141887,
+            "pid": "2220B",
+            "name": "OIE Excursion",
             "verdict": "OK",
-            "creationTime": 1776101666
+            "creationTime": 1776176427
           },
           {
             "platform": "codeforces",
-            "id": 371006515,
-            "pid": "2219D",
-            "name": "MEX Replacement on Tree",
+            "id": 371140872,
+            "pid": "2220A",
+            "name": "Blocked",
             "verdict": "OK",
-            "creationTime": 1776095051
-          },
-          {
-            "platform": "codeforces",
-            "id": 371004810,
-            "pid": "2219D",
-            "name": "MEX Replacement on Tree",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1776094855
-          },
-          {
-            "platform": "codeforces",
-            "id": 370990783,
-            "pid": "2219B1",
-            "name": "Unique Values (Easy version)",
-            "verdict": "OK",
-            "creationTime": 1776093469
-          },
-          {
-            "platform": "codeforces",
-            "id": 370986910,
-            "pid": "2219B2",
-            "name": "Unique Values (Hard version)",
-            "verdict": "OK",
-            "creationTime": 1776093095
-          },
-          {
-            "platform": "codeforces",
-            "id": 370986706,
-            "pid": "2219C",
-            "name": "Coloring a Red Black Tree",
-            "verdict": "OK",
-            "creationTime": 1776093076
-          },
-          {
-            "platform": "codeforces",
-            "id": 370981252,
-            "pid": "2219B2",
-            "name": "Unique Values (Hard version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1776092557
-          },
-          {
-            "platform": "codeforces",
-            "id": 370973202,
-            "pid": "2219A",
-            "name": "Grid L",
-            "verdict": "OK",
-            "creationTime": 1776091879
+            "creationTime": 1776175959
           }
         ],
         "newContests": []
@@ -138,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "26252ef12661bce4f0e355432bb3666b941eb336"
+  "ref": "80aa72d51068366015416e74ad7cd71c9a4dc69e"
 }

@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2203B",
         "name": "Beautiful Numbers",
+        "rating": 1000,
         "tags": [
           "bitmasks",
           "dp",
@@ -49,6 +50,7 @@
         "type": "codeforces",
         "id": "2203A",
         "name": "Towers of Boxes",
+        "rating": 800,
         "tags": [
           "math"
         ],
