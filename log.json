@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1776192111,
+  "updateTime": 1776236796,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 371141887,
-            "pid": "2220B",
-            "name": "OIE Excursion",
-            "verdict": "OK",
-            "creationTime": 1776176427
-          },
-          {
-            "platform": "codeforces",
-            "id": 371140872,
-            "pid": "2220A",
-            "name": "Blocked",
-            "verdict": "OK",
-            "creationTime": 1776175959
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "80aa72d51068366015416e74ad7cd71c9a4dc69e"
+  "ref": "6506edc24cc5b42a8cd049b5819919b6ca6cd092"
 }
