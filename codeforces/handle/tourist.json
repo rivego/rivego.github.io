@@ -24,7 +24,8 @@
         "tags": [
           "data structures",
           "implementation",
-          "math"
+          "math",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2219/problem/D"
       },
@@ -50,7 +51,8 @@
         "tags": [
           "data structures",
           "implementation",
-          "math"
+          "math",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2219/problem/D"
       },
@@ -75,6 +77,7 @@
         "name": "Unique Values (Easy version)",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "divide and conquer",
           "interactive",
           "math"
@@ -156,6 +159,7 @@
         "name": "Unique Values (Easy version)",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "divide and conquer",
           "interactive",
           "math"
