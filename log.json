@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1776928330,
+  "updateTime": 1776969597,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 372260919,
+            "pid": "2158F1",
+            "name": "Distinct GCDs (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1776956880
+          },
+          {
+            "platform": "codeforces",
+            "id": 372260900,
+            "pid": "2158F2",
+            "name": "Distinct GCDs (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1776956865
+          },
+          {
+            "platform": "codeforces",
+            "id": 372260469,
+            "pid": "2158F2",
+            "name": "Distinct GCDs (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1776956636
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "f2acaf44b0b805b8b46ac7f4f70e5eb45fbcf157"
+  "ref": "460ffbb65fc1248e071d5c4c09305de6349ef236"
 }
