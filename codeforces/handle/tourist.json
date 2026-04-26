@@ -9,7 +9,7 @@
       "id": 372526393,
       "creationTime": 1777136565,
       "language": "C++20 (GCC 13-64)",
-      "verdict": "TESTING",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -98,7 +98,9 @@
         "name": "Building Tree",
         "tags": [
           "divide and conquer",
-          "graphs"
+          "dsu",
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2222/problem/F"
       },
@@ -123,7 +125,9 @@
         "name": "Building Tree",
         "tags": [
           "divide and conquer",
-          "graphs"
+          "dsu",
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2222/problem/F"
       },
@@ -148,6 +152,8 @@
         "name": "Seek the Truth",
         "tags": [
           "binary search",
+          "bitmasks",
+          "constructive algorithms",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2222/problem/E"
@@ -173,6 +179,7 @@
         "name": "Permutation Construction",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2222/problem/D"
@@ -145575,7 +145582,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3541,
+    "rating": 3470,
     "maxRank": "tourist",
     "maxRating": 4009
   }
