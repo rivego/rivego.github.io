@@ -97,6 +97,7 @@
         "id": "2222F",
         "name": "Building Tree",
         "tags": [
+          "data structures",
           "divide and conquer",
           "dsu",
           "graphs",
@@ -124,6 +125,7 @@
         "id": "2222F",
         "name": "Building Tree",
         "tags": [
+          "data structures",
           "divide and conquer",
           "dsu",
           "graphs",
@@ -204,7 +206,8 @@
         "id": "2222C",
         "name": "Median Partition",
         "tags": [
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2222/problem/C"
       },
@@ -253,6 +256,7 @@
         "id": "2222A",
         "name": "A Wonderful Contest",
         "tags": [
+          "brute force",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2222/problem/A"
