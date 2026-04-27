@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1777275771,
+  "updateTime": 1777315597,
   "history": {
     "user": [
       {
@@ -8,27 +8,27 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 372649357,
-            "pid": "2222G",
-            "name": "Statistics on Tree",
+            "id": 372686763,
+            "pid": "2222E",
+            "name": "Seek the Truth",
             "verdict": "OK",
-            "creationTime": 1777231198
+            "creationTime": 1777280738
           },
           {
             "platform": "codeforces",
-            "id": 372648762,
-            "pid": "2222F",
-            "name": "Building Tree",
-            "verdict": "OK",
-            "creationTime": 1777230703
+            "id": 372686691,
+            "pid": "2222E",
+            "name": "Seek the Truth",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1777280672
           },
           {
             "platform": "codeforces",
-            "id": 372647698,
-            "pid": "2222H",
-            "name": "Counting Sort?",
-            "verdict": "OK",
-            "creationTime": 1777229852
+            "id": 372686583,
+            "pid": "2222E",
+            "name": "Seek the Truth",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1777280580
           }
         ],
         "newContests": []
@@ -36,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "79bf069257d1b024ba39fc447d9788269146abfe"
+  "ref": "c19e7ed01d031478126626d48ce1050ae42d239d"
 }
