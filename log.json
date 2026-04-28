@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1777315597,
+  "updateTime": 1777362185,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 372686763,
-            "pid": "2222E",
-            "name": "Seek the Truth",
-            "verdict": "OK",
-            "creationTime": 1777280738
-          },
-          {
-            "platform": "codeforces",
-            "id": 372686691,
-            "pid": "2222E",
-            "name": "Seek the Truth",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1777280672
-          },
-          {
-            "platform": "codeforces",
-            "id": 372686583,
-            "pid": "2222E",
-            "name": "Seek the Truth",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1777280580
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "c19e7ed01d031478126626d48ce1050ae42d239d"
+  "ref": "b4a43dbb37cc5b468e3e936d556902a2d844f10d"
 }
