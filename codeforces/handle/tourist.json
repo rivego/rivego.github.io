@@ -260,6 +260,7 @@
         "name": "A Wonderful Contest",
         "tags": [
           "brute force",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2222/problem/A"
