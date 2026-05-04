@@ -26523,5 +26523,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106513",
     "standingsUrl": "https://codeforces.com/gym/106513/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MITIT Spring 2026 Invitationals Finals",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106516,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106516",
+    "standingsUrl": "https://codeforces.com/gym/106516/standings"
   }
 ]
