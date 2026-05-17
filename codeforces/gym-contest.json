@@ -26590,6 +26590,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "XAPC 2026",
+    "startTime": 1779019200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106527,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106527",
+    "standingsUrl": "https://codeforces.com/gym/106527/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "UFBA Selection Contest 2026",
     "startTime": 1778950800,
     "duration": 18000,
