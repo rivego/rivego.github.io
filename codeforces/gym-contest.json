@@ -26579,6 +26579,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "VII UnBalloon Contest Mirror",
+    "startTime": 1779037200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106523,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106523",
+    "standingsUrl": "https://codeforces.com/gym/106523/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "NDUB Inter University Programming Contest 2026 - Online Mirror",
     "startTime": 1778907900,
     "duration": 18000,
@@ -26620,6 +26631,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106530",
     "standingsUrl": "https://codeforces.com/gym/106530/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 24th Sichuan University Programming Contest",
+    "duration": 600,
+    "participantNumber": 0,
+    "id": 106533,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106533",
+    "standingsUrl": "https://codeforces.com/gym/106533/standings"
   },
   {
     "type": "codeforces/gym/icpc",
