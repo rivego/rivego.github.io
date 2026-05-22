@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1779391378,
+  "updateTime": 1779438897,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 375466812,
-            "pid": "1830F",
-            "name": "The Third Grace",
-            "verdict": "OK",
-            "creationTime": 1779371001
-          },
-          {
-            "platform": "codeforces",
-            "id": 375466130,
-            "pid": "1830F",
-            "name": "The Third Grace",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1779370648
-          },
-          {
-            "platform": "codeforces",
-            "id": 375447272,
-            "pid": "1895G",
-            "name": "Two Characters, Two Colors",
-            "verdict": "OK",
-            "creationTime": 1779360379
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "cca652669527710dd97826e6fa8cd9dad60ebf6c"
+  "ref": "fdade1a1cc680462ced2e80a08c03f75212d5f73"
 }
