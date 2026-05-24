@@ -104,8 +104,7 @@
           "bitmasks",
           "brute force",
           "dp",
-          "greedy",
-          "implementation"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/F"
       },
@@ -210,7 +209,8 @@
         "id": "2229C2",
         "name": "We Be Flipping (Hard Version)",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/C2"
       },
@@ -234,7 +234,8 @@
         "id": "2229C1",
         "name": "We Be Flipping (Easy Version)",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/C1"
       },
