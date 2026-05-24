@@ -102,7 +102,10 @@
         "tags": [
           "binary search",
           "bitmasks",
-          "dp"
+          "brute force",
+          "dp",
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/F"
       },
@@ -127,7 +130,9 @@
         "name": "Deconstruction Tree",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
+          "graphs",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/E"
@@ -153,7 +158,9 @@
         "name": "Deconstruction Tree",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
+          "graphs",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/E"
@@ -251,7 +258,8 @@
         "id": "2229B",
         "name": "Absolute Cinema",
         "tags": [
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/B"
       },
@@ -274,7 +282,11 @@
         "type": "codeforces",
         "id": "2229A",
         "name": "Slimes on a Line",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "greedy",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/2229/submission/375773711"
@@ -145890,7 +145902,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3473,
+    "rating": 3428,
     "maxRank": "tourist",
     "maxRating": 4009
   }
