@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1779647647,
+  "updateTime": 1779735348,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 376003924,
+            "pid": "2229I",
+            "name": "The Endians",
+            "verdict": "OK",
+            "creationTime": 1779691051
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "62f55cd9f79fb1fff8493cfc9f1778615d1bd86d"
+  "ref": "ad5bc0ba82c3f207d2dcfdcad2a09993f0be8cca"
 }
