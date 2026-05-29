@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1779997891,
+  "updateTime": 1780044831,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 376424157,
-            "pid": "1477F",
-            "name": "Nezzar and Chocolate Bars",
-            "verdict": "OK",
-            "creationTime": 1779980957
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "d31fde7f993a19f28d778315f56c54ed11ba41d2"
+  "ref": "1592cd59fb7bd72e7c111656ad935dfd0a0d9745"
 }
