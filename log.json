@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1781207802,
+  "updateTime": 1781257185,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 378266021,
+            "pid": "2096F",
+            "name": "Wonderful Impostors",
+            "verdict": "OK",
+            "creationTime": 1781243834
+          },
+          {
+            "platform": "codeforces",
+            "id": 378264476,
+            "pid": "2165F",
+            "name": "Arctic Acquisition",
+            "verdict": "OK",
+            "creationTime": 1781242707
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "0e1c2135776efe1471db538414c7258e065ffaef"
+  "ref": "f9caca1b0281a84d74e8c1626ade0df9a3295df3"
 }
