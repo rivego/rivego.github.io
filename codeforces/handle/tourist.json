@@ -100,8 +100,21 @@
         "id": "2237E",
         "name": "Permutation Commutation",
         "tags": [
+          "2-sat",
+          "chinese remainder theorem",
+          "communication",
+          "constructive algorithms",
+          "fft",
+          "flows",
+          "graph matchings",
           "graphs",
-          "greedy"
+          "greedy",
+          "implementation",
+          "interactive",
+          "meet-in-the-middle",
+          "probabilities",
+          "schedules",
+          "string suffix structures"
         ],
         "problemUrl": "https://codeforces.com/contest/2237/problem/E"
       },
