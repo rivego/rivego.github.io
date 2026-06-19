@@ -24,7 +24,8 @@
         "tags": [
           "communication",
           "interactive",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2237/problem/G"
       },
@@ -50,7 +51,8 @@
         "tags": [
           "communication",
           "interactive",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2237/problem/G"
       },
@@ -100,21 +102,9 @@
         "id": "2237E",
         "name": "Permutation Commutation",
         "tags": [
-          "2-sat",
-          "chinese remainder theorem",
-          "communication",
-          "constructive algorithms",
-          "fft",
-          "flows",
-          "graph matchings",
           "graphs",
           "greedy",
-          "implementation",
-          "interactive",
-          "meet-in-the-middle",
-          "probabilities",
-          "schedules",
-          "string suffix structures"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2237/problem/E"
       },
@@ -164,6 +154,7 @@
         "id": "2237C",
         "name": "Duck Surplus",
         "tags": [
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2237/problem/C"
