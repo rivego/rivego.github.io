@@ -102,9 +102,9 @@
         "id": "2237E",
         "name": "Permutation Commutation",
         "tags": [
+          "data structures",
           "graphs",
-          "greedy",
-          "implementation"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2237/problem/E"
       },
