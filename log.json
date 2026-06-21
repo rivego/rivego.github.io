@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1782032724,
+  "updateTime": 1782068180,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 379731145,
+            "pid": "2237G",
+            "name": "Send GCDs",
+            "verdict": "OK",
+            "creationTime": 1782066046
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "cd0f660bb587e38a55e9351364bde89d7008e472"
+  "ref": "68bf8830e493db57a8328e18960aadb583924c69"
 }
