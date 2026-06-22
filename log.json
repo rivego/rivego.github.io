@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1782068180,
+  "updateTime": 1782126591,
   "history": {
     "user": [
       {
@@ -8,11 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 379731145,
-            "pid": "2237G",
-            "name": "Send GCDs",
+            "id": 379753312,
+            "pid": "2237H",
+            "name": "Slime and Queries",
             "verdict": "OK",
-            "creationTime": 1782066046
+            "creationTime": 1782099052
           }
         ],
         "newContests": []
@@ -20,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "68bf8830e493db57a8328e18960aadb583924c69"
+  "ref": "34d2e2f672a27cecf85f07544279c2d4e243f46f"
 }
