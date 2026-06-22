@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1782126591,
+  "updateTime": 1782159484,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 379753312,
-            "pid": "2237H",
-            "name": "Slime and Queries",
-            "verdict": "OK",
-            "creationTime": 1782099052
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "34d2e2f672a27cecf85f07544279c2d4e243f46f"
+  "ref": "bb03f7a057cc4681adc0b99db1d5be94da25ce98"
 }
