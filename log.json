@@ -1,9 +1,142 @@
 {
   "version": "0.1.29",
-  "updateTime": 1782547694,
+  "updateTime": 1782585662,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 380351477,
+            "pid": "2239D",
+            "name": "Hunting the Beast",
+            "verdict": "OK",
+            "creationTime": 1782574973
+          },
+          {
+            "platform": "codeforces",
+            "id": 380336414,
+            "pid": "2239C",
+            "name": "Revival",
+            "verdict": "OK",
+            "creationTime": 1782572659
+          },
+          {
+            "platform": "codeforces",
+            "id": 380324092,
+            "pid": "2239B",
+            "name": "Decidophobia",
+            "verdict": "OK",
+            "creationTime": 1782571295
+          },
+          {
+            "platform": "codeforces",
+            "id": 380322407,
+            "pid": "2239A",
+            "name": "Nim Game Is XOR Game",
+            "verdict": "OK",
+            "creationTime": 1782571104
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 380368748,
+            "pid": "2239F",
+            "name": "Colorful Works",
+            "verdict": "OK",
+            "creationTime": 1782579275
+          },
+          {
+            "platform": "codeforces",
+            "id": 380367688,
+            "pid": "2239F",
+            "name": "Colorful Works",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1782578951
+          },
+          {
+            "platform": "codeforces",
+            "id": 380367502,
+            "pid": "2239F",
+            "name": "Colorful Works",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1782578892
+          },
+          {
+            "platform": "codeforces",
+            "id": 380366539,
+            "pid": "2239F",
+            "name": "Colorful Works",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1782578588
+          },
+          {
+            "platform": "codeforces",
+            "id": 380364817,
+            "pid": "2239F",
+            "name": "Colorful Works",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1782578074
+          },
+          {
+            "platform": "codeforces",
+            "id": 380357082,
+            "pid": "2239E",
+            "name": "The end of this world,",
+            "verdict": "OK",
+            "creationTime": 1782576127
+          },
+          {
+            "platform": "codeforces",
+            "id": 380346397,
+            "pid": "2239D",
+            "name": "Hunting the Beast",
+            "verdict": "OK",
+            "creationTime": 1782574076
+          },
+          {
+            "platform": "codeforces",
+            "id": 380335877,
+            "pid": "2239C",
+            "name": "Revival",
+            "verdict": "OK",
+            "creationTime": 1782572587
+          },
+          {
+            "platform": "codeforces",
+            "id": 380334869,
+            "pid": "2239C",
+            "name": "Revival",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1782572455
+          },
+          {
+            "platform": "codeforces",
+            "id": 380326469,
+            "pid": "2239B",
+            "name": "Decidophobia",
+            "verdict": "OK",
+            "creationTime": 1782571541
+          },
+          {
+            "platform": "codeforces",
+            "id": 380324166,
+            "pid": "2239A",
+            "name": "Nim Game Is XOR Game",
+            "verdict": "OK",
+            "creationTime": 1782571302
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "2aa81dc1a9d42479a8cde9a265c436d6047cd43c"
+  "ref": "003a61e47c1009a9d16b6a77c608a0ecc1e16c4d"
 }
