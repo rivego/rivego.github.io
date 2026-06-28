@@ -26957,5 +26957,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106606",
     "standingsUrl": "https://codeforces.com/gym/106606/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Bitshift2026-IITM,ProgClub",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106608,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106608",
+    "standingsUrl": "https://codeforces.com/gym/106608/standings"
   }
 ]
