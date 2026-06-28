@@ -49,6 +49,7 @@
         "name": "Revival",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
           "math",
           "two pointers"
@@ -102,6 +103,7 @@
         "name": "Nim Game Is XOR Game",
         "tags": [
           "bitmasks",
+          "constructive algorithms",
           "games",
           "greedy",
           "math"

@@ -26940,6 +26940,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "DUET Inter University Programming Contest 2026",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106607,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106607",
+    "standingsUrl": "https://codeforces.com/gym/106607/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "UCPC 2026 preliminary",
     "duration": 10800,
     "participantNumber": 0,
