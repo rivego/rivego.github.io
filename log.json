@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1782980839,
+  "updateTime": 1783018477,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 381039050,
+            "pid": "618F",
+            "name": "Double Knapsack",
+            "verdict": "OK",
+            "creationTime": 1783004446
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "cd8b82743946ce2ead5ee53e733c223b84d4609e"
+  "ref": "df1f998134aef01fce097bd84e6884127ec4764b"
 }
