@@ -47,6 +47,8 @@
         "id": "2245F",
         "name": "Familiar?",
         "tags": [
+          "brute force",
+          "combinatorics",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2245/problem/F"
@@ -124,6 +126,7 @@
         "name": "Construct an Array (Hard Version)",
         "tags": [
           "2-sat",
+          "constructive algorithms",
           "dfs and similar",
           "implementation"
         ],
@@ -150,7 +153,8 @@
         "name": "MEXOR",
         "tags": [
           "bitmasks",
-          "constructive algorithms"
+          "constructive algorithms",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2245/problem/C"
       },
