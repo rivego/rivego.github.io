@@ -27144,5 +27144,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106636",
     "standingsUrl": "https://codeforces.com/gym/106636/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Bangladesh Olympiad in Informatics Discord Server Contest Round 1",
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 106641,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106641",
+    "standingsUrl": "https://codeforces.com/gym/106641/standings"
   }
 ]
