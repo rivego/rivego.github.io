@@ -1,9 +1,56 @@
 {
   "version": "0.1.29",
-  "updateTime": 1788429572,
+  "updateTime": 1788465559,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 389297942,
+            "pid": "2253F",
+            "name": "4-beauty",
+            "verdict": "OK",
+            "creationTime": 1788458770
+          },
+          {
+            "platform": "codeforces",
+            "id": 389297297,
+            "pid": "2237F",
+            "name": "Paint the Array",
+            "verdict": "OK",
+            "creationTime": 1788458377
+          },
+          {
+            "platform": "codeforces",
+            "id": 389295368,
+            "pid": "2236F2",
+            "name": "Elections in Saransk (hard version)",
+            "verdict": "OK",
+            "creationTime": 1788457256
+          },
+          {
+            "platform": "codeforces",
+            "id": 389293917,
+            "pid": "2252E",
+            "name": "Generational Triplets",
+            "verdict": "OK",
+            "creationTime": 1788456440
+          },
+          {
+            "platform": "codeforces",
+            "id": 389293228,
+            "pid": "2238E",
+            "name": "Cake Trial",
+            "verdict": "OK",
+            "creationTime": 1788456037
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "f49904c10caf2589349df053d5a041d22427285b"
+  "ref": "369a7ed8a4807d9aaaf2fff767b16e7cd1c277bd"
 }

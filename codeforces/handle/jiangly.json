@@ -6,6 +6,144 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 389297942,
+      "creationTime": 1788458770,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -359024877
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2253F",
+        "name": "4-beauty",
+        "rating": 2600,
+        "tags": [
+          "bitmasks",
+          "dp",
+          "graphs",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2253/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2253/submission/389297942"
+    },
+    {
+      "type": "codeforces",
+      "id": 389297297,
+      "creationTime": 1788458377,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -359025270
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2237F",
+        "name": "Paint the Array",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2237/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2237/submission/389297297"
+    },
+    {
+      "type": "codeforces",
+      "id": 389295368,
+      "creationTime": 1788457256,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -359026391
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2236F2",
+        "name": "Elections in Saransk (hard version)",
+        "rating": 2200,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2236/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2236/submission/389295368"
+    },
+    {
+      "type": "codeforces",
+      "id": 389293917,
+      "creationTime": 1788456440,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -359027207
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2252E",
+        "name": "Generational Triplets",
+        "rating": 2100,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2252/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2252/submission/389293917"
+    },
+    {
+      "type": "codeforces",
+      "id": 389293228,
+      "creationTime": 1788456037,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -359027610
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2238E",
+        "name": "Cake Trial",
+        "rating": 2000,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2238/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2238/submission/389293228"
+    },
+    {
+      "type": "codeforces",
       "id": 383017692,
       "creationTime": 1784223329,
       "language": "C++23 (GCC 14-64, msys2)",
