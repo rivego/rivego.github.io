@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1788515258,
+  "updateTime": 1788551057,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 389326919,
-            "pid": "2247F",
-            "name": "Paths on a Grid",
-            "verdict": "OK",
-            "creationTime": 1788502815
-          },
-          {
-            "platform": "codeforces",
-            "id": 389321666,
-            "pid": "2248G",
-            "name": "No Balance Left",
-            "verdict": "OK",
-            "creationTime": 1788497756
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "2728a5a8661d2e622f550088add5d1154ebb1570"
+  "ref": "39774d892954b5a171708040a2808433d26152dc"
 }
