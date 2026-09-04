@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1788465559,
+  "updateTime": 1788515258,
   "history": {
     "user": [
       {
@@ -8,43 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 389297942,
-            "pid": "2253F",
-            "name": "4-beauty",
+            "id": 389326919,
+            "pid": "2247F",
+            "name": "Paths on a Grid",
             "verdict": "OK",
-            "creationTime": 1788458770
+            "creationTime": 1788502815
           },
           {
             "platform": "codeforces",
-            "id": 389297297,
-            "pid": "2237F",
-            "name": "Paint the Array",
+            "id": 389321666,
+            "pid": "2248G",
+            "name": "No Balance Left",
             "verdict": "OK",
-            "creationTime": 1788458377
-          },
-          {
-            "platform": "codeforces",
-            "id": 389295368,
-            "pid": "2236F2",
-            "name": "Elections in Saransk (hard version)",
-            "verdict": "OK",
-            "creationTime": 1788457256
-          },
-          {
-            "platform": "codeforces",
-            "id": 389293917,
-            "pid": "2252E",
-            "name": "Generational Triplets",
-            "verdict": "OK",
-            "creationTime": 1788456440
-          },
-          {
-            "platform": "codeforces",
-            "id": 389293228,
-            "pid": "2238E",
-            "name": "Cake Trial",
-            "verdict": "OK",
-            "creationTime": 1788456037
+            "creationTime": 1788497756
           }
         ],
         "newContests": []
@@ -52,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "369a7ed8a4807d9aaaf2fff767b16e7cd1c277bd"
+  "ref": "2728a5a8661d2e622f550088add5d1154ebb1570"
 }

@@ -6,6 +6,61 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 389326919,
+      "creationTime": 1788502815,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358980832
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2247F",
+        "name": "Paths on a Grid",
+        "rating": 2900,
+        "tags": [
+          "data structures",
+          "dp",
+          "hashing"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2247/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2247/submission/389326919"
+    },
+    {
+      "type": "codeforces",
+      "id": 389321666,
+      "creationTime": 1788497756,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358985891
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2248G",
+        "name": "No Balance Left",
+        "rating": 3000,
+        "tags": [
+          "bitmasks",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2248/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2248/submission/389321666"
+    },
+    {
+      "type": "codeforces",
       "id": 389297942,
       "creationTime": 1788458770,
       "language": "C++23 (GCC 14-64, msys2)",
