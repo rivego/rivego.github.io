@@ -6,6 +6,283 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 389686634,
+      "creationTime": 1788721283,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358762364
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2249E1",
+        "name": "String (Easy Version)",
+        "rating": 2800,
+        "tags": [
+          "divide and conquer",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2249/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2249/submission/389686634"
+    },
+    {
+      "type": "codeforces",
+      "id": 389686620,
+      "creationTime": 1788721266,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358762381
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2252F",
+        "name": "Spectral Components",
+        "rating": 2600,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2252/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2252/submission/389686620"
+    },
+    {
+      "type": "codeforces",
+      "id": 389686589,
+      "creationTime": 1788721231,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358762416
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2249E2",
+        "name": "String (Hard Version)",
+        "rating": 3000,
+        "tags": [
+          "divide and conquer",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2249/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2249/submission/389686589"
+    },
+    {
+      "type": "codeforces",
+      "id": 389685740,
+      "creationTime": 1788720459,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358763188
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2252F",
+        "name": "Spectral Components",
+        "rating": 2600,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2252/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2252/submission/389685740"
+    },
+    {
+      "type": "codeforces",
+      "id": 389667658,
+      "creationTime": 1788709177,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358774470
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2248F",
+        "name": "Matrix Elimination",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2248/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2248/submission/389667658"
+    },
+    {
+      "type": "codeforces",
+      "id": 389661747,
+      "creationTime": 1788705407,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358778240
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2233F",
+        "name": "Shortest GCD Paths",
+        "rating": 2800,
+        "tags": [
+          "dp",
+          "graphs",
+          "math",
+          "number theory",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2233/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2233/submission/389661747"
+    },
+    {
+      "type": "codeforces",
+      "id": 389658959,
+      "creationTime": 1788703761,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358779886
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2233E2",
+        "name": "Permutation Transmission (Difficult Version)",
+        "rating": 2300,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2233/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2233/submission/389658959"
+    },
+    {
+      "type": "codeforces",
+      "id": 389658954,
+      "creationTime": 1788703757,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358779890
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2233E1",
+        "name": "Permutation Transmission (Easy Version)",
+        "rating": 2200,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2233/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2233/submission/389658954"
+    },
+    {
+      "type": "codeforces",
+      "id": 389657715,
+      "creationTime": 1788703014,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358780633
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2233D",
+        "name": "Goods on the Shelf",
+        "rating": 1900,
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2233/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2233/submission/389657715"
+    },
+    {
+      "type": "codeforces",
+      "id": 389656698,
+      "creationTime": 1788702499,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358781148
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2233C",
+        "name": "Cost of a Bracket Sequence",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2233/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2233/submission/389656698"
+    },
+    {
+      "type": "codeforces",
       "id": 389609541,
       "creationTime": 1788670464,
       "language": "C++23 (GCC 14-64, msys2)",

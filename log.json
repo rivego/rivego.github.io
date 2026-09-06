@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1788687196,
+  "updateTime": 1788722438,
   "history": {
     "user": [
       {
@@ -8,19 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 389609541,
-            "pid": "2233B",
-            "name": "Different Distances",
-            "verdict": "OK",
-            "creationTime": 1788670464
+            "id": 389686634,
+            "pid": "2249E1",
+            "name": "String (Easy Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1788721283
           },
           {
             "platform": "codeforces",
-            "id": 389608349,
-            "pid": "2233A",
-            "name": "AI Project Development",
+            "id": 389686620,
+            "pid": "2252F",
+            "name": "Spectral Components",
             "verdict": "OK",
-            "creationTime": 1788669155
+            "creationTime": 1788721266
+          },
+          {
+            "platform": "codeforces",
+            "id": 389686589,
+            "pid": "2249E2",
+            "name": "String (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1788721231
+          },
+          {
+            "platform": "codeforces",
+            "id": 389685740,
+            "pid": "2252F",
+            "name": "Spectral Components",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1788720459
+          },
+          {
+            "platform": "codeforces",
+            "id": 389667658,
+            "pid": "2248F",
+            "name": "Matrix Elimination",
+            "verdict": "OK",
+            "creationTime": 1788709177
+          },
+          {
+            "platform": "codeforces",
+            "id": 389661747,
+            "pid": "2233F",
+            "name": "Shortest GCD Paths",
+            "verdict": "OK",
+            "creationTime": 1788705407
+          },
+          {
+            "platform": "codeforces",
+            "id": 389658959,
+            "pid": "2233E2",
+            "name": "Permutation Transmission (Difficult Version)",
+            "verdict": "OK",
+            "creationTime": 1788703761
+          },
+          {
+            "platform": "codeforces",
+            "id": 389658954,
+            "pid": "2233E1",
+            "name": "Permutation Transmission (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1788703757
+          },
+          {
+            "platform": "codeforces",
+            "id": 389657715,
+            "pid": "2233D",
+            "name": "Goods on the Shelf",
+            "verdict": "OK",
+            "creationTime": 1788703014
+          },
+          {
+            "platform": "codeforces",
+            "id": 389656698,
+            "pid": "2233C",
+            "name": "Cost of a Bracket Sequence",
+            "verdict": "OK",
+            "creationTime": 1788702499
           }
         ],
         "newContests": []
@@ -28,5 +92,5 @@
     ],
     "contest": []
   },
-  "ref": "c4df1fa5a7011eadc1db0a7cb1c2e5ce9d651bea"
+  "ref": "64465aa6090fbc9e5ba5daacfc5a89f482da8cf4"
 }
