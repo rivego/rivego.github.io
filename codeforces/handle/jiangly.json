@@ -6,6 +6,57 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 389609541,
+      "creationTime": 1788670464,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358813183
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2233B",
+        "name": "Different Distances",
+        "rating": 900,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2233/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2233/submission/389609541"
+    },
+    {
+      "type": "codeforces",
+      "id": 389608349,
+      "creationTime": 1788669155,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358814492
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2233A",
+        "name": "AI Project Development",
+        "rating": 800,
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2233/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2233/submission/389608349"
+    },
+    {
+      "type": "codeforces",
       "id": 389326919,
       "creationTime": 1788502815,
       "language": "C++23 (GCC 14-64, msys2)",

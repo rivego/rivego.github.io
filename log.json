@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1788635499,
+  "updateTime": 1788687196,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 389609541,
+            "pid": "2233B",
+            "name": "Different Distances",
+            "verdict": "OK",
+            "creationTime": 1788670464
+          },
+          {
+            "platform": "codeforces",
+            "id": 389608349,
+            "pid": "2233A",
+            "name": "AI Project Development",
+            "verdict": "OK",
+            "creationTime": 1788669155
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "782f6e782231595e1bdc40a773479d97d5245ce2"
+  "ref": "c4df1fa5a7011eadc1db0a7cb1c2e5ce9d651bea"
 }
