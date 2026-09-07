@@ -6,6 +6,58 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 389777115,
+      "creationTime": 1788801301,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358682346
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2249E1",
+        "name": "String (Easy Version)",
+        "rating": 2800,
+        "tags": [
+          "divide and conquer",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2249/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2249/submission/389777115"
+    },
+    {
+      "type": "codeforces",
+      "id": 389777063,
+      "creationTime": 1788801270,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358682377
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2246F",
+        "name": "Whoname and Unsorted Array",
+        "rating": 2900,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2246/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2246/submission/389777063"
+    },
+    {
+      "type": "codeforces",
       "id": 389686634,
       "creationTime": 1788721283,
       "language": "C++23 (GCC 14-64, msys2)",
