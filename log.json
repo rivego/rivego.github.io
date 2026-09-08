@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1788813650,
+  "updateTime": 1788861238,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 389777115,
-            "pid": "2249E1",
-            "name": "String (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1788801301
-          },
-          {
-            "platform": "codeforces",
-            "id": 389777063,
-            "pid": "2246F",
-            "name": "Whoname and Unsorted Array",
-            "verdict": "OK",
-            "creationTime": 1788801270
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6c49afe02fb4ec0e817a64322983c08749aa926d"
+  "ref": "a5c2036667564b483f1ff1bff8253eda130f9981"
 }
