@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1788897607,
+  "updateTime": 1788947784,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 390004923,
+            "pid": "2260C",
+            "name": "Maximize XOR, Minimize Operations",
+            "verdict": "OK",
+            "creationTime": 1788940310
+          },
+          {
+            "platform": "codeforces",
+            "id": 390004398,
+            "pid": "2260B",
+            "name": "Monocarp and Projects",
+            "verdict": "OK",
+            "creationTime": 1788939882
+          },
+          {
+            "platform": "codeforces",
+            "id": 390002605,
+            "pid": "2260A",
+            "name": "Monocarp's Contest",
+            "verdict": "OK",
+            "creationTime": 1788938358
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "fc8e4af7447cfbac2c04496de5fb1d67dc0b0829"
+  "ref": "4622ca09f4acbf8452adf3fa2aedb4815aa60dfd"
 }

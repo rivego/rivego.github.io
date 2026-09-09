@@ -6,6 +6,79 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390004923,
+      "creationTime": 1788940310,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358543337
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2260C",
+        "name": "Maximize XOR, Minimize Operations",
+        "tags": [
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2260/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2260/submission/390004923"
+    },
+    {
+      "type": "codeforces",
+      "id": 390004398,
+      "creationTime": 1788939882,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358543765
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2260B",
+        "name": "Monocarp and Projects",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2260/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2260/submission/390004398"
+    },
+    {
+      "type": "codeforces",
+      "id": 390002605,
+      "creationTime": 1788938358,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358545289
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2260A",
+        "name": "Monocarp's Contest",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2260/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2260/submission/390002605"
+    },
+    {
+      "type": "codeforces",
       "id": 389777115,
       "creationTime": 1788801301,
       "language": "C++23 (GCC 14-64, msys2)",
