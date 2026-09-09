@@ -6,6 +6,144 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390098559,
+      "creationTime": 1788962550,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358521097
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2260G",
+        "name": "Sortable Permutations",
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2260/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2260/submission/390098559"
+    },
+    {
+      "type": "codeforces",
+      "id": 390094972,
+      "creationTime": 1788962137,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358521510
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2260G",
+        "name": "Sortable Permutations",
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2260/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2260/submission/390094972"
+    },
+    {
+      "type": "codeforces",
+      "id": 390075624,
+      "creationTime": 1788958133,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358525514
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2260F",
+        "name": "Edge Three-Coloring",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2260/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2260/submission/390075624"
+    },
+    {
+      "type": "codeforces",
+      "id": 390075616,
+      "creationTime": 1788958129,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358525518
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2260E",
+        "name": "Cyclic Balance",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2260/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2260/submission/390075616"
+    },
+    {
+      "type": "codeforces",
+      "id": 390063883,
+      "creationTime": 1788950887,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358532760
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2260D",
+        "name": "Signs of Prefix Sums",
+        "tags": [
+          "binary search",
+          "brute force",
+          "constructive algorithms",
+          "dfs and similar",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2260/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2260/submission/390063883"
+    },
+    {
+      "type": "codeforces",
       "id": 390004923,
       "creationTime": 1788940310,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -47,6 +185,7 @@
         "id": "2260B",
         "name": "Monocarp and Projects",
         "tags": [
+          "bitmasks",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2260/problem/B"

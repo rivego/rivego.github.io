@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1788947784,
+  "updateTime": 1788983677,
   "history": {
     "user": [
       {
@@ -8,27 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 390004923,
-            "pid": "2260C",
-            "name": "Maximize XOR, Minimize Operations",
+            "id": 390098559,
+            "pid": "2260G",
+            "name": "Sortable Permutations",
             "verdict": "OK",
-            "creationTime": 1788940310
+            "creationTime": 1788962550
           },
           {
             "platform": "codeforces",
-            "id": 390004398,
-            "pid": "2260B",
-            "name": "Monocarp and Projects",
+            "id": 390094972,
+            "pid": "2260G",
+            "name": "Sortable Permutations",
             "verdict": "OK",
-            "creationTime": 1788939882
+            "creationTime": 1788962137
           },
           {
             "platform": "codeforces",
-            "id": 390002605,
-            "pid": "2260A",
-            "name": "Monocarp's Contest",
+            "id": 390075624,
+            "pid": "2260F",
+            "name": "Edge Three-Coloring",
             "verdict": "OK",
-            "creationTime": 1788938358
+            "creationTime": 1788958133
+          },
+          {
+            "platform": "codeforces",
+            "id": 390075616,
+            "pid": "2260E",
+            "name": "Cyclic Balance",
+            "verdict": "OK",
+            "creationTime": 1788958129
+          },
+          {
+            "platform": "codeforces",
+            "id": 390063883,
+            "pid": "2260D",
+            "name": "Signs of Prefix Sums",
+            "verdict": "OK",
+            "creationTime": 1788950887
           }
         ],
         "newContests": []
@@ -36,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "4622ca09f4acbf8452adf3fa2aedb4815aa60dfd"
+  "ref": "a156e7932f7da4f42493820fad530a2e7353daf7"
 }
