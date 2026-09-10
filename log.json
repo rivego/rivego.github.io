@@ -1,66 +1,42 @@
 {
   "version": "0.1.29",
-  "updateTime": 1789034051,
+  "updateTime": 1789070068,
   "history": {
     "user": [
       {
-        "name": "tourist",
+        "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 390170925,
-            "pid": "484E",
-            "name": "Sign on Fence",
+            "id": 390231190,
+            "pid": "2257F2",
+            "name": "Beaver's Jumping Track (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1789023361
+            "creationTime": 1789057810
           },
           {
             "platform": "codeforces",
-            "id": 390170892,
-            "pid": "484E",
-            "name": "Sign on Fence",
+            "id": 390231182,
+            "pid": "2257F1",
+            "name": "Beaver's Jumping Track (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1789023337
+            "creationTime": 1789057805
           },
           {
             "platform": "codeforces",
-            "id": 390170871,
-            "pid": "484E",
-            "name": "Sign on Fence",
+            "id": 390226791,
+            "pid": "2255E2",
+            "name": "What Will Remain at the End? (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1789023321
+            "creationTime": 1789055178
           },
           {
             "platform": "codeforces",
-            "id": 390170776,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1789023242
-          },
-          {
-            "platform": "codeforces",
-            "id": 390169694,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1789022406
-          },
-          {
-            "platform": "codeforces",
-            "id": 390168159,
-            "pid": "484E",
-            "name": "Sign on Fence",
+            "id": 390226759,
+            "pid": "2255E1",
+            "name": "What Will Remain at the End? (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1789021188
-          },
-          {
-            "platform": "codeforces",
-            "id": 390168094,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1789021133
+            "creationTime": 1789055162
           }
         ],
         "newContests": []
@@ -68,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "3e3951a3c8bfb9b4735ff0d20ce5bbcf7f0c1f37"
+  "ref": "d98fd75543edc86a26d6852a98d1d4ad43bebe13"
 }

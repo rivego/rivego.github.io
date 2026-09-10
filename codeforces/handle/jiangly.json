@@ -6,6 +6,111 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390231190,
+      "creationTime": 1789057810,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358425837
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2257F2",
+        "name": "Beaver's Jumping Track (Hard Version)",
+        "rating": 2700,
+        "tags": [
+          "data structures",
+          "dp",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2257/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2257/submission/390231190"
+    },
+    {
+      "type": "codeforces",
+      "id": 390231182,
+      "creationTime": 1789057805,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358425842
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2257F1",
+        "name": "Beaver's Jumping Track (Easy Version)",
+        "rating": 2500,
+        "tags": [
+          "data structures",
+          "dp",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2257/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2257/submission/390231182"
+    },
+    {
+      "type": "codeforces",
+      "id": 390226791,
+      "creationTime": 1789055178,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358428469
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2255E2",
+        "name": "What Will Remain at the End? (Hard Version)",
+        "rating": 3400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2255/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2255/submission/390226791"
+    },
+    {
+      "type": "codeforces",
+      "id": 390226759,
+      "creationTime": 1789055162,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358428485
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2255E1",
+        "name": "What Will Remain at the End? (Easy Version)",
+        "rating": 2900,
+        "tags": [
+          "brute force",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2255/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2255/submission/390226759"
+    },
+    {
+      "type": "codeforces",
       "id": 390098559,
       "creationTime": 1788962550,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -185,8 +290,8 @@
         "id": "2260B",
         "name": "Monocarp and Projects",
         "tags": [
-          "bitmasks",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2260/problem/B"
       },
