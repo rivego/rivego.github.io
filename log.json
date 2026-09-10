@@ -1,50 +1,66 @@
 {
   "version": "0.1.29",
-  "updateTime": 1788983677,
+  "updateTime": 1789034051,
   "history": {
     "user": [
       {
-        "name": "jiangly",
+        "name": "tourist",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 390098559,
-            "pid": "2260G",
-            "name": "Sortable Permutations",
+            "id": 390170925,
+            "pid": "484E",
+            "name": "Sign on Fence",
             "verdict": "OK",
-            "creationTime": 1788962550
+            "creationTime": 1789023361
           },
           {
             "platform": "codeforces",
-            "id": 390094972,
-            "pid": "2260G",
-            "name": "Sortable Permutations",
+            "id": 390170892,
+            "pid": "484E",
+            "name": "Sign on Fence",
             "verdict": "OK",
-            "creationTime": 1788962137
+            "creationTime": 1789023337
           },
           {
             "platform": "codeforces",
-            "id": 390075624,
-            "pid": "2260F",
-            "name": "Edge Three-Coloring",
+            "id": 390170871,
+            "pid": "484E",
+            "name": "Sign on Fence",
             "verdict": "OK",
-            "creationTime": 1788958133
+            "creationTime": 1789023321
           },
           {
             "platform": "codeforces",
-            "id": 390075616,
-            "pid": "2260E",
-            "name": "Cyclic Balance",
-            "verdict": "OK",
-            "creationTime": 1788958129
+            "id": 390170776,
+            "pid": "484E",
+            "name": "Sign on Fence",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1789023242
           },
           {
             "platform": "codeforces",
-            "id": 390063883,
-            "pid": "2260D",
-            "name": "Signs of Prefix Sums",
+            "id": 390169694,
+            "pid": "484E",
+            "name": "Sign on Fence",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1789022406
+          },
+          {
+            "platform": "codeforces",
+            "id": 390168159,
+            "pid": "484E",
+            "name": "Sign on Fence",
             "verdict": "OK",
-            "creationTime": 1788950887
+            "creationTime": 1789021188
+          },
+          {
+            "platform": "codeforces",
+            "id": 390168094,
+            "pid": "484E",
+            "name": "Sign on Fence",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1789021133
           }
         ],
         "newContests": []
@@ -52,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "a156e7932f7da4f42493820fad530a2e7353daf7"
+  "ref": "3e3951a3c8bfb9b4735ff0d20ce5bbcf7f0c1f37"
 }
