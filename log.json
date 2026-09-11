@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1789070068,
+  "updateTime": 1789120366,
   "history": {
     "user": [
       {
@@ -8,35 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 390231190,
-            "pid": "2257F2",
-            "name": "Beaver's Jumping Track (Hard Version)",
+            "id": 390271456,
+            "pid": "2115F2",
+            "name": "Gellyfish and Lycoris Radiata (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1789057810
+            "creationTime": 1789104111
           },
           {
             "platform": "codeforces",
-            "id": 390231182,
-            "pid": "2257F1",
-            "name": "Beaver's Jumping Track (Easy Version)",
+            "id": 390271452,
+            "pid": "2115F1",
+            "name": "Gellyfish and Lycoris Radiata (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1789057805
-          },
-          {
-            "platform": "codeforces",
-            "id": 390226791,
-            "pid": "2255E2",
-            "name": "What Will Remain at the End? (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1789055178
-          },
-          {
-            "platform": "codeforces",
-            "id": 390226759,
-            "pid": "2255E1",
-            "name": "What Will Remain at the End? (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1789055162
+            "creationTime": 1789104108
           }
         ],
         "newContests": []
@@ -44,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "d98fd75543edc86a26d6852a98d1d4ad43bebe13"
+  "ref": "fb20eccdc9f8830729a77b8e6140e928642475d2"
 }

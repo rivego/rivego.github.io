@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390271456,
+      "creationTime": 1789104111,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358379536
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2115F2",
+        "name": "Gellyfish and Lycoris Radiata (Hard Version)",
+        "rating": 3500,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2115/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2115/submission/390271456"
+    },
+    {
+      "type": "codeforces",
+      "id": 390271452,
+      "creationTime": 1789104108,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358379539
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2115F1",
+        "name": "Gellyfish and Lycoris Radiata (Easy Version)",
+        "rating": 3500,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2115/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2115/submission/390271452"
+    },
+    {
+      "type": "codeforces",
       "id": 390231190,
       "creationTime": 1789057810,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -241,7 +291,8 @@
           "brute force",
           "constructive algorithms",
           "dfs and similar",
-          "dp"
+          "dp",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2260/problem/D"
       },
