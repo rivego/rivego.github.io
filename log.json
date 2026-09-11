@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1789120366,
+  "updateTime": 1789156448,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 390271456,
-            "pid": "2115F2",
-            "name": "Gellyfish and Lycoris Radiata (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1789104111
-          },
-          {
-            "platform": "codeforces",
-            "id": 390271452,
-            "pid": "2115F1",
-            "name": "Gellyfish and Lycoris Radiata (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1789104108
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "fb20eccdc9f8830729a77b8e6140e928642475d2"
+  "ref": "b9ac94ac6bb50666a314dd2162a4385a95368aa4"
 }
