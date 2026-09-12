@@ -231,7 +231,6 @@
         "id": "2260F",
         "name": "Edge Three-Coloring",
         "tags": [
-          "bitmasks",
           "brute force",
           "dfs and similar",
           "dsu",
@@ -287,7 +286,6 @@
         "id": "2260D",
         "name": "Signs of Prefix Sums",
         "tags": [
-          "binary search",
           "brute force",
           "constructive algorithms",
           "dfs and similar",
@@ -341,6 +339,7 @@
         "id": "2260B",
         "name": "Monocarp and Projects",
         "tags": [
+          "brute force",
           "math",
           "number theory"
         ],

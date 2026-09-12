@@ -1,9 +1,40 @@
 {
   "version": "0.1.29",
-  "updateTime": 1789156448,
+  "updateTime": 1789205334,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 390373022,
+            "pid": "1736C2",
+            "name": "Good Subarrays (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1789190225
+          },
+          {
+            "platform": "codeforces",
+            "id": 390371008,
+            "pid": "1736C2",
+            "name": "Good Subarrays (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1789188054
+          },
+          {
+            "platform": "codeforces",
+            "id": 390370931,
+            "pid": "1736C2",
+            "name": "Good Subarrays (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1789187961
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b9ac94ac6bb50666a314dd2162a4385a95368aa4"
+  "ref": "a84b8806e3c64ec5ab57f2f0b6a5d3a53e1620e9"
 }

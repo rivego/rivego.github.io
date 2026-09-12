@@ -6,6 +6,90 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390373022,
+      "creationTime": 1789190225,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358293422
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1736C2",
+        "name": "Good Subarrays (Hard Version)",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1736/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1736/submission/390373022"
+    },
+    {
+      "type": "codeforces",
+      "id": 390371008,
+      "creationTime": 1789188054,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358295593
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1736C2",
+        "name": "Good Subarrays (Hard Version)",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1736/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1736/submission/390371008"
+    },
+    {
+      "type": "codeforces",
+      "id": 390370931,
+      "creationTime": 1789187961,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358295686
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1736C2",
+        "name": "Good Subarrays (Hard Version)",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1736/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1736/submission/390370931"
+    },
+    {
+      "type": "codeforces",
       "id": 390170925,
       "creationTime": 1789023361,
       "language": "C++20 (GCC 13-64)",
