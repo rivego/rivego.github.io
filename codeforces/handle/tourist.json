@@ -100,7 +100,8 @@
         "id": "2262A2",
         "name": "Floor of MEX (Hard Version)",
         "tags": [
-          "dp"
+          "dp",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2262/problem/A2"
       },
