@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390646860,
+      "creationTime": 1789325268,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358158379
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2262D",
+        "name": "PLUSworld",
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2262/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2262/submission/390646860"
+    },
+    {
+      "type": "codeforces",
       "id": 390271456,
       "creationTime": 1789104111,
       "language": "C++23 (GCC 14-64, msys2)",
