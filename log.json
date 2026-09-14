@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1789383008,
+  "updateTime": 1789419593,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 390656290,
-            "pid": "2262E",
-            "name": "Paired Bracket Sequences",
-            "verdict": "OK",
-            "creationTime": 1789330818
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "286141c0157123534df54dee690af063025c1728"
+  "ref": "3a25f9f3da372697348f7e5841a6a86558665784"
 }
