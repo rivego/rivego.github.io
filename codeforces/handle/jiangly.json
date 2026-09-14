@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390656290,
+      "creationTime": 1789330818,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358152829
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2262E",
+        "name": "Paired Bracket Sequences",
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2262/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2262/submission/390656290"
+    },
+    {
+      "type": "codeforces",
       "id": 390646860,
       "creationTime": 1789325268,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -23,7 +48,8 @@
         "name": "PLUSworld",
         "tags": [
           "constructive algorithms",
-          "graphs"
+          "graphs",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2262/problem/D"
       },

@@ -1,48 +1,18 @@
 {
   "version": "0.1.29",
-  "updateTime": 1789328119,
+  "updateTime": 1789383008,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 390651990,
-            "pid": "1401F",
-            "name": "Reverse and Swap",
-            "verdict": "OK",
-            "creationTime": 1789326747
-          },
-          {
-            "platform": "codeforces",
-            "id": 390651968,
-            "pid": "1401F",
-            "name": "Reverse and Swap",
-            "verdict": "OK",
-            "creationTime": 1789326721
-          },
-          {
-            "platform": "codeforces",
-            "id": 390648109,
-            "pid": "1401F",
-            "name": "Reverse and Swap",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1789325575
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 390646860,
-            "pid": "2262D",
-            "name": "PLUSworld",
+            "id": 390656290,
+            "pid": "2262E",
+            "name": "Paired Bracket Sequences",
             "verdict": "OK",
-            "creationTime": 1789325268
+            "creationTime": 1789330818
           }
         ],
         "newContests": []
@@ -50,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "676c34277dce6fad3bf945138af4cfef1a5ab5de"
+  "ref": "286141c0157123534df54dee690af063025c1728"
 }
