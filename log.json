@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1789467264,
+  "updateTime": 1789503574,
   "history": {
-    "user": [
-      {
-        "name": "Reisen_",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 390793461,
-            "pid": "2264A",
-            "name": "Rumb Needs a Hand",
-            "verdict": "OK",
-            "creationTime": 1789454350
-          },
-          {
-            "platform": "codeforces",
-            "id": 390792973,
-            "pid": "2264A",
-            "name": "Rumb Needs a Hand",
-            "verdict": "OK",
-            "creationTime": 1789453931
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "03788e3fcb504fb7c3113aaa7b1435fe75f8667a"
+  "ref": "6f47be0e6629efbd4747ba9d45752ceddaf6a416"
 }
