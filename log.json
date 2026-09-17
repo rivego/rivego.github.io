@@ -1,96 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1789589863,
+  "updateTime": 1789639828,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 390940870,
-            "pid": "2262B",
-            "name": "Culling Game",
-            "verdict": "OK",
-            "creationTime": 1789574639
-          },
-          {
-            "platform": "codeforces",
-            "id": 390939935,
-            "pid": "2262A2",
-            "name": "Floor of MEX (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1789573777
-          },
-          {
-            "platform": "codeforces",
-            "id": 390938927,
-            "pid": "2262A1",
-            "name": "Floor of MEX (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1789573033
-          },
-          {
-            "platform": "codeforces",
-            "id": 390935825,
-            "pid": "2264F",
-            "name": "Deranged Calculator",
-            "verdict": "OK",
-            "creationTime": 1789570428
-          },
-          {
-            "platform": "codeforces",
-            "id": 390933851,
-            "pid": "2264E2",
-            "name": "A Prime Flood (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1789568918
-          },
-          {
-            "platform": "codeforces",
-            "id": 390933846,
-            "pid": "2264E1",
-            "name": "A Prime Flood (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1789568916
-          },
-          {
-            "platform": "codeforces",
-            "id": 390933297,
-            "pid": "2264D",
-            "name": "Dr. Agos's Dark Mode",
-            "verdict": "OK",
-            "creationTime": 1789568564
-          },
-          {
-            "platform": "codeforces",
-            "id": 390929860,
-            "pid": "2264C",
-            "name": "Madamant's Skating Dynasty",
-            "verdict": "OK",
-            "creationTime": 1789566426
-          },
-          {
-            "platform": "codeforces",
-            "id": 390929102,
-            "pid": "2264B",
-            "name": "Knife's Pill Farm",
-            "verdict": "OK",
-            "creationTime": 1789565997
-          },
-          {
-            "platform": "codeforces",
-            "id": 390927949,
-            "pid": "2264A",
-            "name": "Rumb Needs a Hand",
-            "verdict": "OK",
-            "creationTime": 1789565374
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "1938bddc782326bf61c162a7ddc784ec5c89a609"
+  "ref": "95f6c928c99d6e3093fad3a08d9673db0ea1aec2"
 }
