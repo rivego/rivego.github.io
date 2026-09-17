@@ -6,6 +6,58 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 391050396,
+      "creationTime": 1789660853,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -357822794
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2124I",
+        "name": "Lexicographic Partition",
+        "rating": 3500,
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2124/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2124/submission/391050396"
+    },
+    {
+      "type": "codeforces",
+      "id": 391045989,
+      "creationTime": 1789658357,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -357825290
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2045L",
+        "name": "Buggy DFS",
+        "rating": 3000,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2045/problem/L"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2045/submission/391045989"
+    },
+    {
+      "type": "codeforces",
       "id": 390940870,
       "creationTime": 1789574639,
       "language": "C++23 (GCC 14-64, msys2)",

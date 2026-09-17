@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1789639828,
+  "updateTime": 1789676804,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 391050396,
+            "pid": "2124I",
+            "name": "Lexicographic Partition",
+            "verdict": "OK",
+            "creationTime": 1789660853
+          },
+          {
+            "platform": "codeforces",
+            "id": 391045989,
+            "pid": "2045L",
+            "name": "Buggy DFS",
+            "verdict": "OK",
+            "creationTime": 1789658357
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "95f6c928c99d6e3093fad3a08d9673db0ea1aec2"
+  "ref": "44f58f3729ee9f43c8fc27ef84e5ffa1239431c5"
 }
