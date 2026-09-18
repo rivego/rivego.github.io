@@ -102,7 +102,8 @@
         "name": "Floor of MEX (Hard Version)",
         "tags": [
           "dp",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2262/problem/A2"
       },
@@ -177,6 +178,7 @@
         "id": "2264E2",
         "name": "A Prime Flood (Hard Version)",
         "tags": [
+          "brute force",
           "combinatorics",
           "dp",
           "number theory"
@@ -230,6 +232,7 @@
         "name": "Dr. Agos's Dark Mode",
         "tags": [
           "brute force",
+          "chinese remainder theorem",
           "constructive algorithms",
           "math",
           "strings"
@@ -283,7 +286,8 @@
         "name": "Knife's Pill Farm",
         "tags": [
           "data structures",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2264/problem/B"
       },
@@ -538,6 +542,7 @@
         "type": "codeforces",
         "id": "2260G",
         "name": "Sortable Permutations",
+        "rating": 2900,
         "tags": [
           "brute force",
           "combinatorics",
@@ -565,6 +570,7 @@
         "type": "codeforces",
         "id": "2260G",
         "name": "Sortable Permutations",
+        "rating": 2900,
         "tags": [
           "brute force",
           "combinatorics",
@@ -592,6 +598,7 @@
         "type": "codeforces",
         "id": "2260F",
         "name": "Edge Three-Coloring",
+        "rating": 2500,
         "tags": [
           "brute force",
           "dfs and similar",
@@ -620,6 +627,7 @@
         "type": "codeforces",
         "id": "2260E",
         "name": "Cyclic Balance",
+        "rating": 2000,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -647,6 +655,7 @@
         "type": "codeforces",
         "id": "2260D",
         "name": "Signs of Prefix Sums",
+        "rating": 1700,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -675,6 +684,7 @@
         "type": "codeforces",
         "id": "2260C",
         "name": "Maximize XOR, Minimize Operations",
+        "rating": 1300,
         "tags": [
           "bitmasks",
           "greedy"
@@ -700,6 +710,7 @@
         "type": "codeforces",
         "id": "2260B",
         "name": "Monocarp and Projects",
+        "rating": 900,
         "tags": [
           "brute force",
           "math",
@@ -726,6 +737,7 @@
         "type": "codeforces",
         "id": "2260A",
         "name": "Monocarp's Contest",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
