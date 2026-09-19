@@ -73,6 +73,7 @@
         "type": "codeforces",
         "id": "2262B",
         "name": "Culling Game",
+        "rating": 2000,
         "tags": [
           "binary search",
           "data structures",
@@ -100,6 +101,7 @@
         "type": "codeforces",
         "id": "2262A2",
         "name": "Floor of MEX (Hard Version)",
+        "rating": 1800,
         "tags": [
           "dp",
           "implementation",
@@ -126,6 +128,7 @@
         "type": "codeforces",
         "id": "2262A1",
         "name": "Floor of MEX (Easy Version)",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -151,6 +154,7 @@
         "type": "codeforces",
         "id": "2264F",
         "name": "Deranged Calculator",
+        "rating": 2700,
         "tags": [
           "constructive algorithms",
           "implementation",
@@ -177,6 +181,7 @@
         "type": "codeforces",
         "id": "2264E2",
         "name": "A Prime Flood (Hard Version)",
+        "rating": 2700,
         "tags": [
           "brute force",
           "combinatorics",
@@ -204,6 +209,7 @@
         "type": "codeforces",
         "id": "2264E1",
         "name": "A Prime Flood (Easy Version)",
+        "rating": 2100,
         "tags": [
           "combinatorics",
           "dp",
@@ -230,6 +236,7 @@
         "type": "codeforces",
         "id": "2264D",
         "name": "Dr. Agos's Dark Mode",
+        "rating": 1800,
         "tags": [
           "brute force",
           "chinese remainder theorem",
@@ -258,6 +265,7 @@
         "type": "codeforces",
         "id": "2264C",
         "name": "Madamant's Skating Dynasty",
+        "rating": 1300,
         "tags": [
           "combinatorics",
           "math",
@@ -284,6 +292,7 @@
         "type": "codeforces",
         "id": "2264B",
         "name": "Knife's Pill Farm",
+        "rating": 1000,
         "tags": [
           "data structures",
           "greedy",
@@ -310,6 +319,7 @@
         "type": "codeforces",
         "id": "2264A",
         "name": "Rumb Needs a Hand",
+        "rating": 800,
         "tags": [
           "implementation",
           "sortings",
@@ -336,6 +346,7 @@
         "type": "codeforces",
         "id": "2262E",
         "name": "Paired Bracket Sequences",
+        "rating": 3100,
         "tags": [
           "combinatorics",
           "math"
@@ -361,6 +372,7 @@
         "type": "codeforces",
         "id": "2262D",
         "name": "PLUSworld",
+        "rating": 2800,
         "tags": [
           "constructive algorithms",
           "graphs",
