@@ -705,7 +705,7 @@
         "type": "codeforces",
         "id": "2245B",
         "name": "Delete and Concatenate",
-        "rating": 1000,
+        "rating": 1100,
         "tags": [
           "greedy"
         ],
@@ -1305,7 +1305,7 @@
         "type": "codeforces",
         "id": "2229C1",
         "name": "We Be Flipping (Easy Version)",
-        "rating": 800,
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -1682,7 +1682,7 @@
         "type": "codeforces",
         "id": "2219D",
         "name": "MEX Replacement on Tree",
-        "rating": 2600,
+        "rating": 2700,
         "tags": [
           "data structures",
           "implementation",
@@ -1710,7 +1710,7 @@
         "type": "codeforces",
         "id": "2219D",
         "name": "MEX Replacement on Tree",
-        "rating": 2600,
+        "rating": 2700,
         "tags": [
           "data structures",
           "implementation",
@@ -2043,7 +2043,7 @@
         "type": "codeforces",
         "id": "2211C1",
         "name": "Equal Multisets (Easy Version)",
-        "rating": 1200,
+        "rating": 1300,
         "tags": [
           "binary search",
           "brute force",
@@ -2098,7 +2098,7 @@
         "type": "codeforces",
         "id": "2211B",
         "name": "Mickey Mouse Constructive",
-        "rating": 1000,
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -2379,7 +2379,7 @@
         "type": "codeforces",
         "id": "2207C",
         "name": "Where's My Water?",
-        "rating": 1500,
+        "rating": 1600,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -2537,7 +2537,7 @@
         "type": "codeforces",
         "id": "2201F2",
         "name": "Monotone Monochrome Matrices (Hard Version)",
-        "rating": 2700,
+        "rating": 2800,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -2565,7 +2565,7 @@
         "type": "codeforces",
         "id": "2201F1",
         "name": "Monotone Monochrome Matrices (Medium Version)",
-        "rating": 2800,
+        "rating": 2900,
         "tags": [
           "data structures",
           "hashing"
@@ -3646,7 +3646,7 @@
         "type": "codeforces",
         "id": "2190A",
         "name": "Sorting Game",
-        "rating": 1100,
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "games",
@@ -3871,7 +3871,7 @@
         "type": "codeforces",
         "id": "2183C",
         "name": "War Strategy",
-        "rating": 1400,
+        "rating": 1500,
         "tags": [
           "binary search",
           "greedy",
@@ -4087,7 +4087,7 @@
         "type": "codeforces",
         "id": "2178B",
         "name": "Impost or Sus",
-        "rating": 800,
+        "rating": 900,
         "tags": [
           "dp",
           "greedy",
@@ -4500,7 +4500,7 @@
         "type": "codeforces",
         "id": "2170D",
         "name": "Almost Roman",
-        "rating": 2100,
+        "rating": 2200,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -5392,7 +5392,7 @@
         "type": "codeforces",
         "id": "2161C",
         "name": "Loyalty",
-        "rating": 1100,
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -5772,7 +5772,7 @@
         "type": "codeforces",
         "id": "2159D2",
         "name": "Inverse Minimum Partition (Hard Version)",
-        "rating": 3100,
+        "rating": 3200,
         "tags": [
           "dp",
           "greedy",
@@ -5799,7 +5799,7 @@
         "type": "codeforces",
         "id": "2159D2",
         "name": "Inverse Minimum Partition (Hard Version)",
-        "rating": 3100,
+        "rating": 3200,
         "tags": [
           "dp",
           "greedy",
@@ -5942,7 +5942,7 @@
         "type": "codeforces",
         "id": "2155F",
         "name": "Juan's Colorful Tree",
-        "rating": 2700,
+        "rating": 2800,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -5972,7 +5972,7 @@
         "type": "codeforces",
         "id": "2155F",
         "name": "Juan's Colorful Tree",
-        "rating": 2700,
+        "rating": 2800,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -6383,7 +6383,7 @@
         "type": "codeforces",
         "id": "2152B",
         "name": "Catching the Krug",
-        "rating": 1200,
+        "rating": 1300,
         "tags": [
           "games"
         ],

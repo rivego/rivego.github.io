@@ -6,6 +6,60 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 391893196,
+      "creationTime": 1790262726,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -357220921
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2228E1",
+        "name": "Amanojaku and Sequence (Easy Version)",
+        "rating": 2400,
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2228/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2228/submission/391893196"
+    },
+    {
+      "type": "codeforces",
+      "id": 391893161,
+      "creationTime": 1790262710,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -357220937
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2228E2",
+        "name": "Amanojaku and Sequence (Hard Version)",
+        "rating": 2500,
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2228/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2228/submission/391893161"
+    },
+    {
+      "type": "codeforces",
       "id": 391050396,
       "creationTime": 1789660853,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -554,7 +608,7 @@
         "type": "codeforces",
         "id": "2260G",
         "name": "Sortable Permutations",
-        "rating": 2600,
+        "rating": 2900,
         "tags": [
           "brute force",
           "combinatorics",
@@ -582,7 +636,7 @@
         "type": "codeforces",
         "id": "2260G",
         "name": "Sortable Permutations",
-        "rating": 2600,
+        "rating": 2900,
         "tags": [
           "brute force",
           "combinatorics",
@@ -801,7 +855,7 @@
         "type": "codeforces",
         "id": "2246F",
         "name": "Whoname and Unsorted Array",
-        "rating": 2700,
+        "rating": 2900,
         "tags": [
           "constructive algorithms"
         ],
@@ -1154,7 +1208,7 @@
         "type": "codeforces",
         "id": "2247F",
         "name": "Paths on a Grid",
-        "rating": 2600,
+        "rating": 2900,
         "tags": [
           "data structures",
           "dp",
@@ -1181,7 +1235,7 @@
         "type": "codeforces",
         "id": "2248G",
         "name": "No Balance Left",
-        "rating": 1700,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "dp",
@@ -1563,7 +1617,7 @@
         "type": "codeforces",
         "id": "2245B",
         "name": "Delete and Concatenate",
-        "rating": 1000,
+        "rating": 1100,
         "tags": [
           "greedy"
         ],
@@ -1854,7 +1908,7 @@
         "type": "codeforces",
         "id": "2239E",
         "name": "The end of this world,",
-        "rating": 3200,
+        "rating": 3300,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -2105,7 +2159,7 @@
         "type": "codeforces",
         "id": "2165F",
         "name": "Arctic Acquisition",
-        "rating": 3400,
+        "rating": 3500,
         "tags": [
           "data structures",
           "greedy"
@@ -2380,7 +2434,7 @@
         "type": "codeforces",
         "id": "2229C1",
         "name": "We Be Flipping (Easy Version)",
-        "rating": 800,
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -2796,7 +2850,7 @@
         "type": "codeforces",
         "id": "2220B",
         "name": "OIE Excursion",
-        "rating": 1100,
+        "rating": 1200,
         "tags": [
           "greedy"
         ],
@@ -2873,7 +2927,7 @@
         "type": "codeforces",
         "id": "2219D",
         "name": "MEX Replacement on Tree",
-        "rating": 2600,
+        "rating": 2700,
         "tags": [
           "data structures",
           "implementation",
@@ -2901,7 +2955,7 @@
         "type": "codeforces",
         "id": "2219D",
         "name": "MEX Replacement on Tree",
-        "rating": 2600,
+        "rating": 2700,
         "tags": [
           "data structures",
           "implementation",
@@ -2958,7 +3012,7 @@
         "type": "codeforces",
         "id": "2219B2",
         "name": "Unique Values (Hard version)",
-        "rating": 1900,
+        "rating": 2000,
         "tags": [
           "binary search",
           "bitmasks",
@@ -3016,7 +3070,7 @@
         "type": "codeforces",
         "id": "2219B2",
         "name": "Unique Values (Hard version)",
-        "rating": 1900,
+        "rating": 2000,
         "tags": [
           "binary search",
           "bitmasks",
@@ -3178,7 +3232,7 @@
         "type": "codeforces",
         "id": "2206A",
         "name": "Compare Suffixes",
-        "rating": 3400,
+        "rating": 3500,
         "tags": [
           "interactive"
         ],
@@ -3203,7 +3257,7 @@
         "type": "codeforces",
         "id": "2206A",
         "name": "Compare Suffixes",
-        "rating": 3400,
+        "rating": 3500,
         "tags": [
           "interactive"
         ],
@@ -3770,7 +3824,7 @@
         "type": "codeforces",
         "id": "2209B",
         "name": "Array",
-        "rating": 800,
+        "rating": 900,
         "tags": [
           "greedy"
         ],
@@ -3956,7 +4010,7 @@
         "type": "codeforces",
         "id": "2204G",
         "name": "Grid Path",
-        "rating": 2500,
+        "rating": 2700,
         "tags": [
           "dp",
           "graphs",
@@ -4097,7 +4151,7 @@
         "type": "codeforces",
         "id": "2204C",
         "name": "Spring",
-        "rating": 900,
+        "rating": 1000,
         "tags": [
           "math",
           "number theory"
@@ -4286,7 +4340,7 @@
         "type": "codeforces",
         "id": "2207C",
         "name": "Where's My Water?",
-        "rating": 1500,
+        "rating": 1600,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -4314,7 +4368,7 @@
         "type": "codeforces",
         "id": "2207C",
         "name": "Where's My Water?",
-        "rating": 1500,
+        "rating": 1600,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -4371,7 +4425,7 @@
         "type": "codeforces",
         "id": "2207C",
         "name": "Where's My Water?",
-        "rating": 1500,
+        "rating": 1600,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -4455,7 +4509,7 @@
         "type": "codeforces",
         "id": "2206M",
         "name": "Deformed Balance",
-        "rating": 2800,
+        "rating": 2900,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/2206/problem/M"
       },
@@ -4481,7 +4535,7 @@
         "type": "codeforces",
         "id": "2206A",
         "name": "Compare Suffixes",
-        "rating": 3400,
+        "rating": 3500,
         "tags": [
           "interactive"
         ],
@@ -4537,7 +4591,7 @@
         "type": "codeforces",
         "id": "2206M",
         "name": "Deformed Balance",
-        "rating": 2800,
+        "rating": 2900,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/2206/problem/M"
       },
@@ -4650,7 +4704,7 @@
         "type": "codeforces",
         "id": "2206E",
         "name": "Parallel Sums",
-        "rating": 2400,
+        "rating": 2500,
         "tags": [
           "data structures",
           "geometry"
@@ -4679,7 +4733,7 @@
         "type": "codeforces",
         "id": "2206E",
         "name": "Parallel Sums",
-        "rating": 2400,
+        "rating": 2500,
         "tags": [
           "data structures",
           "geometry"
@@ -4800,7 +4854,7 @@
         "type": "codeforces",
         "id": "2206E",
         "name": "Parallel Sums",
-        "rating": 2400,
+        "rating": 2500,
         "tags": [
           "data structures",
           "geometry"
@@ -4829,7 +4883,7 @@
         "type": "codeforces",
         "id": "2206E",
         "name": "Parallel Sums",
-        "rating": 2400,
+        "rating": 2500,
         "tags": [
           "data structures",
           "geometry"
@@ -4858,7 +4912,7 @@
         "type": "codeforces",
         "id": "2206C",
         "name": "Upside Down Dijkstra",
-        "rating": 2100,
+        "rating": 2200,
         "tags": [
           "dfs and similar"
         ],
@@ -5079,7 +5133,7 @@
         "type": "codeforces",
         "id": "2200C",
         "name": "Specialty String",
-        "rating": 800,
+        "rating": 900,
         "tags": [
           "brute force",
           "greedy",
@@ -5324,7 +5378,7 @@
         "type": "codeforces",
         "id": "2205C",
         "name": "Simons and Posting Blogs",
-        "rating": 1400,
+        "rating": 1500,
         "tags": [
           "greedy",
           "sortings"
@@ -5550,7 +5604,7 @@
         "type": "codeforces",
         "id": "2203B",
         "name": "Beautiful Numbers",
-        "rating": 900,
+        "rating": 1000,
         "tags": [
           "bitmasks",
           "dp",
@@ -5607,7 +5661,7 @@
         "type": "codeforces",
         "id": "2203D",
         "name": "Divisibility Game",
-        "rating": 1600,
+        "rating": 1700,
         "tags": [
           "brute force",
           "games",
@@ -5725,7 +5779,7 @@
         "type": "codeforces",
         "id": "2201F2",
         "name": "Monotone Monochrome Matrices (Hard Version)",
-        "rating": 2700,
+        "rating": 2800,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -5753,7 +5807,7 @@
         "type": "codeforces",
         "id": "2201F2",
         "name": "Monotone Monochrome Matrices (Hard Version)",
-        "rating": 2700,
+        "rating": 2800,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -5781,7 +5835,7 @@
         "type": "codeforces",
         "id": "2201F1",
         "name": "Monotone Monochrome Matrices (Medium Version)",
-        "rating": 2800,
+        "rating": 2900,
         "tags": [
           "data structures",
           "hashing"
@@ -6045,7 +6099,7 @@
         "type": "codeforces",
         "id": "2195C",
         "name": "Dice Roll Sequence",
-        "rating": 1000,
+        "rating": 1100,
         "tags": [
           "dp",
           "greedy"
@@ -6071,7 +6125,7 @@
         "type": "codeforces",
         "id": "2195D",
         "name": "Absolute Cinema",
-        "rating": 1200,
+        "rating": 1300,
         "tags": [
           "math"
         ],
@@ -6152,7 +6206,7 @@
         "type": "codeforces",
         "id": "2195G",
         "name": "Idiot First Search and Queries",
-        "rating": 2200,
+        "rating": 2300,
         "tags": [
           "binary search",
           "data structures",
@@ -6181,7 +6235,7 @@
         "type": "codeforces",
         "id": "2195G",
         "name": "Idiot First Search and Queries",
-        "rating": 2200,
+        "rating": 2300,
         "tags": [
           "binary search",
           "data structures",
@@ -6319,7 +6373,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6349,7 +6403,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6379,7 +6433,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6409,7 +6463,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6439,7 +6493,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6469,7 +6523,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6499,7 +6553,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6529,7 +6583,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6559,7 +6613,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6589,7 +6643,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6619,7 +6673,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6649,7 +6703,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6679,7 +6733,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6709,7 +6763,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6767,7 +6821,7 @@
         "type": "codeforces",
         "id": "2194F2",
         "name": "Again Trees... (hard version)",
-        "rating": 2800,
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "data structures",
@@ -6881,7 +6935,7 @@
         "type": "codeforces",
         "id": "2194B",
         "name": "Offshores",
-        "rating": 900,
+        "rating": 1000,
         "tags": [
           "greedy",
           "implementation",
@@ -7370,7 +7424,7 @@
         "type": "codeforces",
         "id": "2191B",
         "name": "MEX Reordering",
-        "rating": 900,
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "sortings"
@@ -7447,7 +7501,7 @@
         "type": "codeforces",
         "id": "2193C",
         "name": "Replace and Sum",
-        "rating": 900,
+        "rating": 1000,
         "tags": [
           "data structures",
           "greedy"
@@ -8006,7 +8060,7 @@
         "type": "codeforces",
         "id": "2185E",
         "name": "The Robotic Rush",
-        "rating": 1400,
+        "rating": 1500,
         "tags": [
           "binary search",
           "greedy",
@@ -8062,7 +8116,7 @@
         "type": "codeforces",
         "id": "2185C",
         "name": "Shifted MEX",
-        "rating": 800,
+        "rating": 900,
         "tags": [
           "implementation",
           "sortings"
@@ -8508,7 +8562,7 @@
         "type": "codeforces",
         "id": "2190A",
         "name": "Sorting Game",
-        "rating": 1100,
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "games",
@@ -8872,7 +8926,7 @@
         "type": "codeforces",
         "id": "2182D",
         "name": "Christmas Tree Decoration",
-        "rating": 1500,
+        "rating": 1600,
         "tags": [
           "combinatorics",
           "dp",
@@ -8900,7 +8954,7 @@
         "type": "codeforces",
         "id": "2182C",
         "name": "Production of Snowmen",
-        "rating": 1100,
+        "rating": 1200,
         "tags": [
           "brute force",
           "combinatorics",
@@ -9256,7 +9310,7 @@
         "type": "codeforces",
         "id": "2178B",
         "name": "Impost or Sus",
-        "rating": 800,
+        "rating": 900,
         "tags": [
           "dp",
           "greedy",
@@ -9994,7 +10048,7 @@
         "type": "codeforces",
         "id": "2181C",
         "name": "Cacti Classification",
-        "rating": 3100,
+        "rating": 3200,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -10025,7 +10079,7 @@
         "type": "codeforces",
         "id": "2181C",
         "name": "Cacti Classification",
-        "rating": 3100,
+        "rating": 3200,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -10056,7 +10110,7 @@
         "type": "codeforces",
         "id": "2181C",
         "name": "Cacti Classification",
-        "rating": 3100,
+        "rating": 3200,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -10087,7 +10141,7 @@
         "type": "codeforces",
         "id": "2181C",
         "name": "Cacti Classification",
-        "rating": 3100,
+        "rating": 3200,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -10241,7 +10295,7 @@
         "type": "codeforces",
         "id": "2181G",
         "name": "Greta's Game",
-        "rating": 2300,
+        "rating": 2400,
         "tags": [
           "binary search",
           "dp",
@@ -10303,7 +10357,7 @@
         "type": "codeforces",
         "id": "2181H",
         "name": "Honey Cake",
-        "rating": 1100,
+        "rating": 1200,
         "tags": [
           "brute force",
           "math",
@@ -10443,7 +10497,7 @@
         "type": "codeforces",
         "id": "2169B",
         "name": "Drifting Away",
-        "rating": 1000,
+        "rating": 1100,
         "tags": [
           "greedy",
           "implementation"
@@ -10469,7 +10523,7 @@
         "type": "codeforces",
         "id": "2169B",
         "name": "Drifting Away",
-        "rating": 1000,
+        "rating": 1100,
         "tags": [
           "greedy",
           "implementation"
@@ -10635,7 +10689,7 @@
         "type": "codeforces",
         "id": "2163E",
         "name": "Plegma",
-        "rating": 2600,
+        "rating": 2700,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -10749,7 +10803,7 @@
         "type": "codeforces",
         "id": "2163B",
         "name": "Siga ta Kymata",
-        "rating": 1600,
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -11259,7 +11313,7 @@
         "type": "codeforces",
         "id": "2161C",
         "name": "Loyalty",
-        "rating": 1100,
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -11726,7 +11780,7 @@
         "type": "codeforces",
         "id": "2156E",
         "name": "Best Time to Buy and Sell Stock",
-        "rating": 2400,
+        "rating": 2500,
         "tags": [
           "binary search",
           "brute force",
@@ -11838,7 +11892,7 @@
         "type": "codeforces",
         "id": "2160B",
         "name": "Distinct Elements",
-        "rating": 1000,
+        "rating": 1100,
         "tags": [
           "greedy",
           "math"
@@ -11864,7 +11918,7 @@
         "type": "codeforces",
         "id": "2160C",
         "name": "Reverse XOR",
-        "rating": 1200,
+        "rating": 1300,
         "tags": [
           "bitmasks"
         ],
@@ -12026,7 +12080,7 @@
         "type": "codeforces",
         "id": "2162B",
         "name": "Beautiful String",
-        "rating": 900,
+        "rating": 1000,
         "tags": [
           "brute force",
           "constructive algorithms"
@@ -12106,7 +12160,7 @@
         "type": "codeforces",
         "id": "2162D",
         "name": "Beautiful Permutation",
-        "rating": 1300,
+        "rating": 1400,
         "tags": [
           "binary search",
           "interactive"
@@ -12297,7 +12351,7 @@
         "type": "codeforces",
         "id": "2159D2",
         "name": "Inverse Minimum Partition (Hard Version)",
-        "rating": 3100,
+        "rating": 3200,
         "tags": [
           "dp",
           "greedy",
@@ -12864,7 +12918,7 @@
         "type": "codeforces",
         "id": "2153F",
         "name": "Odd Queries on Odd Array",
-        "rating": 2600,
+        "rating": 2900,
         "tags": [
           "bitmasks",
           "brute force",
@@ -13199,7 +13253,7 @@
         "type": "codeforces",
         "id": "2155F",
         "name": "Juan's Colorful Tree",
-        "rating": 2700,
+        "rating": 2800,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -13229,7 +13283,7 @@
         "type": "codeforces",
         "id": "2155F",
         "name": "Juan's Colorful Tree",
-        "rating": 2700,
+        "rating": 2800,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -13259,7 +13313,7 @@
         "type": "codeforces",
         "id": "2155F",
         "name": "Juan's Colorful Tree",
-        "rating": 2700,
+        "rating": 2800,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -13643,7 +13697,7 @@
         "type": "codeforces",
         "id": "2152B",
         "name": "Catching the Krug",
-        "rating": 1200,
+        "rating": 1300,
         "tags": [
           "games"
         ],

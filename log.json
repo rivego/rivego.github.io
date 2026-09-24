@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1790244967,
+  "updateTime": 1790282190,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 391893196,
+            "pid": "2228E1",
+            "name": "Amanojaku and Sequence (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1790262726
+          },
+          {
+            "platform": "codeforces",
+            "id": 391893161,
+            "pid": "2228E2",
+            "name": "Amanojaku and Sequence (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1790262710
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "21c958a48fcfa0d03226cc09f5bfa681d10c5c83"
+  "ref": "aa8dd8f76fda12d0f3cba5d0b3448399fd96ef2f"
 }
