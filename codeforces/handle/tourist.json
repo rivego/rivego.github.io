@@ -130,7 +130,7 @@
         "type": "codeforces",
         "id": "2262C",
         "name": "Traveling the World",
-        "rating": 2200,
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -705,7 +705,7 @@
         "type": "codeforces",
         "id": "2245B",
         "name": "Delete and Concatenate",
-        "rating": 1100,
+        "rating": 1000,
         "tags": [
           "greedy"
         ],
@@ -811,7 +811,7 @@
         "type": "codeforces",
         "id": "2239B",
         "name": "Decidophobia",
-        "rating": 1500,
+        "rating": 1600,
         "tags": [
           "greedy",
           "math",
@@ -952,7 +952,7 @@
         "type": "codeforces",
         "id": "2237E",
         "name": "Permutation Commutation",
-        "rating": 2000,
+        "rating": 2100,
         "tags": [
           "data structures",
           "graphs",
@@ -979,7 +979,7 @@
         "type": "codeforces",
         "id": "2237D",
         "name": "Fullmetal Bitchemist",
-        "rating": 1500,
+        "rating": 1600,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -1085,7 +1085,7 @@
         "type": "codeforces",
         "id": "2229H",
         "name": "Wowee Binary String",
-        "rating": 3200,
+        "rating": 3300,
         "tags": [
           "combinatorics",
           "dp",
@@ -1112,7 +1112,7 @@
         "type": "codeforces",
         "id": "2229H",
         "name": "Wowee Binary String",
-        "rating": 3200,
+        "rating": 3300,
         "tags": [
           "combinatorics",
           "dp",
@@ -1139,7 +1139,7 @@
         "type": "codeforces",
         "id": "2229H",
         "name": "Wowee Binary String",
-        "rating": 3200,
+        "rating": 3300,
         "tags": [
           "combinatorics",
           "dp",
@@ -1305,7 +1305,7 @@
         "type": "codeforces",
         "id": "2229C1",
         "name": "We Be Flipping (Easy Version)",
-        "rating": 900,
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -1682,7 +1682,7 @@
         "type": "codeforces",
         "id": "2219D",
         "name": "MEX Replacement on Tree",
-        "rating": 2700,
+        "rating": 2600,
         "tags": [
           "data structures",
           "implementation",
@@ -1710,7 +1710,7 @@
         "type": "codeforces",
         "id": "2219D",
         "name": "MEX Replacement on Tree",
-        "rating": 2700,
+        "rating": 2600,
         "tags": [
           "data structures",
           "implementation",
@@ -1903,7 +1903,7 @@
         "type": "codeforces",
         "id": "2211G",
         "name": "Rational Bubble Sort",
-        "rating": 2900,
+        "rating": 3100,
         "tags": [
           "constructive algorithms",
           "geometry",
@@ -1930,7 +1930,7 @@
         "type": "codeforces",
         "id": "2211G",
         "name": "Rational Bubble Sort",
-        "rating": 2900,
+        "rating": 3100,
         "tags": [
           "constructive algorithms",
           "geometry",
@@ -2043,7 +2043,7 @@
         "type": "codeforces",
         "id": "2211C1",
         "name": "Equal Multisets (Easy Version)",
-        "rating": 1300,
+        "rating": 1200,
         "tags": [
           "binary search",
           "brute force",
@@ -2098,7 +2098,7 @@
         "type": "codeforces",
         "id": "2211B",
         "name": "Mickey Mouse Constructive",
-        "rating": 1100,
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -2233,7 +2233,7 @@
         "type": "codeforces",
         "id": "2207F",
         "name": "Hanabi",
-        "rating": 2900,
+        "rating": 3000,
         "tags": [
           "binary search",
           "data structures",
@@ -2265,7 +2265,7 @@
         "type": "codeforces",
         "id": "2207F",
         "name": "Hanabi",
-        "rating": 2900,
+        "rating": 3000,
         "tags": [
           "binary search",
           "data structures",
@@ -2324,7 +2324,7 @@
         "type": "codeforces",
         "id": "2207E1",
         "name": "N-MEX (Constructive Version)",
-        "rating": 2100,
+        "rating": 2200,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -2379,7 +2379,7 @@
         "type": "codeforces",
         "id": "2207C",
         "name": "Where's My Water?",
-        "rating": 1600,
+        "rating": 1500,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -2537,7 +2537,7 @@
         "type": "codeforces",
         "id": "2201F2",
         "name": "Monotone Monochrome Matrices (Hard Version)",
-        "rating": 2800,
+        "rating": 2700,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -2565,7 +2565,7 @@
         "type": "codeforces",
         "id": "2201F1",
         "name": "Monotone Monochrome Matrices (Medium Version)",
-        "rating": 2900,
+        "rating": 2800,
         "tags": [
           "data structures",
           "hashing"
@@ -3646,7 +3646,7 @@
         "type": "codeforces",
         "id": "2190A",
         "name": "Sorting Game",
-        "rating": 1200,
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "games",
@@ -3871,7 +3871,7 @@
         "type": "codeforces",
         "id": "2183C",
         "name": "War Strategy",
-        "rating": 1500,
+        "rating": 1400,
         "tags": [
           "binary search",
           "greedy",
@@ -4087,7 +4087,7 @@
         "type": "codeforces",
         "id": "2178B",
         "name": "Impost or Sus",
-        "rating": 900,
+        "rating": 800,
         "tags": [
           "dp",
           "greedy",
@@ -4362,7 +4362,7 @@
         "type": "codeforces",
         "id": "2180D",
         "name": "Insolvable Disks",
-        "rating": 1900,
+        "rating": 2000,
         "tags": [
           "data structures",
           "dp",
@@ -4500,7 +4500,7 @@
         "type": "codeforces",
         "id": "2170D",
         "name": "Almost Roman",
-        "rating": 2200,
+        "rating": 2100,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -4709,7 +4709,7 @@
         "type": "codeforces",
         "id": "2157H",
         "name": "Keygen 3",
-        "rating": 3200,
+        "rating": 3300,
         "tags": [
           "brute force",
           "combinatorics",
@@ -5392,7 +5392,7 @@
         "type": "codeforces",
         "id": "2161C",
         "name": "Loyalty",
-        "rating": 1200,
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -5772,7 +5772,7 @@
         "type": "codeforces",
         "id": "2159D2",
         "name": "Inverse Minimum Partition (Hard Version)",
-        "rating": 3200,
+        "rating": 3100,
         "tags": [
           "dp",
           "greedy",
@@ -5799,7 +5799,7 @@
         "type": "codeforces",
         "id": "2159D2",
         "name": "Inverse Minimum Partition (Hard Version)",
-        "rating": 3200,
+        "rating": 3100,
         "tags": [
           "dp",
           "greedy",
@@ -5942,7 +5942,7 @@
         "type": "codeforces",
         "id": "2155F",
         "name": "Juan's Colorful Tree",
-        "rating": 2800,
+        "rating": 2700,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -5972,7 +5972,7 @@
         "type": "codeforces",
         "id": "2155F",
         "name": "Juan's Colorful Tree",
-        "rating": 2800,
+        "rating": 2700,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -6086,7 +6086,7 @@
         "type": "codeforces",
         "id": "2155C",
         "name": "The Ancient Wizards' Capes",
-        "rating": 1500,
+        "rating": 1600,
         "tags": [
           "brute force",
           "greedy",
@@ -6219,7 +6219,7 @@
         "type": "codeforces",
         "id": "2152F",
         "name": "Triple Attack",
-        "rating": 2500,
+        "rating": 2600,
         "tags": [
           "data structures",
           "greedy"
@@ -6245,7 +6245,7 @@
         "type": "codeforces",
         "id": "2152F",
         "name": "Triple Attack",
-        "rating": 2500,
+        "rating": 2600,
         "tags": [
           "data structures",
           "greedy"
@@ -6383,7 +6383,7 @@
         "type": "codeforces",
         "id": "2152B",
         "name": "Catching the Krug",
-        "rating": 1300,
+        "rating": 1200,
         "tags": [
           "games"
         ],
