@@ -106,6 +106,7 @@
         "name": "What a SauSaGe! It's All Meat",
         "tags": [
           "bitmasks",
+          "brute force",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2268/problem/B"

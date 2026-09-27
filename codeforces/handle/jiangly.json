@@ -6,6 +6,83 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 392371761,
+      "creationTime": 1790538795,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -356944852
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2268F",
+        "name": "Deglado",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2268/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2268/submission/392371761"
+    },
+    {
+      "type": "codeforces",
+      "id": 392365234,
+      "creationTime": 1790533691,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -356949956
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2268E",
+        "name": "Kia Kio and Tree of Life",
+        "tags": [
+          "data structures",
+          "fft",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2268/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2268/submission/392365234"
+    },
+    {
+      "type": "codeforces",
+      "id": 392359915,
+      "creationTime": 1790530511,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -356953136
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2268D",
+        "name": "AghaBalaSar and Hamed",
+        "tags": [
+          "data structures",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2268/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2268/submission/392359915"
+    },
+    {
+      "type": "codeforces",
       "id": 391893196,
       "creationTime": 1790262726,
       "language": "C++23 (GCC 14-64, msys2)",
