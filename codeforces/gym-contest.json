@@ -27179,6 +27179,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "ICPC Masters Mexico 2026",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106646,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106646",
+    "standingsUrl": "https://codeforces.com/gym/106646/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "CCF CAT NAEC 2026 (Final)",
     "startTime": 1786078800,
     "duration": 14400,

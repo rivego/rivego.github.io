@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1790540122,
+  "updateTime": 1790596244,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 392371761,
-            "pid": "2268F",
-            "name": "Deglado",
-            "verdict": "OK",
-            "creationTime": 1790538795
-          },
-          {
-            "platform": "codeforces",
-            "id": 392365234,
-            "pid": "2268E",
-            "name": "Kia Kio and Tree of Life",
-            "verdict": "OK",
-            "creationTime": 1790533691
-          },
-          {
-            "platform": "codeforces",
-            "id": 392359915,
-            "pid": "2268D",
-            "name": "AghaBalaSar and Hamed",
-            "verdict": "OK",
-            "creationTime": 1790530511
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "f1fe9941b79c0f06cdbf9eee796780d77a020b11"
+  "ref": "16894ea9908513bdb7f029830f8f084b8c1b697b"
 }
