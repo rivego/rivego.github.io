@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2268F",
         "name": "Deglado",
+        "rating": 3500,
         "tags": [
           "constructive algorithms"
         ],
@@ -45,6 +46,7 @@
         "type": "codeforces",
         "id": "2268E",
         "name": "Kia Kio and Tree of Life",
+        "rating": 2700,
         "tags": [
           "data structures",
           "fft",
@@ -72,6 +74,7 @@
         "type": "codeforces",
         "id": "2268D",
         "name": "AghaBalaSar and Hamed",
+        "rating": 2600,
         "tags": [
           "data structures",
           "dp",
