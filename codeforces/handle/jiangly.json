@@ -6,6 +6,231 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 394032014,
+      "creationTime": 1791653278,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271G",
+        "name": "Grid Filling",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/394032014"
+    },
+    {
+      "type": "codeforces",
+      "id": 394009413,
+      "creationTime": 1791648683,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271F",
+        "name": "Beautiful Pillers",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/394009413"
+    },
+    {
+      "type": "codeforces",
+      "id": 393999753,
+      "creationTime": 1791647368,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271E",
+        "name": "Array Emptying",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393999753"
+    },
+    {
+      "type": "codeforces",
+      "id": 393985329,
+      "creationTime": 1791645910,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271D",
+        "name": "Target Infection",
+        "tags": [
+          "binary search",
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393985329"
+    },
+    {
+      "type": "codeforces",
+      "id": 393979887,
+      "creationTime": 1791645474,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271B",
+        "name": "MEX Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393979887"
+    },
+    {
+      "type": "codeforces",
+      "id": 393978506,
+      "creationTime": 1791645375,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271B",
+        "name": "MEX Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393978506"
+    },
+    {
+      "type": "codeforces",
+      "id": 393977369,
+      "creationTime": 1791645287,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271C",
+        "name": "XOR Problem",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393977369"
+    },
+    {
+      "type": "codeforces",
+      "id": 393974370,
+      "creationTime": 1791645029,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271B",
+        "name": "MEX Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393974370"
+    },
+    {
+      "type": "codeforces",
+      "id": 393972773,
+      "creationTime": 1791644824,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271A",
+        "name": "Robot Odd Moves",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393972773"
+    },
+    {
+      "type": "codeforces",
       "id": 392371761,
       "creationTime": 1790538795,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -293894,7 +294119,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3810,
+    "rating": 3670,
     "maxRank": "jiangly",
     "maxRating": 4039
   }

@@ -1,9 +1,158 @@
 {
   "version": "0.1.29",
-  "updateTime": 1791630986,
+  "updateTime": 1791664638,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 394022544,
+            "pid": "2271H1",
+            "name": "Personal Issues (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1791651068
+          },
+          {
+            "platform": "codeforces",
+            "id": 394016388,
+            "pid": "2271F",
+            "name": "Beautiful Pillers",
+            "verdict": "OK",
+            "creationTime": 1791649838
+          },
+          {
+            "platform": "codeforces",
+            "id": 394003723,
+            "pid": "2271E",
+            "name": "Array Emptying",
+            "verdict": "OK",
+            "creationTime": 1791647881
+          },
+          {
+            "platform": "codeforces",
+            "id": 394003466,
+            "pid": "2271E",
+            "name": "Array Emptying",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1791647847
+          },
+          {
+            "platform": "codeforces",
+            "id": 393983900,
+            "pid": "2271D",
+            "name": "Target Infection",
+            "verdict": "OK",
+            "creationTime": 1791645791
+          },
+          {
+            "platform": "codeforces",
+            "id": 393976882,
+            "pid": "2271B",
+            "name": "MEX Game",
+            "verdict": "OK",
+            "creationTime": 1791645247
+          },
+          {
+            "platform": "codeforces",
+            "id": 393974697,
+            "pid": "2271C",
+            "name": "XOR Problem",
+            "verdict": "OK",
+            "creationTime": 1791645059
+          },
+          {
+            "platform": "codeforces",
+            "id": 393972769,
+            "pid": "2271A",
+            "name": "Robot Odd Moves",
+            "verdict": "OK",
+            "creationTime": 1791644822
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 394032014,
+            "pid": "2271G",
+            "name": "Grid Filling",
+            "verdict": "OK",
+            "creationTime": 1791653278
+          },
+          {
+            "platform": "codeforces",
+            "id": 394009413,
+            "pid": "2271F",
+            "name": "Beautiful Pillers",
+            "verdict": "OK",
+            "creationTime": 1791648683
+          },
+          {
+            "platform": "codeforces",
+            "id": 393999753,
+            "pid": "2271E",
+            "name": "Array Emptying",
+            "verdict": "OK",
+            "creationTime": 1791647368
+          },
+          {
+            "platform": "codeforces",
+            "id": 393985329,
+            "pid": "2271D",
+            "name": "Target Infection",
+            "verdict": "OK",
+            "creationTime": 1791645910
+          },
+          {
+            "platform": "codeforces",
+            "id": 393979887,
+            "pid": "2271B",
+            "name": "MEX Game",
+            "verdict": "OK",
+            "creationTime": 1791645474
+          },
+          {
+            "platform": "codeforces",
+            "id": 393978506,
+            "pid": "2271B",
+            "name": "MEX Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1791645375
+          },
+          {
+            "platform": "codeforces",
+            "id": 393977369,
+            "pid": "2271C",
+            "name": "XOR Problem",
+            "verdict": "OK",
+            "creationTime": 1791645287
+          },
+          {
+            "platform": "codeforces",
+            "id": 393974370,
+            "pid": "2271B",
+            "name": "MEX Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1791645029
+          },
+          {
+            "platform": "codeforces",
+            "id": 393972773,
+            "pid": "2271A",
+            "name": "Robot Odd Moves",
+            "verdict": "OK",
+            "creationTime": 1791644824
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "77990d881279d17699fc0729d00df144c6c61172"
+  "ref": "bd07985df15f42b7ff7fe0e477ddef19cbe1e8af"
 }
