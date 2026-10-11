@@ -104,7 +104,8 @@
           "binary search",
           "brute force",
           "greedy",
-          "implementation"
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2271/problem/D"
       },
