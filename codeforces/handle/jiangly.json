@@ -49,6 +49,7 @@
         "name": "Beautiful Pillers",
         "tags": [
           "constructive algorithms",
+          "data structures",
           "dp",
           "greedy",
           "implementation"
@@ -101,7 +102,9 @@
         "name": "Target Infection",
         "tags": [
           "binary search",
-          "brute force"
+          "brute force",
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2271/problem/D"
       },
@@ -174,7 +177,8 @@
         "name": "XOR Problem",
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2271/problem/C"
       },
