@@ -27682,6 +27682,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2026 ICPC Bolivia National Contest (Phase 2)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106758,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106758",
+    "standingsUrl": "https://codeforces.com/gym/106758/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2026 NUIT Freshman Contest",
     "startTime": 1791698400,
     "duration": 14400,
@@ -27700,5 +27710,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106760",
     "standingsUrl": "https://codeforces.com/gym/106760/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2026-2027, Первая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106763,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106763",
+    "standingsUrl": "https://codeforces.com/gym/106763/standings"
   }
 ]
