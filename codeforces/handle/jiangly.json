@@ -6,6 +6,135 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 394423652,
+      "creationTime": 1791908251,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355575396
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2273C",
+        "name": "Matrix Puzzle",
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation",
+          "math",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2273/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2273/submission/394423652"
+    },
+    {
+      "type": "codeforces",
+      "id": 394423034,
+      "creationTime": 1791907920,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355575727
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2273B",
+        "name": "Robot Championship",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2273/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2273/submission/394423034"
+    },
+    {
+      "type": "codeforces",
+      "id": 394420747,
+      "creationTime": 1791906750,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355576897
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2273A",
+        "name": "Lavencia Oranges",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2273/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2273/submission/394420747"
+    },
+    {
+      "type": "codeforces",
+      "id": 394420195,
+      "creationTime": 1791906460,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355577187
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2274B",
+        "name": "Prefix",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2274/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2274/submission/394420195"
+    },
+    {
+      "type": "codeforces",
+      "id": 394419875,
+      "creationTime": 1791906297,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355577350
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2274A",
+        "name": "The Projections of Paco",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2274/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2274/submission/394419875"
+    },
+    {
+      "type": "codeforces",
       "id": 394032014,
       "creationTime": 1791653278,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -77,6 +206,7 @@
         "name": "Array Emptying",
         "tags": [
           "binary search",
+          "data structures",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2271/problem/E"

@@ -1,9 +1,56 @@
 {
   "version": "0.1.29",
-  "updateTime": 1791895798,
+  "updateTime": 1791928484,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 394423652,
+            "pid": "2273C",
+            "name": "Matrix Puzzle",
+            "verdict": "OK",
+            "creationTime": 1791908251
+          },
+          {
+            "platform": "codeforces",
+            "id": 394423034,
+            "pid": "2273B",
+            "name": "Robot Championship",
+            "verdict": "OK",
+            "creationTime": 1791907920
+          },
+          {
+            "platform": "codeforces",
+            "id": 394420747,
+            "pid": "2273A",
+            "name": "Lavencia Oranges",
+            "verdict": "OK",
+            "creationTime": 1791906750
+          },
+          {
+            "platform": "codeforces",
+            "id": 394420195,
+            "pid": "2274B",
+            "name": "Prefix",
+            "verdict": "OK",
+            "creationTime": 1791906460
+          },
+          {
+            "platform": "codeforces",
+            "id": 394419875,
+            "pid": "2274A",
+            "name": "The Projections of Paco",
+            "verdict": "OK",
+            "creationTime": 1791906297
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "d485ea538cdfcc9d5528eec53ac03088234cde9a"
+  "ref": "ffdb5d99d8336540ca7f81d00b12364bfeb2579c"
 }
