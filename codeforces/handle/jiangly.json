@@ -307,6 +307,7 @@
         "id": "2271C",
         "name": "XOR Problem",
         "tags": [
+          "bitmasks",
           "constructive algorithms",
           "graphs",
           "greedy",
