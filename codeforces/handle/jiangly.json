@@ -6,6 +6,94 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 394737595,
+      "creationTime": 1792089472,
+      "language": "Kotlin 2.2",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355394175
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141H",
+        "name": "Merging Vertices in a Graph",
+        "rating": 2700,
+        "tags": [
+          "*special",
+          "dfs and similar",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/394737595"
+    },
+    {
+      "type": "codeforces",
+      "id": 394737567,
+      "creationTime": 1792089454,
+      "language": "Kotlin 1.7",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355394193
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141H",
+        "name": "Merging Vertices in a Graph",
+        "rating": 2700,
+        "tags": [
+          "*special",
+          "dfs and similar",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/394737567"
+    },
+    {
+      "type": "codeforces",
+      "id": 394721504,
+      "creationTime": 1792081573,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355402074
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2081D",
+        "name": "MST in Modulo Graph",
+        "rating": 2600,
+        "tags": [
+          "constructive algorithms",
+          "dsu",
+          "graphs",
+          "greedy",
+          "math",
+          "number theory",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2081/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2081/submission/394721504"
+    },
+    {
+      "type": "codeforces",
       "id": 394423652,
       "creationTime": 1791908251,
       "language": "C++23 (GCC 14-64, msys2)",
