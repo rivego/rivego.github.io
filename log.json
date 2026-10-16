@@ -1,40 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1792095953,
+  "updateTime": 1792144801,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 394737595,
-            "pid": "2141H",
-            "name": "Merging Vertices in a Graph",
-            "verdict": "OK",
-            "creationTime": 1792089472
-          },
-          {
-            "platform": "codeforces",
-            "id": 394737567,
-            "pid": "2141H",
-            "name": "Merging Vertices in a Graph",
-            "verdict": "OK",
-            "creationTime": 1792089454
-          },
-          {
-            "platform": "codeforces",
-            "id": 394721504,
-            "pid": "2081D",
-            "name": "MST in Modulo Graph",
-            "verdict": "OK",
-            "creationTime": 1792081573
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "30fcdbd55a061ba87cca3a9ff2793813b7875f94"
+  "ref": "f549539d3a2537cfdbee06da7a2c298ad35def23"
 }
