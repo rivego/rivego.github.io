@@ -1,74 +1,216 @@
 {
   "version": "0.1.29",
-  "updateTime": 1792229490,
+  "updateTime": 1792265668,
   "history": {
     "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 395033187,
+            "pid": "2261H",
+            "name": "Oh Tree Tree Tree, No Need to Leave",
+            "verdict": "OK",
+            "creationTime": 1792258463
+          },
+          {
+            "platform": "codeforces",
+            "id": 395018055,
+            "pid": "2261F1",
+            "name": "Plegma II: Ask Me Any Cell (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1792254948
+          },
+          {
+            "platform": "codeforces",
+            "id": 395006205,
+            "pid": "2261G",
+            "name": "1 2 3 and XOR, Where Did Everybody Go?",
+            "verdict": "OK",
+            "creationTime": 1792252881
+          },
+          {
+            "platform": "codeforces",
+            "id": 395004981,
+            "pid": "2261G",
+            "name": "1 2 3 and XOR, Where Did Everybody Go?",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1792252700
+          },
+          {
+            "platform": "codeforces",
+            "id": 394990989,
+            "pid": "2261E",
+            "name": "What Does the Cow Say?",
+            "verdict": "OK",
+            "creationTime": 1792250928
+          },
+          {
+            "platform": "codeforces",
+            "id": 394988750,
+            "pid": "2261D2",
+            "name": "Come Be My Friend, Don't Be So Scared (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1792250686
+          },
+          {
+            "platform": "codeforces",
+            "id": 394986022,
+            "pid": "2261D2",
+            "name": "Come Be My Friend, Don't Be So Scared (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1792250401
+          },
+          {
+            "platform": "codeforces",
+            "id": 394974785,
+            "pid": "2261D1",
+            "name": "Come Be My Friend, Don't Be So Scared (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1792249327
+          },
+          {
+            "platform": "codeforces",
+            "id": 394971309,
+            "pid": "2261E",
+            "name": "What Does the Cow Say?",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1792249018
+          },
+          {
+            "platform": "codeforces",
+            "id": 394966655,
+            "pid": "2261E",
+            "name": "What Does the Cow Say?",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1792248620
+          },
+          {
+            "platform": "codeforces",
+            "id": 394962368,
+            "pid": "2261C",
+            "name": "I Know About a Million Things",
+            "verdict": "OK",
+            "creationTime": 1792248280
+          },
+          {
+            "platform": "codeforces",
+            "id": 394960169,
+            "pid": "2261C",
+            "name": "I Know About a Million Things",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1792248112
+          },
+          {
+            "platform": "codeforces",
+            "id": 394957677,
+            "pid": "2261B",
+            "name": "What's the Capital of France?",
+            "verdict": "OK",
+            "creationTime": 1792247917
+          },
+          {
+            "platform": "codeforces",
+            "id": 394956984,
+            "pid": "2261A",
+            "name": "Hey, It's Me, Souvlakity",
+            "verdict": "OK",
+            "creationTime": 1792247808
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "jiangly",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 394870531,
-            "pid": "2273D",
-            "name": "Aura Battle",
+            "id": 395032231,
+            "pid": "2261F1",
+            "name": "Plegma II: Ask Me Any Cell (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1792184726
+            "creationTime": 1792258288
           },
           {
             "platform": "codeforces",
-            "id": 394867416,
-            "pid": "2276G",
-            "name": "Elimination of Players",
+            "id": 395027660,
+            "pid": "2261H",
+            "name": "Oh Tree Tree Tree, No Need to Leave",
             "verdict": "OK",
-            "creationTime": 1792181890
+            "creationTime": 1792257146
           },
           {
             "platform": "codeforces",
-            "id": 394867369,
-            "pid": "2276F",
-            "name": "Permutation Coloring Game",
+            "id": 395006386,
+            "pid": "2261G",
+            "name": "1 2 3 and XOR, Where Did Everybody Go?",
             "verdict": "OK",
-            "creationTime": 1792181853
+            "creationTime": 1792252905
           },
           {
             "platform": "codeforces",
-            "id": 394867361,
-            "pid": "2276E",
-            "name": "Good Substrings",
-            "verdict": "OK",
-            "creationTime": 1792181847
+            "id": 395002182,
+            "pid": "2261G",
+            "name": "1 2 3 and XOR, Where Did Everybody Go?",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1792252311
           },
           {
             "platform": "codeforces",
-            "id": 394867349,
-            "pid": "2276D",
-            "name": "Caveman",
+            "id": 394988383,
+            "pid": "2261E",
+            "name": "What Does the Cow Say?",
             "verdict": "OK",
-            "creationTime": 1792181840
+            "creationTime": 1792250646
           },
           {
             "platform": "codeforces",
-            "id": 394867330,
-            "pid": "2276C",
-            "name": "Subarrays",
+            "id": 394982417,
+            "pid": "2261D1",
+            "name": "Come Be My Friend, Don't Be So Scared (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1792181831
+            "creationTime": 1792250040
           },
           {
             "platform": "codeforces",
-            "id": 394867310,
-            "pid": "2276B",
-            "name": "Replace and Compress",
+            "id": 394982274,
+            "pid": "2261D2",
+            "name": "Come Be My Friend, Don't Be So Scared (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1792181815
+            "creationTime": 1792250023
           },
           {
             "platform": "codeforces",
-            "id": 394867302,
-            "pid": "2276A",
-            "name": "Perfect Sandwiches",
+            "id": 394968394,
+            "pid": "2261C",
+            "name": "I Know About a Million Things",
             "verdict": "OK",
-            "creationTime": 1792181806
+            "creationTime": 1792248761
+          },
+          {
+            "platform": "codeforces",
+            "id": 394964636,
+            "pid": "2261C",
+            "name": "I Know About a Million Things",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1792248459
+          },
+          {
+            "platform": "codeforces",
+            "id": 394959072,
+            "pid": "2261B",
+            "name": "What's the Capital of France?",
+            "verdict": "OK",
+            "creationTime": 1792248028
+          },
+          {
+            "platform": "codeforces",
+            "id": 394957248,
+            "pid": "2261A",
+            "name": "Hey, It's Me, Souvlakity",
+            "verdict": "OK",
+            "creationTime": 1792247865
           }
         ],
         "newContests": []
@@ -76,5 +218,5 @@
     ],
     "contest": []
   },
-  "ref": "a7425455e61aa9c5f379425dca4be6f3cce8cd62"
+  "ref": "ba4e4ad29eedb21e4edabfbbed6b02c0fb9aa3be"
 }

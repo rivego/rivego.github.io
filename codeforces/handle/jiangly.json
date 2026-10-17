@@ -6,6 +6,299 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 395032231,
+      "creationTime": 1792258288,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261F1",
+        "name": "Plegma II: Ask Me Any Cell (Easy Version)",
+        "tags": [
+          "brute force",
+          "communication",
+          "constructive algorithms",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/395032231"
+    },
+    {
+      "type": "codeforces",
+      "id": 395027660,
+      "creationTime": 1792257146,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261H",
+        "name": "Oh Tree Tree Tree, No Need to Leave",
+        "tags": [
+          "bitmasks",
+          "communication",
+          "dfs and similar",
+          "interactive",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/395027660"
+    },
+    {
+      "type": "codeforces",
+      "id": 395006386,
+      "creationTime": 1792252905,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261G",
+        "name": "1 2 3 and XOR, Where Did Everybody Go?",
+        "tags": [
+          "bitmasks",
+          "data structures",
+          "divide and conquer",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/395006386"
+    },
+    {
+      "type": "codeforces",
+      "id": 395002182,
+      "creationTime": 1792252311,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261G",
+        "name": "1 2 3 and XOR, Where Did Everybody Go?",
+        "tags": [
+          "bitmasks",
+          "data structures",
+          "divide and conquer",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/395002182"
+    },
+    {
+      "type": "codeforces",
+      "id": 394988383,
+      "creationTime": 1792250646,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261E",
+        "name": "What Does the Cow Say?",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dfs and similar",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/394988383"
+    },
+    {
+      "type": "codeforces",
+      "id": 394982417,
+      "creationTime": 1792250040,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261D1",
+        "name": "Come Be My Friend, Don't Be So Scared (Easy Version)",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/394982417"
+    },
+    {
+      "type": "codeforces",
+      "id": 394982274,
+      "creationTime": 1792250023,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261D2",
+        "name": "Come Be My Friend, Don't Be So Scared (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "dsu",
+          "hashing",
+          "trees",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/394982274"
+    },
+    {
+      "type": "codeforces",
+      "id": 394968394,
+      "creationTime": 1792248761,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261C",
+        "name": "I Know About a Million Things",
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/394968394"
+    },
+    {
+      "type": "codeforces",
+      "id": 394964636,
+      "creationTime": 1792248459,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261C",
+        "name": "I Know About a Million Things",
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/394964636"
+    },
+    {
+      "type": "codeforces",
+      "id": 394959072,
+      "creationTime": 1792248028,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261B",
+        "name": "What's the Capital of France?",
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/394959072"
+    },
+    {
+      "type": "codeforces",
+      "id": 394957248,
+      "creationTime": 1792247865,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1792247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261A",
+        "name": "Hey, It's Me, Souvlakity",
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/394957248"
+    },
+    {
+      "type": "codeforces",
       "id": 394870531,
       "creationTime": 1792184726,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -294554,7 +294847,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3670,
+    "rating": 3638,
     "maxRank": "jiangly",
     "maxRating": 4039
   }
