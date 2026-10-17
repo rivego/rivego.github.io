@@ -6,6 +6,216 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 394870531,
+      "creationTime": 1792184726,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355298921
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2273D",
+        "name": "Aura Battle",
+        "tags": [
+          "brute force",
+          "implementation",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2273/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2273/submission/394870531"
+    },
+    {
+      "type": "codeforces",
+      "id": 394867416,
+      "creationTime": 1792181890,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355301757
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2276G",
+        "name": "Elimination of Players",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2276/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2276/submission/394867416"
+    },
+    {
+      "type": "codeforces",
+      "id": 394867369,
+      "creationTime": 1792181853,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355301794
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2276F",
+        "name": "Permutation Coloring Game",
+        "tags": [
+          "dp",
+          "dsu",
+          "games",
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2276/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2276/submission/394867369"
+    },
+    {
+      "type": "codeforces",
+      "id": 394867361,
+      "creationTime": 1792181847,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355301800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2276E",
+        "name": "Good Substrings",
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2276/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2276/submission/394867361"
+    },
+    {
+      "type": "codeforces",
+      "id": 394867349,
+      "creationTime": 1792181840,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355301807
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2276D",
+        "name": "Caveman",
+        "tags": [
+          "combinatorics",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2276/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2276/submission/394867349"
+    },
+    {
+      "type": "codeforces",
+      "id": 394867330,
+      "creationTime": 1792181831,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355301816
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2276C",
+        "name": "Subarrays",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2276/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2276/submission/394867330"
+    },
+    {
+      "type": "codeforces",
+      "id": 394867310,
+      "creationTime": 1792181815,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355301832
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2276B",
+        "name": "Replace and Compress",
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2276/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2276/submission/394867310"
+    },
+    {
+      "type": "codeforces",
+      "id": 394867302,
+      "creationTime": 1792181806,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355301841
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2276A",
+        "name": "Perfect Sandwiches",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2276/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2276/submission/394867302"
+    },
+    {
+      "type": "codeforces",
       "id": 394737595,
       "creationTime": 1792089472,
       "language": "Kotlin 2.2",

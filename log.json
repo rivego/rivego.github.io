@@ -1,9 +1,80 @@
 {
   "version": "0.1.29",
-  "updateTime": 1792180816,
+  "updateTime": 1792229490,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 394870531,
+            "pid": "2273D",
+            "name": "Aura Battle",
+            "verdict": "OK",
+            "creationTime": 1792184726
+          },
+          {
+            "platform": "codeforces",
+            "id": 394867416,
+            "pid": "2276G",
+            "name": "Elimination of Players",
+            "verdict": "OK",
+            "creationTime": 1792181890
+          },
+          {
+            "platform": "codeforces",
+            "id": 394867369,
+            "pid": "2276F",
+            "name": "Permutation Coloring Game",
+            "verdict": "OK",
+            "creationTime": 1792181853
+          },
+          {
+            "platform": "codeforces",
+            "id": 394867361,
+            "pid": "2276E",
+            "name": "Good Substrings",
+            "verdict": "OK",
+            "creationTime": 1792181847
+          },
+          {
+            "platform": "codeforces",
+            "id": 394867349,
+            "pid": "2276D",
+            "name": "Caveman",
+            "verdict": "OK",
+            "creationTime": 1792181840
+          },
+          {
+            "platform": "codeforces",
+            "id": 394867330,
+            "pid": "2276C",
+            "name": "Subarrays",
+            "verdict": "OK",
+            "creationTime": 1792181831
+          },
+          {
+            "platform": "codeforces",
+            "id": 394867310,
+            "pid": "2276B",
+            "name": "Replace and Compress",
+            "verdict": "OK",
+            "creationTime": 1792181815
+          },
+          {
+            "platform": "codeforces",
+            "id": 394867302,
+            "pid": "2276A",
+            "name": "Perfect Sandwiches",
+            "verdict": "OK",
+            "creationTime": 1792181806
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "f72cf6bdbe651b6f5b7502ced10e8371843deaf6"
+  "ref": "a7425455e61aa9c5f379425dca4be6f3cce8cd62"
 }
