@@ -6,6 +6,393 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 395264649,
+      "creationTime": 1792435146,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355048501
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2275H",
+        "name": "A Problem to Warm Up the Eyebrows",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2275/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2275/submission/395264649"
+    },
+    {
+      "type": "codeforces",
+      "id": 395264640,
+      "creationTime": 1792435142,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355048505
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2275G",
+        "name": "Copper Squander",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dsu",
+          "graphs",
+          "greedy",
+          "math",
+          "sortings",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2275/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2275/submission/395264640"
+    },
+    {
+      "type": "codeforces",
+      "id": 395264634,
+      "creationTime": 1792435139,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355048508
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2275F",
+        "name": "Tea Blend",
+        "tags": [
+          "hashing",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2275/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2275/submission/395264634"
+    },
+    {
+      "type": "codeforces",
+      "id": 395264624,
+      "creationTime": 1792435133,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355048514
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2275E",
+        "name": "Repentance Is Already on the Way",
+        "tags": [
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2275/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2275/submission/395264624"
+    },
+    {
+      "type": "codeforces",
+      "id": 395264614,
+      "creationTime": 1792435129,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355048518
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2275D",
+        "name": "Precision Alignment",
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2275/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2275/submission/395264614"
+    },
+    {
+      "type": "codeforces",
+      "id": 395264610,
+      "creationTime": 1792435124,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355048523
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2275C",
+        "name": "Unrequited Love",
+        "tags": [
+          "brute force",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2275/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2275/submission/395264610"
+    },
+    {
+      "type": "codeforces",
+      "id": 395264598,
+      "creationTime": 1792435120,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355048527
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2275B",
+        "name": "Did Not Go to Print",
+        "tags": [
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2275/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2275/submission/395264598"
+    },
+    {
+      "type": "codeforces",
+      "id": 395264548,
+      "creationTime": 1792435089,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355048558
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2275A",
+        "name": "In Search of Convenience",
+        "tags": [
+          "geometry",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2275/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2275/submission/395264548"
+    },
+    {
+      "type": "codeforces",
+      "id": 395259178,
+      "creationTime": 1792432871,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355050776
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271H2",
+        "name": "Personal Issues (Hard Version)",
+        "tags": [
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/H2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/395259178"
+    },
+    {
+      "type": "codeforces",
+      "id": 395257859,
+      "creationTime": 1792432185,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355051462
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271H2",
+        "name": "Personal Issues (Hard Version)",
+        "tags": [
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/H2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/395257859"
+    },
+    {
+      "type": "codeforces",
+      "id": 395257713,
+      "creationTime": 1792432115,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355051532
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271H1",
+        "name": "Personal Issues (Easy Version)",
+        "tags": [
+          "dp",
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/395257713"
+    },
+    {
+      "type": "codeforces",
+      "id": 395250050,
+      "creationTime": 1792428101,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355055546
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2273F",
+        "name": "Pancho's Permutation",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2273/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2273/submission/395250050"
+    },
+    {
+      "type": "codeforces",
+      "id": 395244836,
+      "creationTime": 1792425477,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355058170
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2273E",
+        "name": "Six-Seven Bags",
+        "tags": [
+          "brute force",
+          "greedy",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2273/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2273/submission/395244836"
+    },
+    {
+      "type": "codeforces",
+      "id": 395243666,
+      "creationTime": 1792424942,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355058705
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261F2",
+        "name": "Plegma II: Ask Me Any Cell (Hard Version)",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/395243666"
+    },
+    {
+      "type": "codeforces",
+      "id": 395243597,
+      "creationTime": 1792424914,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -355058733
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2261F2",
+        "name": "Plegma II: Ask Me Any Cell (Hard Version)",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2261/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2261/submission/395243597"
+    },
+    {
+      "type": "codeforces",
       "id": 395032231,
       "creationTime": 1792258288,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -52,6 +439,7 @@
         "tags": [
           "bitmasks",
           "communication",
+          "constructive algorithms",
           "dfs and similar",
           "interactive",
           "trees"
@@ -375,6 +763,7 @@
         "id": "2276F",
         "name": "Permutation Coloring Game",
         "tags": [
+          "brute force",
           "dp",
           "dsu",
           "games",
