@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2275H",
         "name": "A Problem to Warm Up the Eyebrows",
+        "rating": 2400,
         "tags": [
           "combinatorics",
           "dp",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "2275G",
         "name": "Copper Squander",
+        "rating": 1900,
         "tags": [
           "binary search",
           "data structures",
@@ -78,6 +80,7 @@
         "type": "codeforces",
         "id": "2275F",
         "name": "Tea Blend",
+        "rating": 1800,
         "tags": [
           "hashing",
           "math",
@@ -104,6 +107,7 @@
         "type": "codeforces",
         "id": "2275E",
         "name": "Repentance Is Already on the Way",
+        "rating": 1500,
         "tags": [
           "dp",
           "implementation"
@@ -129,6 +133,7 @@
         "type": "codeforces",
         "id": "2275D",
         "name": "Precision Alignment",
+        "rating": 1300,
         "tags": [
           "binary search",
           "brute force",
@@ -156,6 +161,7 @@
         "type": "codeforces",
         "id": "2275C",
         "name": "Unrequited Love",
+        "rating": 1000,
         "tags": [
           "brute force",
           "data structures"
@@ -181,6 +187,7 @@
         "type": "codeforces",
         "id": "2275B",
         "name": "Did Not Go to Print",
+        "rating": 800,
         "tags": [
           "data structures",
           "implementation"
@@ -206,6 +213,7 @@
         "type": "codeforces",
         "id": "2275A",
         "name": "In Search of Convenience",
+        "rating": 800,
         "tags": [
           "geometry",
           "implementation"
@@ -231,6 +239,7 @@
         "type": "codeforces",
         "id": "2271H2",
         "name": "Personal Issues (Hard Version)",
+        "rating": 3300,
         "tags": [
           "games",
           "trees"
@@ -256,6 +265,7 @@
         "type": "codeforces",
         "id": "2271H2",
         "name": "Personal Issues (Hard Version)",
+        "rating": 3300,
         "tags": [
           "games",
           "trees"
@@ -281,6 +291,7 @@
         "type": "codeforces",
         "id": "2271H1",
         "name": "Personal Issues (Easy Version)",
+        "rating": 2800,
         "tags": [
           "dp",
           "games",
@@ -307,6 +318,7 @@
         "type": "codeforces",
         "id": "2273F",
         "name": "Pancho's Permutation",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -334,6 +346,7 @@
         "type": "codeforces",
         "id": "2273E",
         "name": "Six-Seven Bags",
+        "rating": 2900,
         "tags": [
           "brute force",
           "greedy",
@@ -360,6 +373,7 @@
         "type": "codeforces",
         "id": "2261F2",
         "name": "Plegma II: Ask Me Any Cell (Hard Version)",
+        "rating": 3300,
         "tags": [
           "constructive algorithms"
         ],
@@ -384,6 +398,7 @@
         "type": "codeforces",
         "id": "2261F2",
         "name": "Plegma II: Ask Me Any Cell (Hard Version)",
+        "rating": 3300,
         "tags": [
           "constructive algorithms"
         ],
@@ -408,6 +423,7 @@
         "type": "codeforces",
         "id": "2261F1",
         "name": "Plegma II: Ask Me Any Cell (Easy Version)",
+        "rating": 2500,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -436,6 +452,7 @@
         "type": "codeforces",
         "id": "2261H",
         "name": "Oh Tree Tree Tree, No Need to Leave",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "communication",
@@ -465,6 +482,7 @@
         "type": "codeforces",
         "id": "2261G",
         "name": "1 2 3 and XOR, Where Did Everybody Go?",
+        "rating": 2800,
         "tags": [
           "bitmasks",
           "data structures",
@@ -495,6 +513,7 @@
         "type": "codeforces",
         "id": "2261G",
         "name": "1 2 3 and XOR, Where Did Everybody Go?",
+        "rating": 2800,
         "tags": [
           "bitmasks",
           "data structures",
@@ -525,6 +544,7 @@
         "type": "codeforces",
         "id": "2261E",
         "name": "What Does the Cow Say?",
+        "rating": 1800,
         "tags": [
           "binary search",
           "data structures",
@@ -553,6 +573,7 @@
         "type": "codeforces",
         "id": "2261D1",
         "name": "Come Be My Friend, Don't Be So Scared (Easy Version)",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "math"
@@ -578,6 +599,7 @@
         "type": "codeforces",
         "id": "2261D2",
         "name": "Come Be My Friend, Don't Be So Scared (Hard Version)",
+        "rating": 2400,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -608,6 +630,7 @@
         "type": "codeforces",
         "id": "2261C",
         "name": "I Know About a Million Things",
+        "rating": 1000,
         "tags": [
           "games",
           "math"
@@ -633,6 +656,7 @@
         "type": "codeforces",
         "id": "2261C",
         "name": "I Know About a Million Things",
+        "rating": 1000,
         "tags": [
           "games",
           "math"
@@ -658,6 +682,7 @@
         "type": "codeforces",
         "id": "2261B",
         "name": "What's the Capital of France?",
+        "rating": 1100,
         "tags": [
           "bitmasks",
           "greedy",
@@ -684,6 +709,7 @@
         "type": "codeforces",
         "id": "2261A",
         "name": "Hey, It's Me, Souvlakity",
+        "rating": 800,
         "tags": [
           "games",
           "math"
@@ -709,6 +735,7 @@
         "type": "codeforces",
         "id": "2273D",
         "name": "Aura Battle",
+        "rating": 2600,
         "tags": [
           "brute force",
           "implementation",
@@ -736,6 +763,7 @@
         "type": "codeforces",
         "id": "2276G",
         "name": "Elimination of Players",
+        "rating": 2100,
         "tags": [
           "combinatorics",
           "dp",
@@ -762,6 +790,7 @@
         "type": "codeforces",
         "id": "2276F",
         "name": "Permutation Coloring Game",
+        "rating": 2400,
         "tags": [
           "brute force",
           "dp",
@@ -792,6 +821,7 @@
         "type": "codeforces",
         "id": "2276E",
         "name": "Good Substrings",
+        "rating": 1800,
         "tags": [
           "combinatorics",
           "data structures",
@@ -820,6 +850,7 @@
         "type": "codeforces",
         "id": "2276D",
         "name": "Caveman",
+        "rating": 1400,
         "tags": [
           "combinatorics",
           "graphs"
@@ -845,6 +876,7 @@
         "type": "codeforces",
         "id": "2276C",
         "name": "Subarrays",
+        "rating": 1100,
         "tags": [
           "math",
           "number theory"
@@ -870,6 +902,7 @@
         "type": "codeforces",
         "id": "2276B",
         "name": "Replace and Compress",
+        "rating": 1000,
         "tags": [
           "implementation",
           "strings"
@@ -895,6 +928,7 @@
         "type": "codeforces",
         "id": "2276A",
         "name": "Perfect Sandwiches",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
@@ -1008,6 +1042,7 @@
         "type": "codeforces",
         "id": "2273C",
         "name": "Matrix Puzzle",
+        "rating": 2100,
         "tags": [
           "brute force",
           "data structures",
@@ -1036,6 +1071,7 @@
         "type": "codeforces",
         "id": "2273B",
         "name": "Robot Championship",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "math"
@@ -1061,6 +1097,7 @@
         "type": "codeforces",
         "id": "2273A",
         "name": "Lavencia Oranges",
+        "rating": 1300,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -1088,6 +1125,7 @@
         "type": "codeforces",
         "id": "2274B",
         "name": "Prefix",
+        "rating": 1100,
         "tags": [
           "greedy"
         ],
@@ -1112,6 +1150,7 @@
         "type": "codeforces",
         "id": "2274A",
         "name": "The Projections of Paco",
+        "rating": 800,
         "tags": [
           "dfs and similar",
           "dp",
@@ -1140,6 +1179,7 @@
         "type": "codeforces",
         "id": "2271G",
         "name": "Grid Filling",
+        "rating": 3100,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -1166,6 +1206,7 @@
         "type": "codeforces",
         "id": "2271F",
         "name": "Beautiful Pillers",
+        "rating": 2300,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -1194,6 +1235,7 @@
         "type": "codeforces",
         "id": "2271E",
         "name": "Array Emptying",
+        "rating": 2100,
         "tags": [
           "binary search",
           "data structures",
@@ -1220,6 +1262,7 @@
         "type": "codeforces",
         "id": "2271D",
         "name": "Target Infection",
+        "rating": 1700,
         "tags": [
           "binary search",
           "brute force",
@@ -1248,6 +1291,7 @@
         "type": "codeforces",
         "id": "2271B",
         "name": "MEX Game",
+        "rating": 1000,
         "tags": [
           "games"
         ],
@@ -1272,6 +1316,7 @@
         "type": "codeforces",
         "id": "2271B",
         "name": "MEX Game",
+        "rating": 1000,
         "tags": [
           "games"
         ],
@@ -1296,6 +1341,7 @@
         "type": "codeforces",
         "id": "2271C",
         "name": "XOR Problem",
+        "rating": 1400,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -1324,6 +1370,7 @@
         "type": "codeforces",
         "id": "2271B",
         "name": "MEX Game",
+        "rating": 1000,
         "tags": [
           "games"
         ],
@@ -1348,6 +1395,7 @@
         "type": "codeforces",
         "id": "2271A",
         "name": "Robot Odd Moves",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
