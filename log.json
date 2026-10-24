@@ -1,9 +1,72 @@
 {
   "version": "0.1.29",
-  "updateTime": 1792834771,
+  "updateTime": 1792870560,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 395887912,
+            "pid": "2277F",
+            "name": "Token Re-Moving",
+            "verdict": "OK",
+            "creationTime": 1792856661
+          },
+          {
+            "platform": "codeforces",
+            "id": 395887896,
+            "pid": "2277E",
+            "name": "Tree Guessing",
+            "verdict": "OK",
+            "creationTime": 1792856651
+          },
+          {
+            "platform": "codeforces",
+            "id": 395887857,
+            "pid": "2277D2",
+            "name": "Number Operating (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1792856633
+          },
+          {
+            "platform": "codeforces",
+            "id": 395887817,
+            "pid": "2277D1",
+            "name": "Number Operating (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1792856617
+          },
+          {
+            "platform": "codeforces",
+            "id": 395887784,
+            "pid": "2277C",
+            "name": "Edge Addeleting",
+            "verdict": "OK",
+            "creationTime": 1792856604
+          },
+          {
+            "platform": "codeforces",
+            "id": 395887758,
+            "pid": "2277B",
+            "name": "Sequence Decreasing",
+            "verdict": "OK",
+            "creationTime": 1792856591
+          },
+          {
+            "platform": "codeforces",
+            "id": 395887743,
+            "pid": "2277A",
+            "name": "Subset Selecting",
+            "verdict": "OK",
+            "creationTime": 1792856583
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b958577bdc5eec625f0af032cbc0ada94a5d5f62"
+  "ref": "60b47c0a00c40de419c9ec84f33771f53998c53a"
 }

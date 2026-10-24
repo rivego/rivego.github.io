@@ -6,6 +6,184 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 395887912,
+      "creationTime": 1792856661,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354626986
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2277F",
+        "name": "Token Re-Moving",
+        "tags": [
+          "dfs and similar",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2277/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2277/submission/395887912"
+    },
+    {
+      "type": "codeforces",
+      "id": 395887896,
+      "creationTime": 1792856651,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354626996
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2277E",
+        "name": "Tree Guessing",
+        "tags": [
+          "interactive",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2277/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2277/submission/395887896"
+    },
+    {
+      "type": "codeforces",
+      "id": 395887857,
+      "creationTime": 1792856633,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354627014
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2277D2",
+        "name": "Number Operating (Hard Version)",
+        "tags": [
+          "brute force",
+          "divide and conquer",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2277/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2277/submission/395887857"
+    },
+    {
+      "type": "codeforces",
+      "id": 395887817,
+      "creationTime": 1792856617,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354627030
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2277D1",
+        "name": "Number Operating (Easy Version)",
+        "tags": [
+          "binary search",
+          "brute force",
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2277/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2277/submission/395887817"
+    },
+    {
+      "type": "codeforces",
+      "id": 395887784,
+      "creationTime": 1792856604,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354627043
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2277C",
+        "name": "Edge Addeleting",
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2277/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2277/submission/395887784"
+    },
+    {
+      "type": "codeforces",
+      "id": 395887758,
+      "creationTime": 1792856591,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354627056
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2277B",
+        "name": "Sequence Decreasing",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2277/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2277/submission/395887758"
+    },
+    {
+      "type": "codeforces",
+      "id": 395887743,
+      "creationTime": 1792856583,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354627064
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2277A",
+        "name": "Subset Selecting",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2277/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2277/submission/395887743"
+    },
+    {
+      "type": "codeforces",
       "id": 395626211,
       "creationTime": 1792698252,
       "language": "C++23 (GCC 14-64, msys2)",
