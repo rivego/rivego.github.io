@@ -22,6 +22,7 @@
         "id": "2277F",
         "name": "Token Re-Moving",
         "tags": [
+          "data structures",
           "dfs and similar",
           "dsu",
           "trees"
