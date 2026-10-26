@@ -1,9 +1,24 @@
 {
   "version": "0.1.29",
-  "updateTime": 1792957729,
+  "updateTime": 1793013636,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 396038593,
+            "pid": "2226F",
+            "name": "Inversion Invasion",
+            "verdict": "OK",
+            "creationTime": 1792958039
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "fe1ed5ec9c5ada664ed980883eb46860178940ca"
+  "ref": "72846518c84d5c40c459928c0b8a8a512c9de59f"
 }

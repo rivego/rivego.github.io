@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 396038593,
+      "creationTime": 1792958039,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354525608
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2226F",
+        "name": "Inversion Invasion",
+        "rating": 2800,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2226/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2226/submission/396038593"
+    },
+    {
+      "type": "codeforces",
       "id": 395887912,
       "creationTime": 1792856661,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -49,6 +75,7 @@
         "id": "2277E",
         "name": "Tree Guessing",
         "tags": [
+          "constructive algorithms",
           "interactive",
           "trees"
         ],
@@ -102,6 +129,7 @@
         "name": "Number Operating (Easy Version)",
         "tags": [
           "binary search",
+          "bitmasks",
           "brute force",
           "dp",
           "greedy",
