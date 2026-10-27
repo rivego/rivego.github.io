@@ -104,7 +104,7 @@
           "bitmasks",
           "brute force",
           "divide and conquer",
-          "implementation"
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2277/problem/D2"
       },
@@ -130,10 +130,7 @@
         "tags": [
           "binary search",
           "bitmasks",
-          "brute force",
-          "dp",
-          "greedy",
-          "implementation"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2277/problem/D1"
       },
@@ -158,7 +155,6 @@
         "name": "Edge Addeleting",
         "tags": [
           "dfs and similar",
-          "graphs",
           "greedy",
           "trees"
         ],
