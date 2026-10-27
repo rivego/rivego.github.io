@@ -6,6 +6,186 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 396319747,
+      "creationTime": 1793118997,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354364650
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2272G",
+        "name": "Ranges",
+        "tags": [
+          "data structures",
+          "divide and conquer",
+          "dsu"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2272/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2272/submission/396319747"
+    },
+    {
+      "type": "codeforces",
+      "id": 396319718,
+      "creationTime": 1793118983,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354364664
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2272F",
+        "name": "Tree Reduction Game",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2272/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2272/submission/396319718"
+    },
+    {
+      "type": "codeforces",
+      "id": 396319691,
+      "creationTime": 1793118966,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354364681
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2272E",
+        "name": "Memory Cell Interception",
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2272/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2272/submission/396319691"
+    },
+    {
+      "type": "codeforces",
+      "id": 396319679,
+      "creationTime": 1793118958,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354364689
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2272D",
+        "name": "Connecting the Conflicts",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dfs and similar",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2272/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2272/submission/396319679"
+    },
+    {
+      "type": "codeforces",
+      "id": 396319654,
+      "creationTime": 1793118944,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354364703
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2272C",
+        "name": "Yet Another Black Cell Problem",
+        "tags": [
+          "binary search",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2272/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2272/submission/396319654"
+    },
+    {
+      "type": "codeforces",
+      "id": 396319622,
+      "creationTime": 1793118926,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354364721
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2272B",
+        "name": "Frogs Jump",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2272/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2272/submission/396319622"
+    },
+    {
+      "type": "codeforces",
+      "id": 396319606,
+      "creationTime": 1793118915,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -354364732
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2272A",
+        "name": "Maximize One MEX",
+        "tags": [
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2272/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2272/submission/396319606"
+    },
+    {
+      "type": "codeforces",
       "id": 396038593,
       "creationTime": 1792958039,
       "language": "C++23 (GCC 14-64, msys2)",
