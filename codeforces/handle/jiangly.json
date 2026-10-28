@@ -178,6 +178,7 @@
         "name": "Maximize One MEX",
         "tags": [
           "brute force",
+          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2272/problem/A"
@@ -310,6 +311,7 @@
         "tags": [
           "binary search",
           "bitmasks",
+          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2277/problem/D1"

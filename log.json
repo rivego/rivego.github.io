@@ -1,72 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1793136287,
+  "updateTime": 1793186895,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 396319747,
-            "pid": "2272G",
-            "name": "Ranges",
-            "verdict": "OK",
-            "creationTime": 1793118997
-          },
-          {
-            "platform": "codeforces",
-            "id": 396319718,
-            "pid": "2272F",
-            "name": "Tree Reduction Game",
-            "verdict": "OK",
-            "creationTime": 1793118983
-          },
-          {
-            "platform": "codeforces",
-            "id": 396319691,
-            "pid": "2272E",
-            "name": "Memory Cell Interception",
-            "verdict": "OK",
-            "creationTime": 1793118966
-          },
-          {
-            "platform": "codeforces",
-            "id": 396319679,
-            "pid": "2272D",
-            "name": "Connecting the Conflicts",
-            "verdict": "OK",
-            "creationTime": 1793118958
-          },
-          {
-            "platform": "codeforces",
-            "id": 396319654,
-            "pid": "2272C",
-            "name": "Yet Another Black Cell Problem",
-            "verdict": "OK",
-            "creationTime": 1793118944
-          },
-          {
-            "platform": "codeforces",
-            "id": 396319622,
-            "pid": "2272B",
-            "name": "Frogs Jump",
-            "verdict": "OK",
-            "creationTime": 1793118926
-          },
-          {
-            "platform": "codeforces",
-            "id": 396319606,
-            "pid": "2272A",
-            "name": "Maximize One MEX",
-            "verdict": "OK",
-            "creationTime": 1793118915
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5fe3b6023e78af0f431e81358975238156967d19"
+  "ref": "0712608e26a0aad051b9fd016e80f38bde095993"
 }
