@@ -27806,6 +27806,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2026-2027 ICPC Nordic Collegiate Programming Contest (NCPC 2026)",
+    "startTime": 1793275200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106788,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106788",
+    "standingsUrl": "https://codeforces.com/gym/106788/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "ICPC 2026–2027 Northwestern Russia Qualification",
     "duration": 18000,
     "participantNumber": 0,
@@ -27835,5 +27846,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106794",
     "standingsUrl": "https://codeforces.com/gym/106794/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Пермская региональная олимпиада школьников по программированию (ПРОШП) 2026",
+    "startTime": 1793077800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106798,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106798",
+    "standingsUrl": "https://codeforces.com/gym/106798/standings"
   }
 ]
