@@ -75,7 +75,6 @@
         "id": "2272E",
         "name": "Memory Cell Interception",
         "tags": [
-          "data structures",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2272/problem/E"
@@ -129,7 +128,8 @@
         "tags": [
           "binary search",
           "constructive algorithms",
-          "dp"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2272/problem/C"
       },
