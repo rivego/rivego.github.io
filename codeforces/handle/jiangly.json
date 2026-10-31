@@ -75,7 +75,9 @@
         "id": "2272E",
         "name": "Memory Cell Interception",
         "tags": [
-          "greedy"
+          "binary search",
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2272/problem/E"
       },
