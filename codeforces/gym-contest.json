@@ -27878,5 +27878,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106798",
     "standingsUrl": "https://codeforces.com/gym/106798/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2026-2027, Вторая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106801,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106801",
+    "standingsUrl": "https://codeforces.com/gym/106801/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "IV DCC CODE CUP",
+    "startTime": 1793462400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106800,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106800",
+    "standingsUrl": "https://codeforces.com/gym/106800/standings"
   }
 ]
