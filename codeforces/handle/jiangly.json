@@ -6,6 +6,37 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 398368135,
+      "creationTime": 1794515132,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352968515
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2230F",
+        "name": "Game on Growing Tree",
+        "rating": 2700,
+        "tags": [
+          "binary search",
+          "dfs and similar",
+          "divide and conquer",
+          "dp",
+          "games",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2230/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2230/submission/398368135"
+    },
+    {
+      "type": "codeforces",
       "id": 397268142,
       "creationTime": 1793729968,
       "language": "C++23 (GCC 14-64, msys2)",
