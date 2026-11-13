@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1794523697,
+  "updateTime": 1794575814,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 398368135,
-            "pid": "2230F",
-            "name": "Game on Growing Tree",
-            "verdict": "OK",
-            "creationTime": 1794515132
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6f2255ea9443d06352636441d9a6e197d96e2db7"
+  "ref": "e6974712e4d6b7cdfab0a2f125374b7d48fdda46"
 }
