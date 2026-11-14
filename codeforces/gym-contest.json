@@ -28047,5 +28047,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106821",
     "standingsUrl": "https://codeforces.com/gym/106821/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026-2027 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106826,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106826",
+    "standingsUrl": "https://codeforces.com/gym/106826/standings"
   }
 ]
