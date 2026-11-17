@@ -28089,6 +28089,16 @@
     "standingsUrl": "https://codeforces.com/gym/106833/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике в Самаре 2024-2025 (9-11 классы)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106835,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106835",
+    "standingsUrl": "https://codeforces.com/gym/106835/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "Уральская командная олимпиада по программированию 2026",
     "duration": 18000,
@@ -28097,5 +28107,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106834",
     "standingsUrl": "https://codeforces.com/gym/106834/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике в Самаре 2025-2026 (9-11 классы)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106836,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106836",
+    "standingsUrl": "https://codeforces.com/gym/106836/standings"
   }
 ]
