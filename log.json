@@ -1,9 +1,32 @@
 {
   "version": "0.1.29",
-  "updateTime": 1795098824,
+  "updateTime": 1795131590,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 399180225,
+            "pid": "2150G",
+            "name": "Counting Is Fun: The Finale",
+            "verdict": "OK",
+            "creationTime": 1795122585
+          },
+          {
+            "platform": "codeforces",
+            "id": 399176896,
+            "pid": "2180G",
+            "name": "Balance",
+            "verdict": "OK",
+            "creationTime": 1795118868
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "5230d8e90cb2448e94cc419da33df86bfbb55dc9"
+  "ref": "88e8bb696a8542c6afc2d4b8739b6dbd1b6e396e"
 }

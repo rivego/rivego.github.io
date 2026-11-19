@@ -6,6 +6,60 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 399180225,
+      "creationTime": 1795122585,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352361062
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2150G",
+        "name": "Counting Is Fun: The Finale",
+        "rating": 3500,
+        "tags": [
+          "combinatorics",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2150/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2150/submission/399180225"
+    },
+    {
+      "type": "codeforces",
+      "id": 399176896,
+      "creationTime": 1795118868,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352364779
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180G",
+        "name": "Balance",
+        "rating": 3500,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/399176896"
+    },
+    {
+      "type": "codeforces",
       "id": 398368135,
       "creationTime": 1794515132,
       "language": "C++23 (GCC 14-64, msys2)",
