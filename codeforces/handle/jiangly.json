@@ -6,6 +6,35 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 399198876,
+      "creationTime": 1795155339,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352328308
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2096H",
+        "name": "Wonderful XOR Problem",
+        "rating": 3200,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2096/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2096/submission/399198876"
+    },
+    {
+      "type": "codeforces",
       "id": 399180225,
       "creationTime": 1795122585,
       "language": "C++23 (GCC 14-64, msys2)",

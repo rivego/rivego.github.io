@@ -1,6 +1,6 @@
 {
   "version": "0.1.29",
-  "updateTime": 1795131590,
+  "updateTime": 1795183918,
   "history": {
     "user": [
       {
@@ -8,19 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 399180225,
-            "pid": "2150G",
-            "name": "Counting Is Fun: The Finale",
+            "id": 399198876,
+            "pid": "2096H",
+            "name": "Wonderful XOR Problem",
             "verdict": "OK",
-            "creationTime": 1795122585
-          },
-          {
-            "platform": "codeforces",
-            "id": 399176896,
-            "pid": "2180G",
-            "name": "Balance",
-            "verdict": "OK",
-            "creationTime": 1795118868
+            "creationTime": 1795155339
           }
         ],
         "newContests": []
@@ -28,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "88e8bb696a8542c6afc2d4b8739b6dbd1b6e396e"
+  "ref": "17c04e234c14df8b420ccaab74bec6d5e73030bd"
 }
