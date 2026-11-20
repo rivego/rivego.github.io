@@ -1,24 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1795183918,
+  "updateTime": 1795216371,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 399198876,
-            "pid": "2096H",
-            "name": "Wonderful XOR Problem",
-            "verdict": "OK",
-            "creationTime": 1795155339
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "17c04e234c14df8b420ccaab74bec6d5e73030bd"
+  "ref": "700c37df0bfbac28aac72b47f62af033968fbb60"
 }
