@@ -6,6 +6,137 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 399554047,
+      "creationTime": 1795381212,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352102435
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2287D",
+        "name": "Patchouli Knowledge and the String",
+        "tags": [
+          "binary search",
+          "fft",
+          "hashing",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2287/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2287/submission/399554047"
+    },
+    {
+      "type": "codeforces",
+      "id": 399553224,
+      "creationTime": 1795380212,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352103435
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2287C",
+        "name": "Cirno and the Math Problem",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2287/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2287/submission/399553224"
+    },
+    {
+      "type": "codeforces",
+      "id": 399553072,
+      "creationTime": 1795380009,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352103638
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2287B",
+        "name": "Satori Komeiji and the Metro",
+        "tags": [
+          "binary search",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2287/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2287/submission/399553072"
+    },
+    {
+      "type": "codeforces",
+      "id": 399552779,
+      "creationTime": 1795379664,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352103983
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2287A2",
+        "name": "Yukari Yakumo and the Boundary Stones (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2287/problem/A2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2287/submission/399552779"
+    },
+    {
+      "type": "codeforces",
+      "id": 399551443,
+      "creationTime": 1795378172,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352105475
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2287A1",
+        "name": "Yukari Yakumo and the Boundary Stones (Easy Version)",
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2287/problem/A1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2287/submission/399551443"
+    },
+    {
+      "type": "codeforces",
       "id": 399198876,
       "creationTime": 1795155339,
       "language": "C++23 (GCC 14-64, msys2)",

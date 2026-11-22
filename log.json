@@ -1,9 +1,56 @@
 {
   "version": "0.1.29",
-  "updateTime": 1795354159,
+  "updateTime": 1795387068,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "jiangly",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 399554047,
+            "pid": "2287D",
+            "name": "Patchouli Knowledge and the String",
+            "verdict": "OK",
+            "creationTime": 1795381212
+          },
+          {
+            "platform": "codeforces",
+            "id": 399553224,
+            "pid": "2287C",
+            "name": "Cirno and the Math Problem",
+            "verdict": "OK",
+            "creationTime": 1795380212
+          },
+          {
+            "platform": "codeforces",
+            "id": 399553072,
+            "pid": "2287B",
+            "name": "Satori Komeiji and the Metro",
+            "verdict": "OK",
+            "creationTime": 1795380009
+          },
+          {
+            "platform": "codeforces",
+            "id": 399552779,
+            "pid": "2287A2",
+            "name": "Yukari Yakumo and the Boundary Stones (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1795379664
+          },
+          {
+            "platform": "codeforces",
+            "id": 399551443,
+            "pid": "2287A1",
+            "name": "Yukari Yakumo and the Boundary Stones (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1795378172
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "5cad9ac8408541ed70db3b808056f4152d74c374"
+  "ref": "1a7fd0fbfde404884bcb05d5ae550e71d55d13f0"
 }
