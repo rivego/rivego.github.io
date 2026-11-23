@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 399574393,
+      "creationTime": 1795415727,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352067920
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2287E2",
+        "name": "Marisa Kirisame and the Game (Hard Version)",
+        "tags": [
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2287/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2287/submission/399574393"
+    },
+    {
+      "type": "codeforces",
+      "id": 399574387,
+      "creationTime": 1795415724,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -352067923
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2287E1",
+        "name": "Marisa Kirisame and the Game (Easy Version)",
+        "tags": [
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2287/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2287/submission/399574387"
+    },
+    {
+      "type": "codeforces",
       "id": 399554047,
       "creationTime": 1795381212,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -23,8 +73,10 @@
         "name": "Patchouli Knowledge and the String",
         "tags": [
           "binary search",
+          "brute force",
           "fft",
           "hashing",
+          "probabilities",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2287/problem/D"
