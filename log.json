@@ -1,32 +1,9 @@
 {
   "version": "0.1.29",
-  "updateTime": 1795450567,
+  "updateTime": 1795490599,
   "history": {
-    "user": [
-      {
-        "name": "jiangly",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 399574393,
-            "pid": "2287E2",
-            "name": "Marisa Kirisame and the Game (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1795415727
-          },
-          {
-            "platform": "codeforces",
-            "id": 399574387,
-            "pid": "2287E1",
-            "name": "Marisa Kirisame and the Game (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1795415724
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "df2cf6061b48ab01e1d72adc8a7118cd4200a149"
+  "ref": "4890c818476b29b82277fd232813e1ac3023e9a1"
 }
