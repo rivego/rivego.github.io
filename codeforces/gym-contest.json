@@ -28258,5 +28258,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106858",
     "standingsUrl": "https://codeforces.com/gym/106858/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026年“登峰杯”大学生程序设计联赛",
+    "startTime": 1795842000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106861,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106861",
+    "standingsUrl": "https://codeforces.com/gym/106861/standings"
   }
 ]
